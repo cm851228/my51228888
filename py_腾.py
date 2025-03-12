@@ -231,15 +231,19 @@ class Spider(Spider):
             return self.handle_exception(e, "Error processing detail")
 
     def searchContent(self, key, quick, pg="1"):
-        body = {"version": "24072901", "clientType": 1, "filterValue": "", "uuid": str(uuid.uuid4()), "retry": 0,
-                "query": key, "pagenum": int(pg) - 1, "pagesize": 30, "queryFrom": 0, "searchDatakey": "",
-                "transInfo": "", "isneedQc": True, "preQid": "", "adClientInfo": "",
-                "extraInfo": {"isNewMarkLabel": "1", "multi_terminal_pc": "1"}}
+        headers = self.headers.copy()
+        headers.update({'Content-Type': 'application/json'})
+        body = {'version':'25021101','clientType':1,'filterValue':'','uuid':str(uuid.uuid4()),'retry':0,'query':key,'pagenum':int(pg)-1,'pagesize':30,'queryFrom':0,'searchDatakey':'','transInfo':'','isneedQc':True,'preQid':'','adClientInfo':'','extraInfo':{'isNewMarkLabel':'1','multi_terminal_pc':'1','themeType':'1',},}
         data = self.post(f'{self.apihost}/trpc.videosearch.mobile_search.MultiTerminalSearch/MbSearch?vplatform=2',
-                         json=body, headers=self.headers).json()
+                         json=body, headers=headers).json()
         vlist = []
-        for k in data['data']['areaBoxList'][-1]['itemList']:
-            if k.get('doc', {}).get('id'):
+        vname=["电视剧", "电影", "综艺", "纪录片", "动漫", "少儿", "短剧"]
+        v=data['data']['normalList']['itemList']
+        d=data['data']['areaBoxList'][0]['itemList']
+        q=v+d
+        if v[0].get('doc') and v[0]['doc'].get('id') =='MainNeed':q=d+v
+        for k in q:
+            if k.get('doc') and k.get('videoInfo') and k['doc'].get('id') and '外站' not in k['videoInfo'].get('subTitle') and k['videoInfo'].get('title') and k['videoInfo'].get('typeName') in vname:
                 img_tag = k.get('videoInfo', {}).get('imgTag')
                 if img_tag is not None and isinstance(img_tag, str):
                     try:
@@ -251,9 +255,9 @@ class Spider(Spider):
                 pic = k.get('videoInfo', {}).get('imgUrl')
                 vlist.append({
                     'vod_id': k['doc']['id'],
-                    'vod_name': k['videoInfo']['title'],
+                    'vod_name': self.removeHtmlTags(k['videoInfo']['title']),
                     'vod_pic': pic,
-                    'vod_year': tag.get('tag_2', {}).get('text', ''),
+                    'vod_year': k['videoInfo'].get('typeName') +' '+ tag.get('tag_2', {}).get('text', ''),
                     'vod_remarks': tag.get('tag_4', {}).get('text', '')
                 })
         return {'list': vlist, 'page': pg}
@@ -285,7 +289,6 @@ class Spider(Spider):
                 f'{self.apihost}/trpc.universal_backend_service.page_server_rpc.PageServer/GetPageData?video_appid=3000010&vplatform=2&vversion_name=8.2.96',
                 json=body, headers=self.headers
             ).json()
-            # print(body)
             return vdata
         except Exception as e:
             print(f"Error in get_vdata: {str(e)}")
