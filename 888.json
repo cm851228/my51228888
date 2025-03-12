@@ -1046,6 +1046,41 @@
       
     },
 {
+      "key": "py_剧多短剧",
+      "name": "短剧(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E5%89%A7%E5%A4%9A%E7%9F%AD%E5%89%A7.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+            "key" : "py_红果网页",
+            "name" : "红果网页(py)",
+            "type" : 3,
+            "api" : "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E7%BA%A2%E6%9E%9C%E7%BD%91%E9%A1%B5.py",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "timeout": 60
+            
+     },
+{
+      "key": "py_lemonlive",
+      "name": "虎牙(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_lemonlive.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
             "key": "本地哔哩",
             "name": "低版哔哩(fm)",
             "type": 3,
