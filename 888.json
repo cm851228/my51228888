@@ -18,7 +18,14 @@
             "playerType": 1
         },
 {
-            "name": "网络新剧",
+            "name": "线更Astro",
+            "type": 0,
+            "url": "https://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "新加坡剧",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt",
             "playerType": 1
@@ -31,31 +38,6 @@
             "timeout": 30,
             "playerType": 2
         },
-{
-            "name": "Astro",
-            "type": 0,
-            "url": "https://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-         "name":"恒星直播",
-         //"type": 0,
-         //"playerType": 1,
-         "url": "https://github.com/cm851228/my51228888/raw/refs/heads/main/evpad.txt",
-         "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-         "logo": "https://epg.112114.xyz/logo/{name}.png",
-         "core":{
-         "auth":"https://sgla.googlejt.com/v1/auth",
-         "name":"#",
-         "pass":"#",
-         "resp":"{ \"result_code\": \"0\", \"result\": \"ok\", \"keys\": { \"user_id\": \"000000000000a156\", \"peer_id\": \"ac4752be0e68066e\", \"session_key\": \"3f3dddb72c8ffef7\" } }",
-         "so": "https://github.com/cm851228/my51228888/raw/refs/heads/main/libevcore.so",
-            //"so":"tvcore",
-      "pkg":"com.android.joytv.wwj.live.vod",
-            "sign":"3082034f30820237a003020102020447424f83300d06092a864886f70d01010b05003057310b300906035504061302434e310b300906035504081302484b310b300906035504071302484b3110300e060355040a130779737874656368310f300d060355040b1306686b2d797378310b300906035504031302686b3020170d3139303530363032303932395a180f32303734303230363032303932395a3057310b300906035504061302434e310b300906035504081302484b310b300906035504071302484b3110300e060355040a130779737874656368310f300d060355040b1306686b2d797378310b300906035504031302686b30820122300d06092a864886f70d01010105000382010f003082010a0282010100a0a51a8c28632cae9fea86712c054b3aa2a4d1051375dfe371d39db3df880b66c4f689c8cf47c511e53ae85fb20b3f8d2ce384ddf293a752ab2835b54c7d0edc24b6726f1224bd0d75cc5c63e48a8cb0272f64f92e50ca5526f8cadf2299508e3f029eb4dabacf2888837bf4d23352bb781990999b9f6c09a5762db6cf636203e7643fe06fdebd0650d8eca53af9942946e708edfd519fe940d3b83d8a1e8b11a168b1bd9b29c9d06a0cb7756933b5f8e7ebefc7c107904861b1499dd45d2d308ae7f0529accbfc6b4f0c6f7cfbf9f94a7cb95c4821fd32e1094d974d76f1edd37ce059e93474e5436fedca42c9754bfc8ade524f0fefd588e22c6888b7cfb530203010001a321301f301d0603551d0e041604142947601345e322f12e3d52611f2f55f6b50bd75d300d06092a864886f70d01010b05000382010100844fe39a6e017b6968817e0e94d34068ecb9d00c11b4585a9581c2b9dfc559a2d8ca1a998c49dab292a7c99e655fe64d66a6a879823c7bcb77275228db4fc1c2d685ce6e9fcfc5cbb4b2253866e4b4191cf03527d8ecc3f58d4ca463dc23b0ec88a6e2054a1b898a6a5a5425b03e59b1663b43a2f61690d5c1aa92a5d7e8f87cd6eddaa76c709075b12c5d460b8750cecde7e9bee10954103f437b182f5f242fe0d5337e52957d2502c31a65631fdd3863f0b5c4f348718b33dfd00b90c743c3fea97c715a3a05212921bba50daebf71ce7997aa599eab69570294b38571b3543e5c2af85a402fa3274659dec133bb4b593ff55c14fd8234039cbcc2394dd0a7"
-         }
-      },
 {
             "name": "AKTV",
             "type": 0,
@@ -88,15 +70,6 @@
             "playerType": 1
         },
 {
-            "name": "央视频",
-            "type": 0,
-            "url": "https://github.com/cm851228/my51228888/raw/refs/heads/main/ITV2.txt",
-            "epg": "http://epg.51zmt.top:8000/e.xml",
-            "ua": "okhttp/3.15,AptvPlayer/1.4.0",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
             "name": "央卫直播",
             "type": 0,
             "url": "http://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
@@ -104,17 +77,6 @@
             "timeout": 30,
             "playerType": 1
         },
-{
-      "name": "中国ITV",
-      "type": 0,
-      "url": "http://xg.52sw.top/iptv/dns-itv.txt",
-      "ua": "okhttp/3.15",
-      "epg": "http://iptv.52sw.top:668/epg/?ch={name}&date={date}",
-      "catchup": {
-        "type": "append",
-        "source": "?livemode=4&starttime=${(b)yyyyMMdd'T'HHmm}00.00Z&endtime=${(e)yyyyMMdd'T'HHmm}00.00Z"
-      }
-    },
 {
             "name": "欧华直播",
             "type": 0,
@@ -538,6 +500,38 @@
             "changeable": 0
         },
 {
+            "key": "本地哔哩",
+            "name": "低版哔哩(my)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "playerType": 2,
+            "changeable": 0,
+            "ext": {
+            "type": "自然传奇#国家地理野生#原始部落纪录片#荒野求生#粤语记录片#CCTV9记录片#纪录片#游牧民族#天网#一线#美食尋味#小食光光#外来媳妇本地郎#七十二家房客#胖哥一家#搞笑#盘点那些感人瞬间#监控下真实一幕#盘点那些#李子柒#阿胖山#温油辣辣U#密子君#美食#MR BEAN#动画#番剧#国创#沙雕动漫#兔小贝#儿童#儿歌#粤语卡通#国语卡通#美食星球#亚洲旅游台#动物星球#动物世界#我爱返寻味#舌尖上的中国#老廣的味道#美食大三通#食尚玩家#爱玩客#国家地理频道#探索频道求生纪录片#人与自然#香港怪谈#粤语长片#粤睇粤配粤精彩#粤语配音#陈师傅开挖机#象棋八妹#生活#动物圈#极地探险#广东卫视你会怎么样做#广东电视#远方的家#我的鄉村生活#鄉村生活家#记住乡愁#寻找他乡的故事#非洲小五#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#马来西亚#新加坡#老挝#越南#缅甸#泰国#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#格斗比赛#泰拳比赛#WWE#粤语MV#国语MV#演唱会#MV#歌曲#粤剧#戏曲#音乐#4K#娱乐#知识#科技#鬼畜#影视#电影#电视剧#直播#课堂#舞蹈#运动#时尚#相声小品",
+            "cookie": ""
+        
+            },
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
+            
+        },
+{
+            "key": "本地儿童",
+            "name": "低版儿童(my)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "playerType": 2,
+            "changeable": 0,
+            "ext": {
+                "type": "兔小贝#迪士尼经典动画#奥特曼#超级宝贝JOJO#米奇老鼠#唐老鸭#老夫子#多啦A梦#猫和老鼠#超级飞侠#熊大熊二#开心超人联盟#海绵宝宝#MR BEAN#儿歌多多#儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#唐诗三百首#三字经#悟空识字#宝宝巴士#学而思#沙雕动漫#粤语卡通#国语卡通#动画#海底小纵队#小猪佩奇#樱桃小丸子#喜羊羊与灰太狼#大头儿子小头爸爸#蜡笔小新#玩具总动员#萌鸡小队#七龍珠#国创#番剧",
+                "cookie": ""
+            
+            },
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
+            
+        },
+{
       "key": "bilimd(OK)",
       "name": "bili影视(OK)",
       "type": 3,
@@ -658,6 +652,21 @@
             "changeable": 1,
             "timeout": 30,
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.txt"
+            
+        },
+{
+      "key": "追剧仔(OK)",
+      "name": "追剧(OK)",
+      "type": 3,
+      "api": "csp_ZjzGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      },
+      "timeout": 10,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.txt"
             
         },
 {
@@ -806,6 +815,18 @@
             
         },
 {
+      "key": "溢彩(fan)",
+      "name": "溢彩(fan)",
+      "type": 3,
+      "api": "csp_AppSKGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.txt",
+      "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
+      
+    },
+{
             "key": "Bili(fan)",
             "name": "哔哔合集(fan)",
             "type": 3,
@@ -927,6 +948,18 @@
       "changeable": 1
     
      },
+{
+            "key": "py_金牌",
+            "name": "金牌(py)",
+            "type": 3,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_jinpai.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+            
+        },
 {
             "key" : "py_猎手影视",
             "name" : "猎手(py)",
@@ -1081,37 +1114,160 @@
       
     },
 {
-            "key": "本地哔哩",
-            "name": "低版哔哩(fm)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "playerType": 2,
-            "changeable": 0,
-            "ext": {
-            "type": "自然传奇#国家地理野生#原始部落纪录片#荒野求生#粤语记录片#CCTV9记录片#纪录片#游牧民族#天网#一线#美食尋味#小食光光#外来媳妇本地郎#七十二家房客#胖哥一家#搞笑#盘点那些感人瞬间#监控下真实一幕#盘点那些#李子柒#阿胖山#温油辣辣U#密子君#美食#MR BEAN#动画#番剧#国创#沙雕动漫#兔小贝#儿童#儿歌#粤语卡通#国语卡通#美食星球#亚洲旅游台#动物星球#动物世界#我爱返寻味#舌尖上的中国#老廣的味道#美食大三通#食尚玩家#爱玩客#国家地理频道#探索频道求生纪录片#人与自然#香港怪谈#粤语长片#粤睇粤配粤精彩#粤语配音#陈师傅开挖机#象棋八妹#生活#动物圈#极地探险#广东卫视你会怎么样做#广东电视#远方的家#我的鄉村生活#鄉村生活家#记住乡愁#寻找他乡的故事#非洲小五#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#马来西亚#新加坡#老挝#越南#缅甸#泰国#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#格斗比赛#泰拳比赛#WWE#粤语MV#国语MV#演唱会#MV#歌曲#粤剧#戏曲#音乐#4K#娱乐#知识#科技#鬼畜#影视#电影#电视剧#直播#课堂#舞蹈#运动#时尚#相声小品",
-            "cookie": ""
-        
-            },
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
-            
-        },
+      "key": "红狐狸(kx)",
+      "name": "狐狸(kx)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar",
+      "ext": {
+        "分类url": "https://honghuli.com/leibiao/{cateId}-{area}-------{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
 {
-            "key": "本地儿童",
-            "name": "低版儿童(fm)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "playerType": 2,
-            "changeable": 0,
-            "ext": {
-                "type": "兔小贝#迪士尼经典动画#奥特曼#超级宝贝JOJO#米奇老鼠#唐老鸭#老夫子#多啦A梦#猫和老鼠#超级飞侠#熊大熊二#开心超人联盟#海绵宝宝#MR BEAN#儿歌多多#儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#唐诗三百首#三字经#悟空识字#宝宝巴士#学而思#沙雕动漫#粤语卡通#国语卡通#动画#海底小纵队#小猪佩奇#樱桃小丸子#喜羊羊与灰太狼#大头儿子小头爸爸#蜡笔小新#玩具总动员#萌鸡小队#七龍珠#国创#番剧",
-                "cookie": ""
-            
-            },
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
-            
-        },
+      "key": "真心(kx)",
+      "name": "真心(kx)",
+      "type": 3,
+      "api": "csp_WebGZ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar"
+      
+    },
+{
+      "key": "瓜子(kx)",
+      "name": "瓜子(kx)",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar"
+      
+    },
+{
+      "key": "米电影(kx)",
+      "name": "米影(kx)",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_MovieApp",
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar"
+      
+    },
+{
+      "key": "快看(kx)",
+      "name": "快看(kx)",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar"
+      
+    },
+{
+      "key": "低端(kx)",
+      "name": "低端(kx)",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar"
+      
+    },
+{
+      "key": "奇优(kx)",
+      "name": "奇优(kx)",
+      "type": 3,
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar",
+      "ext": "http://www.dyxz2.com/"
+    },
+{
+      "key": "蝴蝶(kx)",
+      "name": "蝴蝶(kx)",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar",
+      "ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w"
+      
+    },
+{
+      "key": "耐看(kx)",
+      "name": "耐看(kx)",
+      "type": 3,
+      "api": "csp_WebNK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/tk.jar",
+      "ext": "w7TClcONw6LDrsKYwoXCosKcwpvCrcKcw6HDrsKnwqDCo2rCqMKiw7HDsMOxYcKewpvClMOvw5fCqMOmw59VXFLCpMOiw6PCnMKzwpzCjuWGtemEmOaPleWRnMKf5Yem5L6Q5ZGxbeW+oeintui1tOa8ieetjMOXwpvDtw=="
+      
+    },
+{
+      "key": "直播转点播",
+      "name": "直播(zq)",
+      "type": 4,
+      "api": "http://zhangqun66.xyz/zh/2241.php",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": "1,2,3,4"
+      
+    },
+{
+      "key": "采集集合1818",
+      "name": "采集1(zq)",
+      "type": 1,
+      "api": "http://zhangqun1818.serv00.net/cjjh.php",
+      "searchable": 1,
+      "changeable": 1
+      
+    },
+{
+      "key": "采集集合z66",
+      "name": "采集2(zq)",
+      "type": 1,
+      "api": "http://zhangqun66.xyz/cjjh.php",
+      "searchable": 1,
+      "changeable": 1
+      
+    },
+{
+      "key": "服务器油管1818",
+      "name": "油管1(zq)",
+      "type": 4,
+      "api": "http://zhangqun1818.serv00.net/yt/yt001.php",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#苍生局#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+      
+    },
+{
+      "key": "服务器油管z66",
+      "name": "油管2(zq)",
+      "type": 4,
+      "api": "http://zhangqun66.xyz/yt/yt001.php",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "动作片#谍战剧playlist#沙雕穿越#中国动漫#有声穿越小说#影视解说#百家讲坛playlist#动物#风光#放松#4K#HDR#movie#喜来乐#documentary#bbc documentary"
+      
+    },    
+{
+      "key": "油管播放列表",
+      "name": "油列(zq)",
+      "type": 4,
+      "api": "http://zhangqun66.xyz/ytlb.php",
+      "searchable": 1,
+      "changeable": 1
+      
+    },
 {
             "key": "小宝影院",
             "name": "小宝云",
