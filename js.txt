@@ -104,7 +104,7 @@ Spidey Team,https://www.youtube.com/live/IQu3CFl7Fdw?feature=shared
 
 
 
-smart综合,#genre#
+Stream,#genre#
 player=1
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
 CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
@@ -262,6 +262,24 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 
 
 
+
+Tonton,#genre#
+TV1,http://175.139.229.4:19981/stream/channelid/1784379294?profile=pass
+TV2,http://175.139.229.4:19981/stream/channelid/352843799?profile=pass
+TV3,http://175.139.229.4:19981/stream/channelid/1023815456?profile=pass
+NTV7,http://175.139.229.4:19981/stream/channelid/940997854?profile=pass
+8TV,http://175.139.229.4:19981/stream/channelid/1152516720?profile=pass
+TV9,http://175.139.229.4:19981/stream/channelid/1798720844?profile=pass
+TV Okey,http://175.139.229.4:19981/stream/channelid/1868151189?profile=pass
+Sukan RTM,http://175.139.229.4:19981/stream/channelid/942382963?profile=pass
+TV6,http://175.139.229.4:19981/stream/channelid/673302861?profile=pass
+BERNAMA,http://175.139.229.4:19981/stream/channelid/263535450?profile=pass
+TVS,http://175.139.229.4:19981/stream/channelid/2026983653?profile=pass
+BES,http://175.139.229.4:19981/stream/channelid/276958679?profile=pass
+
+
+
+
 极速港台,#genre#
 player=1
 大湾区卫视,http://jp1.jdiptv.cc/live/nfws.m3u8?kdstime=
@@ -338,9 +356,6 @@ TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-
-
-
 
 
 
@@ -1120,7 +1135,7 @@ scandakorea,zlive://38.114.114.155:6678/9b87f1fa7d716bd422b0a426c57480c9
 
 
 
-extraott,#genre#
+Extraott,#genre#
 player=1
 ua=okhttp
 广东大弯区卫视頻道,http://extraott.com:80/live/6772191932/1654508883/400251665.m3u8
@@ -1555,61 +1570,41 @@ CHC动作电影,http://z.b.bkpcp.top/m.php?id=chcdzdy
 
 香港地波,#genre#
 player=1
-千禧經典台[直播],https://live.hkdvb.com/hls/live/586.m3u8?token=315535130278560
-翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=315535130278560
-CM[直播],https://live.hkdvb.com/hls/live/501.m3u8?token=315535130278560
-珠江[直播],https://live.hkdvb.com/hls/live/502.m3u8?token=315535130278560
-广东体育[直播],https://live.hkdvb.com/hls/live/503.m3u8?token=315535130278560
- 黃金華劇台[直播],https://live.hkdvb.com/hls/live/90.m3u8?token=315535130278560
-黃金翡翠台[直播],https://live.hkdvb.com/hls/live/100.m3u8?token=315535130278560
-TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=315535130278560
-News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=315535130278560
-Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=315535130278560
-鳳凰香港台[直播],https://live.hkdvb.com/hls/live/85.m3u8?token=315535130278560
-華語劇台[直播],https://live.hkdvb.com/hls/live/89.m3u8?token=315535130278560
-粵語片台[直播],https://live.hkdvb.com/hls/live/200.m3u8?token=315535130278560
-美亞電影台[直播],https://live.hkdvb.com/hls/live/201.m3u8?token=315535130278560
-Popc[直播],https://live.hkdvb.com/hls/live/206.m3u8?token=315535130278560
-HOY TV[直播],https://live.hkdvb.com/hls/live/77.m3u8?token=315535130278560
-HOY TV 資訊台[直播],https://live.hkdvb.com/hls/live/78.m3u8?token=315535130278560
-HOY 國際財經台[直播],https://live.hkdvb.com/hls/live/76.m3u8?token=315535130278560
-ViuTV[直播],https://live.hkdvb.com/hls/live/99.m3u8?token=315535130278560
-ViuTV Six[直播],https://live.hkdvb.com/hls/live/96.m3u8?token=315535130278560
-翡翠4K[直播],https://live.hkdvb.com/hls/live/800.m3u8?token=315535130278560
-黃金華劇台[直播],https://live.hkdvb.com/hls/live/90.m3u8?token=315535130278560
-Now Popcorn 爆谷台[直播],https://live.hkdvb.com/hls/live/133.m3u8?token=315535130278560
-Now Superstars 星影台[直播],https://live.hkdvb.com/hls/live/138.m3u8?token=315535130278560
-Now NEWS 新聞台[直播],https://live.hkdvb.com/hls/live/332.m3u8?token=315535130278560
-Now Sports 英超1台[直播],https://live.hkdvb.com/hls/live/621.m3u8?token=315535130278560
-Now Sports Prime[直播],https://live.hkdvb.com/hls/live/630.m3u8?token=315535130278560
-Now Sports 632[直播],https://live.hkdvb.com/hls/live/632.m3u8?token=315535130278560
-Now Sports 641[直播],https://live.hkdvb.com/hls/live/641.m3u8?token=315535130278560
-Now Sports 642[直播],https://live.hkdvb.com/hls/live/642.m3u8?token=315535130278560
-港台電視 31[直播],https://live.hkdvb.com/hls/live/31.m3u8?token=315535130278560
-港台電視 32[直播],https://live.hkdvb.com/hls/live/32.m3u8?token=315535130278560
-CCTV-1  港澳版[直播],https://live.hkdvb.com/hls/live/33.m3u8?token=315535130278560
-CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=315535130278560
-CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=315535130278560
-
-
-
-tonton,#genre#
-player=2
-TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
-TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
-TV3,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
-TV6,http://frhk.x3322.net:9099/stream/channelid/455573121?profile=pass
-TV7,http://frhk.x3322.net:9099/stream/channelid/382645602?profile=pass
-TV8,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
-TV9,http://frhk.x3322.net:9099/stream/channelid/1058933595?profile=pass
-BERITE,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
-TV Okey,http://frhk.x3322.net:9099/stream/channelid/1714794986?profile=pass
-Sukan RTM,http://frhk.x3322.net:9099/stream/channelid/450406418?profile=pass
-Awesome TV HD,http://frhk.x3322.net:9099/stream/channelid/1498562668?profile=pass
-TVAH,http://frhk.x3322.net:9099/stream/channelid/672629049?profile=pass
-SukeTV,http://frhk.x3322.net:9099/stream/channelid/1013010683?profile=pass
-BERNAMA,http://frhk.x3322.net:9099/stream/channelid/2008303642?profile=pass
-TVS,http://frhk.x3322.net:9099/stream/channelid/1188355964?profile=pass
+千禧經典台[直播],https://live.hkdvb.com/hls/live/586.m3u8?token=315535130242579
+翡翠台[直播],https://live.hkdvb.com/hls/live/81.m3u8?token=315535130242579
+CM[直播],https://live.hkdvb.com/hls/live/501.m3u8?token=315535130242579
+珠江[直播],https://live.hkdvb.com/hls/live/502.m3u8?token=315535130242579
+广东体育[直播],https://live.hkdvb.com/hls/live/503.m3u8?token=315535130242579
+ 黃金華劇台[直播],https://live.hkdvb.com/hls/live/90.m3u8?token=315535130242579
+黃金翡翠台[直播],https://live.hkdvb.com/hls/live/100.m3u8?token=315535130242579
+TVB PLUS[直播],https://live.hkdvb.com/hls/live/82.m3u8?token=315535130242579
+News 新聞台[直播],https://live.hkdvb.com/hls/live/83.m3u8?token=315535130242579
+Pearl 明珠台[直播],https://live.hkdvb.com/hls/live/84.m3u8?token=315535130242579
+鳳凰香港台[直播],https://live.hkdvb.com/hls/live/85.m3u8?token=315535130242579
+華語劇台[直播],https://live.hkdvb.com/hls/live/89.m3u8?token=315535130242579
+粵語片台[直播],https://live.hkdvb.com/hls/live/200.m3u8?token=315535130242579
+美亞電影台[直播],https://live.hkdvb.com/hls/live/201.m3u8?token=315535130242579
+Popc[直播],https://live.hkdvb.com/hls/live/206.m3u8?token=315535130242579
+HOY TV[直播],https://live.hkdvb.com/hls/live/77.m3u8?token=315535130242579
+HOY TV 資訊台[直播],https://live.hkdvb.com/hls/live/78.m3u8?token=315535130242579
+HOY 國際財經台[直播],https://live.hkdvb.com/hls/live/76.m3u8?token=315535130242579
+ViuTV[直播],https://live.hkdvb.com/hls/live/99.m3u8?token=315535130242579
+ViuTV Six[直播],https://live.hkdvb.com/hls/live/96.m3u8?token=315535130242579
+翡翠4K[直播],https://live.hkdvb.com/hls/live/800.m3u8?token=315535130242579
+黃金華劇台[直播],https://live.hkdvb.com/hls/live/90.m3u8?token=315535130242579
+Now Popcorn 爆谷台[直播],https://live.hkdvb.com/hls/live/133.m3u8?token=315535130242579
+Now Superstars 星影台[直播],https://live.hkdvb.com/hls/live/138.m3u8?token=315535130242579
+Now NEWS 新聞台[直播],https://live.hkdvb.com/hls/live/332.m3u8?token=315535130242579
+Now Sports 英超1台[直播],https://live.hkdvb.com/hls/live/621.m3u8?token=315535130242579
+Now Sports Prime[直播],https://live.hkdvb.com/hls/live/630.m3u8?token=315535130242579
+Now Sports 632[直播],https://live.hkdvb.com/hls/live/632.m3u8?token=315535130242579
+Now Sports 641[直播],https://live.hkdvb.com/hls/live/641.m3u8?token=315535130242579
+Now Sports 642[直播],https://live.hkdvb.com/hls/live/642.m3u8?token=315535130242579
+港台電視 31[直播],https://live.hkdvb.com/hls/live/31.m3u8?token=315535130242579
+港台電視 32[直播],https://live.hkdvb.com/hls/live/32.m3u8?token=315535130242579
+CCTV-1  港澳版[直播],https://live.hkdvb.com/hls/live/33.m3u8?token=315535130242579
+CGTN Documentary[直播],https://live.hkdvb.com/hls/live/34.m3u8?token=315535130242579
+CGTN English[直播],https://live.hkdvb.com/hls/live/35.m3u8?token=315535130242579
 
 
 
@@ -2345,6 +2340,28 @@ CBSNHD,http://50.7.234.10:8278/cbsn_glo/playlist.m3u8?tid=MAFA1197236411972364&c
 
 
 
+
+tonton,#genre#
+player=2
+TV1,http://frhk.x3322.net:9099/stream/channelid/52190677?profile=pass
+TV2,http://frhk.x3322.net:9099/stream/channelid/1641822363?profile=pass
+TV3,http://frhk.x3322.net:9099/stream/channelid/1812066478?profile=pass
+TV6,http://frhk.x3322.net:9099/stream/channelid/455573121?profile=pass
+TV7,http://frhk.x3322.net:9099/stream/channelid/382645602?profile=pass
+TV8,http://frhk.x3322.net:9099/stream/channelid/1246093957?profile=pass
+TV9,http://frhk.x3322.net:9099/stream/channelid/1058933595?profile=pass
+BERITE,http://frhk.x3322.net:9099/stream/channelid/994838806?profile=pass
+TV Okey,http://frhk.x3322.net:9099/stream/channelid/1714794986?profile=pass
+Sukan RTM,http://frhk.x3322.net:9099/stream/channelid/450406418?profile=pass
+Awesome TV HD,http://frhk.x3322.net:9099/stream/channelid/1498562668?profile=pass
+TVAH,http://frhk.x3322.net:9099/stream/channelid/672629049?profile=pass
+SukeTV,http://frhk.x3322.net:9099/stream/channelid/1013010683?profile=pass
+BERNAMA,http://frhk.x3322.net:9099/stream/channelid/2008303642?profile=pass
+TVS,http://frhk.x3322.net:9099/stream/channelid/1188355964?profile=pass
+
+
+
+
 每日探嗅,#genre#
 ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/125.0.6422.165 Safari/537.36
 referer=http://d0dbe915091d400bd8ee7f27f0791303.everydaytv.top/player-483473494141414141414141437A4E564D31497A55444F304D4E417A4E39557A4D644D7A4E4C52514D7A5133744451314D4449334E515541366E614C4A7834414141413D.html
@@ -2989,10 +3006,10 @@ player=2
 
 
 极速粤语DJ,#genre#
+全粤语8090经典劲爆DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnamtabc77u54nj2kh6g&ratio=720p&line=0
 gamgamDJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cr8r23nog65mnbf3616g&ratio=720p&line=0
 爱是一场梦DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000csppmffog65uhi36ibtg&ratio=720p&line=0
 经典粤语DJ私人订制,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000crdl34vog65v7e9of17g&ratio=720p&line=0
-全粤语8090经典劲爆DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cnamtabc77u54nj2kh6g&ratio=720p&line=0
 嘉俊-包房自制串烧DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cr0tlanog65thcno13c0&ratio=720p&line=0
 粤语打碟现场串烧DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0d00fg10000crom7dnog65uq525ar4g&ratio=720p&line=0
 Electro风格全粤语女声串烧DJ,https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v1e00fgi0000ct65p5fog65r7qkgveu0&ratio=720p&line=0
