@@ -1,11 +1,16 @@
+小娘惹之翡翠山,#genre#
+小娘惹之翡翠山 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ngrd6ce3/v/21/pv/1/ev/33/flavorId/1_cwea3d6z/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_c8skzgzp/v/21/pv/1/ev/31/flavorId/1_bcg8vicp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_b3ltcl3o/v/21/pv/1/ev/30/flavorId/1_h2bbyzgy/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+最爱房车,#genre#
+最爱房车 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bt1q4042/v/1/pv/1/ev/15/flavorId/1_qpqsuzja/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sybmp5ve/v/1/pv/1/ev/15/flavorId/1_vjbgvypf/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_j25rmvoj/v/1/pv/1/ev/15/flavorId/1_oxn9b23y/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 TC版电影,#genre#
 player=2
 哪吒1魔童降世,https://c1.rrcdnbf1.com/video/nazhazhimotongjiangshi/HD国语/index.m3u8
 哪吒2魔童闹海,https://c1.7bbffvip.com/video/nazhazhimotongnaohai/修复版/index.m3u8
 唐探1990,http://v.cdnlz3.com/20250130/32952_451ad4b5/index.m3u8
-最爱房车,#genre#
-最爱房车 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bt1q4042/v/1/pv/1/ev/15/flavorId/1_qpqsuzja/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sybmp5ve/v/1/pv/1/ev/15/flavorId/1_vjbgvypf/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 青春小鸟,#genre#
 青春小鸟 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2pq3drvx/v/11/pv/1/ev/23/flavorId/1_xdlp9rnb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jjqhigvp/v/11/pv/1/ev/22/flavorId/1_e0ryel6e/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -25,3 +30,5 @@ player=2
 第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_c4nhzjqw/v/11/pv/1/ev/23/flavorId/1_h1wjk392/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m0598eat/v/11/pv/1/ev/23/flavorId/1_495x0ql2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7zkmxk13/v/11/pv/1/ev/23/flavorId/1_1nqr9w1w/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jmnveijt/v/11/pv/1/ev/23/flavorId/1_8xhgrp33/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_tl4sq5xa/v/11/pv/1/ev/23/flavorId/1_g0b1pgvm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
