@@ -65,7 +65,7 @@
 {
             "name": "香港地波",
             "type": 0,
-            "url": "http://live.hkdvb.com/hls/playlist.m3u?token=315535130278560",
+            "url": "http://live.hkdvb.com/hls/playlist.m3u?token=315535130242579",
             "timeout": 60,
             "playerType": 1
         },
@@ -77,6 +77,33 @@
             "timeout": 30,
             "playerType": 1
         },
+{
+      "name": "繁华直播",
+      "type": 0,
+      "url": "http://fanhua.dieryingyuan.top:288/线路/yxds.txt",
+      "timeout": 30,
+      "playerType": 1
+    },
+{
+      "name": "焦点直播",
+      "type": 0,
+      "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
+      "ua": "okhttp/3.15",
+      "timeout": 30,
+      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+    },
+{
+      "name": "火星直播",
+      "type": 0,
+      "url": "http://xg.52sw.top/play/hxds/",
+      "ua": "okhttp/3.15",
+      "timeout": 30,
+      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+,
+      "header": {
+        "Referer": "https://www.kds.tw/"
+      }
+    },
 {
             "name": "欧华直播",
             "type": 0,
@@ -103,7 +130,7 @@
 {
             "name": "Mytvsuper",
             "type": 0,
-            "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=315535130358216",
+            "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=315535130337496",
             "timeout": 30,
             "playerType": 2
         },
