@@ -1,5 +1,5 @@
 {
-    "spider": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live888.jar",
+    "spider": "",
 
 
 "lives": [
@@ -15,19 +15,62 @@
             "name": "线更新剧",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/livesg.txt",
+            "ua": "okhttp",
+            "timeout": 30,
             "playerType": 1
         },
 {
             "name": "线更Astro",
             "type": 0,
             "url": "https://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
+            "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
+        },
+{
+            "name": "线更油管",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/exo.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },      
+{
+            "name": "线更萌吖",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "线更音乐",
+            "type": 0,
+            "url": "thttp://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        }, 
+{
+            "name": "火云邪神",
+            "url": "https://github.com/cm851228/my51228888/raw/refs/heads/main/xy.txt",
+            "core": {
+                "auth": "local://tvbus",
+                "name": "123",
+                "pass": "345",
+                "resp": "{\"result_code\":\"0\",\"result\":\"ok\",\"keys\":{\"user_id\":\"0027000005f5c398\",\"peer_id\":\"0ec044591d9e1418\",\"session_key\":\"0a49662f37674af5\"}}",
+                "playerType": 1,
+                "so": "https://github.com/cm851228/my51228888/raw/refs/heads/main/tvbus.so",
+                "pkg": "com.svc.vlive.home.ytv9x",
+                "sign": "308203533082023ba00302010202042108f284300d06092a864886f70d01010b05003059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b06035504031304787879793020170d3139303332363038333233305a180f32313139303330323038333233305a3059310c300a0603550406130378797a310d300b060355040813047a7a7979310d300b0603550407130479787978310d300b060355040a130478797879310d300b060355040b130479797878310d300b060355040313047878797930820122300d06092a864886f70d01010105000382010f003082010a0282010100bb3298eb5910860b7ae30b6b874ca374667133fd08cbf42bb52d5c1a49e0fe4818fc768f5155a95eacc465d8649467c40ce632081297fb66c6838534ee4221e3d2b6b56060fdde5569e37465852f9daa3a987bff4f013981c9ff063b7e0ca7d52ccacfeddbe066bcc29780d78e929ad9dacc3b804f51c9eb0548aac4803b0d32764135d6d8d987381adea6d5ec34966aebdec717c95e064e203a3ba6d10bf8336eae43a01ca42406055c62312c6ed057afb386cd12b0b54ac1611e6e1fef8e71c8da0597a43f542e645f54e614c2603b58ce3690e69e0da24e944eecacdcf6faa2043ccce1f15860432527b706269510cd6bd8314999fa870fb8825a1e1805070203010001a321301f301d0603551d0e041604149fcb5d4d1dd5743459052b9ab79539ebc8924570300d06092a864886f70d01010b05000382010100658ddae3d7833e5b7cbf504cc016deda2cee97cb2b0bbdb889d06f19860389904ffcdf0f21966299d4c0e19d109065bdd769977f1a67d4928fecdee48eb3c7ce5fb4009653510b9897bdc66aa54a29930ed5c27cbd3a75c4362944afa4625a7c7f0d3e77bcaf8f23d9233ad9c83d33305c88f6110f6d50de9eec1c47135fff99826bc79c88355f99d41c00eb54a7292c44a340fb78d3ac1acf39ad0d13bccc2fdf69e1d86504ae4087a4b59a662986a4e03c0b379f92dce5c8c9da54e164f9480c8a9fed01bcc562640b78adaaa5adcfda0e03a477ea63ec136819298e55f428f74076c1b444556001b84cbd5d47b080b6aeb5f1a567c03ea6a64a9c2876e3b2"
+            }
         },
 {
             "name": "新加坡剧",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt",
+            "ua": "okhttp",
+            "timeout": 30,
             "playerType": 1
         },
 {
@@ -47,27 +90,12 @@
             "playerType": 1
         },
 {
-            "name": "Stream马新",
-            "type": 0,
-            "url": "https://www.stream-link.org/playlist.m3u?token=408b59d8-4439-4687-97cd-fe00d5bfd299&hmac=e0d1d153ee82c4990c0d20f509450992",
-            "timeout": 30,
-            "playerType": 1
-            
-        },
-{
             "name": "Astro go",
             "type": 0,
             "url": "https://zya.anbox118.workers.dev/",
             "ua": "okhttp/3.15",
             "timeout": 30,
             "playerType": 2
-        },
-{
-            "name": "香港地波",
-            "type": 0,
-            "url": "http://live.hkdvb.com/hls/playlist.m3u?token=315535130242579",
-            "timeout": 60,
-            "playerType": 1
         },
 {
             "name": "央卫直播",
@@ -78,17 +106,10 @@
             "playerType": 1
         },
 {
-      "name": "焦点直播",
-      "type": 0,
-      "url": "http://xg.52sw.top/jd/?ip=108.181.32.169",
-      "ua": "okhttp/3.15",
-      "timeout": 30,
-      "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-    },
-{
             "name": "欧华直播",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/uh.txt",
+            "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
         },
@@ -96,7 +117,7 @@
             "name": "Gather直播",
             "type": 0,
             "url": "https://tv.iill.top/m3u/Gather",
-            "ua": "okhttp",
+            "ua": "okhttp/5.0.0-alpha.14",
             "timeout": 30,
             "playerType": 1
         },
@@ -104,7 +125,7 @@
             "name": "MyTV",
             "type": 0,
             "url": "https://tv.iill.top/m3u/MyTV",
-            "ua": "okhttp",
+            "ua": "okhttp/5.0.0-alpha.14",
             "timeout": 30,
             "playerType": 2
         },
@@ -114,14 +135,6 @@
             "url": "https://video.mytvsuper.xyz/playlist/zong-he-ding-yue.m3u?token=315535130337496",
             "timeout": 30,
             "playerType": 2
-        },
-{
-            "name": "Migu",
-            "type": 0,
-            "url": "http://php.540734621.xyz/migu.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
         },
 {
             "name": "IPTV1",
@@ -277,6 +290,42 @@
             ]
         },        
 {
+            "key": "暴风",
+            "name": "暴风云",
+            "type": 1,
+            "api": "http://bfzyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "泰国剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "海外动漫"
+            ]
+        },
+{
             "key": "釆集王",
             "name": "釆集云",
             "type": 1,
@@ -323,42 +372,6 @@
             ]
         },
 {
-            "key": "暴风",
-            "name": "暴风云",
-            "type": 1,
-            "api": "http://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰国剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "海外动漫"
-            ]
-        },
-{
             "key": "GUAZI",
             "name": "瓜子云",
             "type": 3,
@@ -390,6 +403,82 @@
             
         },
 {
+         "key":"Qile优视频",
+         "name":"优视频",
+         "type":3,
+         "searchable":1,
+         "changeable":1,
+         "api":"csp_Uvod",
+         "filterable":1,
+         "playerType":2,
+         "jar": "http://github.com/FongMi/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar"
+            
+        },
+{
+         "key":"Cori爱壹帆",
+         "name":"爱壹帆",
+         "type":3,
+         "searchable":1,
+         "changeable":1,
+         "quickSearch":0,
+         "api":"csp_GM",
+         "ext":{
+            "userScript":"http://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/userScripts/ysfp.user.js",
+            "debug":false,
+            "webViewSettings":{
+               "blockNetworkImage":true,
+               "blockList":[
+                  "*.png*",
+                  "*.mp3*",
+                  "*.css*",
+                  "https://*.googletagmanager.com/*",
+                  "https://*.google-analytics.com/*"
+               ]
+            },
+            "spider":{
+               "homeContent":{
+                  "loadUrl":"https://m.yfsp.tv/"
+               },
+               "categoryContent":{
+                  "loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
+               },
+               "detailContent":{
+                  "loadUrl":"https://m.yfsp.tv/play/${id}"
+               },
+               "playerContent":{
+                  "loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
+               },
+               "searchContent":{
+                  "loadUrl":"https://m.yfsp.tv/search"
+               }
+            }
+         },
+         "jar":"http://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
+      },
+{
+         "key":"huarenoktv",
+         "name":"华人直播️",
+         "type":1,
+         "api":"http://huaren.live/api.php/tvbox",
+         "playUrl":"json:http://parse.okhuaren.com/?url=",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":1,
+         "header":{
+            "User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",
+            "Referer":"test"
+         }
+      },
+{
+         "key":"黑木影视",
+         "name":"黑木影视",
+         "type":1,
+         "api":"http://heimuer.ggff.net/api.php/tvbox",
+         "searchable":1,
+         "quickSearch":1,
+         "filterable":0
+      },
+{
             "key": "哔哩云",
             "name": "哔哩(fm)",
             "type": 3,
@@ -420,10 +509,26 @@
             
         },
 {
+            "key": "高版音乐",
+            "name": "音乐(fm)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "changeable": 0,
+            "playerType": 2,
+            "ext": {
+            "type": "魏佳艺 高清mv#苏谭谭 高清mv#亦伊 高清mv#恋特特 高清mv#橘子妹 高清mv#阿悠悠 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
+            "cookie": ""
+         
+            },
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
+        },
+{
             "key": "T4-独播库",
             "name": "独播库(T4)",
             "type": 4,
-            "api": "http://tang.hz.cz/power/duboku?token=ede2d15c",
+            "api": "http://tang.hz.cz/power/duboku?token=f3d23dd2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -433,7 +538,7 @@
             "key": "T4-欧乐",
             "name": "欧乐(T4)",
             "type": 4,
-            "api": "http://tang.hz.cz/power/olelive?token=ede2d15c",
+            "api": "http://tang.hz.cz/power/olelive?token=f3d23dd2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -443,7 +548,7 @@
             "key": "T4-安博",
             "name": "安博(T4)",
             "type": 4,
-            "api": "http://tang.hz.cz/power/ub18?token=ede2d15c",
+            "api": "http://tang.hz.cz/power/ub18?token=f3d23dd2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -451,6 +556,17 @@
             "ext": {
                 "danmu": true
             }
+        },
+{
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "http://tang.hz.cz/power/hme?token=f3d23dd2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": false
         },
 {
       "key": "py_jieyingshi",
@@ -523,7 +639,8 @@
             "changeable": 0
         },
 {
-            "key": "本地哔哩",
+     
+            "key": "低版哔哩",
             "name": "低版哔哩(my)",
             "type": 3,
             "api": "csp_Bili",
@@ -539,7 +656,7 @@
             
         },
 {
-            "key": "本地儿童",
+            "key": "低版儿童",
             "name": "低版儿童(my)",
             "type": 3,
             "api": "csp_Bili",
@@ -550,6 +667,22 @@
                 "type": "兔小贝#迪士尼经典动画#奥特曼#超级宝贝JOJO#米奇老鼠#唐老鸭#老夫子#多啦A梦#猫和老鼠#超级飞侠#熊大熊二#开心超人联盟#海绵宝宝#MR BEAN#儿歌多多#儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#唐诗三百首#三字经#悟空识字#宝宝巴士#学而思#沙雕动漫#粤语卡通#国语卡通#动画#海底小纵队#小猪佩奇#樱桃小丸子#喜羊羊与灰太狼#大头儿子小头爸爸#蜡笔小新#玩具总动员#萌鸡小队#七龍珠#国创#番剧",
                 "cookie": ""
             
+            },
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
+            
+        },
+{
+            "key": "低版音乐",
+            "name": "低版音乐(my)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "changeable": 0,
+            "playerType": 2,
+            "ext": {
+            "type": "魏佳艺 高清mv#苏谭谭 高清mv#亦伊 高清mv#恋特特 高清mv#橘子妹 高清mv#阿悠悠 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
+            "cookie": ""
+         
             },
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
             
@@ -960,182 +1093,6 @@
             "quickSearch": 1,
             "filterable": 1
       },
-{
-      "key": "界影视",
-      "name": "界影视(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_jieyingshi.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    
-     },
-{
-            "key": "py_金牌",
-            "name": "金牌(py)",
-            "type": 3,
-            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_jinpai.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60
-            
-        },
-{
-            "key" : "py_猎手影视",
-            "name" : "猎手(py)",
-            "type" : 3,
-            "api" : "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E7%8C%8E%E6%89%8B%E5%BD%B1%E8%A7%86.py",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "timeout": 60
-            
-     },
-{
-      "key": "py_hitv",
-      "name": "嗷呜(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_hitv.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-      "key": "py_光速",
-      "name": "光速(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E5%85%89%E9%80%9F.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-      "key": "py_酷云",
-      "name": "酷云(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E9%85%B7%E4%BA%91.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-      "key": "py_mp",
-      "name": "综合(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_mp.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-            "key" : "py_边缘",
-            "name" : "边缘(py)",
-            "type" : 3,
-            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E8%BE%B9%E7%BC%98.py",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "timeout": 60
-            
-     },
-{
-      "key": "py_腾讯",
-      "name": "腾讯(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E8%85%BE.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-      "key": "py_优",
-      "name": "优酷(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E4%BC%98.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-      "key": "py_爱奇异",
-      "name": "爱奇异(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E7%88%B1.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-      "key": "py_芒果",
-      "name": "芒果(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E8%8A%92.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-      "key": "py_剧多短剧",
-      "name": "短剧(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E5%89%A7%E5%A4%9A%E7%9F%AD%E5%89%A7.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
-            "key" : "py_红果网页",
-            "name" : "红果网页(py)",
-            "type" : 3,
-            "api" : "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E7%BA%A2%E6%9E%9C%E7%BD%91%E9%A1%B5.py",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "timeout": 60
-            
-     },
-{
-      "key": "py_lemonlive",
-      "name": "虎牙(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_lemonlive.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
 {
       "key": "红狐狸(kx)",
       "name": "狐狸(kx)",
