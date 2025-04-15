@@ -19,6 +19,13 @@
 第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7zkmxk13/v/11/pv/1/ev/23/flavorId/1_1nqr9w1w/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jmnveijt/v/11/pv/1/ev/23/flavorId/1_8xhgrp33/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_tl4sq5xa/v/11/pv/1/ev/23/flavorId/1_g0b1pgvm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+最爱房车,#genre#
+最爱房车 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bt1q4042/v/1/pv/1/ev/15/flavorId/1_qpqsuzja/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sybmp5ve/v/1/pv/1/ev/15/flavorId/1_vjbgvypf/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_j25rmvoj/v/1/pv/1/ev/15/flavorId/1_oxn9b23y/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ei9g3yqd/v/1/pv/1/ev/15/flavorId/1_1cczk9ue/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_pcxwtr5z/v/1/pv/1/ev/15/flavorId/1_lr79x9ij/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_31x6s2tx/v/1/pv/1/ev/15/flavorId/1_g7bmtlsh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 在世界的角落扎营,#genre#
 在世界的角落扎营 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_crxp8uyt/v/1/pv/1/ev/15/flavorId/1_aue6cwhe/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sz4exljv/v/1/pv/1/ev/15/flavorId/1_c31qtcpx/name/a.mp4/index.m3u8/index-v1-a1.m3u8
