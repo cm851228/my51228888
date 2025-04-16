@@ -517,7 +517,7 @@
             "changeable": 0,
             "playerType": 2,
             "ext": {
-            "type": "魏佳艺 高清mv#苏谭谭 高清mv#亦伊 高清mv#恋特特 高清mv#橘子妹 高清mv#阿悠悠 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
+            "type": "魏佳艺 高清mv#苏谭谭 高清mv#亦伊 高清mv#恋特特 高清mv#橘子妹 高清mv#阿悠悠 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#诺爷plus 高清mv#洋澜一 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
             "cookie": ""
          
             },
@@ -680,7 +680,7 @@
             "changeable": 0,
             "playerType": 2,
             "ext": {
-            "type": "魏佳艺 高清mv#苏谭谭 高清mv#亦伊 高清mv#恋特特 高清mv#橘子妹 高清mv#阿悠悠 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
+            "type": "魏佳艺 高清mv#苏谭谭 高清mv#亦伊 高清mv#恋特特 高清mv#橘子妹 高清mv#阿悠悠 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#诺爷plus 高清mv#洋澜一 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
             "cookie": ""
          
             },
@@ -1246,6 +1246,450 @@
       "api": "http://zhangqun66.xyz/ytlb.php",
       "searchable": 1,
       "changeable": 1
+      
+    },
+{
+      "key": "py_live_livelive零度影视",
+      "name": "零度影视(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E9%9B%B6%E5%BA%A6%E5%BD%B1%E8%A7%86APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive影视界",
+      "name": "影视界(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/jieyingshi.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelivehitv",
+      "name": "嗷呜(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/hitvAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive光速",
+      "name": "光速(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%85%89%E9%80%9FAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive小苹果",
+      "name": "小苹果(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%B0%8F%E8%8B%B9%E6%9E%9CAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive爱瓜TV",
+      "name": "爱瓜TV(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E7%88%B1%E7%93%9CTVAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60
+    
+     },
+{
+      "key": "py_live_livelive边缘影视",
+      "name": "边缘影视(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E8%BE%B9%E7%BC%98%E5%BD%B1%E8%A7%86APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive云端",
+      "name": "云端(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E4%BA%91%E7%AB%AFAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    }, 
+{
+      "key": "py_live_livelive绝对影视",
+      "name": "绝对影视(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E7%BB%9D%E5%AF%B9%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive云速影视",
+      "name": "云速影视(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E4%BA%91%E9%80%9F%E5%BD%B1%E8%A7%86APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive国外剧",
+      "name": "国外剧(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%9B%BD%E5%A4%96%E5%89%A7APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive火车太顺",
+      "name": "火车太顺(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E7%81%AB%E8%BD%A6%E5%A4%AA%E9%A1%BAAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60
+    
+     },
+{
+      "key": "py_live_livelive美帕",
+      "name": "美帕(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E7%BE%8E%E5%B8%95APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive魔方影视",
+      "name": "魔方影视(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E9%AD%94%E6%96%B9%E5%BD%B1%E8%A7%86APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive若惜追剧",
+      "name": "若惜追剧(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E8%8B%A5%E6%83%9C%E8%BF%BD%E5%89%A7APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive哇哇",
+      "name": "哇哇(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%93%87%E5%93%87APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60
+    
+     },
+{
+      "key": "py_live_livelive旺旺",
+      "name": "旺旺(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E6%97%BA%E6%97%BA.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive恋鱼影视",
+      "name": "恋鱼影视(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E6%81%8B%E9%B1%BC%E5%BD%B1%E8%A7%86APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive小红影视",
+      "name": "小红影视(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%B0%8F%E7%BA%A2%E5%BD%B1%E8%A7%86.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive三号动漫",
+      "name": "三号动漫(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E4%B8%89%E5%8F%B7%E5%8A%A8%E6%BC%ABAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_liveliveCliCli动漫",
+      "name": "CliCli动漫(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/CliCli%E5%8A%A8%E6%BC%ABAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60
+    
+     },
+{
+      "key": "py_live_liveliveMiFunAPP",
+      "name": "MiFun动漫(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/MiFunAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive嗷呜动漫",
+      "name": "嗷呜动漫(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%97%B7%E5%91%9C%E5%8A%A8%E6%BC%AB.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive腾讯",
+      "name": "腾讯(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E8%85%BE.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive爱奇艺",
+      "name": "爱奇艺(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E7%88%B1.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive芒果",
+      "name": "芒果(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E8%8A%92.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive优酷",
+      "name": "优酷(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E4%BC%98.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive推特",
+      "name": "推特18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E6%8E%A8%E7%89%B9APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive小红薯",
+      "name": "小红薯18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%B0%8F%E7%BA%A2%E8%96%AFAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive51吸瓜",
+      "name": "51吸瓜18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/51%E5%90%B8%E7%93%9C.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelive花都",
+      "name": "花都18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E8%8A%B1%E9%83%BD.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60
+    
+     },
+{
+      "key": "py_live_liveliveav",
+      "name": "lav18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/lavAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_livelivePhb",
+      "name": "Phb18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/Phb.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_liveliveXhm",
+      "name": "Xhm18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/Xhm.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live_liveliveXvd",
+      "name": "Xvd18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/Xvd.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "timeout": 60
+    
+     },
+{
+      "key": "py_live_livelive香蕉",
+      "name": "香蕉18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E9%A6%99%E8%95%89APP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    }, 
+{
+      "key": "py_live_livelive浴火社",
+      "name": "浴火社18+(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E6%B5%B4%E7%81%AB%E7%A4%BEAPP.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
       
     },
 {
