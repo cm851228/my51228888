@@ -571,6 +571,22 @@
 
 
 科普教学,#genre#
+1942,http://files.catbox.moe/qhc5mc.mp4
+1943,http://files.catbox.moe/jloq28.mp4
+1944,http://files.catbox.moe/645y63.mp4
+1945,http://files.catbox.moe/dt5etd.mp4
+1946,http://files.catbox.moe/9tz42m.mp4
+1947,http://files.catbox.moe/djwjn6.mp4
+1948,http://files.catbox.moe/l3wgxb.mp4
+1949,http://files.catbox.moe/e1vssf.mp4
+1950,http://files.catbox.moe/xe39jd.mp4
+1951,http://files.catbox.moe/1isry3.mp4
+1952,http://files.catbox.moe/csvwpw.mp4
+1953,http://files.catbox.moe/rcmesc.mp4
+1954,http://files.catbox.moe/0q71y8.mp4
+1955,http://files.catbox.moe/9unagk.mp4
+1956,http://files.catbox.moe/1ifmsh.mp4
+1957,http://files.catbox.moe/1jw955.mp4
 1958,http://files.catbox.moe/4ibckd.mp4
 1959,http://files.catbox.moe/5tc3ka.mp4
 1960,http://files.catbox.moe/vcrlct.mp4
