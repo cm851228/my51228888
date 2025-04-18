@@ -1,4 +1,7 @@
 萌宝吖吖,#genre#
+1430,http://files.catbox.moe/rg3fkv.mp4
+1431,http://files.catbox.moe/mxvnzz.mp4
+1432,http://files.catbox.moe/xwuhy1.mp4
 1433,http://files.catbox.moe/22pcbc.mp4
 1434,http://files.catbox.moe/wp6bpg.mp4
 1435,http://files.catbox.moe/g4rvym.mp4
@@ -571,6 +574,16 @@
 
 
 科普教学,#genre#
+1932,http://files.catbox.moe/9pybg7.mp4
+1933,http://files.catbox.moe/sdb7qm.mp4
+1934,http://files.catbox.moe/zhfd5k.mp4
+1935,http://files.catbox.moe/tvow7p.mp4
+1936,http://files.catbox.moe/zu3rlg.mp4
+1937,http://files.catbox.moe/xg7krd.mp4
+1938,http://files.catbox.moe/xgzxp5.mp4
+1939,http://files.catbox.moe/9hiavh.mp4
+1940,http://files.catbox.moe/9zh8gn.mp4
+1941,http://files.catbox.moe/gyec0s.mp4
 1942,http://files.catbox.moe/qhc5mc.mp4
 1943,http://files.catbox.moe/jloq28.mp4
 1944,http://files.catbox.moe/645y63.mp4
