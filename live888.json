@@ -1074,26 +1074,6 @@
             }
         },
 {
-            "key": "新央视库",
-            "name": "央视库(py)",
-            "type": 3,
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E5%A4%AE%E5%BA%93%E4%BA%91.py"
-            
-      },
-{
-            "key": "T4直播转点播",
-            "name": "教育库(py)",
-            "type": 4,
-            "api": "http://120.53.102.254/dsp16",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-      },
-{
       "key": "红狐狸(kx)",
       "name": "狐狸(kx)",
       "type": 3,
@@ -1246,6 +1226,38 @@
       "api": "http://zhangqun66.xyz/ytlb.php",
       "searchable": 1,
       "changeable": 1
+      
+    },
+{
+            "key": "新央视库",
+            "name": "央视库(py)",
+            "type": 3,
+            "searchable": 1,
+            "playerType": 2,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E5%A4%AE%E5%BA%93%E4%BA%91.py"
+            
+      },
+{
+            "key": "T4直播转点播",
+            "name": "教育库(py)",
+            "type": 4,
+            "api": "http://120.53.102.254/dsp16",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+      },
+{
+      "key": "py_哔哩B站",
+      "name": "哔哩B站(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
       
     },
 {
