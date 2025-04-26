@@ -46,7 +46,7 @@
 {
             "name": "线更音乐",
             "type": 0,
-            "url": "thttp://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt",
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
@@ -1249,10 +1249,22 @@
             "filterable": 1
       },
 {
-      "key": "py_哔哩B站",
+      "key": "py_live哔哩B站",
       "name": "哔哩B站(py)",
       "type": 3,
       "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%93%94%E5%93%A9%E8%A7%86%E9%A2%91.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "timeout": 60
+      
+    },
+{
+      "key": "py_live骚火电影",
+      "name": "骚火电影(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
