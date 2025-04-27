@@ -175,93 +175,97 @@ NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
 
-AKTV,#genre#
-ua=okhttp
-28 AI 智慧賽馬,http://aktv-stream.m16tv.cfd/stream/aktv/28ai/AKTV.m3u8
-Channel 5 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv-stream.m16tv.cfd/stream/aktv/channeluhd/AKTV.m3u8
-myTV SUPER 18台,http://aktv-stream.m16tv.cfd/stream/aktv/mytvsuper18/AKTV.m3u8
-PopC,http://aktv-stream.m16tv.cfd/stream/aktv/popc/AKTV.m3u8
-ROCK Action,http://aktv-stream.m16tv.cfd/stream/aktv/rockaction/AKTV.m3u8
-TVB Plus,http://aktv-stream.m16tv.cfd/stream/aktv/tvbplus/AKTV.m3u8
-tvN,http://aktv-stream.m16tv.cfd/stream/aktv/tvn/AKTV.m3u8
-中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
-千禧經典台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/null-15/AKTV.m3u8
-娛樂新聞台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-寰宇新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-7/AKTV.m3u8
-明珠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-19/AKTV.m3u8
-明珠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-2/AKTV.m3u8
-無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-美亞電影台(HK),http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
-翡翠剧集台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-18/AKTV.m3u8
-翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null/AKTV.m3u8
-翡翠台 4K,http://aktv-stream.m16tv.cfd/stream/aktv/4k/AKTV.m3u8
-翡翠综合台(北美),http://aktv-stream.m16tv.cfd/stream/aktv/null-17/AKTV.m3u8
-鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
-黃金翡翠台,http://aktv-stream.m16tv.cfd/stream/aktv/null-21/AKTV.m3u8
-AXN,http://aktv-stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
-Love Nature HD,http://aktv-stream.m16tv.cfd/stream/aktv2/lovenaturehd/AKTV.m3u8
-无线新闻台(北美),http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-東森新聞,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-Animax(HK),http://aktv-stream.m16tv.cfd/stream/aktv3/animaxhk/AKTV.m3u8
-DW,http://aktv-stream.m16tv.cfd/stream/aktv3/dw/AKTV.m3u8
-France 24,http://aktv-stream.m16tv.cfd/stream/aktv3/france24/AKTV.m3u8
-KIX,http://aktv-stream.m16tv.cfd/stream/aktv3/kix/AKTV.m3u8
-NHK World-Japan,http://aktv-stream.m16tv.cfd/stream/aktv3/nhkworldjapan/AKTV.m3u8
-Nick Jr,http://aktv-stream.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv-stream.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv-stream.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-Xite Hits,http://aktv-stream.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-Xite Rock,http://aktv-stream.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
-ZooMoo,http://aktv-stream.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
-亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
-東方衛視國際頻道,http://aktv-stream.m16tv.cfd/stream/aktv3/null/AKTV.m3u8
-無線衛星新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-Celestial Classic Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialclassicmovies/AKTV.m3u8
-Celestial Movies,http://aktv-stream.m16tv.cfd/stream/astro_a1/celestialmovies/AKTV.m3u8
-CINEMAWORLD,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch31/AKTV.m3u8
-FIGHT SPORTS,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch85/AKTV.m3u8
-Mediacorp Entertainment Chinese,http://aktv-stream.m16tv.cfd/stream/astro_a1/mediacorpentertainmentchinese/AKTV.m3u8
-NBA TV,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch84/AKTV.m3u8
-Sukan,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch89/AKTV.m3u8
-TV9,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch18/AKTV.m3u8
-TVB Jade,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbjade/AKTV.m3u8
-TVB Xing He,http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
-Unifi Sport,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch88/AKTV.m3u8
-曼聯電視頻道,http://aktv-stream.m16tv.cfd/stream/astro_a1/ch87/AKTV.m3u8
-朝鮮恩情台,http://aktv-stream.m16tv.cfd/stream/nknews/null/AKTV.m3u8
-ELTV生活英語台,http://aktv-stream.m16tv.cfd/stream/taiwan/eltv/AKTV.m3u8
-三立新聞iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
-中視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-4/AKTV.m3u8
-中視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-台視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-台視新聞,http://aktv-stream.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-華視,http://aktv-stream.m16tv.cfd/stream/taiwan/null-5/AKTV.m3u8
-龍華偶像台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-9/AKTV.m3u8
-龍華日韓台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-7/AKTV.m3u8
-龍華電影台,http://aktv-stream.m16tv.cfd/stream/taiwan/null-8/AKTV.m3u8
-beIN SPORTS XTRA,http://aktv-stream.m16tv.cfd/stream/test/beinsportsxtra/AKTV.m3u8
-PAC12,http://aktv-stream.m16tv.cfd/stream/test/pac12/AKTV.m3u8
-Tennis Channel DE,http://aktv-stream.m16tv.cfd/stream/test/tennischannel/AKTV.m3u8
-緯來體育,http://aktv-stream.m16tv.cfd/stream/test/null/AKTV.m3u8
-Asian Action,http://aktv-stream.m16tv.cfd/stream/tuntun/asianaction/AKTV.m3u8
-Astro Football,http://aktv-stream.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-Astro IQIYI,http://aktv-stream.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
-Astro QJ,http://aktv-stream.m16tv.cfd/stream/tuntun/astroqj/AKTV.m3u8
-Astro 欢喜台,http://aktv-stream.m16tv.cfd/stream/tuntun/astro/AKTV.m3u8
-Red Bull Sports,http://aktv-stream.m16tv.cfd/stream/tuntun/redbullsports/AKTV.m3u8
-YES network,http://aktv-stream.m16tv.cfd/stream/tuntun/foxsports1us/AKTV.m3u8
-CBS SPORTS NETWORK,http://aktv-stream.m16tv.cfd/stream/useradd1/cbssportsnetwork/AKTV.m3u8
-ESPN,http://aktv-stream.m16tv.cfd/stream/useradd1/espn/AKTV.m3u8
-ESPN NEWS,http://aktv-stream.m16tv.cfd/stream/useradd1/espnnews/AKTV.m3u8
-Tennis Channel 2 US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannel2us/AKTV.m3u8
-Tennis Channel US,http://aktv-stream.m16tv.cfd/stream/useradd1/tennischannelus/AKTV.m3u8
-US MTV LIVE,http://aktv-stream.m16tv.cfd/stream/useradd1/usmtvlive/AKTV.m3u8
-viuTV,http://aktv-stream.m16tv.cfd/stream/useradd1/viutv/AKTV.m3u8
+央视itv,#genre#
+CCTV-01高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV1
+CCTV-02高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV2
+CCTV-03高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV3
+CCTV-04高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV4
+CCTV-05高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV5
+CCTV-5+高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
+CCTV-06高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV6
+CCTV-07高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV7
+CCTV-08高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV8
+CCTV-09高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV9
+CCTV-10高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV10
+CCTV-11高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV11
+CCTV-12高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV12
+CCTV-13高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV13
+CCTV-14高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV14
+CCTV-15高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV15
+CCTV-16高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV16
+CCTV-17高码,http://itv.iptv1688.top:2016/itv.php?id=CCTV17
+CCTV-4k高码,http://nhljz.net:35455/gaoma/cctv4k.m3u8
+CCTV-8k高码,http://nhljz.net:35455/gaoma/cctv8k_36m.m3u8
 
+
+央卫tsfile,#genre#
+CCTV-1,http://1.195.131.251:9909/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-2,http://1.195.131.251:9909/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-3,http://1.195.131.251:9909/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-4,http://1.195.131.251:9909/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-5,http://1.195.131.251:9909/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-6,http://1.195.131.251:9909/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-7,http://1.195.131.251:9909/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-8,http://1.195.131.251:9909/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-9,http://1.195.131.251:9909/tsfile/live/1019_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-10,http://1.195.131.251:9909/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-11,http://1.195.131.251:9909/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-12,http://1.195.131.251:9909/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-13,http://1.195.131.251:9909/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-14,http://1.195.131.251:9909/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-15,http://1.195.131.251:9909/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://1.195.131.251:9909/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市频道,http://1.195.131.251:9909/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生频道,http://1.195.131.251:9909/tsfile/live/1028_1.m3u8?key=txiptv&playlive=1&authid=0
+河南法制频道,http://1.195.131.251:9909/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧频道,http://1.195.131.251:9909/tsfile/live/1030_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻频道,http://1.195.131.251:9909/tsfile/live/1031_1.m3u8?key=txiptv&playlive=1&authid=0
+河南公共频道,http://1.195.131.251:9909/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
+河南新农村频道,http://1.195.131.251:9909/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
+湖南卫视,http://1.195.131.251:9909/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://1.195.131.251:9909/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://1.195.131.251:9909/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://1.195.131.251:9909/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://1.195.131.251:9909/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://1.195.131.251:9909/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://1.195.131.251:9909/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://1.195.131.251:9909/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://1.195.131.251:9909/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+福建东南,http://1.195.131.251:9909/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://1.195.131.251:9909/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://1.195.131.251:9909/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://1.195.131.251:9909/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://1.195.131.251:9909/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+湖北卫视,http://1.195.131.251:9909/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://1.195.131.251:9909/tsfile/live/0117_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://1.195.131.251:9909/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://1.195.131.251:9909/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://1.195.131.251:9909/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://1.195.131.251:9909/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://1.195.131.251:9909/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://1.195.131.251:9909/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://1.195.131.251:9909/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://1.195.131.251:9909/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卡通,http://1.195.131.251:9909/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
+AKTV,#genre#
+Animax(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/animaxhk/AKTV.m3u8
+AXN,http://aktv_stream.m16tv.cfd/stream/aktv2/axn/AKTV.m3u8
+PopC,http://aktv_stream.m16tv.cfd/stream/aktv2/popc/AKTV.m3u8
+ROCK Action,http://aktv_stream.m16tv.cfd/stream/aktv2/rockaction/AKTV.m3u8
+tvN,http://aktv_stream.m16tv.cfd/stream/aktv2/tvn/AKTV.m3u8
+明珠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-3/AKTV.m3u8
+無線新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
+美亞電影台(HK),http://aktv_stream.m16tv.cfd/stream/aktv2/hk/AKTV.m3u8
+翡翠台,http://aktv_stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+鳳凰中文,http://aktv_stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+鳳凰資訊,http://aktv_stream.m16tv.cfd/stream/aktv2/null-2/AKTV.m3u8
+鳳凰香港,http://aktv_stream.m16tv.cfd/stream/aktv2/null-5/AKTV.m3u8
+TVBS新聞,http://aktv_stream.m16tv.cfd/stream/aktv3/tvbs/AKTV.m3u8
+緯來體育,http://aktv_stream.m16tv.cfd/stream/aktv5/null/AKTV.m3u8
+中天新闻台,http://aktv_stream.m16tv.cfd/stream/yt/null/AKTV.m3u8
 
 
 Tonton,#genre#
@@ -281,6 +285,7 @@ BES,http://175.139.229.4:19981/stream/channelid/276958679?profile=pass
 
 
 极速港台,#genre#
+大湾区卫视1,http://goo.bkpcp.top/mg/dwqws
 TVB星河频道,http://go1.bkpcp.top/tl/null-7
 无线华剧台,http://go1.bkpcp.top/tl/null-2
 无线亚综台,http://go1.bkpcp.top/tl/null-3
