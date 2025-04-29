@@ -1,4 +1,4 @@
-外来媳妇本地郎1,#genre#
+外来媳妇 1,#genre#
 第01集,http://c1.rrcdnbf6.com/video/bendixifuwaidilang/第01集/index.m3u8
 第02集,http://c1.rrcdnbf6.com/video/bendixifuwaidilang/第02集/index.m3u8
 第03集,http://c1.rrcdnbf5.com/video/bendixifuwaidilang/第03集/index.m3u8
@@ -209,7 +209,7 @@
 
 
 
-外来媳妇本地郎2,#genre#
+外来媳妇 2,#genre#
 第01集,http://c1.rrcdnbf5.com/video/bendixifuwaidilang2/第01集/index.m3u8
 第02集,http://c1.rrcdnbf6.com/video/bendixifuwaidilang2/第02集/index.m3u8
 第03集,http://c1.rrcdnbf5.com/video/bendixifuwaidilang2/第03集/index.m3u8
@@ -463,7 +463,7 @@
 
 
 
-外来媳妇本地郎3,#genre#
+外来媳妇 3,#genre#
 第01集,http://c1.rrcdnbf5.com/video/bendixifuwaidilang3/第01集/index.m3u8
 第02集,http://c1.rrcdnbf6.com/video/bendixifuwaidilang3/第02集/index.m3u8
 第03集,http://c1.rrcdnbf5.com/video/bendixifuwaidilang3/第03集/index.m3u8
@@ -767,7 +767,7 @@
 
 
 
-外来媳妇本地郎4,#genre#
+外来媳妇 4,#genre#
 第01集,http://c1.ddbbffcdn.com/video/wailaixifubendilang4/第01集/index.m3u8
 第02集,http://c1.ddbbffcdn.com/video/wailaixifubendilang4/第02集/index.m3u8
 第03集,http://c1.ddbbffcdn.com/video/wailaixifubendilang4/第03集/index.m3u8
@@ -1038,7 +1038,7 @@
 
 
 
-外来媳妇本地郎5,#genre#
+外来媳妇 5,#genre#
 第01集,http://c1.ddbbffcdn.com/video/wailaixifubendilang5/第01集/index.m3u8
 第02集,http://c1.ddbbffcdn.com/video/wailaixifubendilang5/第02集/index.m3u8
 第03集,http://c1.ddbbffcdn.com/video/wailaixifubendilang5/第03集/index.m3u8
@@ -1459,7 +1459,7 @@
 
 
 
-外来媳妇本地郎6,#genre#
+外来媳妇 6,#genre#
 第01集,http://c1.ddbbffcdn.com/video/wailaixifubendilang6/第01集/index.m3u8
 第02集,http://c1.ddbbffcdn.com/video/wailaixifubendilang6/第02集/index.m3u8
 第03集,http://c1.ddbbffcdn.com/video/wailaixifubendilang6/第03集/index.m3u8
@@ -1714,7 +1714,7 @@
 
 
 
-外来媳妇本地郎7,#genre#
+外来媳妇 7,#genre#
 第01集,http://c1.rrcdnbf5.com/video/wailaixifubendilang7/第01集/index.m3u8
 第02集,http://c1.rrcdnbf6.com/video/wailaixifubendilang7/第02集/index.m3u8
 第03集,http://c1.rrcdnbf5.com/video/wailaixifubendilang7/第03集/index.m3u8
@@ -1868,7 +1868,7 @@
 
 
 
-外来媳妇本地郎8,#genre#
+外来媳妇 8,#genre#
 第101集,http://c1.rrcdnbf6.com/video/wailaixifubendilang8/第101集/index.m3u8
 第102集,http://c1.rrcdnbf5.com/video/wailaixifubendilang8/第102集/index.m3u8
 第103集,http://c1.rrcdnbf6.com/video/wailaixifubendilang8/第103集/index.m3u8
@@ -2022,7 +2022,7 @@
 
 
 
-外来媳妇本地郎9,#genre#
+外来媳妇 9,#genre#
 第01集,http://c1.rrcdnbf6.com/video/wailaixifubendilang9/第01集/index.m3u8
 第02集,http://c1.rrcdnbf4.com/video/wailaixifubendilang9/第02集/index.m3u8
 第03集,http://c1.rrcdnbf4.com/video/wailaixifubendilang9/第03集/index.m3u8
@@ -2277,7 +2277,7 @@
 
 
 
-外来媳妇本地郎10,#genre#
+外来媳妇 10,#genre#
 第1集,http://v2.yzzy5-play.com/20220412/2586_3754ab81/index.m3u8
 第2集,http://v2.yzzy5-play.com/20220412/2585_5fcc1945/index.m3u8
 第3集,http://v2.yzzy5-play.com/20220412/2587_74558c88/index.m3u8
@@ -2532,7 +2532,7 @@
 
 
 
-外来媳妇本地郎11,#genre#
+外来媳妇 11,#genre#
 第3495集,http://c1.ddbbffcdn.com/video/wailaixifubendilang11/第3495集/index.m3u8
 第3496集,http://c1.ddbbffcdn.com/video/wailaixifubendilang11/第3496集/index.m3u8
 第3497集,http://c1.ddbbffcdn.com/video/wailaixifubendilang11/第3497集/index.m3u8
@@ -2798,7 +2798,7 @@
 
 
 
-外来媳妇本地郎12,#genre#
+外来媳妇 12,#genre#
 第1集,http://v2.yzzy5-play.com/20220411/2100_3766cbbb/index.m3u8
 第2集,http://v2.yzzy5-play.com/20220411/2101_eb73d062/index.m3u8
 第4集,http://v2.yzzy5-play.com/20220411/2102_0c7f7b90/index.m3u8
@@ -2890,7 +2890,7 @@
 
 
 
-外来媳妇本地郎15,#genre#
+外来媳妇 15,#genre#
 第01集,http://c1.rrcdnbf2.com/video/wailaixifubendilang15/第01集/index.m3u8
 第02集,http://c1.rrcdnbf2.com/video/wailaixifubendilang15/第02集/index.m3u8
 第03集,http://c1.rrcdnbf2.com/video/wailaixifubendilang15/第03集/index.m3u8
@@ -3056,7 +3056,7 @@
 
 
 
-外来媳妇本地郎16,#genre#
+外来媳妇 16,#genre#
 第01集,http://c1.rrcdnbf2.com/video/wailaixifubendilang16/第01集/index.m3u8
 第02集,http://c1.rrcdnbf2.com/video/wailaixifubendilang16/第02集/index.m3u8
 第03集,http://c1.rrcdnbf2.com/video/wailaixifubendilang16/第03集/index.m3u8
@@ -3138,7 +3138,7 @@
 
 
 
-外来媳妇本地郎17,#genre#
+外来媳妇 17,#genre#
 第01集,http://c1.rrcdnbf2.com/video/wailaixifubendilang17/第01集/index.m3u8
 第02集,http://c1.rrcdnbf2.com/video/wailaixifubendilang17/第02集/index.m3u8
 第03集,http://c1.rrcdnbf2.com/video/wailaixifubendilang17/第03集/index.m3u8
@@ -3202,7 +3202,7 @@
 
 
 
-外来媳妇本地郎18,#genre#
+外来媳妇 18,#genre#
 第01集,http://c1.rrcdnbf5.com/video/wailaixifubendilang18/第01集/index.m3u8
 第02集,http://c1.rrcdnbf5.com/video/wailaixifubendilang18/第02集/index.m3u8
 第03集,http://c1.rrcdnbf6.com/video/wailaixifubendilang18/第03集/index.m3u8
@@ -3232,7 +3232,7 @@
 
 
 
-七十二家房客1,#genre#
+房客 1,#genre#
 第1集,http://v2.yzzy5-play.com/20220416/4507_c540d116/index.m3u8
 第2集,http://v2.yzzy5-play.com/20220416/4508_fdab5add/index.m3u8
 第3集,http://v2.yzzy5-play.com/20220416/4509_f911b247/index.m3u8
@@ -3354,7 +3354,7 @@
 
 
 
-七十二家房客2,#genre#
+房客 2,#genre#
 第1集,http://v2.yzzy5-play.com/20220416/4727_b2001233/index.m3u8
 第2集,http://v2.yzzy5-play.com/20220416/4728_36bd2d0e/index.m3u8
 第3集,http://v2.yzzy5-play.com/20220416/4730_c63e61d6/index.m3u8
@@ -3478,7 +3478,7 @@
 
 
 
-七十二家房客3,#genre#
+房客 3,#genre#
 第01集,http://yzzy.play-cdn12.com/20221116/2965_a518d744/index.m3u8
 第02集,http://yzzy.play-cdn12.com/20221116/2966_fc468faa/index.m3u8
 第03集,http://yzzy.play-cdn12.com/20221116/2967_209413fb/index.m3u8
@@ -3595,7 +3595,7 @@
 
 
 
-七十二家房客4,#genre#
+房客 4,#genre#
 第1集,http://v2.yzzy5-play.com/20220416/4914_c83f7754/index.m3u8
 第2集,http://v2.yzzy5-play.com/20220416/4915_1d1b37c2/index.m3u8
 第3集,http://v2.yzzy5-play.com/20220416/4917_74b860d6/index.m3u8
@@ -3716,7 +3716,7 @@
 
 
 
-七十二家房客5,#genre#
+房客 5,#genre#
 第1集,http://yzzy.play-cdn3.com/20220416/3192_3745e145/index.m3u8
 第2集,http://yzzy.play-cdn3.com/20220416/3193_07f5d577/index.m3u8
 第3集,http://yzzy.play-cdn3.com/20220416/3194_a3cd1b1a/index.m3u8
@@ -3840,7 +3840,7 @@
 
 
 
-七十二家房客6,#genre#
+房客 6,#genre#
 第1集,http://yzzy.play-cdn3.com/20220416/3313_15759d04/index.m3u8
 第2集,http://yzzy.play-cdn3.com/20220416/3314_f10de8c4/index.m3u8
 第3集,http://yzzy.play-cdn3.com/20220416/3315_a83e0ca3/index.m3u8
@@ -3961,7 +3961,7 @@
 
 
 
-七十二家房客7,#genre#
+房客 7,#genre#
 第1集,http://yzzy.play-cdn3.com/20220411/2229_6e2bc1e4/index.m3u8
 第2集,http://yzzy.play-cdn3.com/20220411/2230_c5ab58a4/index.m3u8
 第3集,http://yzzy.play-cdn3.com/20220411/2231_c0985631/index.m3u8
@@ -4085,7 +4085,7 @@
 
 
 
-七十二家房客8,#genre#
+房客 8,#genre#
 第1集,http://yzzy.play-cdn3.com/20220416/3453_176ad7ea/index.m3u8
 第2集,http://yzzy.play-cdn3.com/20220416/3455_fe6d91bd/index.m3u8
 第3集,http://yzzy.play-cdn3.com/20220416/3456_f069c949/index.m3u8
@@ -4236,7 +4236,7 @@
 
 
 
-七十二家房客9,#genre#
+房客 9,#genre#
 第1集,http://yzzy.play-cdn3.com/20220410/2078_121d5cb5/index.m3u8
 第2集,http://yzzy.play-cdn3.com/20220410/2079_aebccde2/index.m3u8
 第3集,http://yzzy.play-cdn3.com/20220410/2080_05419132/index.m3u8
@@ -4360,7 +4360,7 @@
 
 
 
-七十二家房客10,#genre#
+房客 10,#genre#
 第1集,http://yzzy.play-cdn3.com/20220416/3396_56deb86e/index.m3u8
 第2集,http://yzzy.play-cdn3.com/20220416/3399_c4e24583/index.m3u8
 第3集,http://yzzy.play-cdn3.com/20220416/3401_4bf5b6f4/index.m3u8
@@ -4484,7 +4484,7 @@
 
 
 
-七十二家房客11,#genre#
+房客 11,#genre#
 第01集,http://yzzy1.play-cdn16.com/20230818/17645_27fa7f3b/index.m3u8
 第02集,http://yzzy1.play-cdn16.com/20230818/17644_2cf8cc81/index.m3u8
 第03集,http://yzzy1.play-cdn16.com/20230818/17646_5901ac45/index.m3u8
@@ -4609,7 +4609,7 @@
 
 
 
-七十二家房客12,#genre#
+房客 12,#genre#
 第01集,http://yzzy.play-cdn19.com/20230901/2106_fb15bdc4/index.m3u8
 第02集,http://yzzy.play-cdn19.com/20230901/2107_7ca5c061/index.m3u8
 第03集,http://yzzy.play-cdn19.com/20230901/2108_974990c6/index.m3u8
@@ -4733,7 +4733,7 @@
 
 
 
-七十二家房客13,#genre#
+房客 13,#genre#
 第1集,http://yzzy.play-cdn3.com/20220417/3699_3a683adb/index.m3u8
 第2集,http://yzzy.play-cdn3.com/20220417/3702_e99f48fc/index.m3u8
 第3集,http://yzzy.play-cdn3.com/20220417/3703_fd897fcb/index.m3u8
