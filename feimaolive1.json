@@ -1,10 +1,5 @@
 [
 {
-        "name": "线更Astro",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt"
-        
-    },
-{
         "name": "线更油管",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt"
         
@@ -20,17 +15,12 @@
         
     },
 {
-        "name": "新加坡剧",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt"
-     
-    },
-{
-        "name": "粤语剧场",
+        "name": "线更剧场",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/gd2.txt"
      
     },
 {
-        "name": "萌吖宝宝",
+        "name": "线更萌吖",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt"
      
     },
@@ -38,7 +28,12 @@
         "name": "线更音乐",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt"
         
-    }
+    },
+{
+        "name": "新加坡剧",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt"
+     
+    }    
 
    
 ]
