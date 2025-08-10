@@ -1,3 +1,61 @@
+带剑女孩,#genre#
+带剑女孩 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_i2etw53e/v/11/pv/1/ev/16/flavorId/1_gmcglrx3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_zr2zvs6j/v/11/pv/1/ev/16/flavorId/1_ykljv6rm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ub8z8n6l/v/11/pv/1/ev/16/flavorId/1_oohyl5i3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kxvv42xp/v/11/pv/1/ev/16/flavorId/1_evigv70k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lzaeubba/v/11/pv/1/ev/16/flavorId/1_0plmfp2k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_91cqywbo/v/11/pv/1/ev/16/flavorId/1_d4rke65e/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sca7mzm0/v/11/pv/1/ev/16/flavorId/1_8kdebkza/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4fma3ol8/v/11/pv/1/ev/16/flavorId/1_hkjgd1cv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ykkf8kht/v/11/pv/1/ev/16/flavorId/1_c09ugcx0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_0emvp3yu/v/11/pv/1/ev/16/flavorId/1_gyq8l0ml/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_smgg0qnz/v/11/pv/1/ev/16/flavorId/1_dp4qzdo2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8cqrs4ok/v/11/pv/1/ev/16/flavorId/1_vji2hiz8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ltjgs1ma/v/11/pv/1/ev/16/flavorId/1_h4svv4r9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wwjdqwy5/v/11/pv/1/ev/16/flavorId/1_7orv5jb8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_0gh9w1fy/v/11/pv/1/ev/16/flavorId/1_5sdyvnn3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1i2yfg1q/v/11/pv/1/ev/16/flavorId/1_vkr3qs10/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_gfyhbbhp/v/11/pv/1/ev/16/flavorId/1_dvdsvx2q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vvexzha3/v/11/pv/1/ev/16/flavorId/1_ruzmz3pl/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8wkyk4j2/v/11/pv/1/ev/16/flavorId/1_awx15xs4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_94bfrhqu/v/11/pv/1/ev/16/flavorId/1_1zatkow8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+极境之旅3,#genre#
+极境之旅3 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_d64vkned/v/1/pv/1/ev/15/flavorId/1_jc005vo4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_w1m42hi3/v/1/pv/1/ev/15/flavorId/1_pjdpzaz3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_iatqkbm6/v/1/pv/1/ev/15/flavorId/1_gqazs9wn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ruvlwzh8/v/1/pv/1/ev/15/flavorId/1_362pwnh6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fszb82x1/v/1/pv/1/ev/15/flavorId/1_qle04zf1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_yqf2khpx/v/1/pv/1/ev/15/flavorId/1_buqe79ah/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_pczavr6p/v/1/pv/1/ev/15/flavorId/1_pu6uot8z/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rmeqhrr9/v/1/pv/1/ev/9/flavorId/1_sjkxvkbw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_hzzvdqu6/v/1/pv/1/ev/9/flavorId/1_blo8s3vk/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_zeaqcz50/v/1/pv/1/ev/9/flavorId/1_9qc0tm8b/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+艺起耍大牌,#genre#
+艺起耍大牌 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qmk2h8qa/v/1/pv/1/ev/15/flavorId/1_oxtx277k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xff8ch8a/v/1/pv/1/ev/15/flavorId/1_o86n35g5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vjfd6fkp/v/1/pv/1/ev/15/flavorId/1_cdfp66f3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_acuotuxo/v/1/pv/1/ev/15/flavorId/1_cntci14s/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bu7e0kne/v/1/pv/1/ev/15/flavorId/1_u2cq8f7u/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4uuuaujc/v/1/pv/1/ev/15/flavorId/1_h49tk5ab/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_g4nqupxg/v/1/pv/1/ev/15/flavorId/1_r1dddnre/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_zo72x58k/v/1/pv/1/ev/15/flavorId/1_01fw9rvr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+庭外的一角,#genre#
+庭外的一角 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_f7isjk73/v/11/pv/1/ev/23/flavorId/1_c8o4o87j/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_e4amm65u/v/11/pv/1/ev/23/flavorId/1_tafe10iu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8qyisa2y/v/11/pv/1/ev/23/flavorId/1_gpfs4q5h/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9wug3p6r/v/21/pv/1/ev/31/flavorId/1_uof3v1sd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_09m0hpmn/v/11/pv/1/ev/23/flavorId/1_oln422xa/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qormrses/v/11/pv/1/ev/22/flavorId/1_kjzvqvvj/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_es7p9xyt/v/11/pv/1/ev/23/flavorId/1_pgnwsfcb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7kz7kwt0/v/11/pv/1/ev/23/flavorId/1_zq7682d0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_k3s71l6b/v/11/pv/1/ev/23/flavorId/1_pd05i984/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1cza8dvw/v/11/pv/1/ev/23/flavorId/1_pn6poqyw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8ztpqit3/v/11/pv/1/ev/23/flavorId/1_n622p0nr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3xf08q4k/v/11/pv/1/ev/23/flavorId/1_44zuwm6q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_botf986v/v/11/pv/1/ev/23/flavorId/1_7zmw4hb2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_52hoxiy5/v/11/pv/1/ev/23/flavorId/1_lpmyuz3l/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_o3o7ao5l/v/11/pv/1/ev/23/flavorId/1_g21u98vv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 小娘惹之翡翠山,#genre#
 小娘惹之翡翠山 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ngrd6ce3/v/21/pv/1/ev/33/flavorId/1_cwea3d6z/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_c8skzgzp/v/21/pv/1/ev/31/flavorId/1_bcg8vicp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
