@@ -527,14 +527,6 @@
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
         },
 {
-            "key": "JAV转点播",
-            "name": "JAV转点播",
-            "type": 3,
-            "searchable": 0,
-            "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
-            "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive3.json"
-        },
-{
             "key": "GUAZI(wex)",
             "name": "瓜子(wex)",
             "type": 3,
@@ -2950,6 +2942,14 @@
             "changeable": 0
             
         },        
+{
+            "key": "JAV转点播",
+            "name": "JAV转点播",
+            "type": 3,
+            "searchable": 0,
+            "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
+            "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive3.json"
+        },
 {
             "key": "zp100",
             "name": "乐播18+云",
