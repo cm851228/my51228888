@@ -1529,79 +1529,20 @@
             }
         },
 {
-            "key": "bilimd(ok)",
-            "name": "哔哩影视(ok)",
+            "key": "bilimd弹幕版",
+            "name": "🅱哔哩┃影视",
             "type": 3,
             "api": "csp_BilimdGuard",
             "searchable": 1,
-            "quickSearch": 1,
+            "quickSearch": 0,
             "filterable": 1,
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
             
         },
 {
-            "key": "晴天(ok)",
-            "name": "晴天4k(ok)",
-            "type": 3,
-            "api": "csp_Sun4kGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
-            
-        },
-{
-            "key": "仓鼠(ok)",
-            "name": "仓鼠4k(ok)",
-            "type": 3,
-            "api": "csp_CangShuGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
-            
-        },
-{
-            "key": "瓜子(ok)",
-            "name": "瓜子(ok)",
-            "type": 3,
-            "api": "csp_GuaziGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
-            
-        },
-{
-            "key": "瓜子看球(ok)",
-            "name": "瓜子看球(ok)",
-            "type": 3,
-            "api": "csp_GzSportGuard",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
-            
-        },        
-{
-            "key": "小苹果(ok)",
-            "name": "苹果(ok)",
+            "key": "小苹果弹幕版",
+            "name": "🍎苹果┃弹幕",
             "type": 3,
             "api": "csp_XpgGuard",
             "searchable": 1,
@@ -1610,13 +1551,28 @@
             "ext": {
                 "danmu": true
             },
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
             
-        },        
+        },
 {
-            "key": "文才(ok)",
-            "name": "文才(ok)",
+            "key": "瓜子弹幕版",
+            "name": "🍉瓜子┃弹幕",
+            "type": 3,
+            "api": "csp_GuaziGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "文才弹幕版",
+            "name": "🌺文才┃弹幕",
             "type": 3,
             "api": "csp_JpysGuard",
             "searchable": 1,
@@ -1625,13 +1581,105 @@
             "ext": {
                 "danmu": true
             },
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
             
         },
 {
-            "key": "️爱看Bot(ok)",
-            "name": "爱看(ok)",
+            "key": "糯米弹幕版",
+            "name": "🍓糯米┃弹幕",
+            "type": 3,
+            "api": "csp_NmysGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "天天弹幕版",
+            "name": "⛅️天天┃弹幕",
+            "type": 3,
+            "api": "csp_TianTianGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true,
+                "site": 1
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "雄鹰弹幕版",
+            "name": "🦅雄鹰┃弹幕",
+            "type": 3,
+            "api": "csp_XiongYingGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "咖啡弹幕版",
+            "name": "🍫咖啡┃弹幕",
+            "type": 3,
+            "api": "csp_KaFeiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "厂长弹幕版",
+            "name": "🌸厂长┃弹幕",
+            "type": 3,
+            "api": "csp_CzzyGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "荐片弹幕版",
+            "name": "⚔️荐片┃手机",
+            "type": 3,
+            "api": "csp_JianpianGuard",
+            "searchable": 1,
+            "changeable": 0,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "️爱看Bot弹幕版",
+            "name": "⛅️爱看┃弹幕",
             "type": 3,
             "api": "csp_IkanbotGuard",
             "searchable": 1,
@@ -1640,8 +1688,59 @@
             "ext": {
                 "danmu": true
             },
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023118/ok.txt"
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "ddys_js弹幕版",
+            "name": "🍄低端┃在线",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "api": "https://im.feelec.com.cn/res/file.html?id=2c9a91099696ce4301974da3916550ff&file=drpy2.min.js",
+            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885464/ddys.txt",
+            "timeout": 15,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "yhdm弹幕版",
+            "name": "🌸樱花┃动漫",
+            "type": 3,
+            "api": "csp_YHDMGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 15,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "动漫巴士弹幕版",
+            "name": "🚌巴士┃动漫",
+            "type": 3,
+            "api": "csp_Dm84Guard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
+            
+        },
+{
+            "key": "瓜子看球弹幕版",
+            "name": "⚽瓜子┃看球",
+            "type": 3,
+            "api": "csp_GzSportGuard",
+            "searchable": 0,
+            "changeable": 0,
+            "style": {
+                "type": "list"
+            },
+            "timeout": 10,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
             
         },
 {
@@ -1653,7 +1752,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1665,7 +1764,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1677,7 +1776,7 @@
             "playerType": 2,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1690,7 +1789,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1702,7 +1801,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK",
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1716,7 +1815,7 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://auete.com/",
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1728,7 +1827,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1740,7 +1839,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1752,7 +1851,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1764,7 +1863,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1776,7 +1875,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt"
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
             
         },
 {
@@ -1787,7 +1886,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
             }
@@ -1800,7 +1899,7 @@
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
             }
@@ -1813,7 +1912,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
             }
@@ -1826,7 +1925,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
             }
@@ -1839,7 +1938,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
             }
@@ -1852,7 +1951,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
                 "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
             }
@@ -1865,7 +1964,7 @@
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
-            "jar": "https://f004.backblazeb2.com/file/2023118/fan.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
                 "json": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/MTV.json"
             }
