@@ -1,3 +1,5 @@
+小贩之王,#genre#
+小贩之王,http://vodcnd04.myqqdd.com/20250411/t7TuG5Uk/3755kb/hls/index.m3u8
 带剑女孩,#genre#
 带剑女孩 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_i2etw53e/v/11/pv/1/ev/16/flavorId/1_gmcglrx3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_zr2zvs6j/v/11/pv/1/ev/16/flavorId/1_ykljv6rm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -19,7 +21,6 @@
 第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vvexzha3/v/11/pv/1/ev/16/flavorId/1_ruzmz3pl/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8wkyk4j2/v/11/pv/1/ev/16/flavorId/1_awx15xs4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_94bfrhqu/v/11/pv/1/ev/16/flavorId/1_1zatkow8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
 极境之旅3,#genre#
 极境之旅3 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_d64vkned/v/1/pv/1/ev/15/flavorId/1_jc005vo4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_w1m42hi3/v/1/pv/1/ev/15/flavorId/1_pjdpzaz3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
