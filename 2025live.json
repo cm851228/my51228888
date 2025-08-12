@@ -44,9 +44,9 @@
             "playerType": 1
         },
 {
-            "name": "线更歌曲",
+            "name": "线更MV",
             "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2.txt",
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Classic%20MV.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
