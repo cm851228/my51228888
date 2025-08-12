@@ -44,6 +44,16 @@
             "playerType": 1
         },
 {
+            "name": "线更歌曲",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E7%BB%8F%E5%85%B8%E6%AD%8C%E6%9B%B2.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        }        
+
+
+{
             "name": "新加坡剧",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt",
@@ -235,7 +245,6 @@
             "timeout": 30,
             "playerType": 1
         }
-
 
 
     ],
