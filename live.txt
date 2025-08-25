@@ -1,4 +1,31 @@
-小贩之王,#genre#
+心有所依,#genre#
+心有所依 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4uzfg03p/v/11/pv/1/ev/16/flavorId/1_nex624us/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_01ge7rbk/v/11/pv/1/ev/16/flavorId/1_4zdhzxw4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kv5d21i5/v/11/pv/1/ev/16/flavorId/1_o2uvss25/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9ewnr636/v/11/pv/1/ev/16/flavorId/1_rtxmp7yc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_f7sdiy95/v/11/pv/1/ev/16/flavorId/1_l843wuz1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_yon94hc9/v/11/pv/1/ev/16/flavorId/1_fw8hijf8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_288wdyux/v/11/pv/1/ev/16/flavorId/1_399h03li/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_mt41pk4l/v/11/pv/1/ev/16/flavorId/1_pxt24ehq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_6s6gkide/v/11/pv/1/ev/16/flavorId/1_ozbg2x6f/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_samvnrkz/v/11/pv/1/ev/16/flavorId/1_req52d83/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_g3hjahb7/v/11/pv/1/ev/16/flavorId/1_05zq4cxz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_a8xy0f6g/v/21/pv/1/ev/23/flavorId/1_0jmt4od0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_f3u1e71v/v/11/pv/1/ev/16/flavorId/1_k71zq75c/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_j8vg6rnf/v/11/pv/1/ev/16/flavorId/1_t5aq93xq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1frrmgqp/v/11/pv/1/ev/16/flavorId/1_tzafzt1e/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+部落探秘,#genre#
+部落探秘 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_c6f68v6i/v/1/pv/1/ev/15/flavorId/1_q5em5im7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kkxsmwf6/v/1/pv/1/ev/15/flavorId/1_j4ekh2km/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xm4vx8s8/v/1/pv/1/ev/15/flavorId/1_hof96ue7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_g67fxju8/v/1/pv/1/ev/15/flavorId/1_4r0lfb5g/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8oqezcm6/v/1/pv/1/ev/9/flavorId/1_r2p4qj6z/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vq4ojc9t/v/1/pv/1/ev/9/flavorId/1_kqoea4a8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3v62qfvj/v/1/pv/1/ev/9/flavorId/1_zqfdl0ud/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ixkigfko/v/1/pv/1/ev/9/flavorId/1_qd44ab5t/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ofn6v4dn/v/1/pv/1/ev/9/flavorId/1_o95xp5lu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ufz339r1/v/1/pv/1/ev/9/flavorId/1_p8yzh341/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+小贩,#genre#
 小贩之王,http://cdn7.ryplay7.com/20250110/10373_fd763936/2000k/hls/index.m3u8
 小贩之王备,http://vodcnd04.myqqdd.com/20250411/t7TuG5Uk/3755kb/hls/index.m3u8
 带剑女孩,#genre#
