@@ -84,32 +84,12 @@
             "playerType": 2
         },
 {
-      "name": "MQitv",
-      "api": "csp_MQiTV",
-      "ua": "okhttp",
-      "ext": "https://59.125.210.231:4433",
-      "jar": "https://files.catbox.moe/chvyo2.txt",
-      "timeout": 30,
-      "playerType": 1
-      
-    },
-{
             "name": "catsmart",
             "url": "http://live.catvod.com/tv.m3u",
             "ua": "catvod.com",
             "timeout": 30,
             "playerType": 1
         },
-{
-      "name": "沐辰斯玛特",
-      "type": 3,
-      "api": "https://d.kstore.dev/download/14756/python/live_smt.py",
-      "ext": {},
-      "header": {
-        "CLIENT-IP": "127.0.0.1",
-        "X-FORWARDED-FOR": "127.0.0.1"
-      }
-    },
 {
             "name": "欧华直播",
             "type": 0,
@@ -153,14 +133,6 @@
             "name": "4GTV",
             "type": 0,
             "url": "http://php.946985.xyz/jackTV.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "AKTV",
-            "type": 0,
-            "url": "http://aktv.space/live.m3u",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
