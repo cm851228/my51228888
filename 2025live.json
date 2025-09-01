@@ -150,6 +150,14 @@
             "playerType": 2
         },
 {
+            "name": "4GTV",
+            "type": 0,
+            "url": "http://php.946985.xyz/jackTV.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
             "name": "AKTV",
             "type": 0,
             "url": "http://aktv.space/live.m3u",
