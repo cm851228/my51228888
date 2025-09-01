@@ -88,7 +88,7 @@
       "api": "csp_MQiTV",
       "ua": "okhttp",
       "ext": "https://59.125.210.231:4433",
-      "jar": "http://files.catbox.moe/chvyo2.txt",
+      "jar": "https://files.catbox.moe/chvyo2.txt",
       "timeout": 30,
       "playerType": 1
       
@@ -113,7 +113,7 @@
 {
             "name": "欧华直播",
             "type": 0,
-            "url": "http://files.catbox.moe/hppkqj.txt",
+            "url": "https://files.catbox.moe/hppkqj.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
