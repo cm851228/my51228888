@@ -1,5 +1,5 @@
 金刚,#genre#
-金刚大战哥斯拉2,http://svipsvip.ffzy-online5.com/20240514/27243_6a0055ac/3000k/hls/mixed.m3u8
+金刚 第2,http://svipsvip.ffzy-online5.com/20240514/27243_6a0055ac/3000k/hls/mixed.m3u8
 
 活出好命来,#genre#
 活出好命来 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_s0rep895/v/11/pv/1/ev/16/flavorId/1_ckuyyogb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
