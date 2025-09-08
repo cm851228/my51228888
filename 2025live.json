@@ -91,6 +91,14 @@
             "playerType": 1
         },
 {
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okHttp/Mod-1.2.0.1",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
             "name": "欧华直播",
             "type": 0,
             "url": "https://files.catbox.moe/hppkqj.txt",
