@@ -1,3 +1,8 @@
+爱情乱码,#genre#
+爱情乱码 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_f0mj8h68/v/11/pv/1/ev/16/flavorId/1_ji1o5egb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2e7qwvo7/v/21/pv/1/ev/23/flavorId/1_yc6eeq66/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
 南京照相馆tc,#genre#
 南京照相馆 第1,http://8.bf8bf.com/video/nanjingzhaoxiangguan/TC/index.m3u8
 
@@ -6,6 +11,10 @@
 
 金刚,#genre#
 金刚 第1,http://svipsvip.ffzy-online5.com/20240514/27243_6a0055ac/3000k/hls/mixed.m3u8
+
+小贩,#genre#
+小贩之王,http://cdn7.ryplay7.com/20250110/10373_fd763936/2000k/hls/index.m3u8
+小贩之王备,http://vodcnd04.myqqdd.com/20250411/t7TuG5Uk/3755kb/hls/index.m3u8
 
 活出好命来,#genre#
 活出好命来 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_s0rep895/v/11/pv/1/ev/16/flavorId/1_ckuyyogb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -25,6 +34,9 @@
 第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_eyaluuev/v/11/pv/1/ev/16/flavorId/1_g2mivc5v/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_br1kk5yc/v/11/pv/1/ev/16/flavorId/1_jkujct7n/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_z1e61ht7/v/11/pv/1/ev/16/flavorId/1_8vad5wa8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1uj0opkb/v/11/pv/1/ev/16/flavorId/1_z7ggm4pt/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m4e4cryy/v/11/pv/1/ev/16/flavorId/1_34byygjf/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_drykxkvn/v/11/pv/1/ev/16/flavorId/1_fwf0xp3a/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 饭罪现场,#genre#
 饭罪现场 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_haz0ebxm/v/1/pv/1/ev/9/flavorId/1_8r2dqaxu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -38,10 +50,6 @@
 第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jtrxpx4h/v/1/pv/1/ev/9/flavorId/1_6idsctu3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_mwcbuz3q/v/1/pv/1/ev/9/flavorId/1_gdfr2gtu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_6l228rh5/v/1/pv/1/ev/9/flavorId/1_6931ex16/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
-小贩,#genre#
-小贩之王,http://cdn7.ryplay7.com/20250110/10373_fd763936/2000k/hls/index.m3u8
-小贩之王备,http://vodcnd04.myqqdd.com/20250411/t7TuG5Uk/3755kb/hls/index.m3u8
 
 心有所依,#genre#
 心有所依 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4uzfg03p/v/11/pv/1/ev/16/flavorId/1_nex624us/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -249,3 +257,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 第129集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_miegkb5q/v/11/pv/1/ev/16/flavorId/1_god9wny9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第130集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_cpyujpth/v/11/pv/1/ev/16/flavorId/1_4em4nrlk/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第131集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jq3jlx97/v/11/pv/1/ev/16/flavorId/1_ftofdqn2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第132集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rsz664mv/v/11/pv/1/ev/16/flavorId/1_jbpk5zjn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第133集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_mmxzz8ib/v/11/pv/1/ev/16/flavorId/1_0mnxpaw8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第134集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_17fp0yjq/v/11/pv/1/ev/16/flavorId/1_0pvdb65d/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第135集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_27l0kff4/v/11/pv/1/ev/16/flavorId/1_4jzgjyy3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
