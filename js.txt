@@ -231,6 +231,28 @@ CCTV5+,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 
 
+migu AEC,#genre#
+AstroAec,https://migu.188766.xyz/?migutoken=7eb00fba4ebc6cc9dec75b27b5713127&id=AEC&type=dy
+AstroQJ,https://migu.188766.xyz/?migutoken=d590f96f6d0bf8fe354e20090f972409&id=Quanjia&type=dy
+Astro欢喜台,https://migu.188766.xyz/?migutoken=a5cfeab8b39874da6ec90419dcc33ec2&id=Huahee&type=dy
+翡翠台,https://migu.188766.xyz/?migutoken=8006b60f14f3fd28f397e17ad9fd3aef&id=jade_twn&type=dy
+无线新闻台,https://migu.188766.xyz/?migutoken=ea85da4950a81efad44900a39ee73e71&id=inews_twn&type=dy
+TVB星河,https://migu.188766.xyz/?migutoken=0c4d5c3120b544b02d25a4b3ae5c3d1b&id=Xinhe&type=dy
+明珠台,https://migu.188766.xyz/?migutoken=684d9a029e27c2f4ceaf70715b22e45e&id=pearl_twn&type=dy
+华丽翡翠台,https://migu.188766.xyz/?migutoken=0803db76f8b7ef7994b4d4d0a639af71&id=Tvbjade&type=dy
+千禧经典台,https://migu.188766.xyz/?migutoken=10af4ba960cae097900ddc03459c0884&id=Tvbclassic&type=dy
+天映经典2,https://migu.188766.xyz/?migutoken=74f064171c9cea8fcdf304e018638217&id=Celestial2&type=dy
+天映频道,https://migu.188766.xyz/?migutoken=dae1c856ecf07bf5f2ff3150834129a2&id=Celestial&type=dy
+CM+,https://migu.188766.xyz/?migutoken=0d122c49bcc300c570ec52831167ff59&id=Aodhd&type=dy
+凤凰中文,https://migu.188766.xyz/?migutoken=42da77bdf8be3231d1f9a85678965047&id=fhzw&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=148632f006c6df23064069eeeef15209&id=fhzx&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=cbf8f4f16f7ccdc07d7ccd8f9b012692&id=fhhk&pp=1
+CHC家庭影院,https://migu.188766.xyz/?migutoken=ac8ce3f4e16467ad78a7e0eb5d165bed&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy
+CHC动作电影,https://migu.188766.xyz/?migutoken=15b62d4eb926bfe288d8c474470e61d5&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&type=yy
+CHC影迷电影,https://migu.188766.xyz/?migutoken=0bebe24cb9d8d7d34a2edc058f2551bc&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
+
+
+
 
 极速港台,#genre#
 大湾区卫视1,http://goo.bkpcp.top/mg/dwqws
