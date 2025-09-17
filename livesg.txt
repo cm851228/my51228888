@@ -4,7 +4,7 @@
 
 
 电影单片,#genre#
-人生大事 第1,http://p.bvvvvvvvvv1f.com/video/renshengdashi/HD国语/index.m3u8
+人生大事,http://p.bvvvvvvvvv1f.com/video/renshengdashi/HD国语/index.m3u8
 南京照相馆tc版,http://8.bf8bf.com/video/nanjingzhaoxiangguan/TC/index.m3u8
 东极岛tc版,http://8.bf8bf.com/video/dongjidao/TS/index.m3u8
 金刚,http://svipsvip.ffzy-online5.com/20240514/27243_6a0055ac/3000k/hls/mixed.m3u8
