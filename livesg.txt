@@ -1,6 +1,11 @@
 爱情乱码,#genre#
 爱情乱码 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_f0mj8h68/v/11/pv/1/ev/16/flavorId/1_ji1o5egb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2e7qwvo7/v/21/pv/1/ev/23/flavorId/1_yc6eeq66/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_it131yc7/v/11/pv/1/ev/16/flavorId/1_kqjtpzw9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7u8qjm3d/v/11/pv/1/ev/16/flavorId/1_58v91wrm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_6qzosonp/v/11/pv/1/ev/16/flavorId/1_suhct6ns/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_piw002az/v/11/pv/1/ev/16/flavorId/1_owi4ih8a/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5s55dthj/v/11/pv/1/ev/16/flavorId/1_4q98z30n/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 活出好命来,#genre#
@@ -248,6 +253,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 第133集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_mmxzz8ib/v/11/pv/1/ev/16/flavorId/1_0mnxpaw8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第134集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_17fp0yjq/v/11/pv/1/ev/16/flavorId/1_0pvdb65d/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第135集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_27l0kff4/v/11/pv/1/ev/16/flavorId/1_4jzgjyy3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第136集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ug4cayfo/v/11/pv/1/ev/16/flavorId/1_tf5ltz8p/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第137集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dyfcbs17/v/11/pv/1/ev/16/flavorId/1_pnjmo7xz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第138集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fwiqfufj/v/11/pv/1/ev/16/flavorId/1_srxjkpx5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第139集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_p4kuxx9i/v/11/pv/1/ev/16/flavorId/1_r1142k8l/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
 
 
 电影单片,#genre#
