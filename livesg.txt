@@ -261,6 +261,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 电影单片,#genre#
+再见李可乐,http://vip.dytt-live.com/20250502/5554_b3af1c79/3000k/hls/mixed.m3u8
 叫一声妈妈,http://p.bvvvvvvv7f.com/video/jiaoyishengmama/HD/index.m3u8
 古惑仔3之只手遮天,http://c1.rrcdnbf2.com/video/guhuozi3zhizhishouzhetian/HD粤语/index.m3u8
 破地狱,http://p.bvvvvvvv7f.com/video/podiyu/HD粤语/index.m3u8
