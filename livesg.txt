@@ -288,7 +288,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 大顯神通,http://s1.bfzycdn.com/video/zuijiapaidang2daxianshentong/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 打工皇帝,http://cdn3.vipzyk-video.com/20220513/21615_4f150c12/1000k/hls/mixed.m3u8
 零号追杀,http://v8.tlkqc.com/wjv8/202309/16/TexzCgLC9A1/video/1000k_720/hls/index.m3u8
-古惑仔1,http://b2.bdzybf22.com/videos/202503/12/67d156fa79559e337d6d5a4e/c559e7/index.m3u8
+古惑仔1,http://v3.tlkqc.com/wjv3/202312/01/jfZVicnxGY2/video/1000k_720/hls/index.m3u8
 古惑仔3之只手遮天,http://c1.rrcdnbf2.com/video/guhuozi3zhizhishouzhetian/HD粤语/index.m3u8
 破地狱,http://p.bvvvvvvv7f.com/video/podiyu/HD粤语/index.m3u8
 老笠,http://s5.bfzycdn.com/video/laoli/HD%E5%9B%BD%E8%AF%AD/index.m3u8
