@@ -289,6 +289,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 白头山,http://vip.dytt-kan.com/20250607/478_cfee3986/3000k/hls/mixed.m3u8
 愤怒的黄牛,http://vip.lz-cdn16.com/20230623/28660_d8ab10c2/2000k/hls/mixed.m3u8
 坏家伙们,http://vip.dytt-kan.com/20250610/558_1bb91f73/3000k/hls/mixed.m3u8
+恶意编年史,http://play.ly166.com:65/videos/20250119/678c67a41672d95e8355bcea/cace60/index.m3u8
+兄弟,http://cdn5.vipzyk-video.com/20220521/17290_d85b958a/1000k/hls/mixed.m3u8
 奇妙幽灵,http://vip.dytt-kan.com/20250711/2364_f7e2b2b7/3000k/hls/mixed.m3u8
 向日葵,http://vip.ffzy-online2.com/20230524/37757_d2799d74/2000k/hls/mixed.m3u8
 韩剧爱回家,http://vip.lz-cdn16.com/20230318/13255_6bdf4b39/2000k/hls/mixed.m3u8
