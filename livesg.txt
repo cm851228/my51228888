@@ -278,6 +278,17 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 叫一声妈妈,http://p.bvvvvvvv7f.com/video/jiaoyishengmama/HD/index.m3u8
 平凡英雄,http://s1.bfzycdn.com/video/pingfanyingxiong2022/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 真愛找麻煩,http://vip.dytt-live.com/20250511/6347_bc1ad6e8/3000k/hls/mixed.m3u8
+釜山行1,http://c1.ddbbffcdn.com/video/fushanxing/HD%E4%B8%AD%E5%AD%97/index.m3u8
+釜山行2,http://vip.dytt-cine.com/20250523/25661_54526e43/3000k/hls/mixed.m3u8
+恶人传,http://vip.dytt-kan.com/20250610/551_7f24d240/3000k/hls/mixed.m3u8
+邻居,http://v1.longshengtea.com/yyv1/202308/20/THwES320vJ2/video/2000k_1080/hls/index.m3u8
+犯罪都市1,http://vip.dytt-cine.com/20250521/25513_09007e0c/3000k/hls/mixed.m3u8
+犯罪都市2,http://vip.dytt-cine.com/20250521/25511_d3a80d22/3000k/hls/mixed.m3u8
+犯罪都市3,http://vip.dytt-cine.com/20250521/25512_f935853f/3000k/hls/mixed.m3u8
+犯罪都市4,http://vip.dytt-cine.com/20250521/25515_788719cc/3000k/hls/mixed.m3u8
+白头山,http://vip.dytt-kan.com/20250607/478_cfee3986/3000k/hls/mixed.m3u8
+愤怒的黄牛,http://vip.lz-cdn16.com/20230623/28660_d8ab10c2/2000k/hls/mixed.m3u8
+坏家伙们,http://vip.dytt-kan.com/20250610/558_1bb91f73/3000k/hls/mixed.m3u8
 奇妙幽灵,http://vip.dytt-kan.com/20250711/2364_f7e2b2b7/3000k/hls/mixed.m3u8
 向日葵,http://vip.ffzy-online2.com/20230524/37757_d2799d74/2000k/hls/mixed.m3u8
 韩剧爱回家,http://vip.lz-cdn16.com/20230318/13255_6bdf4b39/2000k/hls/mixed.m3u8
