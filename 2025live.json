@@ -44,6 +44,14 @@
             "playerType": 1
         },
 {
+            "name": "线更油管",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/exo.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        }, 
+{
             "name": "线更MV",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt",
@@ -3030,6 +3038,17 @@
             "searchable": 0,
             "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive3.json"
+        },
+{
+            "key": "py_supjav",
+            "name": "supjav18+(T4)",
+            "type": 4,
+            "api": "http://py.doube.eu.org/spider?site=BadNews",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "playerType": 1,
+            "changeable": 0
         },
 {
             "key": "zp100",
