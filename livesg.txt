@@ -304,7 +304,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 瘦虎肥龙,http://v13.qrssv.com/202506/06/jCKcVJ35pX20/video/2000k_1080/hls/index.m3u8
 审死官,http://s6.bfzycdn.com/video/shensiguan/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 大顯神通,http://s1.bfzycdn.com/video/zuijiapaidang2daxianshentong/HD%E7%B2%A4%E8%AF%AD/index.m3u8
-打工皇帝,http://cdn3.vipzyk-video.com/20220513/21615_4f150c12/1000k/hls/mixed.m3u8
+打工皇帝,http://vip.dytt-film.com/20250117/288_48aedb88/3000k/hls/mixed.m3u8
 旺角监狱,http://cdn13.hdzyk-cdn.com/20221216/1096_03b682ea/2000k/hls/mixed.m3u8
 监狱风云1,http://vip.lz-cdn3.com/20230114/17168_e01bb4d8/1800k/hls/mixed.m3u8
 监狱风云2,http://vip.lz-cdn3.com/20230114/17170_ada58afc/1800k/hls/mixed.m3u8
