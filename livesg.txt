@@ -304,6 +304,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 韩剧爱回家,http://vip.lz-cdn16.com/20230318/13255_6bdf4b39/2000k/hls/mixed.m3u8
 儿童食堂,http://tyyszywvod5.com/videos/202412/30/6771cb1b8b3ec726a9faa3d0/22g46e/index.m3u8
 鸡同鸭讲,http://v3.longshengtea.com/yyv3/202401/03/2RzaUhq6p02/video/2000k_1080/hls/index.m3u8
+合家欢,http://v6.qrssv.com/202504/10/j8wyR3cBNC24/video/2000k_1080/hls/index.m3u8
+鐵板燒,http://v4.qrssv.com/202504/06/Ff9tGggVDE24/video/2000k_1080/hls/index.m3u8
+半斤八兩,http://tyyszywvod5.com/videos/202503/09/67cc8ee6643269f77a1fb7cb/b67c4c/index.m3u8
+賣身契,http://play.xluuss.com/play/Xe08XQKe/index.m3u8
+鬼馬雙星,http://v6.qrssv.com/202504/27/tiSLYKkwNf19/video/2000k_1080/hls/index.m3u8
 瘦虎肥龙,http://v13.qrssv.com/202506/06/jCKcVJ35pX20/video/2000k_1080/hls/index.m3u8
 审死官,http://s6.bfzycdn.com/video/shensiguan/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 大顯神通,http://s1.bfzycdn.com/video/zuijiapaidang2daxianshentong/HD%E7%B2%A4%E8%AF%AD/index.m3u8
