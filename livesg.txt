@@ -303,7 +303,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 向日葵,http://vip.ffzy-online2.com/20230524/37757_d2799d74/2000k/hls/mixed.m3u8
 韩剧爱回家,http://vip.lz-cdn16.com/20230318/13255_6bdf4b39/2000k/hls/mixed.m3u8
 儿童食堂,http://tyyszywvod5.com/videos/202412/30/6771cb1b8b3ec726a9faa3d0/22g46e/index.m3u8
-鸡同鸭讲,http://v3.longshengtea.com/yyv3/202401/03/2RzaUhq6p02/video/2000k_1080/hls/index.m3u8
+鸡同鸭讲,http://sd5.taopianplay1.com:43333/c56b1bc09da3/HD/2023-07-07/1/4a3b48579583/69479a49ef5d/playlist.m3u8
 合家欢,http://v6.qrssv.com/202504/10/j8wyR3cBNC24/video/2000k_1080/hls/index.m3u8
 鐵板燒,http://v4.qrssv.com/202504/06/Ff9tGggVDE24/video/2000k_1080/hls/index.m3u8
 半斤八兩,http://tyyszywvod5.com/videos/202503/09/67cc8ee6643269f77a1fb7cb/b67c4c/index.m3u8
