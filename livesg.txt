@@ -274,10 +274,17 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 电影单片,#genre#
 再见李可乐,http://vip.dytt-live.com/20250502/5554_b3af1c79/3000k/hls/mixed.m3u8
+向阳花,http://tyyszywvod5.com/videos/202505/23/68306684bb9a31b0b3fe28d1/gf04df/index.m3u8
+人生大事,http://p.bvvvvvvvvv1f.com/video/renshengdashi/HD国语/index.m3u8
+遙望南方的童年,http://vip.lzcdn2.com/20220417/3676_97d5375e/1200k/hls/mixed.m3u8
+我不是药神1,http://b2.bdzybf22.com/videos/202504/06/67ed443f296ce36fb75b6df1/e2b8ge/index.m3u8
+我不是药神2,http://vod.360zyx.vip/20250130/Ap1iIEXp/3303kb/hls/index.m3u8
+烽火地雷战,http://p.bvvvvvvvvv1f.com/video/fenghuodileizhan/HD国语/index.m3u8
 狼圖騰,http://vip.dytt-film.com/20250126/2681_dcda54e2/3000k/hls/mixed.m3u8
 叫一声妈妈,http://p.bvvvvvvv7f.com/video/jiaoyishengmama/HD/index.m3u8
 平凡英雄,http://s1.bfzycdn.com/video/pingfanyingxiong2022/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 真愛找麻煩,http://vip.dytt-live.com/20250511/6347_bc1ad6e8/3000k/hls/mixed.m3u8
+宠爱,http://c1.rrcdnbf5.com/video/chongai2024/HD%E4%B8%AD%E5%AD%97/index.m3u8
 釜山行1,http://c1.ddbbffcdn.com/video/fushanxing/HD%E4%B8%AD%E5%AD%97/index.m3u8
 釜山行2,http://vip.dytt-cine.com/20250523/25661_54526e43/3000k/hls/mixed.m3u8
 恶人传,http://vip.dytt-kan.com/20250610/551_7f24d240/3000k/hls/mixed.m3u8
@@ -296,14 +303,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 向日葵,http://vip.ffzy-online2.com/20230524/37757_d2799d74/2000k/hls/mixed.m3u8
 韩剧爱回家,http://vip.lz-cdn16.com/20230318/13255_6bdf4b39/2000k/hls/mixed.m3u8
 儿童食堂,http://tyyszywvod5.com/videos/202412/30/6771cb1b8b3ec726a9faa3d0/22g46e/index.m3u8
-人生大事,http://p.bvvvvvvvvv1f.com/video/renshengdashi/HD国语/index.m3u8
-遙望南方的童年,http://vip.lzcdn2.com/20220417/3676_97d5375e/1200k/hls/mixed.m3u8
-我不是药神1,http://b2.bdzybf22.com/videos/202504/06/67ed443f296ce36fb75b6df1/e2b8ge/index.m3u8
-我不是药神2,http://vod.360zyx.vip/20250130/Ap1iIEXp/3303kb/hls/index.m3u8
-烽火地雷战,http://p.bvvvvvvvvv1f.com/video/fenghuodileizhan/HD国语/index.m3u8
+鸡同鸭讲,http://v3.longshengtea.com/yyv3/202401/03/2RzaUhq6p02/video/2000k_1080/hls/index.m3u8
 瘦虎肥龙,http://v13.qrssv.com/202506/06/jCKcVJ35pX20/video/2000k_1080/hls/index.m3u8
 审死官,http://s6.bfzycdn.com/video/shensiguan/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 大顯神通,http://s1.bfzycdn.com/video/zuijiapaidang2daxianshentong/HD%E7%B2%A4%E8%AF%AD/index.m3u8
+轰天皇家将,http://v4.qdhdcate.com/yyv4/202504/10/SLUmLm2w5124/video/2000k_1080/hls/index.m3u8
 打工皇帝,http://vip.dytt-film.com/20250117/288_48aedb88/3000k/hls/mixed.m3u8
 旺角监狱,http://cdn13.hdzyk-cdn.com/20221216/1096_03b682ea/2000k/hls/mixed.m3u8
 监狱风云1,http://vip.lz-cdn3.com/20230114/17168_e01bb4d8/1800k/hls/mixed.m3u8
