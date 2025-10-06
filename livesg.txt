@@ -1,6 +1,32 @@
 命运使者,#genre#
 命运使者 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_uej7iyep/v/21/pv/1/ev/23/flavorId/1_6877g9f0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dnyf1l9l/v/11/pv/1/ev/16/flavorId/1_7ajepcs7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fn0ele03/v/11/pv/1/ev/16/flavorId/1_xhrhtxe9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_hat9ufwy/v/11/pv/1/ev/16/flavorId/1_g069uqty/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kw5ovaoz/v/11/pv/1/ev/16/flavorId/1_a8j9av3m/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_z0yple3n/v/11/pv/1/ev/16/flavorId/1_sk5jla0d/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_t1mobm1a/v/11/pv/1/ev/16/flavorId/1_ucwu3thd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+
+
+开门见山,#genre#
+开门见山 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wadj5zls/v/1/pv/1/ev/9/flavorId/1_x3c2gdyi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+
+开门见餐,#genre#
+开门见餐 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_sdmg4aum/v/2/pv/1/ev/17/flavorId/0_hp5iq6rk/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_pzadhstp/v/2/pv/1/ev/17/flavorId/0_tdunougd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_pu04mijq/v/2/pv/1/ev/17/flavorId/0_3oqkgrrd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_qoh6c09s/v/2/pv/1/ev/17/flavorId/0_euzqewm4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_qqoto17z/v/2/pv/1/ev/17/flavorId/0_63tv4f4s/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_sontl7vv/v/12/pv/1/ev/26/flavorId/0_qu2vg7y6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_mxitukfn/v/2/pv/1/ev/17/flavorId/0_5kf0eve1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_7h9w5eas/v/12/pv/1/ev/26/flavorId/0_d1wc2k3s/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_f0lytk33/v/2/pv/1/ev/24/flavorId/0_a34hbmt3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_8nef3yhf/v/11/pv/1/ev/26/flavorId/0_3u2jzgc6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
 
 
 爱情乱码,#genre#
@@ -269,11 +295,18 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 第141集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_apbd4dbl/v/11/pv/1/ev/16/flavorId/1_zfy13lv9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第142集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_63tj9xnr/v/11/pv/1/ev/16/flavorId/1_y7ylwr6g/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第143集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xlqx1i9n/v/11/pv/1/ev/16/flavorId/1_i91lxhac/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第144集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_utbpgrc9/v/11/pv/1/ev/16/flavorId/1_y5masljm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第145集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wrqwrkfs/v/11/pv/1/ev/16/flavorId/1_czu7iqdm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第146集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jiva3iys/v/11/pv/1/ev/16/flavorId/1_q7avn32x/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+
 
 
 
 电影单片,#genre#
 再见李可乐,http://vip.dytt-live.com/20250502/5554_b3af1c79/3000k/hls/mixed.m3u8
+默殺,http://cdn.wlcdn99.com:777/4d62963c/index.m3u8
 向阳花,http://tyyszywvod5.com/videos/202505/23/68306684bb9a31b0b3fe28d1/gf04df/index.m3u8
 人生大事,http://p.bvvvvvvvvv1f.com/video/renshengdashi/HD国语/index.m3u8
 遙望南方的童年,http://vip.lzcdn2.com/20220417/3676_97d5375e/1200k/hls/mixed.m3u8
