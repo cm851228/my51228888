@@ -187,6 +187,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 新国单片,#genre#
+过江新娘,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_n3jpnyqk/v/1/pv/1/ev/16/flavorId/1_m9uxlx6i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 钱不够用1,http://v5.qrssv.com/202407/31/47ALKgJNXr7/video/2000k_1080/hls/index.m3u8
 钱不够用2,http://v5.fentvoss.com/yyv5/202407/31/j6CB5RT4w07/video/2000k_1080/hls/index.m3u8
 钱不够用3,https://ukzy.ukubf3.com/20240617/BX5lwfAV/2000kb/hls/index.m3u8?skipl=1
