@@ -1568,6 +1568,10 @@ sukan,video://https://online-television.net/zh/4731-sukan-rtm.html
 
 
 Njavtv无码_q,#genre#
+女同皂剧,http://surrit.com/7b7dd525-4ef8-458c-bffe-f6068e27b165/1280x720/video.m3u8
+Akari Satsuki1,http://surrit.com/c1d07945-bc2d-43ae-958d-4e83f63b8573/1280x720/video.m3u8
+已婚女人,http://surrit.com/038791ff-2a62-4dd8-8abd-80ca842efc6f/1280x720/video.m3u8
+古瀬玲,http://surrit.com/b72cb5b5-ffd8-41c9-814c-3e42f49c822d/1280x720/video.m3u8
 大桥由香,http://surrit.com/c3de7ce3-e9c5-4e9e-a358-6d890b10ce7b/1280x720/video.m3u8
 七濑,http://surrit.com/b22cd6d2-21b5-48d6-88f0-3914d9e06d5e/1280x720/video.m3u8
 森田美优,http://surrit.com/b5f17aa8-80dd-429f-8e69-89532327b9d1/1280x720/video.m3u8
@@ -1703,6 +1707,35 @@ Tomoka Kudaka,http://surrit.com/278447d0-1b41-493c-85d4-2036d254ba9d/1080p/video
 萩原瑛香,http://surrit.com/2c7c1d2a-bf50-4acd-b8f3-c08b09d4f570/1080p/video.m3u8
 广濑步美,http://surrit.com/ba5c6501-bbfe-49e1-bcd6-dfab16e6fc0b/1080p/video.m3u8
 
+
+
+女同志_q,#genre#
+加藤椿,http://surrit.com/f8a8143c-e46d-4727-b031-0e7386f736db/1280x720/video.m3u8
+美园和花,http://surrit.com/e3dc3033-7554-4060-b293-2ab84b00d30b/1080p/video.m3u8
+大岛优香1,http://surrit.com/5b9d09e4-0cdf-4121-9573-9999d9aa8135/720p/video.m3u8
+宇佐美美音大月响,http://surrit.com/21133e5e-55f1-41fb-9f1b-63b7a4323e40/1080p/video.m3u8
+月野香澄,http://surrit.com/a27c35c3-2745-4e3d-b16b-1741fc4c2e55/720p/video.m3u8
+天马ゆい,http://surrit.com/9162b97f-9177-4558-8f57-4a15348e4e5c/720p/video.m3u8
+成宫彩叶,http://surrit.com/419cdf6b-3975-44b5-a7b0-ad65c03da04a/1280x720/video.m3u8
+武藤彩香,http://surrit.com/29678ff1-d303-4de0-a68c-ace5aec5f3a0/1280x720/video.m3u8
+一条美绪,http://surrit.com/41fd9a20-ef72-48d8-a140-85a1bb83e654/1280x720/video.m3u8
+水原丽子,http://surrit.com/3d5adac7-44f8-4f42-8952-d1847ad1181f/1280x720/video.m3u8
+翔田千里,http://surrit.com/bf48c021-6225-4d28-84cf-8dafd9b26f5b/1280x720/video.m3u8
+香苗玲音,http://surrit.com/c8c3244e-7f3b-470d-9c95-32698bbaafa1/1280x720/video.m3u8
+河奈亚依,http://surrit.com/3a6dd7ef-2370-4d66-90ab-8da06e00c111/1280x720/video.m3u8
+有村希,http://surrit.com/40acd4ae-3906-45ea-8dd2-c6df8abfed31/1280x720/video.m3u8
+平冈里枝子,http://surrit.com/815179e6-539f-4b14-8eca-796af10f5201/1280x720/video.m3u8
+安部未华子,http://surrit.com/278cb6eb-1c34-4496-b485-fb9f113e4c3b/1280x720/video.m3u8
+冬爱琴音,http://surrit.com/7159fda0-1d2a-4dfc-874d-41fe0a97a1c7/842x480/video.m3u8
+结希玲衣,http://surrit.com/7cda4620-9f18-43ca-a98f-f3ed924d6a35/1280x720/video.m3u8
+加藤椿,http://surrit.com/04e17390-d198-4811-8f98-e9df4a86c080/1280x720/video.m3u8
+西野美雪,http://surrit.com/1a93a2b4-4f47-47c8-a49e-f1c55af6cc86/1280x720/video.m3u8
+原さくら,http://surrit.com/a360f0bd-e701-409e-9574-9b7dcaf4590e/1280x720/video.m3u8
+赤渕莲,http://surrit.com/45c522ec-c4d3-433f-98f4-d0b657ca0771/1280x720/video.m3u8
+黑柳美沙子,http://surrit.com/78b56e0f-1ffd-4d51-a827-858e9c3592f9/1280x720/video.m3u8
+平清香,http://surrit.com/d2ba2ff4-1f88-418f-84a8-923a3ec01ce4/1280x720/video.m3u8
+星奈爱,http://surrit.com/03357a20-6928-47da-8161-006de788cd44/1280x720/video.m3u8
+西本明纱友田彩香,http://surrit.com/c2467596-b8c9-46f0-b2bf-c95166bfd164/720p/video.m3u8
 
 
 
