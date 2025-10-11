@@ -244,6 +244,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 外国单片,#genre#
+黑暗边缘,http://s1.bfzycdn.com/video/heianbianyuan/HD中字/index.m3u8
 我的天才寶貝,http://s6.bfzycdn.com/video/wodetiancaibaobei/HD%E4%B8%AD%E5%AD%97/index.m3u8
 天堂真的存在,http://vip.dytt-film.com/20250311/12118_5407aabf/3000k/hls/mixed.m3u8
 火辣奇多的誕生,http://s6.bfzycdn.com/video/relaqiduodedansheng/HD/index.m3u8
@@ -262,6 +263,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 韩日单片,#genre#
+等着你,http://1080p.huyall.com/play/xe736yBe/index.m3u8
+不可饶恕,http://ukzy.ukubf4.com/20220407/pmD8wX8g/2000kb/hls/index.m3u8
 宠爱,http://c1.rrcdnbf5.com/video/chongai2024/HD%E4%B8%AD%E5%AD%97/index.m3u8
 釜山行1,http://c1.ddbbffcdn.com/video/fushanxing/HD%E4%B8%AD%E5%AD%97/index.m3u8
 釜山行2,http://vip.dytt-cine.com/20250523/25661_54526e43/3000k/hls/mixed.m3u8
