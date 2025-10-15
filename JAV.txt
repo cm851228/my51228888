@@ -145,9 +145,6 @@ Tomoka Kudaka,http://surrit.com/278447d0-1b41-493c-85d4-2036d254ba9d/1080p/video
 
 
 女同志,#genre#
-宇流木さらら,http://surrit.com/d5dde218-8a81-44fd-890c-c91ea4fc219a/1080p/video.m3u8
-西野め,http://surrit.com/dac956a6-a135-4959-9357-58ece384ab0b/1080p/video.m3u8
-波多野结衣3,http://surrit.com/90d4f799-ca3c-4b8e-8f13-2d2b6a3e2c47/1080p/video.m3u8
 小月惠奈,http://surrit.com/0fb13150-36a2-4c9b-a1e7-e5fe7510564a/1080p/video.m3u8
 友田绫香白石桃,http://surrit.com/7fce22fd-5a40-44c5-adb8-800ef5f6dba1/1080p/video.m3u8
 由良加奈雅子里奈,http://surrit.com/e143badf-33d9-4c80-a797-2a688700eba2/1080p/video.m3u8
@@ -246,6 +243,9 @@ Tomoka Kudaka,http://surrit.com/278447d0-1b41-493c-85d4-2036d254ba9d/1080p/video
 平清香,http://surrit.com/d2ba2ff4-1f88-418f-84a8-923a3ec01ce4/1280x720/video.m3u8
 星奈爱,http://surrit.com/03357a20-6928-47da-8161-006de788cd44/1280x720/video.m3u8
 西本明纱友田彩香,http://surrit.com/c2467596-b8c9-46f0-b2bf-c95166bfd164/720p/video.m3u8
+宇流木さらら,http://surrit.com/d5dde218-8a81-44fd-890c-c91ea4fc219a/1080p/video.m3u8
+西野め,http://surrit.com/dac956a6-a135-4959-9357-58ece384ab0b/1080p/video.m3u8
+波多野结衣3,http://surrit.com/90d4f799-ca3c-4b8e-8f13-2d2b6a3e2c47/1080p/video.m3u8
 萌波铃,http://surrit.com/7d8ceb55-fa99-45f4-982d-68ec55039532/1080p/video.m3u8
 
 
