@@ -1,3 +1,16 @@
+你好再见,#genre#
+你好再见 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_t3ftazf0/v/11/pv/1/ev/16/flavorId/1_sybs54lm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ju6wk2xk/v/11/pv/1/ev/16/flavorId/1_5l45pwpz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+
+开门见山,#genre#
+开门见山 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wadj5zls/v/1/pv/1/ev/9/flavorId/1_x3c2gdyi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kl5grej9/v/1/pv/1/ev/9/flavorId/1_11s7ragq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m8ejjejo/v/1/pv/1/ev/9/flavorId/1_tqftjf8j/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+
 命运使者,#genre#
 命运使者 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_uej7iyep/v/21/pv/1/ev/23/flavorId/1_6877g9f0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dnyf1l9l/v/11/pv/1/ev/16/flavorId/1_7ajepcs7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -11,13 +24,9 @@
 第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nof95tv2/v/11/pv/1/ev/16/flavorId/1_ov1heu3n/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rf9sgs0p/v/11/pv/1/ev/16/flavorId/1_002l3qf5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qbcwxqe9/v/11/pv/1/ev/16/flavorId/1_5mqca7bv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
-
-
-
-开门见山,#genre#
-开门见山 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wadj5zls/v/1/pv/1/ev/9/flavorId/1_x3c2gdyi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kl5grej9/v/1/pv/1/ev/9/flavorId/1_11s7ragq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ui7000bn/v/11/pv/1/ev/16/flavorId/1_5npypbua/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xmzeibsz/v/11/pv/1/ev/16/flavorId/1_0dhu9oa6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_srwytmjp/v/11/pv/1/ev/16/flavorId/1_clhmxd9q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
@@ -230,6 +239,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 中国单片,#genre#
+美丽的大脚,http://s1.bfzycdn.com/video/meilidedajiao/HD/index.m3u8
 再见李可乐,http://vip.dytt-live.com/20250502/5554_b3af1c79/3000k/hls/mixed.m3u8
 人生大事,http://p.bvvvvvvvvv1f.com/video/renshengdashi/HD国语/index.m3u8
 小小的我,http://vod.360zyx.vip/20250131/H3yvncpM/1001kb/hls/index.m3u8
@@ -272,6 +282,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 韩日单片,#genre#
+國際市場,http://s6.bfzycdn.com/video/guojishichang/HD中字/index.m3u8
+七日綁票令,http://cdn6.vipzyk-video.com/20220904/12894_6c18b4f8/1000k/hls/mixed.m3u8
 丈夫得了抑郁症,http://3mzm3u8.com/20250929/OMc817P9/2940kb/hls/index.m3u8
 等着你,http://1080p.huyall.com/play/xe736yBe/index.m3u8
 不可饶恕,http://ukzy.ukubf4.com/20220407/pmD8wX8g/2000kb/hls/index.m3u8
