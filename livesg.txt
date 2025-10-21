@@ -215,6 +215,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 韩日单片,#genre#
 父亲与伊藤先生,http://s1.bfzycdn.com/video/fuqinyuyitengxiansheng/HD中字/index.m3u8
+率性而活,http://s1.bfzycdn.com/video/lvxingerhuo/HD中字/index.m3u8
 雪路,http://ukzy.ukubf4.com/20220407/25QcblKA//2000kb/hls/index.m3u8
 祸乱,http://s5.bfzycdn.com/video/huoluan/中字/index.m3u8
 对我而言非常珍贵的你,http://s6.bfzycdn.com/video/duiwolaishuofeichangzhenguideni/HD中字/index.m3u8
@@ -249,6 +250,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 中国单片,#genre#
+坚如磐石,http://tyyszywvod5.com/videos/202501/16/67881a4e24f068e79f1d15aa/74e2e5/index.m3u8
 灿烂的她,http://tyyszywvod5.com/videos/202501/16/6788251424f068e79f1e1aac/cdgc16/index.m3u8
 南极之恋,http://s1.bfzycdn.com/video/nanjizhilian/HD国语版/index.m3u8
 日照好人,http://s1.bfzycdn.com/video/rizhaohaoren/HD国语/index.m3u8
@@ -276,6 +278,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 外国单片,#genre#
+追风筝的人,http://s1.bfzycdn.com/video/zhuifengzhengderen/HD中字/index.m3u8
+僵尸肖恩,http://s1.bfzycdn.com/video/jiangshixiaoen/HD中字/index.m3u8
+童心列車,http://tyyszywvod5.com/videos/202501/16/67886ba084120ce729ea5b1f/ed36gf/index.m3u8
+羊急了也跳墙,http://c1.rrcdnbf4.com/video/yangjiliaoyetiaoqiang/HD中字/index.m3u8
+天赐宝贝,http://s6.bfzycdn.com/video/tiancibaobei/HD/index.m3u8
 黑暗边缘,http://s1.bfzycdn.com/video/heianbianyuan/HD中字/index.m3u8
 我的天才寶貝,http://s6.bfzycdn.com/video/wodetiancaibaobei/HD%E4%B8%AD%E5%AD%97/index.m3u8
 天堂真的存在,http://vip.dytt-film.com/20250311/12118_5407aabf/3000k/hls/mixed.m3u8
