@@ -214,7 +214,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 韩日单片,#genre#
+父亲与伊藤先生,http://s1.bfzycdn.com/video/fuqinyuyitengxiansheng/HD中字/index.m3u8
 雪路,http://ukzy.ukubf4.com/20220407/25QcblKA//2000kb/hls/index.m3u8
+祸乱,http://s5.bfzycdn.com/video/huoluan/中字/index.m3u8
 对我而言非常珍贵的你,http://s6.bfzycdn.com/video/duiwolaishuofeichangzhenguideni/HD中字/index.m3u8
 你是我的命运,http://ukzy.ukubf4.com/20220407/LNpp8FxT/2000kb/hls/index.m3u8
 我脑海中的橡皮擦,http://s4.bfzycdn.com/video/wonaozhongdexiangpica/HD中字/index.m3u8
@@ -247,6 +249,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 中国单片,#genre#
+灿烂的她,http://tyyszywvod5.com/videos/202501/16/6788251424f068e79f1e1aac/cdgc16/index.m3u8
+南极之恋,http://s1.bfzycdn.com/video/nanjizhilian/HD国语版/index.m3u8
 日照好人,http://s1.bfzycdn.com/video/rizhaohaoren/HD国语/index.m3u8
 美丽的大脚,http://s1.bfzycdn.com/video/meilidedajiao/HD/index.m3u8
 再见李可乐,http://vip.dytt-live.com/20250502/5554_b3af1c79/3000k/hls/mixed.m3u8
