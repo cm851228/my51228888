@@ -254,6 +254,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 中国单片,#genre#
+误杀2,http://s1.bfzycdn.com/video/wusha2/HD国语版/index.m3u8
 滿意的幸福,http://play.ly166.com:65/videos/20250121/678f1ca91353f55eafa4f8b8/09b6eg/index.m3u8
 唐山大地震,http://s1.bfzycdn.com/video/tangshandadizhen/HD国语/index.m3u8
 坚如磐石,http://tyyszywvod5.com/videos/202501/16/67881a4e24f068e79f1d15aa/74e2e5/index.m3u8
@@ -313,6 +314,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 香港单片,#genre#
+阿炳心想事成,http://play.ly166.com:65/videos/20250118/678c67c01672d95e8355ded2/c8883f/index.m3u8
+心想事成,http://mzm3u8.com/20250115/01h82mbJ/1100kb/hls/index.m3u8
 树大招风,http://ukzy.ukubf4.com/20220407/SN1KrLdL/2000kb/hls/index.m3u8?_=1746110455697
 合家欢,http://v6.qrssv.com/202504/10/j8wyR3cBNC24/video/2000k_1080/hls/index.m3u8
 鐵板燒,http://v4.qrssv.com/202504/06/Ff9tGggVDE24/video/2000k_1080/hls/index.m3u8
