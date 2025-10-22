@@ -233,7 +233,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 宠爱,http://c1.rrcdnbf5.com/video/chongai2024/HD%E4%B8%AD%E5%AD%97/index.m3u8
 釜山行1,http://c1.ddbbffcdn.com/video/fushanxing/HD%E4%B8%AD%E5%AD%97/index.m3u8
 釜山行2,http://vip.dytt-cine.com/20250523/25661_54526e43/3000k/hls/mixed.m3u8
-恶人传,http://vip.dytt-kan.com/20250610/551_7f24d240/3000k/hls/mixed.m3u8
+恶人传,http://s2.bfzycdn.com/video/erenchuan/HD中字/index.m3u8
 邻居,http://v1.longshengtea.com/yyv1/202308/20/THwES320vJ2/video/2000k_1080/hls/index.m3u8
 犯罪都市1,http://vip.dytt-cine.com/20250521/25513_09007e0c/3000k/hls/mixed.m3u8
 犯罪都市2,http://vip.dytt-cine.com/20250521/25511_d3a80d22/3000k/hls/mixed.m3u8
