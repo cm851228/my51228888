@@ -215,6 +215,10 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 韩日单片,#genre#
 父亲与伊藤先生,http://s1.bfzycdn.com/video/fuqinyuyitengxiansheng/HD中字/index.m3u8
+第十一个妈妈,http://vip1.lz-cdn7.com/20230107/13283_be9f823f/2000k/hls/mixed.m3u8
+白兔糖,http://c1.ddbbffcdn.com/video/baitutang/HD中字/index.m3u8
+帅哥们,http://c1.ddbbffcdn.com/video/shuaigemen/HD/index.m3u8
+比悲伤更悲伤的故事,http://ukzy.ukubf4.com/20220408/y1EkQ6j9/2000kb/hls/index.m3u8
 率性而活,http://s1.bfzycdn.com/video/lvxingerhuo/HD中字/index.m3u8
 雪路,http://ukzy.ukubf4.com/20220407/25QcblKA//2000kb/hls/index.m3u8
 祸乱,http://s5.bfzycdn.com/video/huoluan/中字/index.m3u8
@@ -250,6 +254,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 中国单片,#genre#
+唐山大地震,http://s1.bfzycdn.com/video/tangshandadizhen/HD国语/index.m3u8
 坚如磐石,http://tyyszywvod5.com/videos/202501/16/67881a4e24f068e79f1d15aa/74e2e5/index.m3u8
 灿烂的她,http://tyyszywvod5.com/videos/202501/16/6788251424f068e79f1e1aac/cdgc16/index.m3u8
 南极之恋,http://s1.bfzycdn.com/video/nanjizhilian/HD国语版/index.m3u8
@@ -280,6 +285,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 外国单片,#genre#
 追风筝的人,http://s1.bfzycdn.com/video/zhuifengzhengderen/HD中字/index.m3u8
 僵尸肖恩,http://s1.bfzycdn.com/video/jiangshixiaoen/HD中字/index.m3u8
+蝴蝶,http://c1.ddbbffcdn.com/video/hudie2002/HD中字/index.m3u8
+讲台深处,http://s5.bfzycdn.com/video/jiangtaishenchu/HD中字/index.m3u8
+充气娃娃之恋,http://c1.ddbbffcdn.com/video/chongqiwawazhilian/HD中字/index.m3u8
+热辣奇多的诞生,http://s6.bfzycdn.com/video/relaqiduodedansheng/HD/index.m3u8
+铁腕校长,http://s2.bfzycdn.com/video/tiewanxiaochang/HD中字/index.m3u8
 童心列車,http://tyyszywvod5.com/videos/202501/16/67886ba084120ce729ea5b1f/ed36gf/index.m3u8
 羊急了也跳墙,http://c1.rrcdnbf4.com/video/yangjiliaoyetiaoqiang/HD中字/index.m3u8
 天赐宝贝,http://s6.bfzycdn.com/video/tiancibaobei/HD/index.m3u8

@@ -16106,7 +16106,7 @@ MY盛lady,#genre#
 第36集,http://p.bvvvvvvvvv1f.com/video/cuxingzhe/第36集/index.m3u8
 
 
-暴人世间,#genre#
+华人世间,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/renshijian/第01集/index.m3u8
 第02集,http://p.bvvvvvvvvv1f.com/video/renshijian/第02集/index.m3u8
 第03集,http://p.bvvvvvvvvv1f.com/video/renshijian/第03集/index.m3u8
@@ -16168,7 +16168,7 @@ MY盛lady,#genre#
 
 
 
-暴小巷人家,#genre#
+华小巷人家,#genre#
 第01集,http://p.bvvvvvvv7f.com/video/xiaoxiangrenjia/第01集/index.m3u8
 第02集,http://p.bvvvvvvv7f.com/video/xiaoxiangrenjia/第02集/index.m3u8
 第03集,http://p.bvvvvvvv7f.com/video/xiaoxiangrenjia/第03集/index.m3u8
@@ -16211,7 +16211,7 @@ MY盛lady,#genre#
 第40集,http://p.bvvvvvvv7f.com/video/xiaoxiangrenjia/第40集/index.m3u8
 
 
-暴兰桐花开,#genre#
+华兰桐花开,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/lantonghuakai/第01集/index.m3u8
 第02集,http://p.bvvvvvvvvv1f.com/video/lantonghuakai/第02集/index.m3u8
 第03集,http://p.bvvvvvvvvv1f.com/video/lantonghuakai/第03集/index.m3u8
@@ -16257,7 +16257,7 @@ MY盛lady,#genre#
 
 
 
-暴中国式关系,#genre#
+华中国式关系,#genre#
 第01集,http://p.bvvvvvvv7f.com/video/zhongguoshiguanxi/第01集/index.m3u8
 第02集,http://p.bvvvvvvv7f.com/video/zhongguoshiguanxi/第02集/index.m3u8
 第03集,http://p.bvvvvvvv7f.com/video/zhongguoshiguanxi/第03集/index.m3u8
@@ -16297,7 +16297,7 @@ MY盛lady,#genre#
 
 
 
-暴爷们儿,#genre#
+华爷们儿,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/yemener/第01集/index.m3u8
 第02集,http://p.bvvvvvvvvv1f.com/video/yemener/第02集/index.m3u8
 第03集,http://p.bvvvvvvvvv1f.com/video/yemener/第03集/index.m3u8
@@ -16335,7 +16335,7 @@ MY盛lady,#genre#
 
 
 
-暴亲爱的小孩,#genre#
+华亲爱的小孩,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/qinaidexiaohai/第01集/index.m3u8
 第02集,http://p.bvvvvvvvvv1f.com/video/qinaidexiaohai/第02集/index.m3u8
 第03集,http://p.bvvvvvvvvv1f.com/video/qinaidexiaohai/第03集/index.m3u8
@@ -16349,7 +16349,7 @@ MY盛lady,#genre#
 
 
 
-暴酷爸俏妈,#genre#
+华酷爸俏妈,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/kubaqiaoma/第01集/index.m3u8
 第02集,http://p.bvvvvvvvvv1f.com/video/kubaqiaoma/第02集/index.m3u8
 第03集,http://p.bvvvvvvvvv1f.com/video/kubaqiaoma/第03集/index.m3u8
@@ -16393,7 +16393,7 @@ MY盛lady,#genre#
 
 
 
-暴尘封十三载,#genre#
+华尘封十三载,#genre#
 第01集,http://c1.rrcdnbf6.com/video/chenfengshisanzai/第01集/index.m3u8
 第02集,http://c1.rrcdnbf6.com/video/chenfengshisanzai/第02集/index.m3u8
 第03集,http://c1.rrcdnbf6.com/video/chenfengshisanzai/第03集/index.m3u8
@@ -16417,7 +16417,7 @@ MY盛lady,#genre#
 
 
 
-暴迎风的青春,#genre#
+华迎风的青春,#genre#
 第01集,http://c1.ddbbffcdn.com/video/yingfengdeqingchun/第01集/index.m3u8
 第02集,http://c1.ddbbffcdn.com/video/yingfengdeqingchun/第02集/index.m3u8
 第03集,http://c1.ddbbffcdn.com/video/yingfengdeqingchun/第03集/index.m3u8
@@ -16450,6 +16450,83 @@ MY盛lady,#genre#
 第30集,http://c1.ddbbffcdn.com/video/yingfengdeqingchun/第30集/index.m3u8
 
 
+
+华温州一家人,#genre#
+第01集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第01集/index.m3u8
+第02集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第02集/index.m3u8
+第03集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第03集/index.m3u8
+第04集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第04集/index.m3u8
+第05集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第05集/index.m3u8
+第06集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第06集/index.m3u8
+第07集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第07集/index.m3u8
+第08集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第08集/index.m3u8
+第09集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第09集/index.m3u8
+第10集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第10集/index.m3u8
+第11集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第11集/index.m3u8
+第12集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第12集/index.m3u8
+第13集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第13集/index.m3u8
+第14集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第14集/index.m3u8
+第15集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第15集/index.m3u8
+第16集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第16集/index.m3u8
+第17集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第17集/index.m3u8
+第18集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第18集/index.m3u8
+第19集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第19集/index.m3u8
+第20集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第20集/index.m3u8
+第21集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第21集/index.m3u8
+第22集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第22集/index.m3u8
+第23集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第23集/index.m3u8
+第24集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第24集/index.m3u8
+第25集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第25集/index.m3u8
+第26集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第26集/index.m3u8
+第27集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第27集/index.m3u8
+第28集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第28集/index.m3u8
+第29集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第29集/index.m3u8
+第30集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第30集/index.m3u8
+第31集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第31集/index.m3u8
+第32集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第32集/index.m3u8
+第33集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第33集/index.m3u8
+第34集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第34集/index.m3u8
+第35集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第35集/index.m3u8
+第36集,http://p.bvvvvvvvvv1f.com/video/wenzhouyijiaren/第36集/index.m3u8
+
+
+华龙城,#genre#
+第01集,http://c1.rrcdnbf6.com/video/longcheng/第01集/index.m3u8
+第02集,http://c1.rrcdnbf6.com/video/longcheng/第02集/index.m3u8
+第03集,http://c1.rrcdnbf6.com/video/longcheng/第03集/index.m3u8
+第04集,http://c1.rrcdnbf6.com/video/longcheng/第04集/index.m3u8
+第05集,http://c1.rrcdnbf6.com/video/longcheng/第05集/index.m3u8
+第06集,http://c1.rrcdnbf6.com/video/longcheng/第06集/index.m3u8
+第07集,http://c1.rrcdnbf6.com/video/longcheng/第07集/index.m3u8
+第08集,http://c1.rrcdnbf6.com/video/longcheng/第08集/index.m3u8
+第09集,http://c1.rrcdnbf6.com/video/longcheng/第09集/index.m3u8
+第10集,http://c1.rrcdnbf6.com/video/longcheng/第10集/index.m3u8
+第11集,http://c1.rrcdnbf6.com/video/longcheng/第11集/index.m3u8
+第12集,http://c1.rrcdnbf6.com/video/longcheng/第12集/index.m3u8
+第13集,http://c1.rrcdnbf6.com/video/longcheng/第13集/index.m3u8
+第14集,http://c1.rrcdnbf6.com/video/longcheng/第14集/index.m3u8
+第15集,http://c1.rrcdnbf6.com/video/longcheng/第15集/index.m3u8
+第16集,http://c1.rrcdnbf6.com/video/longcheng/第16集/index.m3u8
+第17集,http://c1.rrcdnbf6.com/video/longcheng/第17集/index.m3u8
+第18集,http://c1.rrcdnbf6.com/video/longcheng/第18集/index.m3u8
+第19集,http://c1.rrcdnbf6.com/video/longcheng/第19集/index.m3u8
+第20集,http://c1.rrcdnbf6.com/video/longcheng/第20集/index.m3u8
+第21集,http://c1.rrcdnbf6.com/video/longcheng/第21集/index.m3u8
+第22集,http://c1.rrcdnbf6.com/video/longcheng/第22集/index.m3u8
+第23集,http://c1.rrcdnbf6.com/video/longcheng/第23集/index.m3u8
+第24集,http://c1.rrcdnbf6.com/video/longcheng/第24集/index.m3u8
+第25集,http://c1.rrcdnbf6.com/video/longcheng/第25集/index.m3u8
+第26集,http://c1.rrcdnbf6.com/video/longcheng/第26集/index.m3u8
+第27集,http://c1.rrcdnbf6.com/video/longcheng/第27集/index.m3u8
+第28集,http://c1.rrcdnbf6.com/video/longcheng/第28集/index.m3u8
+第29集,http://c1.rrcdnbf6.com/video/longcheng/第29集/index.m3u8
+第30集,http://c1.rrcdnbf6.com/video/longcheng/第30集/index.m3u8
+第31集,http://c1.rrcdnbf6.com/video/longcheng/第31集/index.m3u8
+第32集,http://c1.rrcdnbf6.com/video/longcheng/第32集/index.m3u8
+第33集,http://c1.rrcdnbf6.com/video/longcheng/第33集/index.m3u8
+第34集,http://c1.rrcdnbf6.com/video/longcheng/第34集/index.m3u8
+第35集,http://c1.rrcdnbf6.com/video/longcheng/第35集/index.m3u8
+第36集,http://c1.rrcdnbf6.com/video/longcheng/第36集/index.m3u8
 
 
 
