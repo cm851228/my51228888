@@ -288,8 +288,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 外国单片,#genre#
+一条狗的回家路,http://s2.bfzycdn.com/video/yitiaogoudehuijialu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 追风筝的人,http://s1.bfzycdn.com/video/zhuifengzhengderen/HD中字/index.m3u8
 僵尸肖恩,http://s1.bfzycdn.com/video/jiangshixiaoen/HD中字/index.m3u8
+勇敢的人,http://s1.bfzycdn.com/video/yongganderen/HD中字/index.m3u8
+天倫之旅,http://s1.bfzycdn.com/video/tianlunzhilv/HD中字/index.m3u8
 蝴蝶,http://c1.ddbbffcdn.com/video/hudie2002/HD中字/index.m3u8
 大力神,http://vip1.lz-cdn1.com/20230812/21772_c09b92f7/2000k/hls/mixed.m3u8
 讲台深处,http://s5.bfzycdn.com/video/jiangtaishenchu/HD中字/index.m3u8
