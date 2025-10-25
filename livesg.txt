@@ -312,7 +312,10 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 震撼教育,http://s1.bfzycdn.com/video/xunlianri/HD/index.m3u8
 不存在的房間,http://s2.bfzycdn.com/video/fangjian/HD国语/index.m3u8
 杰伊比姆,http://s5.bfzycdn.com/video/jieyibimu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+出竅情人,http://s1.bfzycdn.com/video/wanrutiantang/HD%E4%B8%AD%E5%AD%97/index.m3u8
+晚安湯姆先生,http://v.cdnlz3.com/20230920/21763_7f3c7a27/2000k/hls/mixed.m3u8
 榮耀時刻,http://c1.ddbbffcdn.com/video/rongyaoshike/HD%E4%B8%AD%E5%AD%97/index.m3u8
+必勝球探,http://s6.bfzycdn.com/video/bishengqiutan/HD%E4%B8%AD%E5%AD%97/index.m3u8
 蛛網男孩,http://s5.bfzycdn.com/video/zhuwangnanhai/HD/index.m3u8
 捡来的孩子,http://s6.bfzycdn.com/video/jianlaidehaizi/HD中字/index.m3u8
 以女兒之名,http://c1.ddbbffcdn.com/video/yinverzhiming/HD%E4%B8%AD%E5%AD%97/index.m3u8
