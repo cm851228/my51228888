@@ -221,6 +221,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 她的业余爱好,http://s5.bfzycdn.com/video/tadeyeyuaihao/HD/index.m3u8
 传说的拳头,http://s1.bfzycdn.com/video/chuanshuodequantou/HD中字/index.m3u8
 第十一个妈妈,http://vip1.lz-cdn7.com/20230107/13283_be9f823f/2000k/hls/mixed.m3u8
+逃脱,http://c1.ddbbffcdn.com/video/taotuo2024/HD/index.m3u8
 相会的广场,http://mzm3u8.com/20250115/uBfQhl29/1100kb/hls/index.m3u8
 從邪惡中拯救我,http://s2.bfzycdn.com/video/congxieezhongzhengjiuwo/HD中字/index.m3u8
 白兔糖,http://c1.ddbbffcdn.com/video/baitutang/HD中字/index.m3u8
@@ -228,6 +229,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 失蹤時刻,http://s6.bfzycdn.com/video/shizong/HD中字/index.m3u8
 空白,http://s6.bfzycdn.com/video/kongbai/HD%E4%B8%AD%E5%AD%97/index.m3u8
 白小姐,http://s6.bfzycdn.com/video/baixiaojie/HD中字/index.m3u8
+辯護人,http://c1.ddbbffcdn.com/video/bianhuren/HD%E4%B8%AD%E5%AD%97/index.m3u8
 千寻小姐,http://c1.ddbbffcdn.com/video/qianxunxiaojie/HD中字/index.m3u8
 帅哥们,http://c1.ddbbffcdn.com/video/shuaigemen/HD/index.m3u8
 父亲与伊藤先生,http://s1.bfzycdn.com/video/fuqinyuyitengxiansheng/HD中字/index.m3u8
@@ -270,6 +272,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 中国单片,#genre#
+逆行人生,http://c1.rrcdnbf7.com/video/nixingrensheng2024/HD/index.m3u8
 南京照相馆,http://v.fengbao8.com/video/nanjingzhaoxiangguan/HD/index.m3u8
 东极岛,http://v.fengbao8.com/video/dongjidao/HD/index.m3u8
 小小的我,http://p.bvvvvvvv7f.com/video/xiaoxiaodewo/HD/index.m3u8
@@ -307,9 +310,14 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 外国单片,#genre#
+狮子王,http://tyyszywvod5.com/videos/202502/18/67b48812d6a07222f111a315/e240a5/index.m3u8
 神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
+触不可及,http://s1.bfzycdn.com/video/chubukeji/HD中字/index.m3u8
 超級禮物,http://s1.bfzycdn.com/video/chaojiliwu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+我们这样的人,http://s6.bfzycdn.com/video/womenzheyangderen/HD%E4%B8%AD%E5%AD%97/index.m3u8
 神鬼嚎野人,http://tyyszywvod5.com/videos/202412/30/6771f1a18b3ec726a9fae06d/12058c/index.m3u8
+家園防線,http://s4.bfzycdn.com/video/jiayuanfangxian/HD%E4%B8%AD%E5%AD%97/index.m3u8
+麥克法蘭,http://s5.bfzycdn.com/video/maikefalan/HD%E4%B8%AD%E5%AD%97/index.m3u8
 我的狗子,http://mzm3u8.vip/20250820/6suESN5a/4778kb/hls/index.m3u8
 幸運符,http://s1.bfzycdn.com/video/xingyunfu/HD%E4%B8%AD%E5%AD%97/index.m3u8
 天使爱美丽,http://s1.bfzycdn.com/video/tianshiaimeili/HD%E4%B8%AD%E5%AD%97/index.m3u8
@@ -318,6 +326,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 霜雪极地,http://s5.bfzycdn.com/video/nibingzhixing/HD中字/index.m3u8
 震撼教育,http://s1.bfzycdn.com/video/xunlianri/HD/index.m3u8
 不存在的房間,http://s2.bfzycdn.com/video/fangjian/HD国语/index.m3u8
+毒販大媽,http://c1.rrcdnbf6.com/video/dufandama/HD/index.m3u8
 杰伊比姆,http://s5.bfzycdn.com/video/jieyibimu/HD%E4%B8%AD%E5%AD%97/index.m3u8
 42号传奇,http://s1.bfzycdn.com/video/42haochuanqi/HD/index.m3u8
 出竅情人,http://s1.bfzycdn.com/video/wanrutiantang/HD%E4%B8%AD%E5%AD%97/index.m3u8
@@ -328,7 +337,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 捡来的孩子,http://s6.bfzycdn.com/video/jianlaidehaizi/HD中字/index.m3u8
 以女兒之名,http://c1.ddbbffcdn.com/video/yinverzhiming/HD%E4%B8%AD%E5%AD%97/index.m3u8
 热血教师,http://vip1.lz-cdn7.com/20230304/14734_2ff9c22b/2000k/hls/mixed.m3u8
-触不可及,http://s1.bfzycdn.com/video/chubukeji/HD中字/index.m3u8
 追风筝的人,http://s1.bfzycdn.com/video/zhuifengzhengderen/HD中字/index.m3u8
 僵尸肖恩,http://s1.bfzycdn.com/video/jiangshixiaoen/HD中字/index.m3u8
 情人眼里出西施,http://s2.bfzycdn.com/video/qingrenyanlichuxishi/HD中字/index.m3u8
