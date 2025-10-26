@@ -276,6 +276,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 无人区,http://s1.bfzycdn.com/video/wurenqu/HD/index.m3u8
 中国飞侠,http://c1.rrcdnbf2.com/video/zhongguofeixia/HD国语/index.m3u8
 误杀2,http://s1.bfzycdn.com/video/wusha2/HD国语版/index.m3u8
+睡沙發的人,http://c1.ddbbffcdn.com/video/shuishafaderen/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 孔雀,http://s1.bfzycdn.com/video/kongque/HD/index.m3u8
 阳光普照,http://s6.bfzycdn.com/video/yangguangpuzhao2019/HD国语/index.m3u8
 滿意的幸福,http://play.ly166.com:65/videos/20250121/678f1ca91353f55eafa4f8b8/09b6eg/index.m3u8
