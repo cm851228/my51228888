@@ -1,4 +1,4 @@
-你好再见,#genre#
+""你好再见,#genre#
 你好再见 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_t3ftazf0/v/11/pv/1/ev/16/flavorId/1_sybs54lm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ju6wk2xk/v/11/pv/1/ev/16/flavorId/1_5l45pwpz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
@@ -277,6 +277,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 东极岛,http://v.fengbao8.com/video/dongjidao/HD/index.m3u8
 小小的我,http://p.bvvvvvvv7f.com/video/xiaoxiaodewo/HD/index.m3u8
 无人区,http://s1.bfzycdn.com/video/wurenqu/HD/index.m3u8
+八佰,http://s1.bfzycdn.com/video/babai/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 中国飞侠,http://c1.rrcdnbf2.com/video/zhongguofeixia/HD国语/index.m3u8
 误杀2,http://s1.bfzycdn.com/video/wusha2/HD国语版/index.m3u8
 睡沙發的人,http://c1.ddbbffcdn.com/video/shuishafaderen/HD%E5%9B%BD%E8%AF%AD/index.m3u8
@@ -312,6 +313,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 外国单片,#genre#
 狮子王,http://tyyszywvod5.com/videos/202502/18/67b48812d6a07222f111a315/e240a5/index.m3u8
 神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
+ 海啸奇迹,http://s1.bfzycdn.com/video/haixiaoqiji/HD/index.m3u8
 触不可及,http://s1.bfzycdn.com/video/chubukeji/HD中字/index.m3u8
 超級禮物,http://s1.bfzycdn.com/video/chaojiliwu/HD%E4%B8%AD%E5%AD%97/index.m3u8
 我们这样的人,http://s6.bfzycdn.com/video/womenzheyangderen/HD%E4%B8%AD%E5%AD%97/index.m3u8
