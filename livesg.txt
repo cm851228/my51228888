@@ -233,6 +233,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 韩日单片,#genre#
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
+幸福,http://vip.lz-cdn3.com/20230625/19851_ef28b321/2000k/hls/mixed.m3u8
+当男人恋爱时,http://s1.bfzycdn.com/video/dangnanrenlianaishi/HD%E4%B8%AD%E5%AD%97/index.m3u8
 暴力規則,http://c1.7bbffvip.com/video/baoliguize/%E9%AB%98%E6%B8%85/index.m3u8
 滚烫的爱,http://s1.bfzycdn.com/video/guntangdeai/HD中字/index.m3u8
 三天假期,http://tyyszywvod5.com/videos/202412/28/676feb418fd1573caec98745/age155/index.m3u8
@@ -291,6 +293,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 中国单片,#genre#
 逆行人生,http://c1.rrcdnbf7.com/video/nixingrensheng2024/HD/index.m3u8
+出拳吧媽媽,http://s1.bfzycdn.com/video/chuquanbamama/HD国语/index.m3u8
 南京照相馆,http://v.fengbao8.com/video/nanjingzhaoxiangguan/HD/index.m3u8
 东极岛,http://v.fengbao8.com/video/dongjidao/HD/index.m3u8
 小小的我,http://p.bvvvvvvv7f.com/video/xiaoxiaodewo/HD/index.m3u8
@@ -331,9 +334,13 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 外国单片,#genre#
 狮子王木法沙,http://v.cdnlz12.com/20250219/18236_cf37a7f8/2000k/hls/mixed.m3u8
 神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
- 海啸奇迹,http://s1.bfzycdn.com/video/haixiaoqiji/HD/index.m3u8
+最後的獵人,http://vip1.lz-cdn1.com/20220408/1268_c770b288/1200k/hls/mixed.m3u8
+海啸奇迹,http://s1.bfzycdn.com/video/haixiaoqiji/HD/index.m3u8
 触不可及,http://s1.bfzycdn.com/video/chubukeji/HD中字/index.m3u8
+人生一世,http://ukzy.ukubf3.com/20241119/MElVm8X9/2000kb/hls/index.m3u8
+一条狗的使命,http://s1.bfzycdn.com/video/yitiaogoudeshiming/HD%E4%B8%AD%E5%AD%97/index.m3u8
 超級禮物,http://s1.bfzycdn.com/video/chaojiliwu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+荒岛余生,http://s1.bfzycdn.com/video/huangdaoyusheng/HD/index.m3u8
 我们这样的人,http://s6.bfzycdn.com/video/womenzheyangderen/HD%E4%B8%AD%E5%AD%97/index.m3u8
 神鬼嚎野人,http://tyyszywvod5.com/videos/202412/30/6771f1a18b3ec726a9fae06d/12058c/index.m3u8
 家園防線,http://s4.bfzycdn.com/video/jiayuanfangxian/HD%E4%B8%AD%E5%AD%97/index.m3u8
