@@ -231,8 +231,47 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
+
+
+动画单片,#genre#
+狮子王木法沙,http://v.cdnlz12.com/20250219/18236_cf37a7f8/2000k/hls/mixed.m3u8
+海洋奇缘2,http://p.bvvvvvvv7f.com/video/haiyangqiyuan2/国语/index.m3u8
+小美人魚,http://vip1.lz-cdn1.com/20230725/21427_fb9ed322/2000k/hls/mixed.m3u8
+功夫熊貓4,http://c1.ddbbffcdn.com/video/gongfuxiongmao4/HD国语/index.m3u8
+變形金剛源起,http://c1.7bbffvip.com/video/bianxingjingangqiyuan/HD/index.m3u8
+神偷奶爸4,http://c1.ddbbffcdn.com/video/shentounaiba4/HD/index.m3u8
+极地大冒险,http://s1.bfzycdn.com/video/jididamaoxian/HD中字/index.m3u8
+野機器人,http://c1.rrcdnbf7.com/video/huangyejiqiren/HD/index.m3u8
+洛汗之战,http://c1.7bbffvip.com/video/zhihuanwangluohanzhizhan/HD/index.m3u8
+海洋奇缘1,http://c1.ddbbffcdn.com/video/haiyangqiyuan/HD中字/index.m3u8
+地球特派员,http://v.lzcdn27.com/20250819/995_3c6ac152/2000k/hls/mixed.m3u8
+坏蛋联盟2,http://8.bf8bf.com/video/huaidanlianmeng2/HD/index.m3u8
+史迪奇,https://v.lzcdn27.com/20250723/491_e76d6f39/2000k/hls/mixed.m3u8
+白雪公主,http://p.bvvvvvvv7f.com/video/baixuegongzhu2025/HD/index.m3u8
+冰雪奇緣,http://1080p.huyall.com/play/rb23NGWd/index.m3u8
+無敵破壞王1,http://vip.lzcdn2.com/20220320/138_624f6b5b/1200k/hls/mixed.m3u8
+無敵破壞王2,http://c1.ddbbffcdn.com/video/wudipohuaiwang2danaohulianwang/HD中字/index.m3u8
+魔法滿屋,http://c1.rrcdnbf2.com/video/mofamanwu/HD中字/index.m3u8
+大雄的奇遇记,http://8.bf8bf.com/video/duolaAmengdaxiongdehuihuaqiyuji/HD/index.m3u8
+大雄的探险记,http://p.bvvvvvvvvv1f.com/video/replacexxx0810/20241005UzSKMfabindex.m3u8/index.m3u8
+大雄的英雄记,http://vip.lz-cdn17.com/20230610/15242_bc59e458/2000k/hls/mixed.m3u8
+大雄的漂流记,http://vip.lz-cdn17.com/20230610/15238_e447c44d/2000k/hls/mixed.m3u8
+大雄与奇迹之岛,http://vip.lz-cdn17.com/20230610/15262_848a2cf9/2000k/hls/mixed.m3u8
+风中奇缘,http://1080p.huyall.com/play/6dBBLLkd/index.m3u8
+白雪公主和七个小矮人,http://1080p.huyall.com/play/rb2nZEvb/index.m3u8
+阿拉丁,http://1080p.huyall.com/play/QbYEVpbz/index.m3u8
+小姐与流浪汉,http://vip.lzcdn2.com/20220519/6989_94fc2396/1200k/hls/mixed.m3u8
+小鹿斑比,http://1080p.huyall.com/play/QdJqG59b/index.m3u8
+木偶奇遇记,http://1080p.huyall.com/play/vbmq2LGb/index.m3u8
+恐龙,http://1080p.huyall.com/play/6dBLk5Xa/index.m3u8
+
+
+
+
+
 韩日单片,#genre#
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
+鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
 幸福,http://vip.lz-cdn3.com/20230625/19851_ef28b321/2000k/hls/mixed.m3u8
 曾是超人的男子,http://s2.bfzycdn.com/video/zengshichaorendenanzi/HD中字/index.m3u8
 共同警备区,http://s6.bfzycdn.com/video/gongtongjingbeiqu/HD%E4%B8%AD%E5%AD%97/index.m3u8
@@ -240,7 +279,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 暴力規則,http://c1.7bbffvip.com/video/baoliguize/%E9%AB%98%E6%B8%85/index.m3u8
 滚烫的爱,http://s1.bfzycdn.com/video/guntangdeai/HD中字/index.m3u8
 看见恶魔,http://c1.rrcdnbf6.com/video/kanjianemo/HD中字/index.m3u8
-三天假期,http://tyyszywvod5.com/videos/202412/28/676feb418fd1573caec98745/age155/index.m3u8
 她的业余爱好,http://s5.bfzycdn.com/video/tadeyeyuaihao/HD/index.m3u8
 传说的拳头,http://s1.bfzycdn.com/video/chuanshuodequantou/HD中字/index.m3u8
 第十一个妈妈,http://vip1.lz-cdn7.com/20230107/13283_be9f823f/2000k/hls/mixed.m3u8
@@ -336,12 +374,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
-
 外国单片,#genre#
-狮子王木法沙,http://v.cdnlz12.com/20250219/18236_cf37a7f8/2000k/hls/mixed.m3u8
 海蒂和爷爷,http://c1.ddbbffcdn.com/video/haidiheyeye/HD中字/index.m3u8
 神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
 大白鲨复仇,http://s6.bfzycdn.com/video/dabaisha4fuchou/HD/index.m3u8
+南极大冒险,http://vip1.lz-cdn7.com/20230223/14493_8e1596d3/2000k/hls/mixed.m3u8
 無限殺機,http://v.lzcdn25.com/20250418/350_a904a9f8/2000k/hls/mixed.m3u8
 百歲老人蹺家去,http://vip1.lz-cdn7.com/20230112/13412_698b7e29/2000k/hls/mixed.m3u8
 垃圾男孩,http://s2.bfzycdn.com/video/lajinanhai/HD中字/index.m3u8
@@ -354,6 +391,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 触不可及,http://s1.bfzycdn.com/video/chubukeji/HD中字/index.m3u8
 人生一世,http://ukzy.ukubf3.com/20241119/MElVm8X9/2000kb/hls/index.m3u8
 超級禮物,http://s1.bfzycdn.com/video/chaojiliwu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+北极,http://vip1.lz-cdn7.com/20230428/15666_0788f585/2000k/hls/mixed.m3u8
 面对巨人,http://vip1.lz-cdn7.com/20221227/12929_5bfd24b6/2000k/hls/mixed.m3u8
 大力士,http://s6.bfzycdn.com/video/dalishiqiaozhifuerman/HD/index.m3u8
 荒岛余生,http://s1.bfzycdn.com/video/huangdaoyusheng/HD/index.m3u8
