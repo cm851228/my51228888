@@ -381,6 +381,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 為人師表,http://vip1.lz-cdn7.com/20230407/15202_c2070e3d/2000k/hls/mixed.m3u8
 神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
 大白鲨复仇,http://s6.bfzycdn.com/video/dabaisha4fuchou/HD/index.m3u8
+神秘代码,http://s2.bfzycdn.com/video/shenmidaima/HD中字/index.m3u8
 南极大冒险,http://vip1.lz-cdn7.com/20230223/14493_8e1596d3/2000k/hls/mixed.m3u8
 無限殺機,http://v.lzcdn25.com/20250418/350_a904a9f8/2000k/hls/mixed.m3u8
 百歲老人蹺家去,http://vip1.lz-cdn7.com/20230112/13412_698b7e29/2000k/hls/mixed.m3u8
