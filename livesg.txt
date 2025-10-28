@@ -343,6 +343,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
 大白鲨复仇,http://s6.bfzycdn.com/video/dabaisha4fuchou/HD/index.m3u8
 無限殺機,http://v.lzcdn25.com/20250418/350_a904a9f8/2000k/hls/mixed.m3u8
+百歲老人蹺家去,http://vip1.lz-cdn7.com/20230112/13412_698b7e29/2000k/hls/mixed.m3u8
+垃圾男孩,http://s2.bfzycdn.com/video/lajinanhai/HD中字/index.m3u8
 一代娇马,http://s6.bfzycdn.com/video/yidaijiaoma/HD中字/index.m3u8
 殺手,http://s5.bfzycdn.com/video/shashou/中字/index.m3u8
 真愛復甦,http://v.cdnlz2.com/20240125/28237_100a4c98/2000k/hls/mixed.m3u8
@@ -352,10 +354,12 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 触不可及,http://s1.bfzycdn.com/video/chubukeji/HD中字/index.m3u8
 人生一世,http://ukzy.ukubf3.com/20241119/MElVm8X9/2000kb/hls/index.m3u8
 超級禮物,http://s1.bfzycdn.com/video/chaojiliwu/HD%E4%B8%AD%E5%AD%97/index.m3u8
+面对巨人,http://vip1.lz-cdn7.com/20221227/12929_5bfd24b6/2000k/hls/mixed.m3u8
 大力士,http://s6.bfzycdn.com/video/dalishiqiaozhifuerman/HD/index.m3u8
 荒岛余生,http://s1.bfzycdn.com/video/huangdaoyusheng/HD/index.m3u8
 我们这样的人,http://s6.bfzycdn.com/video/womenzheyangderen/HD%E4%B8%AD%E5%AD%97/index.m3u8
-神鬼嚎野人,http://tyyszywvod5.com/videos/202412/30/6771f1a18b3ec726a9fae06d/12058c/index.m3u8
+神鬼嚎野人,http://tyyszywvod5.com/videos/202412/30/6771f1a18b3ec726a9fae06d/12058c/index.m3u
+钛,http://1080p.huyall.com/play/PdR6g8zd/index.m3u8
 家園防線,http://s4.bfzycdn.com/video/jiayuanfangxian/HD%E4%B8%AD%E5%AD%97/index.m3u8
 麥克法蘭,http://s5.bfzycdn.com/video/maikefalan/HD%E4%B8%AD%E5%AD%97/index.m3u8
 我的狗子,http://mzm3u8.vip/20250820/6suESN5a/4778kb/hls/index.m3u8
