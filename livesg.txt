@@ -413,6 +413,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 外国单片,#genre#
 海蒂和爷爷,http://c1.ddbbffcdn.com/video/haidiheyeye/HD中字/index.m3u8
 為人師表,http://vip1.lz-cdn7.com/20230407/15202_c2070e3d/2000k/hls/mixed.m3u8
+末日崩塌,http://s1.bfzycdn.com/video/moribengta/HD中字/index.m3u8
 大白鲨复仇,http://s6.bfzycdn.com/video/dabaisha4fuchou/HD/index.m3u8
 杜玛,http://s2.bfzycdn.com/video/duma/HD中字/index.m3u8
 母侵,http://s1.bfzycdn.com/video/mama/HD国语/index.m3u8
