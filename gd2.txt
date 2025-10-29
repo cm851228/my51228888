@@ -17095,6 +17095,42 @@ MY盛lady,#genre#
 
 
 
+华曾少年,#genre#
+第01集,http://c1.rrcdnbf6.com/video/zengshaonian/第01集/index.m3u8
+第02集,http://c1.rrcdnbf6.com/video/zengshaonian/第02集/index.m3u8
+第03集,http://c1.rrcdnbf6.com/video/zengshaonian/第03集/index.m3u8
+第04集,http://c1.rrcdnbf6.com/video/zengshaonian/第04集/index.m3u8
+第05集,http://c1.rrcdnbf6.com/video/zengshaonian/第05集/index.m3u8
+第06集,http://c1.rrcdnbf6.com/video/zengshaonian/第06集/index.m3u8
+第07集,http://c1.rrcdnbf6.com/video/zengshaonian/第07集/index.m3u8
+第08集,http://c1.rrcdnbf6.com/video/zengshaonian/第08集/index.m3u8
+第09集,http://c1.rrcdnbf6.com/video/zengshaonian/第09集/index.m3u8
+第10集,http://c1.rrcdnbf6.com/video/zengshaonian/第10集/index.m3u8
+第11集,http://c1.rrcdnbf6.com/video/zengshaonian/第11集/index.m3u8
+第12集,http://c1.rrcdnbf6.com/video/zengshaonian/第12集/index.m3u8
+第13集,http://c1.rrcdnbf6.com/video/zengshaonian/第13集/index.m3u8
+第14集,http://c1.rrcdnbf6.com/video/zengshaonian/第14集/index.m3u8
+第15集,http://c1.rrcdnbf6.com/video/zengshaonian/第15集/index.m3u8
+第16集,http://c1.rrcdnbf6.com/video/zengshaonian/第16集/index.m3u8
+第17集,http://c1.rrcdnbf6.com/video/zengshaonian/第17集/index.m3u8
+第18集,http://c1.rrcdnbf6.com/video/zengshaonian/第18集/index.m3u8
+第19集,http://c1.rrcdnbf6.com/video/zengshaonian/第19集/index.m3u8
+第20集,http://c1.rrcdnbf6.com/video/zengshaonian/第20集/index.m3u8
+第21集,http://c1.rrcdnbf6.com/video/zengshaonian/第21集/index.m3u8
+第22集,http://c1.rrcdnbf6.com/video/zengshaonian/第22集/index.m3u8
+第23集,http://c1.rrcdnbf6.com/video/zengshaonian/第23集/index.m3u8
+第24集,http://c1.rrcdnbf6.com/video/zengshaonian/第24集/index.m3u8
+第25集,http://c1.rrcdnbf6.com/video/zengshaonian/第25集/index.m3u8
+第26集,http://c1.rrcdnbf6.com/video/zengshaonian/第26集/index.m3u8
+第27集,http://c1.rrcdnbf6.com/video/zengshaonian/第27集/index.m3u8
+第28集,http://c1.rrcdnbf6.com/video/zengshaonian/第28集/index.m3u8
+第29集,http://c1.rrcdnbf6.com/video/zengshaonian/第29集/index.m3u8
+第30集,http://c1.rrcdnbf6.com/video/zengshaonian/第30集/index.m3u8
+第31集,http://c1.rrcdnbf6.com/video/zengshaonian/第31集/index.m3u8
+第32集,http://c1.rrcdnbf6.com/video/zengshaonian/第32集/index.m3u8
+第33集,http://c1.rrcdnbf6.com/video/zengshaonian/第33集/index.m3u8
+第34集,http://c1.rrcdnbf5.com/video/zengshaonian/第34集/index.m3u8
+第35集,http://c1.rrcdnbf5.com/video/zengshaonian/第35集/index.m3u8
 
 
 
