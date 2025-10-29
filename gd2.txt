@@ -17134,6 +17134,39 @@ MY盛lady,#genre#
 
 
 
+华似水流年,#genre#
+第01集,http://c1.rrcdnbf5.com/video/sihuoliunian/第01集/index.m3u8
+第02集,http://c1.rrcdnbf5.com/video/sihuoliunian/第02集/index.m3u8
+第03集,http://c1.rrcdnbf5.com/video/sihuoliunian/第03集/index.m3u8
+第04集,http://c1.rrcdnbf5.com/video/sihuoliunian/第04集/index.m3u8
+第05集,http://c1.rrcdnbf5.com/video/sihuoliunian/第05集/index.m3u8
+第06集,http://c1.rrcdnbf5.com/video/sihuoliunian/第06集/index.m3u8
+第07集,http://c1.rrcdnbf5.com/video/sihuoliunian/第07集/index.m3u8
+第08集,http://c1.rrcdnbf5.com/video/sihuoliunian/第08集/index.m3u8
+第09集,http://c1.rrcdnbf5.com/video/sihuoliunian/第09集/index.m3u8
+第10集,http://c1.rrcdnbf5.com/video/sihuoliunian/第10集/index.m3u8
+第11集,http://c1.rrcdnbf5.com/video/sihuoliunian/第11集/index.m3u8
+第12集,http://c1.rrcdnbf5.com/video/sihuoliunian/第12集/index.m3u8
+第13集,http://c1.rrcdnbf5.com/video/sihuoliunian/第13集/index.m3u8
+第14集,http://c1.rrcdnbf5.com/video/sihuoliunian/第14集/index.m3u8
+第15集,http://c1.rrcdnbf5.com/video/sihuoliunian/第15集/index.m3u8
+第16集,http://c1.rrcdnbf5.com/video/sihuoliunian/第16集/index.m3u8
+第17集,http://c1.rrcdnbf5.com/video/sihuoliunian/第17集/index.m3u8
+第18集,http://c1.rrcdnbf5.com/video/sihuoliunian/第18集/index.m3u8
+第19集,http://c1.rrcdnbf5.com/video/sihuoliunian/第19集/index.m3u8
+第20集,http://c1.rrcdnbf5.com/video/sihuoliunian/第20集/index.m3u8
+第21集,http://c1.rrcdnbf5.com/video/sihuoliunian/第21集/index.m3u8
+第22集,http://c1.rrcdnbf5.com/video/sihuoliunian/第22集/index.m3u8
+第23集,http://c1.rrcdnbf5.com/video/sihuoliunian/第23集/index.m3u8
+第24集,http://c1.rrcdnbf5.com/video/sihuoliunian/第24集/index.m3u8
+第25集,http://c1.rrcdnbf5.com/video/sihuoliunian/第25集/index.m3u8
+第26集,http://c1.rrcdnbf5.com/video/sihuoliunian/第26集/index.m3u8
+第27集,http://c1.rrcdnbf5.com/video/sihuoliunian/第27集/index.m3u8
+第28集,http://c1.rrcdnbf5.com/video/sihuoliunian/第28集/index.m3u8
+第29集,http://c1.rrcdnbf5.com/video/sihuoliunian/第29集/index.m3u8
+第30集,http://c1.rrcdnbf5.com/video/sihuoliunian/第30集/index.m3u8
+
+
 
 量原始生活第1季,#genre#
 第01集,http://dow.dowlz15.com/20240330/24746_06842a7a/原始生活21天S01E01.mp4
