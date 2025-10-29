@@ -267,6 +267,36 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
+狗狗单片,#genre#
+忠犬八公的故事,https://8.bf8bf.com/video/zhongquanbagongdegushi2009/高清/index.m3u8
+南极大冒险,http://vip1.lz-cdn7.com/20230223/14493_8e1596d3/2000k/hls/mixed.m3u8
+一条狗的使命,http://s1.bfzycdn.com/video/yitiaogoudeshiming/HD%E4%B8%AD%E5%AD%97/index.m3u8
+人狗奇缘,http://s5.bfzycdn.com/video/rengouqiyuan/HD中字/index.m3u8
+狗狗与我的十个约定,http://vip.lzcdn2.com/20220324/373_3ece0e3f/1200k/hls/mixed.m3u8
+马利和我,http://s2.bfzycdn.com/video/malihewo/HD中字/index.m3u8
+星守之犬,http://s2.bfzycdn.com/video/xingshouzhiquan/HD中字/index.m3u8
+爱犬的奇迹,http://s6.bfzycdn.com/video/aiquandeqiji/HD中字/index.m3u8
+导盲犬小Q,http://s6.bfzycdn.com/video/daomangquanxiaoQ/HD中字/index.m3u8
+第7日的奇蹟,http://s6.bfzycdn.com/video/diqirideqiji/HD/index.m3u8
+红犬历险记,http://s1.bfzycdn.com/video/hongquanlixianji/HD中字/index.m3u8
+飞狗巴迪,http://s2.bfzycdn.com/video/feigoubadi/HD%E4%B8%AD%E5%AD%97/index.m3u8
+我在雨中等你,http://c1.ddbbffcdn.com/video/wozaiyuzhongdengni/HD中字/index.m3u8
+小黄狗的窝,http://v.cdnlz3.com/20240115/22779_2b3f155f/2000k/hls/mixed.m3u8
+我是传奇,http://s1.bfzycdn.com/video/woshichuanqi/HD中字/index.m3u8
+义犬报恩,http://s5.bfzycdn.com/video/yiquanbaoen/HD中字/index.m3u8
+消防犬,http://v.cdnlz3.com/20240122/22893_e152fd75/2000k/hls/mixed.m3u8
+灵犬雪莉1,http://s1.bfzycdn.com/video/lingquanxueli/HD中字/index.m3u8
+灵犬雪莉2,http://c1.ddbbffcdn.com/video/lingquanxuelimaoxianzaichufa/HD中字/index.m3u8
+灵犬雪莉3,http://c1.ddbbffcdn.com/video/lingquanxueli3/HD中字/index.m3u8
+狗狗旅馆,http://tyyszywvod5.com/videos/202412/30/67717ce6e631102627454815/25gb81/index.m3u8
+新灵犬莱西,http://v.cdnlz3.com/20240102/22581_71e068f9/2000k/hls/mixed.m3u8
+丛林赤子心,http://vip1.lz-cdn7.com/20230214/14230_c9228627/2000k/hls/mixed.m3u8
+狗的秘密生活,http://vip.lzcdn2.com/20220525/7521_a57075a7/1200k/hls/mixed.m3u8
+神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
+我的狗子,http://mzm3u8.vip/20250820/6suESN5a/4778kb/hls/index.m3u8
+一条狗的回家路,http://s2.bfzycdn.com/video/yitiaogoudehuijialu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
+
+
 
 
 韩日单片,#genre#
@@ -276,6 +306,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 曾是超人的男子,http://s2.bfzycdn.com/video/zengshichaorendenanzi/HD中字/index.m3u8
 共同警备区,http://s6.bfzycdn.com/video/gongtongjingbeiqu/HD%E4%B8%AD%E5%AD%97/index.m3u8
 当男人恋爱时,http://s1.bfzycdn.com/video/dangnanrenlianaishi/HD%E4%B8%AD%E5%AD%97/index.m3u8
+只有你,http://c1.rrcdnbf6.com/video/zhiyouni/HD中字/index.m3u8
 暴力規則,http://c1.7bbffvip.com/video/baoliguize/%E9%AB%98%E6%B8%85/index.m3u8
 滚烫的爱,http://s1.bfzycdn.com/video/guntangdeai/HD中字/index.m3u8
 看见恶魔,http://c1.rrcdnbf6.com/video/kanjianemo/HD中字/index.m3u8
@@ -382,15 +413,14 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 外国单片,#genre#
 海蒂和爷爷,http://c1.ddbbffcdn.com/video/haidiheyeye/HD中字/index.m3u8
 為人師表,http://vip1.lz-cdn7.com/20230407/15202_c2070e3d/2000k/hls/mixed.m3u8
-神探狗笨吉,http://s1.bfzycdn.com/video/shentangoubenji/HD国语/index.m3u8
 大白鲨复仇,http://s6.bfzycdn.com/video/dabaisha4fuchou/HD/index.m3u8
 杜玛,http://s2.bfzycdn.com/video/duma/HD中字/index.m3u8
 母侵,http://s1.bfzycdn.com/video/mama/HD国语/index.m3u8
 新威龍殺陣,http://c1.rrcdnbf5.com/video/xinweilongshazhen/HD/index.m3u8
 神秘代码,http://s2.bfzycdn.com/video/shenmidaima/HD中字/index.m3u8
-南极大冒险,http://vip1.lz-cdn7.com/20230223/14493_8e1596d3/2000k/hls/mixed.m3u8
 极地先锋,http://c1.rrcdnbf6.com/video/jidixianfeng/HD中字/index.m3u8
 夜母,http://p.bvvvvvvv7f.com/video/yemu/HD/index.m3u8
+滑板女孩,http://p.bvvvvvvvvv1f.com/video/huabannvhai/HD中字版/index.m3u8
 意外收获,http://8.bf8bf.com/video/yiwaishouhuo/HD/index.m3u8
 追雁少年,http://c1.ddbbffcdn.com/video/replacexxx0810/20240923wxSaXleKindex.m3u8/index.m3u8
 委托人,http://vip1.lz-cdn7.com/20230207/14007_55ce8e68/2000k/hls/mixed.m3u8
@@ -401,7 +431,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 一代娇马,http://s6.bfzycdn.com/video/yidaijiaoma/HD中字/index.m3u8
 殺手,http://s5.bfzycdn.com/video/shashou/中字/index.m3u8
 真愛復甦,http://v.cdnlz2.com/20240125/28237_100a4c98/2000k/hls/mixed.m3u8
-一条狗的使命,http://s1.bfzycdn.com/video/yitiaogoudeshiming/HD%E4%B8%AD%E5%AD%97/index.m3u8
 最後的獵人,http://vip1.lz-cdn1.com/20220408/1268_c770b288/1200k/hls/mixed.m3u8
 海啸奇迹,http://s1.bfzycdn.com/video/haixiaoqiji/HD/index.m3u8
 触不可及,http://s1.bfzycdn.com/video/chubukeji/HD中字/index.m3u8
@@ -417,11 +446,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 復仇殺神,http://v.cdnlz12.com/20240406/13669_6a7d9960/2000k/hls/mixed.m3u8
 家園防線,http://s4.bfzycdn.com/video/jiayuanfangxian/HD%E4%B8%AD%E5%AD%97/index.m3u8
 麥克法蘭,http://s5.bfzycdn.com/video/maikefalan/HD%E4%B8%AD%E5%AD%97/index.m3u8
-我的狗子,http://mzm3u8.vip/20250820/6suESN5a/4778kb/hls/index.m3u8
 幸運符,http://s1.bfzycdn.com/video/xingyunfu/HD%E4%B8%AD%E5%AD%97/index.m3u8
 天使爱美丽,http://s1.bfzycdn.com/video/tianshiaimeili/HD%E4%B8%AD%E5%AD%97/index.m3u8
 麻雀之歌,http://1080p.huyall.com/play/xe79YA8b/index.m3u8
-一条狗的回家路,http://s2.bfzycdn.com/video/yitiaogoudehuijialu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 勇者无敌,http://s2.bfzycdn.com/video/yongshi/HD中字/index.m3u8
 霜雪极地,http://s5.bfzycdn.com/video/nibingzhixing/HD中字/index.m3u8
 震撼教育,http://s1.bfzycdn.com/video/xunlianri/HD/index.m3u8
@@ -476,6 +503,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 
 
 
+
 香港单片,#genre#
 水餃皇后,http://ukzyvod3.ukubf5.com/20250704/BZlHLGba/2000kb/hls/index.m3u8
 毒舌律师,https://c1.rrcdnbf6.com/video/dushelvshi/粤语/index.m3u8
@@ -502,6 +530,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 古惑仔3之只手遮天,http://c1.rrcdnbf2.com/video/guhuozi3zhizhishouzhetian/HD粤语/index.m3u8
 老笠,http://s5.bfzycdn.com/video/laoli/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 失业皇帝,http://tyyszywvod5.com/videos/202503/16/67d48cb2582cdc10c4b2c024/ad2717/index.m3u8
+
 
 
 
