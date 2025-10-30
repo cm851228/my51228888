@@ -174,61 +174,390 @@ RTHK-35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/s
 NHK新闻英,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
-itv港台,#genre#
-翡翠台,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
-翡翠台 backup,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
-iNews 新闻台,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
-J 2,http://api.mg.itv888.cn:8080/hls/c18815664e8/index.m3u8
-珍珠台,http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
-凤凰香港,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
-HOY资讯台,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
-RHK 31,http://api.mg.itv888.cn:8080/hls/7f79a251429/index.m3u8
-VIUTV1,http://api.mg.itv888.cn:8080/hls/13d52dc29d5/index.m3u8
-RHK 32,http://api.mg.itv888.cn:8080/hls/18c550eab1e/index.m3
-凤凰卫视,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
-凤凰资讯,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
-Viu6,http://api.mg.itv888.cn:8080/hls/0408f039a12/index.m3u8
 
-itv央卫,#genre#
-CCTV1,http://api.kkitv.itv888.cn:8080/hls/f5fuln3kthe/index.m3u8
-CCTV2,http://api.kkitv.itv888.cn:8080/hls/4nlkhc68gfu/index.m3u8
-CCTV3,http://api.kkitv.itv888.cn:8080/hls/aikp69mli0d/index.m3u8
-CCTV4,http://api.kkitv.itv888.cn:8080/hls/25uo2rutach/index.m3u8
-CCTV5,http://api.kkitv.itv888.cn:8080/hls/7vx0ia55les/index.m3u8
-CCTV6,http://api.kkitv.itv888.cn:8080/hls/tp9ajk4od5/index.m3u8
-CCTV7,http://api.kkitv.itv888.cn:8080/hls/3udggaszi1i/index.m3u8
-CCTV8,http://api.kkitv.itv888.cn:8080/hls/vseo1nm7qp/index.m3u8
-CCTV9,http://api.kkitv.itv888.cn:8080/hls/bsmkmf3jrp4/index.m3u8
-CCTV10,http://api.kkitv.itv888.cn:8080/hls/wd86wxjxn8/index.m3u8
-CCTV11,http://api.kkitv.itv888.cn:8080/hls/og4kq4cnqm/index.m3u8
-CCTV12,http://api.kkitv.itv888.cn:8080/hls/nwfb31kwc3l/index.m3u8
-CCTV13,http://api.kkitv.itv888.cn:8080/hls/9sxg4yjgot/index.m3u8
-CCTV14,http://api.kkitv.itv888.cn:8080/hls/dyfpqk8fpzi/index.m3u8
-CCTV15,http://api.kkitv.itv888.cn:8080/hls/hcwu4ianhgw/index.m3u8
-CCTV16,http://api.kkitv.itv888.cn:8080/hls/qazacsm0hgl/index.m3u8
-CCTV17,http://api.kkitv.itv888.cn:8080/hls/5t4bgijh9da/index.m3u8
-CCTV5+,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
-湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
-东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
-江苏卫视,http://api.kkitv.itv888.cn:8080/hls/g1upm1u239/index.m3u8
-广东卫视,http://api.kkitv.itv888.cn:8080/hls/qr6872071g/index.m3u8
-浙江卫视,http://api.kkitv.itv888.cn:8080/hls/urjqjvyf41q/index.m3u8
-北京卫视,http://api.kkitv.itv888.cn:8080/hls/h5uud1z84gn/index.m3u8
-深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
-天津卫视,http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
-山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
-安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
-江西卫视,http://api.kkitv.itv888.cn:8080/hls/pv0np60bpin/index.m3u8
-黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
-四川卫视,http://api.kkitv.itv888.cn:8080/hls/p2npnppn96p/index.m3u8
-贵州卫视,http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
-湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
-辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
-广西卫视,http://api.kkitv.itv888.cn:8080/hls/yvz4ndj9dqb/index.m3u8
-重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
-东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
-吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
-海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
+央卫综合,#genre#
+CCTV1-综合,http://114.241.110.225:85/tsfile/live/1/1001_1.m3u8?key=txiptv
+CCTV2-财经,http://114.241.110.225:85/tsfile/live/2/1002_1.m3u8?key=txiptv
+CCTV3-综艺,http://114.241.110.225:85/tsfile/live/3/1003_1.m3u8?key=txiptv
+CCTV4-国际,http://114.241.110.225:85/tsfile/live/4/1004_1.m3u8?key=txiptv
+CCTV5-体育,http://114.241.110.225:85/tsfile/live/5/1005_1.m3u8?key=txiptv
+CCTV6-电影,http://114.241.110.225:85/tsfile/live/6/1006_1.m3u8?key=txiptv
+CCTV7-军农,http://114.241.110.225:85/tsfile/live/7/1007_1.m3u8?key=txiptv
+CCTV8-电视剧,http://114.241.110.225:85/tsfile/live/8/1008_1.m3u8?key=txiptv
+CCTV9-纪录,http://114.241.110.225:85/tsfile/live/9/1009_1.m3u8?key=txiptv
+CCTV10-科教,http://114.241.110.225:85/tsfile/live/10/1010_1.m3u8?key=txiptv
+CCTV11-戏曲,http://114.241.110.225:85/tsfile/live/11/1011_1.m3u8?key=txiptv
+CCTV12-社会与法,http://114.241.110.225:85/tsfile/live/12/1012_1.m3u8?key=txiptv
+CCTV13-新闻,http://114.241.110.225:85/tsfile/live/13/1013_1.m3u8?key=txiptv
+CCTV14-少儿,http://114.241.110.225:85/tsfile/live/14/1014_1.m3u8?key=txiptv
+CCTV15-音乐,http://114.241.110.225:85/tsfile/live/15/1015_1.m3u8?key=txiptv
+BTV北京卫视,http://114.241.110.225:85/tsfile/live/16/1016_1.m3u8?key=txiptv
+湖南卫视高清,http://114.241.110.225:85/tsfile/live/26/1026_1.m3u8?key=txiptv
+浙江卫视-高清,http://114.241.110.225:85/tsfile/live/27/1027_1.m3u8?key=txiptv
+江苏卫视-高清,http://114.241.110.225:85/tsfile/live/28/1028_1.m3u8?key=txiptv
+安徽卫视,http://114.241.110.225:85/tsfile/live/29/1029_1.m3u8?key=txiptv
+天津卫视-高清,http://114.241.110.225:85/tsfile/live/30/1030_1.m3u8?key=txiptv
+辽宁卫视,http://114.241.110.225:85/tsfile/live/31/1031_1.m3u8?key=txiptv
+江苏卫视,http://114.241.110.225:85/tsfile/live/32/1032_1.m3u8?key=txiptv
+云南卫视,http://114.241.110.225:85/tsfile/live/33/1033_1.m3u8?key=txiptv
+河南卫视,http://114.241.110.225:85/tsfile/live/34/1034_1.m3u8?key=txiptv
+黑龙江卫视-高清,http://114.241.110.225:85/tsfile/live/35/1035_1.m3u8?key=txiptv
+四川卫视,http://114.241.110.225:85/tsfile/live/36/1036_1.m3u8?key=txiptv
+江西卫视,http://114.241.110.225:85/tsfile/live/37/1037_1.m3u8?key=txiptv
+贵州卫视-高清,http://114.241.110.225:85/tsfile/live/38/1038_1.m3u8?key=txiptv
+深圳卫视,http://114.241.110.225:85/tsfile/live/39/1039_1.m3u8?key=txiptv
+湖北卫视-高清,http://114.241.110.225:85/tsfile/live/40/1040_1.m3u8?key=txiptv
+东方卫视-高清,http://114.241.110.225:85/tsfile/live/41/1041_1.m3u8?key=txiptv
+重庆卫视,http://114.241.110.225:85/tsfile/live/42/1042_1.m3u8?key=txiptv
+东南卫视,http://114.241.110.225:85/tsfile/live/43/1043_1.m3u8?key=txiptv
+河北卫视-高清,http://114.241.110.225:85/tsfile/live/44/1044_1.m3u8?key=txiptv
+广东卫视-高清,http://114.241.110.225:85/tsfile/live/45/1045_1.m3u8?key=txiptv
+广西卫视,http://114.241.110.225:85/tsfile/live/46/1046_1.m3u8?key=txiptv
+吉林卫视,http://114.241.110.225:85/tsfile/live/47/1047_1.m3u8?key=txiptv
+陕西卫视,http://114.241.110.225:85/tsfile/live/48/1048_1.m3u8?key=txiptv
+山西卫视,http://114.241.110.225:85/tsfile/live/49/1049_1.m3u8?key=txiptv
+内蒙古卫视,http://114.241.110.225:85/tsfile/live/50/1050_1.m3u8?key=txiptv
+青海卫视,http://114.241.110.225:85/tsfile/live/51/1051_1.m3u8?key=txiptv
+宁夏卫视,http://114.241.110.225:85/tsfile/live/52/1052_1.m3u8?key=txiptv
+西藏卫视,http://114.241.110.225:85/tsfile/live/53/1053_1.m3u8?key=txiptv
+
+
+香港P2P,#genre#
+Now新闻【p2p】源,P2p://starvod.xyz:19806/d0ba9cc570654f6d958809d4c3f8931d.ts
+无线新闻【p2p】源,P2p://starvod.xyz:19806/557d5098116e4e1f9b14008ed764cc71.ts
+无线生活【p2p】源,P2p://starvod.xyz:19806/f4650e7cb54645f79ea52469b84ef3c4.ts
+无线娱乐【p2p】源,P2p://starvod.xyz:19806/c6994957df9e4488bfb1c462db442f61.ts
+无线星河【p2p】源,P2p://starvod.xyz:19806/52d013423e304854a4980bd64c0015ae.ts
+无线千禧【p2p】源,P2p://starvod.xyz:19806/8cf149d3490640d298e3bce48cd0e8ae.ts
+无线功夫【p2p】源,P2p://starvod.xyz:19806/6043814031384523bc272f4f87aeb298.ts
+无线粤片【p2p】源,P2p://starvod.xyz:19806/04fd1cf947634341813b484f497ecbbc.ts
+无线戏曲【p2p】源,P2p://starvod.xyz:19806/38b743244a7b4812a4e54b0d32910647.ts
+无线亚剧【p2p】源,P2p://starvod.xyz:19806/4eab17c6f15b475696bcb51b61233345.ts
+无线少儿【p2p】源,P2p://starvod.xyz:19806/631732f5fa894772aec8ee750359e455.ts
+黄金翡翠【p2p】源,P2p://starvod.xyz:19806/d6964956395e43d1a62e6166706f7fcf.ts
+无线赛马【p2p】源,P2p://starvod.xyz:19806/ad27c96a4bca4e61be7b4b2ba07368fc.ts
+有线赛马【p2p】源,P2p://starvod.xyz:19806/72740144b3744949b05bd0220bd4c231.ts
+澳门莲花【p2p】源,P2p://starvod.xyz:19806/68679bdf00060084a4fd42af6a261d1a.ts
+星空卫视【p2p】源,P2p://starvod.xyz:19806/913e258484624493a5a6d960500b30cc.ts
+天映经典【p2p】源,P2p://starvod.xyz:19806/4eebafee9ada46c9b959fe48a6baf682.ts
+pₒₚc电影【p2p】源,P2p://starvod.xyz:19806/688bba7c000da6943214e2280ad91465.ts
+美亚电影【p2p】源,P2p://starvod.xyz:19806/f9cdad09f3cc47bc83ba1d94167ebe64.ts
+龙华电影【p2p】源,P2p://starvod.xyz:19806/574ee66b78d44e6e81450ae523041523.ts
+私人影院【p2p】源,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
+爱奇艺综【p2p】源,P2p://starvod.xyz:19806/1cd1505d309948e596459856926cda41.ts
+八度空间【p2p】源,P2p://starvod.xyz:19806/ae2ec19c582f4a07baa35b40f91b4239.ts
+Ftv_城市【p2p】源,P2p://starvod.xyz:19806/2b3efa01d8bf4c7fbbef69911802df3f.ts
+Ftv1时代东晴,P2p://starvod.xyz:19806/e485c2b5af154a638d9d54d10dcb73d9.ts
+Ftv1时代西晴,P2p://starvod.xyz:19806/2c381681bcfd4ecdb2e52ece5014d6e8.ts
+Ftv2时代【p2p】源,P2p://starvod.xyz:19806/dd3cb3133b9d4ab38fb4b2c321a727a2.ts
+thrill电影【p2p】源,P2p://starvod.xyz:19806/68679be10008a36ea4fd4b2b3b26291d.ts
+中天亚洲【p2p】源,P2p://starvod.xyz:19806/cd11642fed21436aae33a4a2ad34d222.ts
+中视经典【p2p】源,P2p://starvod.xyz:19806/c523db6b2af648daa7c4c6bc2b8b4fa0.ts
+民视第一【p2p】源,P2p://starvod.xyz:19806/6a62462b09e141a289c6882ef0ae3d6d.ts
+民视闽语【p2p】源,P2p://starvod.xyz:19806/0ad1202aa2fe4fb4872479db5e384e46.ts
+台视财经【p2p】源,P2p://starvod.xyz:19806/0817341552e94d809c49a1a48598b8f1.ts
+台视综合【p2p】源,P2p://starvod.xyz:19806/c37a6ec58dd140ccab0e25b94849ee06.ts
+寰宇闽南【p2p】源,P2p://starvod.xyz:19806/afe7794ac5bf40ba96830dd97318be8c.ts
+tvbs亚洲【p2p】源,P2p://starvod.xyz:19806/62e69ecfa7ad4edfa092d77d9a9347d1.ts
+tvbs精采【p2p】源,P2p://starvod.xyz:19806/e9b905add7be4a3abd0a1993053ab547.ts
+龙华偶像【p2p】源,P2p://starvod.xyz:19806/b3c35c2e01d44a31b17efef0af0ebc64.ts
+龙华戏剧【p2p】源,P2p://starvod.xyz:19806/6a6681f04fcc4478886cded08a10c658.ts
+采昌影剧【p2p】源,P2p://starvod.xyz:19806/33264996f0c14a369140623dca66da43.ts
+数位电影【p2p】源,P2p://starvod.xyz:19806/37350129294343bcb28f6494c7ce4c07.ts
+壹电影'tv【p2p】源,P2p://starvod.xyz:19806/599f2aabecde4ed4b5fff257c229f986.ts
+靖天电影【p2p】源,P2p://starvod.xyz:19806/7a72ea8d27d64fb9aae835c30af3b1cc.ts
+靖天戏剧【p2p】源,P2p://starvod.xyz:19806/840e84aa0a114e108edcaf6137177c4a.ts
+靖天映画【p2p】源,P2p://starvod.xyz:19806/9c504d3521e4481088a8a6c54fbac3d3.ts
+靖天资讯【p2p】源,P2p://starvod.xyz:19806/db9b03374399434da716bae0cd93f784.ts
+靖天综合【p2p】源,P2p://starvod.xyz:19806/75b3e6bac51d4f08ba7ed008892ad6c2.ts
+靖天国际【p2p】源,P2p://starvod.xyz:19806/f349833dddb5488ab2ce1175246557c1.ts
+靖天日本【p2p】源,P2p://starvod.xyz:19806/17ccd24c94514b0d928a3abd047add40.ts
+靖天育乐【p2p】源,P2p://starvod.xyz:19806/9dfcf4658000439aadcf1feb841a8887.ts
+ELta影剧【p2p】源,P2p://starvod.xyz:19806/0ae8227ad4ca480499bdd9280ca57f7f.ts
+EYE-戏剧【p2p】源,P2p://starvod.xyz:19806/5756cf2acc364bd5ab062db33ddfad4b.ts
+SMARt知识晴,P2p://starvod.xyz:19806/91503615eaa2416b929e56f178be5100.ts
+韩国娱乐【p2p】源,P2p://starvod.xyz:19806/10ec27f261d74e86919383fdb6da355c.ts
+三立戏剧【p2p】源,P2p://starvod.xyz:19806/eb30a7e16f1841c6900b45c8be342071.ts
+三立综合【p2p】源,P2p://147.135.39.171:9906/6869374a000888579acb331f46c77c60.ts
+纬来精采【p2p】源,P2p://147.135.39.171:9906/68693691000447559ac85f5e03845769.ts
+壹综合'tv【p2p】源,P2p://147.135.39.171:9906/685f810d000eeaf174db4a19563a6520.ts
+靖洋戏剧【p2p】源,P2p://147.135.39.171:9906/6867a22a000b7799949ca28717b451f5.ts
+中视菁采【p2p】源,P2p://147.135.39.171:9906/6867a07b0000813094960c2053bb31ec.ts
+八大优频道【p2p】源,P2p://147.135.39.171:9906/686141c600004a257bb419081c1d2844.ts
+
+
+
+斯马特,#genre#
+8度空间,http://51.89.166.17:3002/index.php?id=TV8
+翡翠1,http://51.89.166.17:3002/index.php?id=jade_twn
+翡翠2,http://51.89.166.17:3002/index.php?id=Wlt
+有线新闻,http://51.89.166.17:3002/index.php?id=hoycaijing_twn
+RTHK32,http://51.89.166.17:3002/index.php?id=rhk32_twn
+RTHK31,http://51.89.166.17:3002/index.php?id=rhk31_twn
+凤凰卫视,http://51.89.166.17:3002/index.php?id=phoenixtv_hd
+无线财经资讯,http://51.89.166.17:3002/index.php?id=tvbcaijing_twn
+VIUTV1,http://51.89.166.17:3002/index.php?id=viu1_twn
+有线新闻,http://51.89.166.17:3002/index.php?id=hoycaijing_twn
+无线新闻,http://51.89.166.17:3002/index.php?id=inews_twn
+TV9,http://51.89.166.17:3002/index.php?id=TV9
+TV9 Indonesia,http://51.89.166.17:3002/index.php?id=TV9_eko
+TV8,http://51.89.166.17:3002/index.php?id=TV8
+TV3,http://51.89.166.17:3002/index.php?id=TV3
+TV3 backup,http://51.89.166.17:3002/index.php?id=TV3_backup
+TV2,http://51.89.166.17:3002/index.php?id=TV2
+TV1,http://51.89.166.17:3002/index.php?id=TV1
+龙华戏剧,http://51.89.166.17:3002/index.php?id=lunghuaxiju_twn
+龙华偶像,http://51.89.166.17:3002/index.php?id=lunghuaidol_twn
+龙华卡通,http://51.89.166.17:3002/index.php?id=jingtiancartoon_twn
+非凡新闻,http://51.89.166.17:3002/index.php?id=feifannews_twn
+美亚电影,http://51.89.166.17:3002/index.php?id=meiyamovie_twn
+Arirang,http://51.89.166.17:3002/index.php?id=arirang_twn
+好莱坞电影,http://51.89.166.17:3002/index.php?id=hollywoodmovies_twn
+爱尔达体育2,http://51.89.166.17:3002/index.php?id=eltasport2_twn
+爱尔达体育1,http://51.89.166.17:3002/index.php?id=eltasport_twn
+民视新闻,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
+民视台湾,http://51.89.166.17:3002/index.php?id=ftvtaiwan_twn
+民视,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
+年代新闻,http://51.89.166.17:3002/index.php?id=niandainews_twn
+大爱1,http://51.89.166.17:3002/index.php?id=daai_twn
+博斯高球2,http://51.89.166.17:3002/index.php?id=bosigolf2_twn
+博斯运动2,http://51.89.166.17:3002/index.php?id=bosisport2_twn
+博斯运动1,http://51.89.166.17:3002/index.php?id=bosisport1_twn
+博斯网球,http://51.89.166.17:3002/index.php?id=bositennis_twn
+华视,http://51.89.166.17:3002/index.php?id=ctshd_twn
+公视,http://51.89.166.17:3002/index.php?id=ctv_taiwan
+八大综合,http://51.89.166.17:3002/index.php?id=badazhonghe
+中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+中视,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
+中天娱乐,http://51.89.166.17:3002/index.php?id=ctient
+中天亚洲,http://51.89.166.17:3002/index.php?id=ctiasia_twn
+东森超视,http://51.89.166.17:3002/index.php?id=ettvsuper
+东森戏剧,http://51.89.166.17:3002/index.php?id=ettvdrama
+三立综合,http://51.89.166.17:3002/index.php?id=sanlizhonghe
+三立戏剧,http://51.89.166.17:3002/index.php?id=sanlixiju_twn
+东森电影,http://51.89.166.17:3002/index.php?id=ettvmovie
+东森综合,http://51.89.166.17:3002/index.php?id=ettvzhonghe
+中天综合,http://51.89.166.17:3002/index.php?id=ctizhonghe
+八大综合,http://51.89.166.17:3002/index.php?id=badazhonghe
+八大戏剧,http://51.89.166.17:3002/index.php?id=badadrama
+八大第一,http://51.89.166.17:3002/index.php?id=badafirst
+小太阳,http://51.89.166.17:3002/index.php?id=Xiaotaiyang
+靖天卡通,http://51.89.166.17:3002/index.php?id=jingtiancartoon_twn
+靖天国际,http://51.89.166.17:3002/index.php?id=jingtianintl_twn
+TVBS News,http://51.89.166.17:3002/index.php?id=tvbs_n
+TVBS,http://51.89.166.17:3002/index.php?id=tvbs
+EYETV戏剧,http://51.89.166.17:3002/index.php?id=eyetvxiju_twn
+EYETV旅游,http://51.89.166.17:3002/index.php?id=eyetvtravel_twn
+TVBS欢乐,http://51.89.166.17:3002/index.php?id=tvbshuanle_twn
+Zee TV HD,http://51.89.166.17:3002/index.php?id=Zeetvhd
+Warner TV,http://51.89.166.17:3002/index.php?id=WarnerTV
+Viu6,http://51.89.166.17:3002/index.php?id=viusix_twn
+Vasantham,http://51.89.166.17:3002/index.php?id=Vasantham
+TvN,http://51.89.166.17:3002/index.php?id=TVN
+True Premium 2 HD,http://51.89.166.17:3002/index.php?id=truepre2_pat
+True Premium 1 HD,http://51.89.166.17:3002/index.php?id=truepre1_pat
+Transtv,http://51.89.166.17:3002/index.php?id=Transtv
+Trans 7,http://51.89.166.17:3002/index.php?id=Trans7_eko
+Tnn24,http://51.89.166.17:3002/index.php?id=tnn24_pat
+Thrill,http://51.89.166.17:3002/index.php?id=Thrill
+Tawaf TV,http://51.89.166.17:3002/index.php?id=TawafTV
+TVRI National,http://51.89.166.17:3002/index.php?id=TVRI
+TVMU,http://51.89.166.17:3002/index.php?id=TVMU_eko
+TPTV,http://51.89.166.17:3002/index.php?id=tptv_pat
+TLC,http://51.89.166.17:3002/index.php?id=Tlc
+Suria,http://51.89.166.17:3002/index.php?id=Suria
+体育3,http://51.89.166.17:3002/index.php?id=Assp3
+体育2,http://51.89.166.17:3002/index.php?id=Assp2
+Sunnah HD,http://51.89.166.17:3002/index.php?id=sunnah_mido
+Sun Music,http://51.89.166.17:3002/index.php?id=sunmusic_raj
+Star Vijay,http://51.89.166.17:3002/index.php?id=Starvijay
+Star Vijay India,http://51.89.166.17:3002/index.php?id=starvijay_raj
+Sony Six HD,http://51.89.166.17:3002/index.php?id=sonysix_raj
+Sony HD,http://51.89.166.17:3002/index.php?id=SetOne
+Skynews,http://51.89.166.17:3002/index.php?id=skynews_antik
+SCTV,http://51.89.166.17:3002/index.php?id=Sctv
+SCM,http://51.89.166.17:3002/index.php?id=Weishimovie
+RTM Sports HD,http://51.89.166.17:3002/index.php?id=Rtmsport
+RCTI,http://51.89.166.17:3002/index.php?id=Rcti
+Quran HD,http://51.89.166.17:3002/index.php?id=quran_mido
+Prima,http://51.89.166.17:3002/index.php?id=Prima
+Pick TV,http://51.89.166.17:3002/index.php?id=picktv_antik
+PPTV Thailand1,http://51.89.166.17:3002/index.php?id=pptv_pat
+One,http://51.89.166.17:3002/index.php?id=One
+Oasis,http://51.89.166.17:3002/index.php?id=Oasis
+Nickelodeon,http://51.89.166.17:3002/index.php?id=Nickelodeon
+Nick Jr,http://51.89.166.17:3002/index.php?id=Nickjr
+News 18 Tamil,http://51.89.166.17:3002/index.php?id=news18tamil_raj
+New,http://51.89.166.17:3002/index.php?id=new_pat
+Net TV,http://51.89.166.17:3002/index.php?id=NetTV
+Nation,http://51.89.166.17:3002/index.php?id=nation_pat
+国家地理,http://51.89.166.17:3002/index.php?id=natgeohd_twn
+地理野生动物,http://51.89.166.17:3002/index.php?id=natgeowildtamil_raj
+野生动物,http://51.89.166.17:3002/index.php?id=natgeowild_twn
+地理野生动物,http://51.89.166.17:3002/index.php?id=Natgeowild
+NatGeo Tamil,http://51.89.166.17:3002/index.php?id=natgeotamil_raj
+国家地理,http://51.89.166.17:3002/index.php?id=Natgeo
+More4,http://51.89.166.17:3002/index.php?id=more4_antik
+Momo TV,http://51.89.166.17:3002/index.php?id=momo1_twn
+MiaoMi,http://51.89.166.17:3002/index.php?id=MiaoMi
+Metro TV,http://51.89.166.17:3002/index.php?id=metrotv_eko
+Makkal TV,http://51.89.166.17:3002/index.php?id=Makkaltv
+AXNTaiwan,http://51.89.166.17:3002/index.php?id=axn_twn
+动物星球,http://51.89.166.17:3002/index.php?id=AnimalPlanet
+动物星球1,http://51.89.166.17:3002/index.php?id=animalplanet_twn
+Asianet,http://51.89.166.17:3002/index.php?id=asianet_raj
+Awani,http://51.89.166.17:3002/index.php?id=Awani
+AxnHD,http://51.89.166.17:3002/index.php?id=Axn
+Cinemax,http://51.89.166.17:3002/index.php?id=cinemax_twn
+CNBC,http://51.89.166.17:3002/index.php?id=cnbc_twn
+CelestialMoviesHD,http://51.89.166.17:3002/index.php?id=Celestialindo
+Channel3Thailand,http://51.89.166.17:3002/index.php?id=ch3_pat
+DiscoveryAsia,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
+DiscoveryHD,http://51.89.166.17:3002/index.php?id=discoveryhd_twn
+DiscoveryKidsTamil,http://51.89.166.17:3002/index.php?id=discoverykidtamil_raj
+DiscoveryTurbo,http://51.89.166.17:3002/index.php?id=discoveryturbo_twn
+DiscoveryWorldTamil,http://51.89.166.17:3002/index.php?id=discoveryworldtam_raj
+BBC1,http://51.89.166.17:3002/index.php?id=bbc1_antik
+BBC2,http://51.89.166.17:3002/index.php?id=bbc2_antik
+BBCEarthHD,http://51.89.166.17:3002/index.php?id=bbcearth_twn
+BBCEarthTamil,http://51.89.166.17:3002/index.php?id=bbcearthtam_raj
+BBCWorldNews,http://51.89.166.17:3002/index.php?id=bbcnews_twn
+BTESPN,http://51.89.166.17:3002/index.php?id=btespn
+BTSports1,http://51.89.166.17:3002/index.php?id=beeone
+BTSports3,http://51.89.166.17:3002/index.php?id=beethree
+BloombergNews,http://51.89.166.17:3002/index.php?id=bloomberg_twn
+Boomerang,http://51.89.166.17:3002/index.php?id=Boomerang
+CBBC,http://51.89.166.17:3002/index.php?id=cbbc_antik
+CBSHD,http://51.89.166.17:3002/index.php?id=cbshd_glo
+CBSNHD,http://51.89.166.17:3002/index.php?id=cbsn_glo
+Muslim TV,http://51.89.166.17:3002/index.php?id=MuslimTV
+itv1,http://51.89.166.17:3002/index.php?id=itv1_antik
+tvNMovie,http://51.89.166.17:3002/index.php?id=Tvnmovie
+TVN,http://51.89.166.17:3002/index.php?id=TVN
+RTHK32,http://51.89.166.17:3002/index.php?id=rhk32_twn
+RTHK31,http://51.89.166.17:3002/index.php?id=rhk31_twn
+J2,http://51.89.166.17:3002/index.php?id=j2_twn
+无线财经资讯,http://51.89.166.17:3002/index.php?id=tvbcaijing_twn
+民视第一,http://51.89.166.17:3002/index.php?id=lunghuajingdian_twn
+龙华偶像,http://51.89.166.17:3002/index.php?id=lunghuaidol_twn
+龙华卡通,http://51.89.166.17:3002/index.php?id=jingtiancartoon_twn
+非凡新闻,http://51.89.166.17:3002/index.php?id=feifannews_twn
+美食星球,http://51.89.166.17:3002/index.php?id=foodplanet_twn
+Arirang,http://51.89.166.17:3002/index.php?id=arirang_twn
+爱尔达体育2,http://51.89.166.17:3002/index.php?id=eltasport2_twn
+爱尔达体育1,http://51.89.166.17:3002/index.php?id=eltasport_twn
+民视新闻,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
+民视台湾,http://51.89.166.17:3002/index.php?id=ftvtaiwan_twn
+民视,http://51.89.166.17:3002/index.php?id=ftvhd_taiwan
+年代新闻,http://51.89.166.17:3002/index.php?id=niandainews_twn
+好消息 2,http://51.89.166.17:3002/index.php?id=good2_twn
+大爱1台,http://51.89.166.17:3002/index.php?id=daai_twn
+博斯高球2,http://51.89.166.17:3002/index.php?id=bosigolf2_twn
+博斯运动 2,http://51.89.166.17:3002/index.php?id=bosisport2_twn
+博斯运动 1,http://51.89.166.17:3002/index.php?id=bosisport1_twn
+博斯网球,http://51.89.166.17:3002/index.php?id=bositennis_twn
+华视,http://51.89.166.17:3002/index.php?id=ctshd_twn
+公视,http://51.89.166.17:3002/index.php?id=ctv_taiwan
+八大综合,http://51.89.166.17:3002/index.php?id=badazhonghe
+中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+中视,http://51.89.166.17:3002/index.php?id=zhongshihd_twn
+中天新闻,http://51.89.166.17:3002/index.php?id=ctinews
+中天娱乐,http://51.89.166.17:3002/index.php?id=ctient
+中天亚洲,http://51.89.166.17:3002/index.php?id=ctiasia_twn
+东森超视,http://51.89.166.17:3002/index.php?id=ettvsuper
+东森财经新闻,http://51.89.166.17:3002/index.php?id=ettvcaijing_twn
+东森戏剧,http://51.89.166.17:3002/index.php?id=ettvdrama
+三立综合,http://51.89.166.17:3002/index.php?id=sanlizhonghe
+三立戏剧,http://51.89.166.17:3002/index.php?id=sanlixiju_twn
+东森电影,http://51.89.166.17:3002/index.php?id=ettvmovie
+东森综合,http://51.89.166.17:3002/index.php?id=ettvzhonghe
+中天综合,http://51.89.166.17:3002/index.php?id=ctizhonghe
+八大综合,http://51.89.166.17:3002/index.php?id=badazhonghe
+八大戏剧,http://51.89.166.17:3002/index.php?id=badadrama
+八大第一,http://51.89.166.17:3002/index.php?id=badafirst
+八大第一,http://51.89.166.17:3002/index.php?id=badafirst
+小太阳,http://51.89.166.17:3002/index.php?id=Xiaotaiyang
+靖天卡通,http://51.89.166.17:3002/index.php?id=jingtiancartoon_twn
+靖天国际,http://51.89.166.17:3002/index.php?id=jingtianintl_twn
+TVBS News,http://51.89.166.17:3002/index.php?id=tvbs_n
+TVBS,http://51.89.166.17:3002/index.php?id=tvbs
+EYETV戏剧,http://51.89.166.17:3002/index.php?id=eyetvxiju_twn
+EYETV旅游,http://51.89.166.17:3002/index.php?id=eyetvtravel_twn
+TVBS欢乐,http://51.89.166.17:3002/index.php?id=tvbshuanle_twn
+Viu6,http://51.89.166.17:3002/index.php?id=viusix_twn
+国家地理,http://51.89.166.17:3002/index.php?id=natgeohd_twn
+野生动物,http://51.89.166.17:3002/index.php?id=natgeowild_twn
+Momo TV,http://51.89.166.17:3002/index.php?id=momo1_twn
+亚洲旅游,http://51.89.166.17:3002/index.php?id=asiatravel_twn
+AXNTaiwan,http://51.89.166.17:3002/index.php?id=axn_twn
+动物星球1,http://51.89.166.17:3002/index.php?id=animalplanet_twn
+CINEMAX,http://51.89.166.17:3002/index.php?id=cinemax_twn
+CNBC,http://51.89.166.17:3002/index.php?id=cnbc_twn
+DiscoveryAsia,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
+DiscoveryHD,http://51.89.166.17:3002/index.php?id=discoveryhd_twn
+DiscoveryTurbo,http://51.89.166.17:3002/index.php?id=discoveryturbo_twn
+BBCEarthHD,http://51.89.166.17:3002/index.php?id=bbcearth_twn
+BBCWorldNews,http://51.89.166.17:3002/index.php?id=bbcnews_twn
+BloombergNews,http://51.89.166.17:3002/index.php?id=bloomberg_twn
+CBSHD,http://51.89.166.17:3002/index.php?id=cbshd_glo
+CBSNHD,http://51.89.166.17:3002/index.php?id=cbsn_glo
+ABCNews,http://51.89.166.17:3002/index.php?id=abcnews_glo
+BabyTV,http://51.89.166.17:3002/index.php?id=babytv_twn
+CBSNews,http://51.89.166.17:3002/index.php?id=cbsn_glo
+CNN,http://51.89.166.17:3002/index.php?id=cnn_twn
+DiscoveryAsia,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
+ELEVEN体育1,http://51.89.166.17:3002/index.php?id=golfchannel_twn
+EYETV戏剧,http://51.89.166.17:3002/index.php?id=eyetvxiju_twn
+FoxNews,http://51.89.166.17:3002/index.php?id=foxnews_twn
+GOODTV真理,http://51.89.166.17:3002/index.php?id=good2_twn
+HBO家庭,http://51.89.166.17:3002/index.php?id=fyi_twn
+RTHK32,http://51.89.166.17:3002/index.php?id=rhk32_twn
+TVBS新闻,http://51.89.166.17:3002/index.php?id=tvbs_n
+TVBS欢乐,http://51.89.166.17:3002/index.php?id=tvbshuanle_twn
+WWE,http://51.89.166.17:3002/index.php?id=wwe_twn
+三立台湾,http://51.89.166.17:3002/index.php?id=sanlitaiwan
+三立戏剧,http://51.89.166.17:3002/index.php?id=sanlixiju_twn
+三立综合,http://51.89.166.17:3002/index.php?id=sanlizhonghe
+中天亚洲,http://51.89.166.17:3002/index.php?id=ctiasia_twn
+中天娱乐,http://51.89.166.17:3002/index.php?id=ctient
+中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+中视新闻,http://51.89.166.17:3002/index.php?id=zhongshinews_twn
+中视经典,http://51.89.166.17:3002/index.php?id=zhongshi_twn
+亚洲旅游,http://51.89.166.17:3002/index.php?id=asiatravel_twn
+八大戏剧,http://51.89.166.17:3002/index.php?id=badadrama
+八大第一,http://51.89.166.17:3002/index.php?id=badafirst
+八大综合,http://51.89.166.17:3002/index.php?id=badazhonghe
+公视,http://51.89.166.17:3002/index.php?id=ctv_taiwan
+动物星球,http://51.89.166.17:3002/index.php?id=animalplanet_twn
+博斯网球,http://51.89.166.17:3002/index.php?id=bositennis_twn
+博斯运动2,http://51.89.166.17:3002/index.php?id=bosisport2_twn
+博斯高球1,http://51.89.166.17:3002/index.php?id=bosigolf1_twn
+博斯高球1,http://51.89.166.17:3002/index.php?id=bosigolf1_twn
+好莱坞电影,http://51.89.166.17:3002/index.php?id=hollywoodmovies_twn
+爱尔达体育1,http://51.89.166.17:3002/index.php?id=eltasport2_twn
+爱尔达体育2,http://51.89.166.17:3002/index.php?id=eltasport2_twn
+探索亚洲,http://51.89.166.17:3002/index.php?id=discoverytwn_twn
+探索动力,http://51.89.166.17:3002/index.php?id=discoveryturbo_twn
+星卫电影,http://51.89.166.17:3002/index.php?id=xingwei_movie
+时尚,http://51.89.166.17:3002/index.php?id=fashiontv_twn
+东森财经,http://51.89.166.17:3002/index.php?id=ettvcaijing_twn
+东森超视,http://51.89.166.17:3002/index.php?id=ettvsuper
+民视新闻,http://51.89.166.17:3002/index.php?id=ftvnew_taiwan
+美亚电影,http://51.89.166.17:3002/index.php?id=meiyamovie_twn
+靖天卡通,http://51.89.166.17:3002/index.php?id=jingtiancartoon_twn
+非凡新闻,http://51.89.166.17:3002/index.php?id=feifannews_twn
+龙华戏剧,http://51.89.166.17:3002/index.php?id=lunghuaxiju_twn
+Awani,http://51.89.166.17:3002/index.php?id=Awani
+BBC,http://51.89.166.17:3002/index.php?id=bbc1_antik
+BBC1,http://51.89.166.17:3002/index.php?id=bbc1_antik
+BBC2,http://51.89.166.17:3002/index.php?id=bbc2_antik
+BBC WORLD NEWS,http://51.89.166.17:3002/index.php?id=bbcnews_twn
+BTSports4,http://51.89.166.17:3002/index.php?id=btespn
+CNA亚洲新闻,http://51.89.166.17:3002/index.php?id=cna
+Euronews,http://51.89.166.17:3002/index.php?id=euronews_antik
+TLC旅游生活,http://51.89.166.17:3002/index.php?id=tlc_twn
+
+
 
 
 央视广东,#genre#
@@ -372,866 +701,6 @@ TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 香港33台,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
 香港34台,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
 香港35台,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-
-
-
-马新频道cat,#genre#
-ua=catvod.com
-Channel 5,https://live.catvod.com/catvod_com.php?id=Channel5HD
-Channel 8,https://live.catvod.com/catvod_com.php?id=Channel8HD
-Suria,https://live.catvod.com/catvod_com.php?id=Suria
-Channel U,https://live.catvod.com/catvod_com.php?id=ChannelU
-Vasantham,https://live.catvod.com/catvod_com.php?id=Vasantham
-MeWatch Ch 5,https://live.catvod.com/catvod_com.php?id=Mewatch_ch5
-MeWatch Ch 8,https://live.catvod.com/catvod_com.php?id=Mewatch_ch8
-MeWatch Ch U,https://live.catvod.com/catvod_com.php?id=Mewatch_chU
-MeWatch Suria,https://live.catvod.com/catvod_com.php?id=Mewatch_Suria
-MeWatch Vasantham,https://live.catvod.com/catvod_com.php?id=Mewatch_Vasantham
-MeWatch CNA,https://live.catvod.com/catvod_com.php?id=Mewatch_cna
-TV1,https://live.catvod.com/catvod_com.php?id=TV1
-TV1 backup,https://live.catvod.com/catvod_com.php?id=TV1_backup
-TV2,https://live.catvod.com/catvod_com.php?id=TV2
-TV3,https://live.catvod.com/catvod_com.php?id=TV3
-TV3 SD,https://live.catvod.com/catvod_com.php?id=TV3_mega
-NTV7,https://live.catvod.com/catvod_com.php?id=NTV7
-TV8,https://live.catvod.com/catvod_com.php?id=TV8
-TV9,https://live.catvod.com/catvod_com.php?id=TV9
-Ria,https://live.catvod.com/catvod_com.php?id=Ria
-Ria-3,https://live.catvod.com/catvod_com.php?id=Ria_backup
-Al-Hijrah,https://live.catvod.com/catvod_com.php?id=Alhijrah
-Al-Hijrah backup,https://live.catvod.com/catvod_com.php?id=Alhijrah_backup
-Awani,https://live.catvod.com/catvod_com.php?id=Awani
-Bernama,https://live.catvod.com/catvod_com.php?id=Bernama
-Prima,https://live.catvod.com/catvod_com.php?id=Prima
-Prima backup,https://live.catvod.com/catvod_com.php?id=AAprima1
-Prima backup 2,https://live.catvod.com/catvod_com.php?id=AAprima
-Ceria,https://live.catvod.com/catvod_com.php?id=Ceria
-Astro MTV,https://live.catvod.com/catvod_com.php?id=AstroMTV
-Mecca Live HD,https://live.catvod.com/catvod_com.php?id=quran_mido
-Madinah HD,https://live.catvod.com/catvod_com.php?id=sunnah_mido
-Oasis,https://live.catvod.com/catvod_com.php?id=Oasis
-Siar,https://live.catvod.com/catvod_com.php?id=Siar
-Citra,https://live.catvod.com/catvod_com.php?id=AAcitra
-Citra backup,https://live.catvod.com/catvod_com.php?id=AAcitra1
-Sensasi,https://live.catvod.com/catvod_com.php?id=Sensasi
-Aura,https://live.catvod.com/catvod_com.php?id=Aura
-Rania,https://live.catvod.com/catvod_com.php?id=Rania
-KBS World,https://live.catvod.com/catvod_com.php?id=KBS
-Boo,https://live.catvod.com/catvod_com.php?id=Boo
-Awesome TV,https://live.catvod.com/catvod_com.php?id=Dsangat
-Astro Sonypix,https://live.catvod.com/catvod_com.php?id=Asonypix
-Sony HD,https://live.catvod.com/catvod_com.php?id=SetOne
-TvN,https://live.catvod.com/catvod_com.php?id=TVN
-AEC,https://live.catvod.com/catvod_com.php?id=AEC
-华丽台 HD （Wah Lai Toi）,https://live.catvod.com/catvod_com.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,https://live.catvod.com/catvod_com.php?id=Huahee
-Astro QJ,https://live.catvod.com/catvod_com.php?id=Quanjia
-TVB Jade,https://live.catvod.com/catvod_com.php?id=Tvbjade
-TVB Asia,https://live.catvod.com/catvod_com.php?id=Tvbasia
-TVB Entertainment,https://live.catvod.com/catvod_com.php?id=Tvbentertainment
-TVB Classic,https://live.catvod.com/catvod_com.php?id=Tvbclassic
-AOD,https://live.catvod.com/catvod_com.php?id=Aodhd
-TVB 星河台 Xing He,https://live.catvod.com/catvod_com.php?id=Xinhe
-爱奇艺 iQiyi,https://live.catvod.com/catvod_com.php?id=Qiyi
-Goshop,https://live.catvod.com/catvod_com.php?id=Goshop
-Celestial Movies HD,https://live.catvod.com/catvod_com.php?id=Celestial
-Astro LOL,https://live.catvod.com/catvod_com.php?id=Astro_lol
-Astro Rusi,https://live.catvod.com/catvod_com.php?id=Rusi
-WION,https://live.catvod.com/catvod_com.php?id=Wion
-RTM Asean,https://live.catvod.com/catvod_com.php?id=Rtmasean
-TVRI National,https://live.catvod.com/catvod_com.php?id=TVRI
-RCTI,https://live.catvod.com/catvod_com.php?id=Rcti
-Kompass TV,https://live.catvod.com/catvod_com.php?id=Kompass
-Berita Satu,https://live.catvod.com/catvod_com.php?id=BeritaSatu_eko
-Indosiar HD,https://live.catvod.com/catvod_com.php?id=Indosiar
-AnTV,https://live.catvod.com/catvod_com.php?id=Antv
-MNC TV,https://live.catvod.com/catvod_com.php?id=Mnctv
-Trans 7,https://live.catvod.com/catvod_com.php?id=Trans7_eko
-Transtv,https://live.catvod.com/catvod_com.php?id=Transtv
-JTV,https://live.catvod.com/catvod_com.php?id=JTV_eko
-Metro TV,https://live.catvod.com/catvod_com.php?id=metrotv_eko
-SCTV,https://live.catvod.com/catvod_com.php?id=SCTV
-Tvone,https://live.catvod.com/catvod_com.php?id=Tvone
-TVMU,https://live.catvod.com/catvod_com.php?id=TVMU_eko
-GTV,https://live.catvod.com/catvod_com.php?id=Gtv
-RTV,https://live.catvod.com/catvod_com.php?id=Rtv
-Jak TV,https://live.catvod.com/catvod_com.php?id=JakTV
-iNews TV,https://live.catvod.com/catvod_com.php?id=Inewstv
-Daai TV,https://live.catvod.com/catvod_com.php?id=DaaiTV
-Net TV,https://live.catvod.com/catvod_com.php?id=NetTV
-EWTN,https://live.catvod.com/catvod_com.php?id=Ewtn
-Tawaf TV,https://live.catvod.com/catvod_com.php?id=TawafTV
-Vision Prime,https://live.catvod.com/catvod_com.php?id=VisionPrime
-Muslim TV,https://live.catvod.com/catvod_com.php?id=MuslimTV
-Music TV,https://live.catvod.com/catvod_com.php?id=MusicTV
-Lifestyle&amp;Fashion,https://live.catvod.com/catvod_com.php?id=Lifestyle
-Sun TV HD,https://live.catvod.com/catvod_com.php?id=Suntv
-Star Vijay,https://live.catvod.com/catvod_com.php?id=Starvijay
-Colors Tamil,https://live.catvod.com/catvod_com.php?id=Colorstam
-Sun Music,https://live.catvod.com/catvod_com.php?id=Sunmusic
-Astro Sunlife,https://live.catvod.com/catvod_com.php?id=Sunlife
-Astro Vaanavil,https://live.catvod.com/catvod_com.php?id=Vaanavil
-Zee Tamil,https://live.catvod.com/catvod_com.php?id=Zeetamil
-Zee Business,https://live.catvod.com/catvod_com.php?id=Zeebusiness
-News 18 Tamil,https://live.catvod.com/catvod_com.php?id=news18tamil_raj
-Adithya,https://live.catvod.com/catvod_com.php?id=Adithya
-Makkal TV,https://live.catvod.com/catvod_com.php?id=Makkaltv
-Zee Action,https://live.catvod.com/catvod_com.php?id=Zeeaction
-Astro KTV,https://live.catvod.com/catvod_com.php?id=Astroktv
-Zee TV HD,https://live.catvod.com/catvod_com.php?id=Zeetvhd
-Zee Cinema HD,https://live.catvod.com/catvod_com.php?id=Zeecinemahd
-Color HD,https://live.catvod.com/catvod_com.php?id=Colorhd
-Starplus HD,https://live.catvod.com/catvod_com.php?id=Starplushd
-Picture HD,https://live.catvod.com/catvod_com.php?id=Npicture
-Zee News,https://live.catvod.com/catvod_com.php?id=Zeenews
-Asianet,https://live.catvod.com/catvod_com.php?id=asianet_raj
-Discovery World Tamil,https://live.catvod.com/catvod_com.php?id=discoveryworldtam_raj
-History Tamil,https://live.catvod.com/catvod_com.php?id=historytam_raj
-NatGeo Tamil,https://live.catvod.com/catvod_com.php?id=natgeotamil_raj
-Natgeo Wild Tamil,https://live.catvod.com/catvod_com.php?id=natgeowildtamil_raj
-Discovery Kids Tamil,https://live.catvod.com/catvod_com.php?id=discoverykidtamil_raj
-Sony Yay Tamil,https://live.catvod.com/catvod_com.php?id=sonyyaytam_raj
-Starmaa HD,https://live.catvod.com/catvod_com.php?id=starmaa_raj
-Starmaa Movies HD,https://live.catvod.com/catvod_com.php?id=starmaamovies_raj
-Bollyone,https://live.catvod.com/catvod_com.php?id=Bollyone
-Vijay Super,https://live.catvod.com/catvod_com.php?id=vijaysuper_raj
-Vellithirai,https://live.catvod.com/catvod_com.php?id=Vellithirai
-MCOT HD Thailand-1,https://live.catvod.com/catvod_com.php?id=mcot_pat
-PPTV Thailand1,https://live.catvod.com/catvod_com.php?id=pptv_pat
-Ch 8,https://live.catvod.com/catvod_com.php?id=ch8_pat
-Mono,https://live.catvod.com/catvod_com.php?id=mono_pat
-Workpoint,https://live.catvod.com/catvod_com.php?id=workpoint_pat
-Gmm Channel,https://live.catvod.com/catvod_com.php?id=gmmchannel_pat
-Nation,https://live.catvod.com/catvod_com.php?id=nation_pat
-Tnn24,https://live.catvod.com/catvod_com.php?id=tnn24_pat
-BBC 1,https://live.catvod.com/catvod_com.php?id=bbc1_antik
-itv 1,https://live.catvod.com/catvod_com.php?id=itv1_antik
-
-香港频道cat,#genre#
-ua=catvod.com
-翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn
-翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue
-iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn
-J 2,https://live.catvod.com/catvod_com.php?id=j2_twn
-珍珠台,https://live.catvod.com/catvod_com.php?id=pearl_twn
-凤凰香港,https://live.catvod.com/catvod_com.php?id=hkphoenix_twn
-HOY资讯台,https://live.catvod.com/catvod_com.php?id=hoycaijing_twn
-RHK 31,https://live.catvod.com/catvod_com.php?id=rhk31_twn
-VIUTV1,https://live.catvod.com/catvod_com.php?id=viu1_twn
-RHK 32,https://live.catvod.com/catvod_com.php?id=rhk32_twn
-凤凰卫视,https://live.catvod.com/catvod_com.php?id=phoenixtv_hd
-凤凰资讯,https://live.catvod.com/catvod_com.php?id=phoenixinfo_hd
-Viu6,https://live.catvod.com/catvod_com.php?id=viusix_twn
-
-央视频道cat,#genre#
-ua=catvod.com
-CCTV-1 综合 HD,https://live.catvod.com/catvod_com.php?id=cctv1
-CCTV-2 财经,https://live.catvod.com/catvod_com.php?id=cctv2
-CCTV-3 综艺 HD,https://live.catvod.com/catvod_com.php?id=cctv3
-CCTV-4 中文国际,https://live.catvod.com/catvod_com.php?id=cctv4
-CCTV4 新闻台,https://live.catvod.com/catvod_com.php?id=Cctv4
-CCTV-5 体育频道,https://live.catvod.com/catvod_com.php?id=cctv5
-CCTV-5+ 体育赛事 HD,https://live.catvod.com/catvod_com.php?id=cctv5plus
-CCTV-6,https://live.catvod.com/catvod_com.php?id=cctv6
-CCTV-7 军事农业,https://live.catvod.com/catvod_com.php?id=cctv7
-CCTV-8 电视剧 HD,https://live.catvod.com/catvod_com.php?id=cctv8hd
-CCTV-9 记录 HD,https://live.catvod.com/catvod_com.php?id=cctv9hd
-CCTV-10 科教 HD,https://live.catvod.com/catvod_com.php?id=cctv10hd
-CCTV-11 戏曲,https://live.catvod.com/catvod_com.php?id=cctv11
-CCTV-12 社会与法,https://live.catvod.com/catvod_com.php?id=cctv12
-CCTV-13 新闻频道,https://live.catvod.com/catvod_com.php?id=cctv13
-CCTV-14 少儿,https://live.catvod.com/catvod_com.php?id=cctv14
-CCTV-15 音乐,https://live.catvod.com/catvod_com.php?id=cctv15
-
-卫视频道cat,#genre#
-ua=catvod.com
-湖南卫视,https://live.catvod.com/catvod_com.php?id=hunan_twn
-浙江卫视,https://live.catvod.com/catvod_com.php?id=zhejiang_twn
-江苏卫视,https://live.catvod.com/catvod_com.php?id=jiangsu_twn
-深圳卫视,https://live.catvod.com/catvod_com.php?id=shenzhen
-福建东南卫视,https://live.catvod.com/catvod_com.php?id=fujian
-广东南方卫视,https://live.catvod.com/catvod_com.php?id=nanfang_twn
-广东卫视,https://live.catvod.com/catvod_com.php?id=guangdongweishi_twn
-北京卫视,https://live.catvod.com/catvod_com.php?id=beijing
-珠江台,https://live.catvod.com/catvod_com.php?id=zhujiang
-广西卫视,https://live.catvod.com/catvod_com.php?id=guangxi
-湖北卫视,https://live.catvod.com/catvod_com.php?id=hubei
-四川卫视,https://live.catvod.com/catvod_com.php?id=sichuan_twn
-东方卫视,https://live.catvod.com/catvod_com.php?id=dongfangweishi_twn
-CGTN,https://live.catvod.com/catvod_com.php?id=CGTN
-
-体育频道cat,#genre#
-ua=catvod.com
-Astro Premier League 1,https://live.catvod.com/catvod_com.php?id=go_assp1
-Astro EPL 1 backup,https://live.catvod.com/catvod_com.php?id=go_assp1x
-Astro Premier League 2,https://live.catvod.com/catvod_com.php?id=go_assp2
-Astro Grandstand,https://live.catvod.com/catvod_com.php?id=go_assp3
-Astro Football,https://live.catvod.com/catvod_com.php?id=go_assp4
-Astro Sports Plus,https://live.catvod.com/catvod_com.php?id=go_sportsplus
-Astro Badminton 1,https://live.catvod.com/catvod_com.php?id=go_badminton1
-Astro Badminton 2,https://live.catvod.com/catvod_com.php?id=go_badminton2
-Astro W-Sports,https://live.catvod.com/catvod_com.php?id=go_assp5
-Supersports 1,https://live.catvod.com/catvod_com.php?id=Assp1
-Supersports 2,https://live.catvod.com/catvod_com.php?id=Assp2
-Supersports 3,https://live.catvod.com/catvod_com.php?id=Assp3
-Supersports 4,https://live.catvod.com/catvod_com.php?id=Assp4
-WWE,https://live.catvod.com/catvod_com.php?id=Wwe
-Fight Sports,https://live.catvod.com/catvod_com.php?id=Fs
-NBA TV,https://live.catvod.com/catvod_com.php?id=Nba
-Astro Cricket,https://live.catvod.com/catvod_com.php?id=Acricket
-Astro Golf,https://live.catvod.com/catvod_com.php?id=Agolf
-Tnt Sports 1,https://live.catvod.com/catvod_com.php?id=6fac0aaead
-TNT Sports 2,https://live.catvod.com/catvod_com.php?id=d9a76a79cc
-TNT Sports 3,https://live.catvod.com/catvod_com.php?id=5fea4d73db
-TNT Sports 4,https://live.catvod.com/catvod_com.php?id=tntsport4
-Sony Ten 1,https://live.catvod.com/catvod_com.php?id=ten1_raj
-Sony Ten 2,https://live.catvod.com/catvod_com.php?id=ten2_raj
-Sony Ten 3,https://live.catvod.com/catvod_com.php?id=ten3_raj
-SPOTV 1 HD,https://live.catvod.com/catvod_com.php?id=go_spotv
-SPO TV 2,https://live.catvod.com/catvod_com.php?id=go_spotv2
-Skysports F1,https://live.catvod.com/catvod_com.php?id=tiankongf1
-Skysports Cricket,https://live.catvod.com/catvod_com.php?id=tiankongcricket
-Skysports EPL,https://live.catvod.com/catvod_com.php?id=tiankongepl
-Skysports Main Event,https://live.catvod.com/catvod_com.php?id=tiankongmain
-Skysports News,https://live.catvod.com/catvod_com.php?id=tiankongnews
-Skysports Mix,https://live.catvod.com/catvod_com.php?id=tiankongmix
-爱尔达体育2台,https://live.catvod.com/catvod_com.php?id=eltasport2_twn
-爱尔达体育3台,https://live.catvod.com/catvod_com.php?id=eltasport3_twn
-Rugby Pass TV,https://live.catvod.com/catvod_com.php?id=Rugbypasstv
-RTM Sports HD,https://live.catvod.com/catvod_com.php?id=Rtmsport
-Arena,https://live.catvod.com/catvod_com.php?id=Arena
-Arena 2,https://live.catvod.com/catvod_com.php?id=Arena2
-BolaArena 1,https://live.catvod.com/catvod_com.php?id=Bolaarena1
-BolaArena 2,https://live.catvod.com/catvod_com.php?id=Bolaarena2
-Astro Beinsports 1,https://live.catvod.com/catvod_com.php?id=Astrobein1
-Astro Beinsports 2,https://live.catvod.com/catvod_com.php?id=Astrobein2
-Astro Beinsports 3,https://live.catvod.com/catvod_com.php?id=Astrobein3
-
-台湾频道cat,#genre#
-ua=catvod.com
-TVBS News 新闻台,https://live.catvod.com/catvod_com.php?id=tvbs_n
-TVBS 欢乐台 （备份）,https://live.catvod.com/catvod_com.php?id=tvbshuanle_twn
-TVBS HD,https://live.catvod.com/catvod_com.php?id=tvbs
-中天新闻 HD,https://live.catvod.com/catvod_com.php?id=ctinews
-中天娱乐 CTI Entertaiment,https://live.catvod.com/catvod_com.php?id=ctient
-中天综合 CTI Metro,https://live.catvod.com/catvod_com.php?id=ctizhonghe
-中天亚洲台,https://live.catvod.com/catvod_com.php?id=ctiasia_twn
-台视 TTV HD,https://live.catvod.com/catvod_com.php?id=ttv_taiwan
-台视新闻台,https://live.catvod.com/catvod_com.php?id=ttvnews_twn
-台视综合台,https://live.catvod.com/catvod_com.php?id=ttvzhonghe
-中视 HD,https://live.catvod.com/catvod_com.php?id=zhongshihd_twn
-中视新闻台,https://live.catvod.com/catvod_com.php?id=zhongshinews_twn
-民视 HD,https://live.catvod.com/catvod_com.php?id=ftvhd_taiwan
-民视新闻台 FTV News,https://live.catvod.com/catvod_com.php?id=ftvnew_taiwan
-民视台湾台,https://live.catvod.com/catvod_com.php?id=ftvtaiwan_twn
-华视 CTS HD,https://live.catvod.com/catvod_com.php?id=ctshd_twn
-公视 CTV,https://live.catvod.com/catvod_com.php?id=ctv18_twn
-八大第一 GTV First,https://live.catvod.com/catvod_com.php?id=badafirst
-八大综合 GTV Metro,https://live.catvod.com/catvod_com.php?id=badazhonghe
-八大戏剧 GTV Drama,https://live.catvod.com/catvod_com.php?id=badadrama
-HBO_HD,https://live.catvod.com/catvod_com.php?id=hbohd_twn
-HBO_HITS,https://live.catvod.com/catvod_com.php?id=hbohit_twn
-Hollywood Movies,https://live.catvod.com/catvod_com.php?id=hollywoodmovies_twn
-三立台湾 Sanli Taiwan,https://live.catvod.com/catvod_com.php?id=sanlitaiwan
-三立戏剧台,https://live.catvod.com/catvod_com.php?id=sanlixiju_twn
-三立综合 Sanli Metro,https://live.catvod.com/catvod_com.php?id=sanlizhonghe
-三立都会台,https://live.catvod.com/catvod_com.php?id=sanlidouhui
-东森新闻 ETTV News,https://live.catvod.com/catvod_com.php?id=ettvnews
-CINEMAX,https://live.catvod.com/catvod_com.php?id=cinemax_twn
-东森综合 ETTV Metro,https://live.catvod.com/catvod_com.php?id=ettvzhonghe
-东森戏剧 ETTV Drama,https://live.catvod.com/catvod_com.php?id=ettvdrama
-东森超视,https://live.catvod.com/catvod_com.php?id=ettvsuper
-东森财经新闻 ETTV Business,https://live.catvod.com/catvod_com.php?id=ettvcaijing_twn
-寰宇财经,https://live.catvod.com/catvod_com.php?id=huanyutaiwan_twn
-寰宇新闻台,https://live.catvod.com/catvod_com.php?id=huanyuxinwen_twn
-公视2,https://live.catvod.com/catvod_com.php?id=ctv2_twn
-大爱1台,https://live.catvod.com/catvod_com.php?id=daai_twn
-非凡新闻台,https://live.catvod.com/catvod_com.php?id=feifannews_twn
-龙华戏剧 Lunghua Drama,https://live.catvod.com/catvod_com.php?id=lunghuaxiju_twn
-龙华经典台,https://live.catvod.com/catvod_com.php?id=lunghuajingdian_twn
-龙华偶像,https://live.catvod.com/catvod_com.php?id=lunghuaidol_twn
-AXN Taiwan,https://live.catvod.com/catvod_com.php?id=axn_twn
-靖天国际台,https://live.catvod.com/catvod_com.php?id=jingtianintl_twn
-年代新闻,https://live.catvod.com/catvod_com.php?id=niandainews_twn
-纬来日本台,https://live.catvod.com/catvod_com.php?id=videolandjapan
-纬来电影台,https://live.catvod.com/catvod_com.php?id=videolandmovie
-纬来体育台,https://live.catvod.com/catvod_com.php?id=videolandsport
-纬来综合台,https://live.catvod.com/catvod_com.php?id=videolandzonghe
-纬来育乐,https://live.catvod.com/catvod_com.php?id=videolandyule
-纬来精彩,https://live.catvod.com/catvod_com.php?id=videolandspecial_twn
-好消息 2,https://live.catvod.com/catvod_com.php?id=good2_twn
-大爱2台,https://live.catvod.com/catvod_com.php?id=daai2_twn
-亚洲美食,https://live.catvod.com/catvod_com.php?id=afc_twn
-美食星球,https://live.catvod.com/catvod_com.php?id=foodplanet_twn
-亚洲旅游 TLC Asia,https://live.catvod.com/catvod_com.php?id=tlc_twn
-东森电影 ETTV Movie,https://live.catvod.com/catvod_com.php?id=ettvmovie
-阿里郎 Arirang,https://live.catvod.com/catvod_com.php?id=arirang_twn
-博斯运动 1,https://live.catvod.com/catvod_com.php?id=bosisport1_twn
-博斯运动 2,https://live.catvod.com/catvod_com.php?id=bosisport2_twn
-博斯高球2 HD,https://live.catvod.com/catvod_com.php?id=bosigolf2_twn
-博斯网球 HD,https://live.catvod.com/catvod_com.php?id=bositennis_twn
-东森洋片 ETTV Western,https://live.catvod.com/catvod_com.php?id=ettvwestern
-龙华洋片 Lunghua Western,https://live.catvod.com/catvod_com.php?id=lunghuawestern_twn
-博斯无限,https://live.catvod.com/catvod_com.php?id=bosiunlimited_twn
-MTV Live,https://live.catvod.com/catvod_com.php?id=mtvhd_twn
-龙详时代,https://live.catvod.com/catvod_com.php?id=lungxiangtime_twn
-EYETV 旅游,https://live.catvod.com/catvod_com.php?id=eyetvtravel_twn
-靖天卡通台,https://live.catvod.com/catvod_com.php?id=jingtiancartoon_twn
-EYETV 戏剧,https://live.catvod.com/catvod_com.php?id=eyetvxiju_twn
-卫视中文台 Star Movies Chinese,https://live.catvod.com/catvod_com.php?id=weishichinese_twn
-东森幼幼 Yoyo TV,https://live.catvod.com/catvod_com.php?id=yoyo_twn
-卫视电影台,https://live.catvod.com/catvod_com.php?id=weishimovie_twn
-美亚电影,https://live.catvod.com/catvod_com.php?id=meiyamovie_twn
-爱尔达影剧台,https://live.catvod.com/catvod_com.php?id=eltayingju_twn
-爱尔达综合台,https://live.catvod.com/catvod_com.php?id=eltazonghe_twn
-星卫电影,https://live.catvod.com/catvod_com.php?id=xingwei_movie
-AFC 亚洲旅游台,https://live.catvod.com/catvod_com.php?id=asiatravel_twn
-
-电影频道cat,#genre#
-ua=catvod.com
-Cinemax,https://live.catvod.com/catvod_com.php?id=Cinemax
-Animax,https://live.catvod.com/catvod_com.php?id=Animax
-Movies Now HD,https://live.catvod.com/catvod_com.php?id=moviesnow_raj
-Star Movies HD,https://live.catvod.com/catvod_com.php?id=starmovies_raj
-HBO Family,https://live.catvod.com/catvod_com.php?id=Hbofamily
-Hits,https://live.catvod.com/catvod_com.php?id=Hits
-Warner TV,https://live.catvod.com/catvod_com.php?id=WarnerTV
-HBO HD,https://live.catvod.com/catvod_com.php?id=Hbo
-HBO Signature,https://live.catvod.com/catvod_com.php?id=Hbosignature
-HBO Hits,https://live.catvod.com/catvod_com.php?id=Hbohitshd
-SCM,https://live.catvod.com/catvod_com.php?id=Weishimovie
-Dreamworks,https://live.catvod.com/catvod_com.php?id=Dreamworks
-Thrill,https://live.catvod.com/catvod_com.php?id=Thrill
-Hits Movie,https://live.catvod.com/catvod_com.php?id=Hitsmovie
-One,https://live.catvod.com/catvod_com.php?id=One
-tvN Movie,https://live.catvod.com/catvod_com.php?id=Tvnmovie
-Celestial Classic,https://live.catvod.com/catvod_com.php?id=Celestial2
-Celestial Movies HD,https://live.catvod.com/catvod_com.php?id=Celestialindo
-Axn HD,https://live.catvod.com/catvod_com.php?id=Axn
-Paramount Network,https://live.catvod.com/catvod_com.php?id=Paramountnetwork
-Astrol Kplus,https://live.catvod.com/catvod_com.php?id=Kplus
-Rock Actions,https://live.catvod.com/catvod_com.php?id=Rockaction
-Rock Entertainment,https://live.catvod.com/catvod_com.php?id=Rockentertain
-
-记录频道cat,#genre#
-ua=catvod.com
-Natgeo_HD,https://live.catvod.com/catvod_com.php?id=natgeohd_twn
-NatGeo_Wild HD,https://live.catvod.com/catvod_com.php?id=natgeowild_twn
-Animal_Planet,https://live.catvod.com/catvod_com.php?id=animalplanet_twn
-Discovery Asia,https://live.catvod.com/catvod_com.php?id=discoverytwn_twn
-CI,https://live.catvod.com/catvod_com.php?id=ci_twn
-Discovery HD,https://live.catvod.com/catvod_com.php?id=discoveryhd_twn
-NatGeo HD,https://live.catvod.com/catvod_com.php?id=Natgeo
-Fashion TV,https://live.catvod.com/catvod_com.php?id=fashiontv_twn
-History,https://live.catvod.com/catvod_com.php?id=History
-BBC Earth HD,https://live.catvod.com/catvod_com.php?id=bbcearth_twn
-BBC Earth Lifestyle,https://live.catvod.com/catvod_com.php?id=bbclifestyle_twn
-NatGeo Wild HD,https://live.catvod.com/catvod_com.php?id=Natgeowild
-Animal Planet (Eng),https://live.catvod.com/catvod_com.php?id=AnimalPlanet
-TLC,https://live.catvod.com/catvod_com.php?id=Tlc
-Foodnetwork Hd,https://live.catvod.com/catvod_com.php?id=Foodnetwork
-HGTV,https://live.catvod.com/catvod_com.php?id=HGTV
-
-新闻频道cat,#genre#
-ua=catvod.com
-Skynews,https://live.catvod.com/catvod_com.php?id=skynews_twn
-ABC News,https://live.catvod.com/catvod_com.php?id=abcnews_glo
-CBS HD,https://live.catvod.com/catvod_com.php?id=cbshd_glo
-CBSN HD,https://live.catvod.com/catvod_com.php?id=cbsn_glo
-France 24,https://live.catvod.com/catvod_com.php?id=france24_twn
-DW (Deutsch),https://live.catvod.com/catvod_com.php?id=dw_twn
-NHK World,https://live.catvod.com/catvod_com.php?id=nhkworld_japan
-Fox News,https://live.catvod.com/catvod_com.php?id=foxnews_twn
-CNN International,https://live.catvod.com/catvod_com.php?id=Cnn
-CNN backup,https://live.catvod.com/catvod_com.php?id=cnn_twn
-CNBC,https://live.catvod.com/catvod_com.php?id=cnbc_twn
-CNA,https://live.catvod.com/catvod_com.php?id=cna
-BBC World News,https://live.catvod.com/catvod_com.php?id=bbcnews_twn
-BBC World News,https://live.catvod.com/catvod_com.php?id=Bbcnews
-Bloomberg News,https://live.catvod.com/catvod_com.php?id=bloomberg_twn
-Al-Jazeera,https://live.catvod.com/catvod_com.php?id=aljazeera_twn
-
-儿童频道cat,#genre#
-ua=catvod.com
-Baby TV Eng,https://live.catvod.com/catvod_com.php?id=Babytv
-CBeebies,https://live.catvod.com/catvod_com.php?id=Cbeebies
-Kids TV,https://live.catvod.com/catvod_com.php?id=KidsTV
-Momo TV,https://live.catvod.com/catvod_com.php?id=momo1_twn
-Baby TV,https://live.catvod.com/catvod_com.php?id=babytv_twn
-MiaoMi,https://live.catvod.com/catvod_com.php?id=MiaoMi
-Cartoon Network,https://live.catvod.com/catvod_com.php?id=Cn
-Nickelodeon,https://live.catvod.com/catvod_com.php?id=Nickelodeon
-Nick Jr,https://live.catvod.com/catvod_com.php?id=Nickjr
-
-
-
-
-
-香港频道judy,#genre# 
-翡翠台,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
-翡翠台 backup,https://smart.pendy.dpdns.org/Smart.php?id=Jade_xue
-iNews 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=inews_twn
-J 2,https://smart.pendy.dpdns.org/Smart.php?id=j2_twn
-珍珠台,https://smart.pendy.dpdns.org/Smart.php?id=pearl_twn
-凤凰香港,https://smart.pendy.dpdns.org/Smart.php?id=hkphoenix_twn
-HOY资讯台,https://smart.pendy.dpdns.org/Smart.php?id=hoycaijing_twn
-RHK 31,https://smart.pendy.dpdns.org/Smart.php?id=rhk31_twn
-VIUTV1,https://smart.pendy.dpdns.org/Smart.php?id=viu1_twn
-RHK 32,https://smart.pendy.dpdns.org/Smart.php?id=rhk32_twn
-凤凰卫视,https://smart.pendy.dpdns.org/Smart.php?id=phoenixtv_hd
-凤凰资讯,https://smart.pendy.dpdns.org/Smart.php?id=phoenixinfo_hd
-Viu6,https://smart.pendy.dpdns.org/Smart.php?id=viusix_twn
-
-央视频道judy,#genre# 
-CCTV-1 综合 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv1
-CCTV-2 财经,https://smart.pendy.dpdns.org/Smart.php?id=cctv2
-CCTV-3 综艺 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv3
-CCTV-4 中文国际,https://smart.pendy.dpdns.org/Smart.php?id=cctv4
-CCTV4 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=Cctv4
-CCTV-5 体育频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv5
-CCTV-5+ 体育赛事 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv5plus
-CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV-7 军事农业,https://smart.pendy.dpdns.org/Smart.php?id=cctv7
-CCTV-8 电视剧 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv8hd
-CCTV-9 记录 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv9hd
-CCTV-10 科教 HD,https://smart.pendy.dpdns.org/Smart.php?id=cctv10hd
-CCTV-11 戏曲,https://smart.pendy.dpdns.org/Smart.php?id=cctv11
-CCTV-12 社会与法,https://smart.pendy.dpdns.org/Smart.php?id=cctv12
-CCTV-13 新闻频道,https://smart.pendy.dpdns.org/Smart.php?id=cctv13
-CCTV-14 少儿,https://smart.pendy.dpdns.org/Smart.php?id=cctv14
-CCTV-6,https://smart.pendy.dpdns.org/Smart.php?id=cctv6
-CCTV-15 音乐,https://smart.pendy.dpdns.org/Smart.php?id=cctv15
-
-卫视频道judy,#genre# 
-湖南卫视,https://smart.pendy.dpdns.org/Smart.php?id=hunan_twn
-浙江卫视,https://smart.pendy.dpdns.org/Smart.php?id=zhejiang_twn
-江苏卫视,https://smart.pendy.dpdns.org/Smart.php?id=jiangsu_twn
-深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen
-福建东南卫视,https://smart.pendy.dpdns.org/Smart.php?id=fujian
-广东南方卫视,https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn
-广东卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangdongweishi_twn
-北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing
-珠江台,https://smart.pendy.dpdns.org/Smart.php?id=zhujiang
-广西卫视,https://smart.pendy.dpdns.org/Smart.php?id=guangxi
-湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei
-四川卫视,https://smart.pendy.dpdns.org/Smart.php?id=sichuan_twn
-东方卫视,https://smart.pendy.dpdns.org/Smart.php?id=dongfangweishi_twn
-CGTN,https://smart.pendy.dpdns.org/Smart.php?id=CGTN
-
-体育频道judy,#genre# 
-Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
-Astro EPL 1 backup,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1x
-Astro Premier League 2,https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
-Astro Grandstand,https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
-Astro Football,https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
-Astro Sports Plus,https://smart.pendy.dpdns.org/Smart.php?id=go_sportsplus
-Astro Badminton 1,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
-Astro Badminton 2,https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
-Astro W-Sports,https://smart.pendy.dpdns.org/Smart.php?id=go_assp5
-Supersports 1,https://smart.pendy.dpdns.org/Smart.php?id=Assp1
-Supersports 2,https://smart.pendy.dpdns.org/Smart.php?id=Assp2
-Supersports 3,https://smart.pendy.dpdns.org/Smart.php?id=Assp3
-Supersports 4,https://smart.pendy.dpdns.org/Smart.php?id=Assp4
-WWE,https://smart.pendy.dpdns.org/Smart.php?id=Wwe
-Fight Sports,https://smart.pendy.dpdns.org/Smart.php?id=Fs
-NBA TV,https://smart.pendy.dpdns.org/Smart.php?id=Nba
-Astro Cricket,https://smart.pendy.dpdns.org/Smart.php?id=Acricket
-Astro Golf,https://smart.pendy.dpdns.org/Smart.php?id=Agolf
-Tnt Sports 1,https://smart.pendy.dpdns.org/Smart.php?id=6fac0aaead
-TNT Sports 2,https://smart.pendy.dpdns.org/Smart.php?id=d9a76a79cc
-TNT Sports 3,https://smart.pendy.dpdns.org/Smart.php?id=5fea4d73db
-TNT Sports 4,https://smart.pendy.dpdns.org/Smart.php?id=tntsport4
-Sony Ten 1,https://smart.pendy.dpdns.org/Smart.php?id=ten1_raj
-Sony Ten 2,https://smart.pendy.dpdns.org/Smart.php?id=ten2_raj
-Sony Ten 3,https://smart.pendy.dpdns.org/Smart.php?id=ten3_raj
-SPOTV 1 HD,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv
-SPO TV 2,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
-Skysports F1,https://smart.pendy.dpdns.org/Smart.php?id=tiankongf1
-Skysports Cricket,https://smart.pendy.dpdns.org/Smart.php?id=tiankongcricket
-Skysports EPL,https://smart.pendy.dpdns.org/Smart.php?id=tiankongepl
-Skysports Main Event,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmain
-Skysports News,https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
-Skysports Mix,https://smart.pendy.dpdns.org/Smart.php?id=tiankongmix
-爱尔达体育2台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport2_twn
-爱尔达体育3台,https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
-Rugby Pass TV,https://smart.pendy.dpdns.org/Smart.php?id=Rugbypasstv
-RTM Sports HD,https://smart.pendy.dpdns.org/Smart.php?id=Rtmsport
-Arena,https://smart.pendy.dpdns.org/Smart.php?id=Arena
-Arena 2,https://smart.pendy.dpdns.org/Smart.php?id=Arena2
-BolaArena 1,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena1
-BolaArena 2,https://smart.pendy.dpdns.org/Smart.php?id=Bolaarena2
-Astro Beinsports 1,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein1
-Astro Beinsports 2,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein2
-Astro Beinsports 3,https://smart.pendy.dpdns.org/Smart.php?id=Astrobein3
-
-台湾频道judy,#genre# 
-TVBS News 新闻台,https://smart.pendy.dpdns.org/Smart.php?id=tvbs_n
-TVBS 欢乐台 （备份）,https://smart.pendy.dpdns.org/Smart.php?id=tvbshuanle_twn
-TVBS HD,https://smart.pendy.dpdns.org/Smart.php?id=tvbs
-中天新闻 HD,https://smart.pendy.dpdns.org/Smart.php?id=ctinews
-中天娱乐 CTI Entertaiment,https://smart.pendy.dpdns.org/Smart.php?id=ctient
-中天综合 CTI Metro,https://smart.pendy.dpdns.org/Smart.php?id=ctizhonghe
-中天亚洲台,https://smart.pendy.dpdns.org/Smart.php?id=ctiasia_twn
-台视 TTV HD,https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
-台视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=ttvnews_twn
-台视综合台,https://smart.pendy.dpdns.org/Smart.php?id=ttvzhonghe
-中视 HD,https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
-中视新闻台,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
-民视 HD,https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
-民视新闻台 FTV News,https://smart.pendy.dpdns.org/Smart.php?id=ftvnew_taiwan
-民视台湾台,https://smart.pendy.dpdns.org/Smart.php?id=ftvtaiwan_twn
-华视 CTS HD,https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
-公视 CTV,https://smart.pendy.dpdns.org/Smart.php?id=ctv18_twn
-八大第一 GTV First,https://smart.pendy.dpdns.org/Smart.php?id=badafirst
-八大综合 GTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=badazhonghe
-八大戏剧 GTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=badadrama
-八大娱乐 GTV Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=badaentertain
-HBO_HD,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
-HBO_HITS,https://smart.pendy.dpdns.org/Smart.php?id=hbohit_twn
-Hollywood Movies,https://smart.pendy.dpdns.org/Smart.php?id=hollywoodmovies_twn
-三立台湾 Sanli Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
-三立戏剧台,https://smart.pendy.dpdns.org/Smart.php?id=sanlixiju_twn
-三立综合 Sanli Metro,https://smart.pendy.dpdns.org/Smart.php?id=sanlizhonghe
-三立都会台,https://smart.pendy.dpdns.org/Smart.php?id=sanlidouhui
-东森新闻 ETTV News,https://smart.pendy.dpdns.org/Smart.php?id=ettvnews
-CINEMAX,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
-东森综合 ETTV Metro,https://smart.pendy.dpdns.org/Smart.php?id=ettvzhonghe
-东森戏剧 ETTV Drama,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama
-东森超视,https://smart.pendy.dpdns.org/Smart.php?id=ettvsuper
-东森财经新闻 ETTV Business,https://smart.pendy.dpdns.org/Smart.php?id=ettvcaijing_twn
-寰宇财经,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
-寰宇新闻台,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
-公视2,https://smart.pendy.dpdns.org/Smart.php?id=ctv2_twn
-大爱1台,https://smart.pendy.dpdns.org/Smart.php?id=daai_twn
-非凡新闻台,https://smart.pendy.dpdns.org/Smart.php?id=feifannews_twn
-龙华戏剧 Lunghua Drama,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
-龙华经典台,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
-龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
-AXN Taiwan,https://smart.pendy.dpdns.org/Smart.php?id=axn_twn
-靖天国际台,https://smart.pendy.dpdns.org/Smart.php?id=jingtianintl_twn
-年代新闻,https://smart.pendy.dpdns.org/Smart.php?id=niandainews_twn
-纬来日本台,https://smart.pendy.dpdns.org/Smart.php?id=videolandjapan
-纬来电影台,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
-纬来体育台,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-纬来综合台,https://smart.pendy.dpdns.org/Smart.php?id=videolandzonghe
-纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
-纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
-好消息 2,https://smart.pendy.dpdns.org/Smart.php?id=good2_twn
-大爱2台,https://smart.pendy.dpdns.org/Smart.php?id=daai2_twn
-亚洲美食,https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
-美食星球,https://smart.pendy.dpdns.org/Smart.php?id=foodplanet_twn
-亚洲旅游 TLC Asia,https://smart.pendy.dpdns.org/Smart.php?id=tlc_twn
-东森电影 ETTV Movie,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
-阿里郎 Arirang,https://smart.pendy.dpdns.org/Smart.php?id=arirang_twn
-博斯运动 1,https://smart.pendy.dpdns.org/Smart.php?id=bosisport1_twn
-博斯运动 2,https://smart.pendy.dpdns.org/Smart.php?id=bosisport2_twn
-博斯高球2 HD,https://smart.pendy.dpdns.org/Smart.php?id=bosigolf2_twn
-博斯网球 HD,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
-东森洋片 ETTV Western,https://smart.pendy.dpdns.org/Smart.php?id=ettvwestern
-龙华洋片 Lunghua Western,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
-博斯无限,https://smart.pendy.dpdns.org/Smart.php?id=bosiunlimited_twn
-MTV Live,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
-龙详时代,https://smart.pendy.dpdns.org/Smart.php?id=lungxiangtime_twn
-EYETV 旅游,https://smart.pendy.dpdns.org/Smart.php?id=eyetvtravel_twn
-靖天卡通台,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
-EYETV 戏剧,https://smart.pendy.dpdns.org/Smart.php?id=eyetvxiju_twn
-卫视中文台 Star Movies Chinese,https://smart.pendy.dpdns.org/Smart.php?id=weishichinese_twn
-东森幼幼 Yoyo TV,https://smart.pendy.dpdns.org/Smart.php?id=yoyo_twn
-卫视电影台,https://smart.pendy.dpdns.org/Smart.php?id=weishimovie_twn
-美亚电影,https://smart.pendy.dpdns.org/Smart.php?id=meiyamovie_twn
-爱尔达影剧台,https://smart.pendy.dpdns.org/Smart.php?id=eltayingju_twn
-爱尔达综合台,https://smart.pendy.dpdns.org/Smart.php?id=eltazonghe_twn
-星卫电影,https://smart.pendy.dpdns.org/Smart.php?id=xingwei_movie
-AFC 亚洲旅游台,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
-
-电影频道judy,#genre# 
-Cinemax,https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
-Animax,https://smart.pendy.dpdns.org/Smart.php?id=Animax
-Movies Now HD,https://smart.pendy.dpdns.org/Smart.php?id=moviesnow_raj
-Star Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=starmovies_raj
-HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
-Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hits
-Warner TV,https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
-HBO HD,https://smart.pendy.dpdns.org/Smart.php?id=Hbo
-HBO Signature,https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
-HBO Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
-SCM,https://smart.pendy.dpdns.org/Smart.php?id=Weishimovie
-Dreamworks,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
-Thrill,https://smart.pendy.dpdns.org/Smart.php?id=Thrill
-Hits Movie,https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
-One,https://smart.pendy.dpdns.org/Smart.php?id=One
-tvN Movie,https://smart.pendy.dpdns.org/Smart.php?id=Tvnmovie
-Celestial Classic,https://smart.pendy.dpdns.org/Smart.php?id=Celestial2
-Celestial Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=Celestialindo
-Axn HD,https://smart.pendy.dpdns.org/Smart.php?id=Axn
-Paramount Network,https://smart.pendy.dpdns.org/Smart.php?id=Paramountnetwork
-Astrol Kplus,https://smart.pendy.dpdns.org/Smart.php?id=Kplus
-Rock Actions,https://smart.pendy.dpdns.org/Smart.php?id=Rockaction
-Rock Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
-
-记录频道judy,#genre# 
-Natgeo_HD,https://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
-NatGeo_Wild HD,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
-Animal_Planet,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
-Discovery Asia,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
-CI,https://smart.pendy.dpdns.org/Smart.php?id=ci_twn
-Discovery HD,https://smart.pendy.dpdns.org/Smart.php?id=discoveryhd_twn
-NatGeo HD,https://smart.pendy.dpdns.org/Smart.php?id=Natgeo
-Fashion TV,https://smart.pendy.dpdns.org/Smart.php?id=fashiontv_twn
-History,https://smart.pendy.dpdns.org/Smart.php?id=History
-BBC Earth HD,https://smart.pendy.dpdns.org/Smart.php?id=bbcearth_twn
-BBC Earth Lifestyle,https://smart.pendy.dpdns.org/Smart.php?id=bbclifestyle_twn
-NatGeo Wild HD,https://smart.pendy.dpdns.org/Smart.php?id=Natgeowild
-Animal Planet (Eng),https://smart.pendy.dpdns.org/Smart.php?id=AnimalPlanet
-TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
-Foodnetwork Hd,https://smart.pendy.dpdns.org/Smart.php?id=Foodnetwork
-HGTV,https://smart.pendy.dpdns.org/Smart.php?id=HGTV
-
-新闻频道judy,#genre# 
-Skynews,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
-ABC News,https://smart.pendy.dpdns.org/Smart.php?id=abcnews_glo
-CBS HD,https://smart.pendy.dpdns.org/Smart.php?id=cbshd_glo
-CBSN HD,https://smart.pendy.dpdns.org/Smart.php?id=cbsn_glo
-France 24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
-DW (Deutsch),https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
-NHK World,https://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
-Fox News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
-CNN International,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
-CNN backup,https://smart.pendy.dpdns.org/Smart.php?id=cnn_twn
-CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
-CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcnews_twn
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=Bbcnews
-Bloomberg News,https://smart.pendy.dpdns.org/Smart.php?id=bloomberg_twn
-Al-Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
-
-儿童频道judy,#genre# 
-Baby TV Eng,https://smart.pendy.dpdns.org/Smart.php?id=Babytv
-CBeebies,https://smart.pendy.dpdns.org/Smart.php?id=Cbeebies
-Kids TV,https://smart.pendy.dpdns.org/Smart.php?id=KidsTV
-Momo TV,https://smart.pendy.dpdns.org/Smart.php?id=momo1_twn
-Baby TV,https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
-MiaoMi,https://smart.pendy.dpdns.org/Smart.php?id=MiaoMi
-Cartoon Network,https://smart.pendy.dpdns.org/Smart.php?id=Cn
-Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
-Nick Jr,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
-
-新加坡频道judy,#genre# 
-Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
-Channel 8,https://smart.pendy.dpdns.org/Smart.php?id=Channel8HD
-Suria,https://smart.pendy.dpdns.org/Smart.php?id=Suria
-Channel U,https://smart.pendy.dpdns.org/Smart.php?id=ChannelU
-Vasantham,https://smart.pendy.dpdns.org/Smart.php?id=Vasantham
-CNA backup,https://smart.pendy.dpdns.org/Smart.php?id=cna_twn
-MeWatch Ch 5,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch5
-MeWatch Ch 8,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_ch8
-MeWatch Ch U,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_chU
-MeWatch Suria,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Suria
-MeWatch Vasantham,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_Vasantham
-MeWatch CNA,https://smart.pendy.dpdns.org/Smart.php?id=Mewatch_cna
-
-马来西亚频道judy,#genre# 
-TV1,https://smart.pendy.dpdns.org/Smart.php?id=TV1
-TV1 backup,https://smart.pendy.dpdns.org/Smart.php?id=TV1_backup
-TV2,https://smart.pendy.dpdns.org/Smart.php?id=TV2
-TV3,https://smart.pendy.dpdns.org/Smart.php?id=TV3
-TV3 SD,https://smart.pendy.dpdns.org/Smart.php?id=TV3_mega
-NTV7,https://smart.pendy.dpdns.org/Smart.php?id=NTV7
-TV8,https://smart.pendy.dpdns.org/Smart.php?id=TV8
-TV9,https://smart.pendy.dpdns.org/Smart.php?id=TV9
-Ria,https://smart.pendy.dpdns.org/Smart.php?id=Ria-0
-Ria-3,https://smart.pendy.dpdns.org/Smart.php?id=Ria_backup
-Al-Hijrah,https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah
-Al-Hijrah backup,https://smart.pendy.dpdns.org/Smart.php?id=Alhijrah_backup
-Awani,https://smart.pendy.dpdns.org/Smart.php?id=Awani
-Bernama,https://smart.pendy.dpdns.org/Smart.php?id=Bernama
-Prima,https://smart.pendy.dpdns.org/Smart.php?id=Prima-0
-Prima backup,https://smart.pendy.dpdns.org/Smart.php?id=AAprima1
-Prima backup 2,https://smart.pendy.dpdns.org/Smart.php?id=AAprima
-Ceria,https://smart.pendy.dpdns.org/Smart.php?id=Ceria
-Astro MTV,https://smart.pendy.dpdns.org/Smart.php?id=AstroMTV
-Mecca Live HD,https://smart.pendy.dpdns.org/Smart.php?id=quran_mido
-Madinah HD,https://smart.pendy.dpdns.org/Smart.php?id=sunnah_mido
-Oasis,https://smart.pendy.dpdns.org/Smart.php?id=Oasis
-Siar,https://smart.pendy.dpdns.org/Smart.php?id=Siar
-Citra,https://smart.pendy.dpdns.org/Smart.php?id=AAcitra
-Citra backup,https://smart.pendy.dpdns.org/Smart.php?id=AAcitra1
-Sensasi,https://smart.pendy.dpdns.org/Smart.php?id=Sensasi
-Aura,https://smart.pendy.dpdns.org/Smart.php?id=Aura
-Rania,https://smart.pendy.dpdns.org/Smart.php?id=Rania
-KBS World,https://smart.pendy.dpdns.org/Smart.php?id=KBS
-Boo,https://smart.pendy.dpdns.org/Smart.php?id=Boo
-Awesome TV,https://smart.pendy.dpdns.org/Smart.php?id=Dsangat
-Astro Sonypix,https://smart.pendy.dpdns.org/Smart.php?id=Asonypix
-Sony HD,https://smart.pendy.dpdns.org/Smart.php?id=SetOne
-TvN,https://smart.pendy.dpdns.org/Smart.php?id=TVN
-AEC,https://smart.pendy.dpdns.org/Smart.php?id=AEC
-华丽台 HD （Wah Lai Toi）,https://smart.pendy.dpdns.org/Smart.php?id=Wlt
-欢喜台 HD （Hua Hee Tai）,https://smart.pendy.dpdns.org/Smart.php?id=Huahee
-Astro QJ,https://smart.pendy.dpdns.org/Smart.php?id=Quanjia
-TVB Jade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
-TVB Asia,https://smart.pendy.dpdns.org/Smart.php?id=Tvbasia
-TVB Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Tvbentertainment
-TVB Classic,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
-AOD,https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
-TVB 星河台 Xing He,https://smart.pendy.dpdns.org/Smart.php?id=Xinhe
-爱奇艺 iQiyi,https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
-Goshop,https://smart.pendy.dpdns.org/Smart.php?id=Goshop
-Celestial Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
-Astro LOL,https://smart.pendy.dpdns.org/Smart.php?id=Astro_lol
-Astro Rusi,https://smart.pendy.dpdns.org/Smart.php?id=Rusi
-WION,https://smart.pendy.dpdns.org/Smart.php?id=Wion
-RTM Asean,https://smart.pendy.dpdns.org/Smart.php?id=Rtmasean
-
-印尼频道judy,#genre# 
-TVRI National,https://smart.pendy.dpdns.org/Smart.php?id=TVRI
-RCTI,https://smart.pendy.dpdns.org/Smart.php?id=Rcti
-Kompass TV,https://smart.pendy.dpdns.org/Smart.php?id=Kompass
-Berita Satu,https://smart.pendy.dpdns.org/Smart.php?id=BeritaSatu_eko
-Indosiar HD,https://smart.pendy.dpdns.org/Smart.php?id=Indosiar
-AnTV,https://smart.pendy.dpdns.org/Smart.php?id=Antv
-MNC TV,https://smart.pendy.dpdns.org/Smart.php?id=Mnctv
-Trans 7,https://smart.pendy.dpdns.org/Smart.php?id=Trans7_eko
-Transtv,https://smart.pendy.dpdns.org/Smart.php?id=Transtv
-JTV,https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
-Metro TV,https://smart.pendy.dpdns.org/Smart.php?id=metrotv_eko
-SCTV,https://smart.pendy.dpdns.org/Smart.php?id=SCTV
-Tvone,https://smart.pendy.dpdns.org/Smart.php?id=Tvone
-TVMU,https://smart.pendy.dpdns.org/Smart.php?id=TVMU_eko
-GTV,https://smart.pendy.dpdns.org/Smart.php?id=Gtv
-RTV,https://smart.pendy.dpdns.org/Smart.php?id=Rtv
-Jak TV,https://smart.pendy.dpdns.org/Smart.php?id=JakTV
-iNews TV,https://smart.pendy.dpdns.org/Smart.php?id=Inewstv
-Daai TV,https://smart.pendy.dpdns.org/Smart.php?id=DaaiTV
-Net TV,https://smart.pendy.dpdns.org/Smart.php?id=NetTV
-EWTN,https://smart.pendy.dpdns.org/Smart.php?id=Ewtn
-AlQuran AlKareem,https://smart.pendy.dpdns.org/Smart.php?id=AlQuran
-Tawaf TV,https://smart.pendy.dpdns.org/Smart.php?id=TawafTV
-Vision Prime,https://smart.pendy.dpdns.org/Smart.php?id=VisionPrime
-Muslim TV,https://smart.pendy.dpdns.org/Smart.php?id=MuslimTV
-Music TV,https://smart.pendy.dpdns.org/Smart.php?id=MusicTV
-Lifestyle&Fashion,https://smart.pendy.dpdns.org/Smart.php?id=Lifestyle
-Entertain,https://smart.pendy.dpdns.org/Smart.php?id=Entertain
-
-印度频道judy,#genre# 
-Sun TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Suntv
-Star Vijay,https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
-Colors Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
-Sun Music,https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
-Astro Sunlife,https://smart.pendy.dpdns.org/Smart.php?id=Sunlife
-Astro Vaanavil,https://smart.pendy.dpdns.org/Smart.php?id=Vaanavil
-Zee Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
-Zee Business,https://smart.pendy.dpdns.org/Smart.php?id=Zeebusiness
-News 18 Tamil,https://smart.pendy.dpdns.org/Smart.php?id=news18tamil_raj
-Adithya,https://smart.pendy.dpdns.org/Smart.php?id=Adithya
-Makkal TV,https://smart.pendy.dpdns.org/Smart.php?id=Makkaltv
-Zee Action,https://smart.pendy.dpdns.org/Smart.php?id=Zeeaction
-Astro KTV,https://smart.pendy.dpdns.org/Smart.php?id=Astroktv
-Zee TV HD,https://smart.pendy.dpdns.org/Smart.php?id=Zeetvhd
-Zee Cinema HD,https://smart.pendy.dpdns.org/Smart.php?id=Zeecinemahd
-Color HD,https://smart.pendy.dpdns.org/Smart.php?id=Colorhd
-Starplus HD,https://smart.pendy.dpdns.org/Smart.php?id=Starplushd
-Picture HD,https://smart.pendy.dpdns.org/Smart.php?id=Npicture
-Zee News,https://smart.pendy.dpdns.org/Smart.php?id=Zeenews
-Asianet,https://smart.pendy.dpdns.org/Smart.php?id=asianet_raj
-Asianet News,https://smart.pendy.dpdns.org/Smart.php?id=asianetnews_raj
-Discovery World Tamil,https://smart.pendy.dpdns.org/Smart.php?id=discoveryworldtam_raj
-History Tamil,https://smart.pendy.dpdns.org/Smart.php?id=historytam_raj
-NatGeo Tamil,https://smart.pendy.dpdns.org/Smart.php?id=natgeotamil_raj
-Natgeo Wild Tamil,https://smart.pendy.dpdns.org/Smart.php?id=natgeowildtamil_raj
-Discovery Kids Tamil,https://smart.pendy.dpdns.org/Smart.php?id=discoverykidtamil_raj
-Discovery Tamil,https://smart.pendy.dpdns.org/Smart.php?id=discoverytamil_raj
-Sony Yay Tamil,https://smart.pendy.dpdns.org/Smart.php?id=sonyyaytam_raj
-Sun TV India,https://smart.pendy.dpdns.org/Smart.php?id=suntv_raj
-Starmaa HD,https://smart.pendy.dpdns.org/Smart.php?id=starmaa_raj
-Starmaa Movies HD,https://smart.pendy.dpdns.org/Smart.php?id=starmaamovies_raj
-Bollyone,https://smart.pendy.dpdns.org/Smart.php?id=Bollyone
-Vijay Super,https://smart.pendy.dpdns.org/Smart.php?id=vijaysuper_raj
-Vellithirai,https://smart.pendy.dpdns.org/Smart.php?id=Vellithirai
-
-泰国频道judy,#genre# 
-Channel 3 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch3_pat
-Channel 5 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch5_pat
-Channel 7 Thailand,https://smart.pendy.dpdns.org/Smart.php?id=ch7_pat
-MCOT HD Thailand-1,https://smart.pendy.dpdns.org/Smart.php?id=mcot_pat
-PPTV Thailand1,https://smart.pendy.dpdns.org/Smart.php?id=pptv_pat
-Thai Thai,https://smart.pendy.dpdns.org/Smart.php?id=thaithai_pat
-Amarin,https://smart.pendy.dpdns.org/Smart.php?id=amarin_pat
-Ch 8,https://smart.pendy.dpdns.org/Smart.php?id=ch8_pat
-GmmOne,https://smart.pendy.dpdns.org/Smart.php?id=gmmone_pat
-Mono,https://smart.pendy.dpdns.org/Smart.php?id=mono_pat
-Thairath,https://smart.pendy.dpdns.org/Smart.php?id=thairath_pat
-tpbs,https://smart.pendy.dpdns.org/Smart.php?id=tpbs_pat
-Workpoint,https://smart.pendy.dpdns.org/Smart.php?id=workpoint_pat
-Gmm Channel,https://smart.pendy.dpdns.org/Smart.php?id=gmmchannel_pat
-Nation,https://smart.pendy.dpdns.org/Smart.php?id=nation_pat
-Tnn24,https://smart.pendy.dpdns.org/Smart.php?id=tnn24_pat
-Nbt,https://smart.pendy.dpdns.org/Smart.php?id=nbt_pat
-New,https://smart.pendy.dpdns.org/Smart.php?id=new_pat
-TPTV,https://smart.pendy.dpdns.org/Smart.php?id=tptv_pat
-
-英国频道judy,#genre# 
-BBC 1,https://smart.pendy.dpdns.org/Smart.php?id=bbc1_antik
-BBC 2,https://smart.pendy.dpdns.org/Smart.php?id=bbc2_antik
-CBBC,https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
-More4,https://smart.pendy.dpdns.org/Smart.php?id=more4_antik
-Freesports,https://smart.pendy.dpdns.org/Smart.php?id=freesports_antik
-Pick TV,https://smart.pendy.dpdns.org/Smart.php?id=picktv_antik
-itv 1,https://smart.pendy.dpdns.org/Smart.php?id=itv1_antik
-itv 2,https://smart.pendy.dpdns.org/Smart.php?id=itv2_antik
-Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
-Channel 4,https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
-BBC World News,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
-
-越南频道judy,#genre# 
-ANTV,https://smart.pendy.dpdns.org/Smart.php?id=viet_antv
-VTV 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv1
-VTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_vtv7
-HTV 7,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv7
-HTV 9,https://smart.pendy.dpdns.org/Smart.php?id=viet_htv9
-BPTV 2,https://smart.pendy.dpdns.org/Smart.php?id=viet_bptv2
-BRT HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_brt
-Ca Mau TV,https://smart.pendy.dpdns.org/Smart.php?id=viet_camautv
-Danang TV1 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv1
-Danang TV2 HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_danangtv2
-HBTV HD,https://smart.pendy.dpdns.org/Smart.php?id=viet_hbtv
-PTTH 1,https://smart.pendy.dpdns.org/Smart.php?id=viet_ptth1
-
-韩国频道judy,#genre# 
-Arirang HD,https://smart.pendy.dpdns.org/Smart.php?id=arirang_korea
-Yonhap News,https://smart.pendy.dpdns.org/Smart.php?id=yonhapnews_korea
-CBS,https://smart.pendy.dpdns.org/Smart.php?id=cbs_korea
-EBS 1,https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
-EBS2,https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
-EBS Plus2,https://smart.pendy.dpdns.org/Smart.php?id=ebsplus2_korea
-SBS Plus,https://smart.pendy.dpdns.org/Smart.php?id=sbsplus_korea
-YTN,https://smart.pendy.dpdns.org/Smart.php?id=ytn_korea
-KBS World 24,https://smart.pendy.dpdns.org/Smart.php?id=kbsworld24_korea
-YTN Science,https://smart.pendy.dpdns.org/Smart.php?id=ytnscience_korea
-YTN Korean,https://smart.pendy.dpdns.org/Smart.php?id=ytnkorean_korea
-YTN DMB,https://smart.pendy.dpdns.org/Smart.php?id=ytndmb_korea
-Apps TV,https://smart.pendy.dpdns.org/Smart.php?id=appongoogle_korea
-All the Kpop,https://smart.pendy.dpdns.org/Smart.php?id=allthekpop_korea
-J the Kpop,https://smart.pendy.dpdns.org/Smart.php?id=jthekpop_korea
-EBS Kids,https://smart.pendy.dpdns.org/Smart.php?id=ebskids_korea
-CGNTV,https://smart.pendy.dpdns.org/Smart.php?id=cgntv_korea
-
-日本频道judy,#genre# 
-NHK-総合-2,https://smart.pendy.dpdns.org/Smart.php?id=nhkg_japan
-NHK-E,https://smart.pendy.dpdns.org/Smart.php?id=nhke_japan
-テレビ朝日 Asahi TV,https://smart.pendy.dpdns.org/Smart.php?id=asahitv_japan
-JET 綜合,https://smart.pendy.dpdns.org/Smart.php?id=jettv_japan
-テレビ東京 Tokyo TV,https://smart.pendy.dpdns.org/Smart.php?id=tokyotv_japan
-TOKYOMX,https://smart.pendy.dpdns.org/Smart.php?id=tokyomx_japan
-NHKBS1,https://smart.pendy.dpdns.org/Smart.php?id=nhkbs1_japan
-NHKBSプレミア Premium,https://smart.pendy.dpdns.org/Smart.php?id=nhkpremium_japan
-BSジャパン 181,https://smart.pendy.dpdns.org/Smart.php?id=bs181_japan
-BSフジ BS Fuji,https://smart.pendy.dpdns.org/Smart.php?id=bsfuji_japan
-CNA Japan,https://smart.pendy.dpdns.org/Smart.php?id=cna_japan
-BS-TBS,https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
-NHK Oaska,https://smart.pendy.dpdns.org/Smart.php?id=nhkosaka_japan
-
-
 
 
 
@@ -2749,7 +2218,7 @@ Njavtv_q,#genre#
 
 
 
-北条麻妃,#genre#
+北条麻妃_q,#genre#
 姑姑,http://surrit.com/5135c993-0008-4072-8aae-6471b62fc5ff/1080p/video.m3u8
 温泉中出,http://surrit.com/79bcdfd9-cafd-41ab-9f55-68767e3d897e/1080p/video.m3u8
 交换母亲,http://surrit.com/60b4ce03-c1c0-46d8-bd39-d3c248b07427/480p/video.m3u8
@@ -2781,7 +2250,7 @@ Njavtv_q,#genre#
 女同性恋,http://surrit.com/65ff8587-08e4-455b-b404-f98ed430c2bf/1280x720/video.m3u8
 
 
-妃光莉,#genre#
+妃光莉_q,#genre#
 强奸,http://surrit.com/aa8db156-8f8c-4315-9a46-b676a7a973e4/1080p/video.m3u8
 岳母守寡,http://surrit.com/fdac22dd-bd57-43d7-aa03-4e0a73183b86/1080p/video.m3u8
 母亲沐浴,http://surrit.com/e90c3a4f-5f6d-4e84-af46-81410ba63f65/1080p/video.m3u8
