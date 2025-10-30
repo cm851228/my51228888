@@ -386,6 +386,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 中国单片,#genre#
+过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
+真爱,http://c1.rrcdnbf6.com/video/zhenai2014/HD国语/index.m3u8
+三大队,http://c1.rrcdnbf5.com/video/sandaduidianyingban/HD/index.m3u8
 逆行人生,http://c1.rrcdnbf7.com/video/nixingrensheng2024/HD/index.m3u8
 失孤,http://s1.bfzycdn.com/video/shigu/HD%E5%9B%BD%E8%AF%AD%E7%89%88/index.m3u8
 出拳吧媽媽,http://s1.bfzycdn.com/video/chuquanbamama/HD国语/index.m3u8
@@ -429,6 +432,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
+
+
 外国单片,#genre#
 狼与狮子,http://c1.ddbbffcdn.com/video/langyushizi/HD中字/index.m3u8
 末日崩塌,http://s1.bfzycdn.com/video/moribengta/HD中字/index.m3u8
@@ -436,6 +441,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 杜玛,http://s2.bfzycdn.com/video/duma/HD中字/index.m3u8
 母侵,http://s1.bfzycdn.com/video/mama/HD国语/index.m3u8
 新威龍殺陣,http://c1.rrcdnbf5.com/video/xinweilongshazhen/HD/index.m3u8
+少年斯派维的奇异旅行,http://s6.bfzycdn.com/video/shaoniansipaiweideqiyilvxing/HD中字/index.m3u8
+放飞,http://p.b8bf.com/video/fangfei/HD/index.m3u8
+天才少年的奇幻冒險,http://v.lzcdn24.com/20250422/27776_6a534586/2000k/hls/mixed.m3u8
 海蒂和爷爷,http://c1.ddbbffcdn.com/video/haidiheyeye/HD中字/index.m3u8
 為人師表,http://vip1.lz-cdn7.com/20230407/15202_c2070e3d/2000k/hls/mixed.m3u8
 神秘代码,http://s2.bfzycdn.com/video/shenmidaima/HD中字/index.m3u8
