@@ -316,11 +316,14 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
-
-
 韩日单片,#genre#
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
 鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
+女儿的嫁衣,http://vip.lz-cdn3.com/20230727/20571_e56c7e87/2000k/hls/mixed.m3u8
+神汉流氓,http://c1.ddbbffcdn.com/video/shenhanliumang/HD中字/index.m3u8
+检察官外传,http://p.bvvvvvvvvv1f.com/video/jianchaguanwaichuan/HD中字/index.m3u8
+黑带出勤中,http://c1.ddbbffcdn.com/video/heidaichuqinzhong/HD/index.m3u8
+华颐,http://1080p.huyall.com/play/0dNyR8bL/index.m3u8
 幸福,http://vip.lz-cdn3.com/20230625/19851_ef28b321/2000k/hls/mixed.m3u8
 曾是超人的男子,http://s2.bfzycdn.com/video/zengshichaorendenanzi/HD中字/index.m3u8
 共同警备区,http://s6.bfzycdn.com/video/gongtongjingbeiqu/HD%E4%B8%AD%E5%AD%97/index.m3u8
@@ -328,6 +331,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 只有你,http://c1.rrcdnbf6.com/video/zhiyouni/HD中字/index.m3u8
 暴力規則,http://c1.7bbffvip.com/video/baoliguize/%E9%AB%98%E6%B8%85/index.m3u8
 滚烫的爱,http://s1.bfzycdn.com/video/guntangdeai/HD中字/index.m3u8
+公司职员,http://c1.rrcdnbf6.com/video/gongsizhiyuan/HD中字/index.m3u8
+北寒谍战,http://s6.bfzycdn.com/video/tegong/HD中字/index.m3u8
 看见恶魔,http://c1.rrcdnbf6.com/video/kanjianemo/HD中字/index.m3u8
 她的业余爱好,http://s5.bfzycdn.com/video/tadeyeyuaihao/HD/index.m3u8
 传说的拳头,http://s1.bfzycdn.com/video/chuanshuodequantou/HD中字/index.m3u8
@@ -433,7 +438,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
-
 外国单片,#genre#
 狼与狮子,http://c1.ddbbffcdn.com/video/langyushizi/HD中字/index.m3u8
 末日崩塌,http://s1.bfzycdn.com/video/moribengta/HD中字/index.m3u8
@@ -444,6 +448,22 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 少年斯派维的奇异旅行,http://s6.bfzycdn.com/video/shaoniansipaiweideqiyilvxing/HD中字/index.m3u8
 放飞,http://p.b8bf.com/video/fangfei/HD/index.m3u8
 天才少年的奇幻冒險,http://v.lzcdn24.com/20250422/27776_6a534586/2000k/hls/mixed.m3u8
+怪医杜立德1,http://p.bvvvvvvvvv1f.com/video/guaiyidulide/HD中字/index.m3u8
+怪医杜立德2,http://c1.rrcdnbf2.com/video/guaiyidulide2/HD中字/index.m3u8
+怪医杜立德3,http://c1.ddbbffcdn.com/video/guaiyidulide3/HD中字/index.m3u8
+怪医杜立德4,http://c1.ddbbffcdn.com/video/guaiyidulide4chongwusilingguan/HD中字/index.m3u8
+怪医杜立德5,http://c1.ddbbffcdn.com/video/guaiyidulide5baiwanshadan/HD中字/index.m3u8
+冷血动物,http://c1.rrcdnbf5.com/video/lengxuedongwu/中字/index.m3u8
+人之怒,http://p.bvvvvvvvvv1f.com/video/renzhinu/HD国语版/index.m3u8
+阿鸚愛說笑,http://tyyszywvod5.com/videos/202412/29/6770d54c8fd1573caed973c7/46beaf/index.m3u8
+在我消失前,http://p.bvvvvvvvvv1f.com/video/zaiwoxiaoshiqian/HD中字/index.m3u8
+战马,http://vip1.lz-cdn1.com/20220529/6951_22aa0b1d/1200k/hls/mixed.m3u8
+怒海潛將,http://s2.bfzycdn.com/video/nuhaiqianjiang/HD中字/index.m3u8
+美味情緣,http://tyyszywvod5.com/videos/202412/30/6772090d29f89526aa4b0065/0f6245/index.m3u8
+飢渴遊戲,http://s5.bfzycdn.com/video/jikeyouxi/HD中字/index.m3u8
+荒岛余生,http://s1.bfzycdn.com/video/huangdaoyusheng/HD/index.m3u8
+星爸客,http://tyyszywvod5.com/videos/202508/17/687b456d2c3f603981ba3bc3/c9dfgf/index.m3u8
+伸冤人,http://vip1.lz-cdn1.com/20220518/6120_89bdcad9/1200k/hls/mixed.m3u8
 海蒂和爷爷,http://c1.ddbbffcdn.com/video/haidiheyeye/HD中字/index.m3u8
 為人師表,http://vip1.lz-cdn7.com/20230407/15202_c2070e3d/2000k/hls/mixed.m3u8
 神秘代码,http://s2.bfzycdn.com/video/shenmidaima/HD中字/index.m3u8
