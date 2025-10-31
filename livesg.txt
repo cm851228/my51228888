@@ -315,12 +315,13 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
-
 韩日单片,#genre#
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
 鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
 女儿的嫁衣,http://vip.lz-cdn3.com/20230727/20571_e56c7e87/2000k/hls/mixed.m3u8
 神汉流氓,http://c1.ddbbffcdn.com/video/shenhanliumang/HD中字/index.m3u8
+超異能特攻,http://v.lzcdn27.com/20250711/333_68931f75/2000k/hls/mixed.m3u8
+地下忍者,http://v.lzcdn25.com/20250627/1785_98f4fede/2000k/hls/mixed.m3u8
 检察官外传,http://p.bvvvvvvvvv1f.com/video/jianchaguanwaichuan/HD中字/index.m3u8
 黑带出勤中,http://c1.ddbbffcdn.com/video/heidaichuqinzhong/HD/index.m3u8
 华颐,http://1080p.huyall.com/play/0dNyR8bL/index.m3u8
@@ -448,6 +449,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 少年斯派维的奇异旅行,http://s6.bfzycdn.com/video/shaoniansipaiweideqiyilvxing/HD中字/index.m3u8
 放飞,http://p.b8bf.com/video/fangfei/HD/index.m3u8
 天才少年的奇幻冒險,http://v.lzcdn24.com/20250422/27776_6a534586/2000k/hls/mixed.m3u8
+殺戮信仰,http://v.fengbao8.com/video/shaluxinyang/HD/index.m3u8
 怪医杜立德1,http://p.bvvvvvvvvv1f.com/video/guaiyidulide/HD中字/index.m3u8
 怪医杜立德2,http://c1.rrcdnbf2.com/video/guaiyidulide2/HD中字/index.m3u8
 怪医杜立德3,http://c1.ddbbffcdn.com/video/guaiyidulide3/HD中字/index.m3u8
