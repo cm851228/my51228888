@@ -338,6 +338,10 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 超異能特攻,http://v.lzcdn27.com/20250711/333_68931f75/2000k/hls/mixed.m3u8
 向日葵,http://vip.lz-cdn.com/20220831/30781_97da01a2/1000k/hls/mixed.m3u8
 德九,http://vod6.bdzybf11.com/20240124/TMTL9qXM/1500kb/hls/index.m3u8
+奇怪的她,http://8.bf8bf.com/video/qiguaideta/高清/index.m3u8
+许三观卖血记,http://s4.bfzycdn.com/video/xusanguan/HD中字/index.m3u8
+没有秘密,http://s6.bfzycdn.com/video/meiyoumimi/HD中字/index.m3u8
+傻瓜,http://vod.360zyx.vip/20250227/9Q1lRvFC/1122kb/hls/index.m3u8
 地下忍者,http://v.lzcdn25.com/20250627/1785_98f4fede/2000k/hls/mixed.m3u8
 检察官外传,http://p.bvvvvvvvvv1f.com/video/jianchaguanwaichuan/HD中字/index.m3u8
 黑带出勤中,http://c1.ddbbffcdn.com/video/heidaichuqinzhong/HD/index.m3u8
@@ -457,6 +461,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
+
 外国单片,#genre#
 狼与狮子,http://c1.ddbbffcdn.com/video/langyushizi/HD中字/index.m3u8
 末日崩塌,http://s1.bfzycdn.com/video/moribengta/HD中字/index.m3u8
@@ -467,6 +472,8 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 全民超人汉考克,http://c1.ddbbffcdn.com/video/quanminchaorenhankaoke/HD中字/index.m3u8
 水上乐园杀戮,http://c1.ddbbffcdn.com/video/shuishangleyuanshalu/HD中字/index.m3u8
 老黄狗,http://sd2.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-30/1/70fe9061793b/41f2bd6bb4a4/playlist.m3u8
+惊变28年,http://8.bf8bf.com/video/jingbian28nian/HD/index.m3u8
+国王理查德,http://s6.bfzycdn.com/video/guowanglichade/HD中字/index.m3u8
 食人鱼3DD,http://c1.rrcdnbf4.com/video/shirenyu3DD/HD中字/index.m3u8
 超级食人鱼,http://c1.rrcdnbf6.com/video/chaojishirenyu/HD中字/index.m3u8
 食人鱼3D1,http://c1.ddbbffcdn.com/video/shirenyu3D/HD中字/index.m3u8

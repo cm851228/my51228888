@@ -15874,6 +15874,21 @@ MY盛lady,#genre#
 第16集,http://c1.rrcdnbf4.com/video/zaicishibasui/第16集/index.m3u8
 
 
+韩诱拐之日,#genre#
+第01集,http://c1.rrcdnbf5.com/video/youguaizhiri/第01集/index.m3u8
+第02集,http://c1.rrcdnbf5.com/video/youguaizhiri/第02集/index.m3u8
+第03集,http://c1.rrcdnbf5.com/video/youguaizhiri/第03集/index.m3u8
+第04集,http://c1.rrcdnbf5.com/video/youguaizhiri/第04集/index.m3u8
+第05集,http://c1.rrcdnbf5.com/video/youguaizhiri/第05集/index.m3u8
+第06集,http://c1.rrcdnbf5.com/video/youguaizhiri/第06集/index.m3u8
+第07集,http://c1.rrcdnbf5.com/video/youguaizhiri/第07集/index.m3u8
+第08集,http://c1.rrcdnbf5.com/video/youguaizhiri/第08集/index.m3u8
+第09集,http://c1.rrcdnbf5.com/video/youguaizhiri/第09集/index.m3u8
+第10集,http://c1.rrcdnbf5.com/video/youguaizhiri/第10集/index.m3u8
+第11集,http://c1.rrcdnbf5.com/video/youguaizhiri/第11集/index.m3u8
+第12集,http://c1.rrcdnbf5.com/video/youguaizhiri/第12集/index.m3u8
+
+
 韩鱿鱼游戏1,#genre#
 第01集,http://c1.rrcdnbf4.com/video/youyuyouxidiyiji/第01集/index.m3u8
 第02集,http://c1.rrcdnbf4.com/video/youyuyouxidiyiji/第02集/index.m3u8
