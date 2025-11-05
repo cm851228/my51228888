@@ -330,6 +330,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
 鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
 坏家伙们,http://c1.rrcdnbf2.com/video/huaijiahuomen2019/HD中字/index.m3u8
+生存家族,http://p.bvvvvvvvvv1f.com/video/shengcunjiazu/HD中字/index.m3u8
+辩护人,http://c1.ddbbffcdn.com/video/bianhuren/HD中字/index.m3u8
+河畔须臾,http://vip.lz-cdn3.com/20230108/17020_23ce6cff/1800k/hls/mixed.m3u8
 看不见的爱,http://c1.rrcdnbf6.com/video/zhiyouni/HD%E4%B8%AD%E5%AD%97/index.m3u8
 脸庞,http://v.lzcdn27.com/20251027/1985_9b5d6abb/index.m3u8
 甜蜜的人生,http://c1.ddbbffcdn.com/video/tianmiderensheng/HD中字/index.m3u8
@@ -410,9 +413,11 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
+
 中国单片,#genre#
 过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
 老師好,http://s1.bfzycdn.com/video/laoshihao/HD国语/index.m3u8
+扫毒风暴,http://p.b8bf.com/video/saodufengbao/HD/index.m3u8
 起立老师好,http://p.bvvvvvvvvv1f.com/video/qililaoshihao/HD国语/index.m3u8
 詭絲,http://s3.bfzycdn.com/video/guisi/HD国语/index.m3u8
 真爱,http://c1.rrcdnbf6.com/video/zhenai2014/HD国语/index.m3u8

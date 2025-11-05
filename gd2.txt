@@ -11498,6 +11498,29 @@ MY盛lady,#genre#
 第30集,http://v2.tlkqc.com/wjv2/202308/16/Y2qcBN5w9W2/video/index.m3u8
 
 
+无我们的蓝调,#genre#
+第01集,http://v3.qrssuv.com/wjv3/202308/22/W7ZHN493vw2/video/index.m3u8
+第02集,http://v3.qrssuv.com/wjv3/202308/22/67QHmxthJr2/video/index.m3u8
+第03集,http://v3.qrssuv.com/wjv3/202308/22/7pR9uzKj6a2/video/index.m3u8
+第04集,http://v3.qrssuv.com/wjv3/202308/22/CNEiwq5W7V2/video/index.m3u8
+第05集,http://v3.qrssuv.com/wjv3/202308/22/AUictvtAtf2/video/index.m3u8
+第06集,http://v3.qrssuv.com/wjv3/202308/22/HRdUmVPgzF2/video/index.m3u8
+第07集,http://v3.qrssuv.com/wjv3/202308/22/g2vX3JKmQC2/video/index.m3u8
+第08集,http://v3.qrssuv.com/wjv3/202308/22/XGKdXCUaxt2/video/index.m3u8
+第09集,http://v3.qrssuv.com/wjv3/202308/22/TMUw3inEx42/video/index.m3u8
+第10集,http://v3.qrssuv.com/wjv3/202308/22/Uw7RFSKzgE2/video/index.m3u8
+第11集,http://v3.qrssuv.com/wjv3/202308/22/8Wp1RfGRJT2/video/index.m3u8
+第12集,http://v3.qrssuv.com/wjv3/202308/22/pgmy62WEGe2/video/index.m3u8
+第13集,http://v3.qrssuv.com/wjv3/202308/22/UpMLzZkyUp2/video/index.m3u8
+第14集,http://v3.qrssuv.com/wjv3/202308/22/ZwSBBh1uFN2/video/index.m3u8
+第15集,http://v3.qrssuv.com/wjv3/202308/22/nSKRN9h6eB2/video/index.m3u8
+第16集,http://v3.qrssuv.com/wjv3/202308/22/gGEs3Nqa8s2/video/index.m3u8
+第17集,http://v3.qrssuv.com/wjv3/202308/22/Xd8nvCdXDb2/video/index.m3u8
+第18集,http://v3.qrssuv.com/wjv3/202308/22/d8HMtw3v8p2/video/index.m3u8
+第19集,http://v3.qrssuv.com/wjv3/202308/22/N7x7mBYWTY2/video/index.m3u8
+第20集,http://v3.qrssuv.com/wjv3/202308/22/svEQ3Lv4wj2/video/index.m3u8
+
+
 
 暴巴不得爸爸,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/babudebaba/第01集/index.m3u8
@@ -14300,6 +14323,58 @@ MY盛lady,#genre#
 第36集,http://p.bvvvvvvvvv1f.com/video/cuxingzhe/第36集/index.m3u8
 
 
+暴原始生活1,#genre#
+第01集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第01集/index.m3u8
+第02集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第02集/index.m3u8
+第03集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第03集/index.m3u8
+第04集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第04集/index.m3u8
+第05集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第05集/index.m3u8
+第06集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第06集/index.m3u8
+第07集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第07集/index.m3u8
+第08集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiyiji/第08集/index.m3u8
+
+
+暴原始生活2,#genre#
+第01集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第01集/index.m3u8
+第02集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第02集/index.m3u8
+第03集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第03集/index.m3u8
+第04集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第04集/index.m3u8
+第05集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第05集/index.m3u8
+第06集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第06集/index.m3u8
+第07集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第07集/index.m3u8
+第08集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandierji/第08集/index.m3u8
+
+
+暴原始生活3,#genre#
+第01集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第01集/index.m3u8
+第02集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第02集/index.m3u8
+第03集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第03集/index.m3u8
+第04集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第04集/index.m3u8
+第05集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第05集/index.m3u8
+第06集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第06集/index.m3u8
+第07集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第07集/index.m3u8
+第08集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第08集/index.m3u8
+第09集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandisanji/第09集/index.m3u8
+
+
+暴原始生活5,#genre#
+第01集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第01集/index.m3u8
+第02集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第02集/index.m3u8
+第03集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第03集/index.m3u8
+第04集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第04集/index.m3u8
+第05集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第05集/index.m3u8
+第06集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第06集/index.m3u8
+第07集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第07集/index.m3u8
+第08集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第08集/index.m3u8
+第09集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第09集/index.m3u8
+第10集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第10集/index.m3u8
+第11集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第11集/index.m3u8
+第12集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第12集/index.m3u8
+第13集,http://p.bvvvvvvv7f.com/video/yuanshishenghuo40tiandiwuji/第13集/index.m3u8
+
+
+
+
 华人世间,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/renshijian/第01集/index.m3u8
 第02集,http://p.bvvvvvvvvv1f.com/video/renshijian/第02集/index.m3u8
@@ -15636,6 +15711,64 @@ MY盛lady,#genre#
 第40集,http://c1.ddbbffcdn.com/video/shiguangzhenghao/第40集/index.m3u8
 
 
+华鸡毛飞上天,#genre#
+第01集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第01集/index.m3u8
+第02集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第02集/index.m3u8
+第03集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第03集/index.m3u8
+第04集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第04集/index.m3u8
+第05集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第05集/index.m3u8
+第06集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第06集/index.m3u8
+第07集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第07集/index.m3u8
+第08集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第08集/index.m3u8
+第09集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第09集/index.m3u8
+第10集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第10集/index.m3u8
+第11集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第11集/index.m3u8
+第12集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第12集/index.m3u8
+第13集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第13集/index.m3u8
+第14集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第14集/index.m3u8
+第15集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第15集/index.m3u8
+第16集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第16集/index.m3u8
+第17集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第17集/index.m3u8
+第18集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第18集/index.m3u8
+第19集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第19集/index.m3u8
+第20集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第20集/index.m3u8
+第21集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第21集/index.m3u8
+第22集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第22集/index.m3u8
+第23集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第23集/index.m3u8
+第24集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第24集/index.m3u8
+第25集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第25集/index.m3u8
+第26集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第26集/index.m3u8
+第27集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第27集/index.m3u8
+第28集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第28集/index.m3u8
+第29集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第29集/index.m3u8
+第30集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第30集/index.m3u8
+第31集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第31集/index.m3u8
+第32集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第32集/index.m3u8
+第33集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第33集/index.m3u8
+第34集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第34集/index.m3u8
+第35集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第35集/index.m3u8
+第36集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第36集/index.m3u8
+第37集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第37集/index.m3u8
+第38集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第38集/index.m3u8
+第39集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第39集/index.m3u8
+第40集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第40集/index.m3u8
+第41集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第41集/index.m3u8
+第42集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第42集/index.m3u8
+第43集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第43集/index.m3u8
+第44集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第44集/index.m3u8
+第45集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第45集/index.m3u8
+第46集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第46集/index.m3u8
+第47集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第47集/index.m3u8
+第48集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第48集/index.m3u8
+第49集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第49集/index.m3u8
+第50集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第50集/index.m3u8
+第51集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第51集/index.m3u8
+第52集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第52集/index.m3u8
+第53集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第53集/index.m3u8
+第54集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第54集/index.m3u8
+第55集,http://c1.rrcdnbf2.com/video/jimaofeishangtian/第55集/index.m3u8
+
+
 
 华神犬小七第1季,#genre#
 第01集,http://p.bvvvvvvvvv1f.com/video/shenquanxiaoqidiyiji/第01集/index.m3u8
@@ -15921,7 +16054,7 @@ MY盛lady,#genre#
 
 
 
-量原始生活第1季,#genre#
+量原始生活1,#genre#
 第01集,http://dow.dowlz15.com/20240330/24746_06842a7a/原始生活21天S01E01.mp4
 第02集,http://dow.dowlz15.com/20240330/24745_e785f890/原始生活21天S01E02.mp4
 第03集,http://dow.dowlz15.com/20240330/24749_7cd711a7/原始生活21天S01E03.mp4
@@ -15951,7 +16084,7 @@ MY盛lady,#genre#
 第27集$http://dow.dowlz15.com/20240330/24771_3c31f536/原始生活21天S01E27.mp4
 
 
-量原始生活第2季,#genre#
+量原始生活2,#genre#
 第01集,http://dow.dowlz15.com/20240330/24772_70de1de8/原始生活21天S02E01.mp4
 第02集,http://dow.dowlz15.com/20240330/24773_9559c9f0/原始生活21天S02E02.mp4
 第03集,http://dow.dowlz15.com/20240330/24774_9d0f30f9/原始生活21天S02E03.mp4
@@ -15980,7 +16113,7 @@ MY盛lady,#genre#
 第26集,http://dow.dowlz15.com/20240330/24797_6c0c8963/原始生活21天S02E26.mp4
 
 
-量原始生活第3季,#genre#
+量原始生活3,#genre#
 第01集,http://dow.dowlz15.com/20240330/24839_17e78ced/原始生活21天S03E01.mp4
 第02集,http://dow.dowlz15.com/20240330/24840_5ef36aea/原始生活21天S03E02.mp4
 第03集,http://dow.dowlz15.com/20240330/24842_ca55e1ed/原始生活21天S03E03.mp4
@@ -15992,7 +16125,7 @@ MY盛lady,#genre#
 第09集,http://dow.dowlz15.com/20240330/24847_e71afbd2/原始生活21天S03E09.mp4
 
 
-量原始生活第4季,#genre#
+量原始生活4,#genre#
 第01集,http://dow.dowlz15.com/20240330/24849_6ab6ceec/原始生活21天S04E01.mp4
 第02集,http://dow.dowlz15.com/20240330/24850_b197bfba/原始生活21天S04E02.mp4
 第03集,http://dow.dowlz15.com/20240330/24848_0cee0b6a/原始生活21天S04E03.mp4
@@ -16011,7 +16144,7 @@ MY盛lady,#genre#
 第16集,http://dow.dowlz15.com/20240330/24860_1a9343a7/原始生活21天S04E16.mp4
 
 
-量原始生活第5季,#genre#
+量原始生活5,#genre#
 第01集,http://dow.dowlz15.com/20240330/24864_874a1703/原始生活21天S05E01.mp4
 第02集,http://dow.dowlz15.com/20240330/24866_7c2cc381/原始生活21天S05E02.mp4
 第03集,http://dow.dowlz15.com/20240330/24867_b6cf8dc5/原始生活21天S05E03.mp4
@@ -16029,7 +16162,7 @@ MY盛lady,#genre#
 第15集,http://dow.dowlz15.com/20240330/24878_e030bfbb/原始生活21天S05E15.mp4
 
 
-量原始生活第6季,#genre#
+量原始生活6,#genre#
 第01集,http://dow.dowlz15.com/20240330/24798_03f0acbf/原始生活21天S06E01.mp4
 第02集,http://dow.dowlz15.com/20240330/24800_2f39c738/原始生活21天S06E02.mp4
 第03集,http://dow.dowlz15.com/20240330/24799_a9f86515/原始生活21天S06E03.mp4
@@ -16049,7 +16182,7 @@ MY盛lady,#genre#
 第17集,http://dow.dowlz15.com/20240330/24814_3fcfff57/原始生活21天S06E17.mp4
 
 
-量原始生活第7季,#genre#
+量原始生活7,#genre#
 第01集,http://dow.dowlz15.com/20240330/24815_c7d575ad/原始生活21天S07E01.mp4
 第02集,http://dow.dowlz15.com/20240330/24816_bc33c50e/原始生活21天S07E02.mp4
 第03集,http://dow.dowlz15.com/20240330/24817_3a90f448/原始生活21天S07E03.mp4
@@ -16074,28 +16207,3 @@ MY盛lady,#genre#
 第22集,http://dow.dowlz15.com/20240330/24835_4fa8d7f7/原始生活21天S07E22.mp4
 第23集,http://dow.dowlz15.com/20240330/24837_f056fe11/原始生活21天S07E23.mp4
 第24集,http://dow.dowlz15.com/20240330/24838_ce30e38e/原始生活21天S07E24.mp4
-
-
-
-
-无我们的蓝调,#genre#
-第01集,http://v3.qrssuv.com/wjv3/202308/22/W7ZHN493vw2/video/index.m3u8
-第02集,http://v3.qrssuv.com/wjv3/202308/22/67QHmxthJr2/video/index.m3u8
-第03集,http://v3.qrssuv.com/wjv3/202308/22/7pR9uzKj6a2/video/index.m3u8
-第04集,http://v3.qrssuv.com/wjv3/202308/22/CNEiwq5W7V2/video/index.m3u8
-第05集,http://v3.qrssuv.com/wjv3/202308/22/AUictvtAtf2/video/index.m3u8
-第06集,http://v3.qrssuv.com/wjv3/202308/22/HRdUmVPgzF2/video/index.m3u8
-第07集,http://v3.qrssuv.com/wjv3/202308/22/g2vX3JKmQC2/video/index.m3u8
-第08集,http://v3.qrssuv.com/wjv3/202308/22/XGKdXCUaxt2/video/index.m3u8
-第09集,http://v3.qrssuv.com/wjv3/202308/22/TMUw3inEx42/video/index.m3u8
-第10集,http://v3.qrssuv.com/wjv3/202308/22/Uw7RFSKzgE2/video/index.m3u8
-第11集,http://v3.qrssuv.com/wjv3/202308/22/8Wp1RfGRJT2/video/index.m3u8
-第12集,http://v3.qrssuv.com/wjv3/202308/22/pgmy62WEGe2/video/index.m3u8
-第13集,http://v3.qrssuv.com/wjv3/202308/22/UpMLzZkyUp2/video/index.m3u8
-第14集,http://v3.qrssuv.com/wjv3/202308/22/ZwSBBh1uFN2/video/index.m3u8
-第15集,http://v3.qrssuv.com/wjv3/202308/22/nSKRN9h6eB2/video/index.m3u8
-第16集,http://v3.qrssuv.com/wjv3/202308/22/gGEs3Nqa8s2/video/index.m3u8
-第17集,http://v3.qrssuv.com/wjv3/202308/22/Xd8nvCdXDb2/video/index.m3u8
-第18集,http://v3.qrssuv.com/wjv3/202308/22/d8HMtw3v8p2/video/index.m3u8
-第19集,http://v3.qrssuv.com/wjv3/202308/22/N7x7mBYWTY2/video/index.m3u8
-第20集,http://v3.qrssuv.com/wjv3/202308/22/svEQ3Lv4wj2/video/index.m3u8
