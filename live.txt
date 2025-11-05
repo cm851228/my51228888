@@ -2359,9 +2359,7 @@ Third Rail 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/se
 第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7gm40cfe/v/11/pv/1/ev/27/flavorId/1_upgozqnf/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4q44pmda/v/1/pv/1/ev/16/flavorId/1_wqxkm9wn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_58pavowr/v/1/pv/1/ev/16/flavorId/1_nkheyps8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4q44pmda/v/1/pv/1/ev/16/flavorId/1_wqxkm9wn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_58pavowr/v/1/pv/1/ev/16/flavorId/1_nkheyps8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-﻿酷旅店,#genre#
+酷旅店,#genre#
 酷旅店 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_r4y6c6f4/v/1/pv/1/ev/17/flavorId/1_azwy57tc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_6nnlii68/v/1/pv/1/ev/17/flavorId/1_rl03kd4s/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2ujluti3/v/1/pv/1/ev/17/flavorId/1_gn1atn7q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -2465,27 +2463,7 @@ Third Rail 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/se
 第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_w5h99xos/v/11/pv/1/ev/28/flavorId/1_tcmo5f1v/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_q3g667v5/v/11/pv/1/ev/28/flavorId/1_314fm7l5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_119dc2oj/v/21/pv/1/ev/39/flavorId/1_6giotom2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-卫国先锋 1-2季,#genre#
-卫国先锋 第1季 第1集,https://m3u.haiwaikan.com/xm3u8/aa6fa6052e9589ca5fd2a6b04fbf0a48a853f672245c6a50639bfda50b3b43789921f11e97d0da21.m3u8
-第2集,https://m3u.haiwaikan.com/xm3u8/7acf24cf8cf7c9970601f0f647483428f4fd064d3d8328ab38e8193600e3cfc09921f11e97d0da21.m3u8
-第3集,https://m3u.haiwaikan.com/xm3u8/71e4c363ea3521c4f0c2d123d9b1445b25d6c5adf8671a3580a632bc8193a10a9921f11e97d0da21.m3u8
-第4集,https://m3u.haiwaikan.com/xm3u8/696e3d4e8baa989831b12c1173178d94ea5f0ece95e74bc7f96130a2023d72439921f11e97d0da21.m3u8
-第5集,https://m3u.haiwaikan.com/xm3u8/6c114483a94401dddaa37e6041d5212649393ff6bd808ac14bf9f074a55612cd9921f11e97d0da21.m3u8
-第6集,https://m3u.haiwaikan.com/xm3u8/25dea9a1595dba55904dac66c07bc96722a72d398011e5bd657f9e23ad6df9d19921f11e97d0da21.m3u8
-第7集,https://m3u.haiwaikan.com/xm3u8/685a40b6cc438d0e2c872baed06ab9529991a6a3c3b5d33d17daf929bd61397d9921f11e97d0da21.m3u8
-第8集,https://m3u.haiwaikan.com/xm3u8/eb249d5d499d53cb5b862ae4df99b8b2bfe2047d1c0e289bae97c39d1f9bf67c9921f11e97d0da21.m3u8
-第9集,https://m3u.haiwaikan.com/xm3u8/c48913bc5f4bef47352bcb43ed4a8bd90fb89a052bf0dd92da917c12abdb56299921f11e97d0da21.m3u8
-第10集,https://m3u.haiwaikan.com/xm3u8/31b6656fed6b052c856de95e15e3889512d3ae172aa05becb434c6208f6903809921f11e97d0da21.m3u8
-第11集,https://m3u.haiwaikan.com/xm3u8/eb77b3ad6f8be8be67781b3abfc9c72e31f07c65e51e4c8247c619ef412f96d39921f11e97d0da21.m3u8
-第12集,https://m3u.haiwaikan.com/xm3u8/e92f5ceec981fb62d4fdae8a2fa346fcbdc11723d2b4c9f66b00d8be1a5943899921f11e97d0da21.m3u8
-第13集,https://m3u.haiwaikan.com/xm3u8/7352421770647b2ce22e0f87c84381bd0c3e15ff74f7676edb20ff30570878599921f11e97d0da21.m3u8
-第14集,https://m3u.haiwaikan.com/xm3u8/9775e85a6e38919c2568006edbaad3c4da4834ca06ef21ff2a5b057c4bf704939921f11e97d0da21.m3u8
-第15集,https://m3u.haiwaikan.com/xm3u8/9169307eadde98ec6650d414d5bd9d33d595552d0d5aa9f5cca823c5ce71c7ca9921f11e97d0da21.m3u8
-第16集,https://m3u.haiwaikan.com/xm3u8/4a5b2fb2aa5a4a37f167e6eea8c10112a3b8297c39814ce59ef4da2ae9dc6d8c9921f11e97d0da21.m3u8
-第17集,https://m3u.haiwaikan.com/xm3u8/fea3edcf409946ce4528c68050860493a9a8136ca20f77684fce20719e8766109921f11e97d0da21.m3u8
-第18集,https://m3u.haiwaikan.com/xm3u8/3991d0d627c3fb8c985e1fd302d65115bded7a45bd36b3b65d9e9b8d1ae4b2fc9921f11e97d0da21.m3u8
-第19集,https://m3u.haiwaikan.com/xm3u8/421f737edce21d80835953db876b9f057256e852fbc97a344ec66b1d689ac25d9921f11e97d0da21.m3u8
-第20集,https://m3u.haiwaikan.com/xm3u8/ea6bc3bfcaa873a40d881b0999c52df141238c519fdcb0ecdbb04a2f54e63d429921f11e97d0da21.m3u8
+卫国先锋 2季,#genre#
 卫国先锋 2季 第a1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2dr6zzyl/v/11/pv/1/ev/27/flavorId/1_8wv6sbj2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第a2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_e2b8d9sa/v/11/pv/1/ev/28/flavorId/1_wkauuilq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第a3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1butbd3t/v/11/pv/1/ev/27/flavorId/1_t9uso6a1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -13243,43 +13221,6 @@ K.O 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlav
 第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1bsc895h/v/1/pv/1/ev/16/flavorId/1_xjgi2uj2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3fe5nx5p/v/1/pv/1/ev/16/flavorId/1_52zcd9y8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_85n0w0tm/v/1/pv/1/ev/16/flavorId/1_82y685vt/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-灵魂摆渡 南洋传说,#genre#
-灵魂摆渡 南洋传说 第1集,https://vod8.wenshibaowenbei.com/20210824/eJzCTTRE/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第2集,https://vod8.wenshibaowenbei.com/20210824/hWJ0613a/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第3集,https://vod8.wenshibaowenbei.com/20210824/qE0kXLae/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第4集,https://vod8.wenshibaowenbei.com/20210824/IUyNzLCE/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第5集,https://vod8.wenshibaowenbei.com/20210824/UFoIBkmu/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第6集,https://vod8.wenshibaowenbei.com/20210824/niysFvcO/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第7集,https://vod8.wenshibaowenbei.com/20210824/fkte4OUR/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第8集,https://vod8.wenshibaowenbei.com/20210824/tggyQ5wB/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第9集,https://vod8.wenshibaowenbei.com/20210825/ig5FqsZC/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第10集,https://vod8.wenshibaowenbei.com/20210825/yNzdNFOy/1000kb/hls/index.m3u8/index-v1-a1.m3u8?t=ios
-第11集,https://vod8.wenshibaowenbei.com/20210826/cycthdcZ/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第12集,https://vod8.wenshibaowenbei.com/20210826/W6EGxlya/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第13集,https://vod8.wenshibaowenbei.com/20210831/1Tiz5uOq/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第14集,https://vod8.wenshibaowenbei.com/20210831/QNwJpoZ5/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第15集,https://vod8.wenshibaowenbei.com/20210902/HlZkLwRj/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第16集,https://vod8.wenshibaowenbei.com/20210902/fnchjsW0/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第17集,https://vod8.wenshibaowenbei.com/20210902/Oy6gAfNa/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第18集,https://vod8.wenshibaowenbei.com/20210902/DUvvUluC/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第19集,https://vod8.wenshibaowenbei.com/20210907/cvCIqYt6/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第20集,https://vod8.wenshibaowenbei.com/20210907/ffitv48W/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第21集,https://vod8.wenshibaowenbei.com/20210908/3BejuARJ/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第22集,https://vod8.wenshibaowenbei.com/20210908/gtTPXf4j/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第23集,https://vod8.wenshibaowenbei.com/20210909/ZdhNvfDk/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第24集,https://vod8.wenshibaowenbei.com/20210909/m0Ildagb/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第25集,https://vod8.wenshibaowenbei.com/20210915/PkmzGKsz/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第26集,https://vod8.wenshibaowenbei.com/20210915/yXvsldfI/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第27集,https://vod8.wenshibaowenbei.com/20210915/QewfPUOm/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第28集,https://vod8.wenshibaowenbei.com/20210915/R0AjlFU7/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第29集,https://vod8.wenshibaowenbei.com/20210916/G4D4rFYi/1000kb/hls/index.m3u8/index-v1-a1.m3u8?skipl=1
-第30集,https://vod8.wenshibaowenbei.com/20210916/5xMWLvPf/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第31集,https://vod8.wenshibaowenbei.com/20210922/M0TXLmyU/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第32集,https://vod8.wenshibaowenbei.com/20210922/1abK9z1O/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第33集,https://vod8.wenshibaowenbei.com/20210923/QN7sRwLn/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第34集,https://vod8.wenshibaowenbei.com/20210923/rFK44Qge/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第35集,https://vod8.wenshibaowenbei.com/20210923/l4PDbQh1/1000kb/hls/index.m3u8/index-v1-a1.m3u8
-第36集,https://vod8.wenshibaowenbei.com/20210923/Tc3y6w4R/1000kb/hls/index.m3u8/index-v1-a1.m3u8
 烈焰焚情,#genre#
 烈焰焚情 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_zg8yby2l/v/2/pv/1/ev/11/flavorId/0_h8hbalav/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_y7e9k00x/v/2/pv/1/ev/11/flavorId/0_jm9p7nhq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
