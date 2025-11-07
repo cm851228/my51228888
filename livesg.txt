@@ -337,6 +337,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 脸庞,http://v.lzcdn27.com/20251027/1985_9b5d6abb/index.m3u8
 甜蜜的人生,http://c1.ddbbffcdn.com/video/tianmiderensheng/HD中字/index.m3u8
 女儿的嫁衣,http://vip.lz-cdn3.com/20230727/20571_e56c7e87/2000k/hls/mixed.m3u8
+帅哥们,http://c1.ddbbffcdn.com/video/shuaigemen/HD/index.m3u8
+從邪惡中拯救我,http://s2.bfzycdn.com/video/congxieezhongzhengjiuwo/HD中字/index.m3u8
+殺人者報告,http://v.lzcdn27.com/20251017/1821_9946f49a/2000k/hls/mixed.m3u8
 神汉流氓,http://c1.ddbbffcdn.com/video/shenhanliumang/HD中字/index.m3u8
 超異能特攻,http://v.lzcdn27.com/20250711/333_68931f75/2000k/hls/mixed.m3u8
 向日葵,http://vip.lz-cdn.com/20220831/30781_97da01a2/1000k/hls/mixed.m3u8
@@ -416,6 +419,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 中国单片,#genre#
 过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
+重生,http://c1.rrcdnbf1.com/video/replacexxx0810/20240929HbSMjPMDindex.m3u8/index.m3u8
 老師好,http://s1.bfzycdn.com/video/laoshihao/HD国语/index.m3u8
 扫毒风暴,http://p.b8bf.com/video/saodufengbao/HD/index.m3u8
 起立老师好,http://p.bvvvvvvvvv1f.com/video/qililaoshihao/HD国语/index.m3u8
@@ -474,8 +478,18 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 黑神駒,http://s6.bfzycdn.com/video/heishenju/HD中字/index.m3u8
 战争下的女儿http://c1.ddbbffcdn.com/video/replacexxx0810/202409272N227RBZindex.m3u8/index.m3u8
 他们都叫我杰哥,http://c1.ddbbffcdn.com/video/tamenjiaowojike/HD中字/index.m3u8
+熱血教師,http://vip1.lz-cdn7.com/20230304/14734_2ff9c22b/2000k/hls/mixed.m3u8
+萨扬,http://s3.bfzycdn.com/video/sayang/HD中字/index.m3u8
+奇迹男孩,http://vip.lzcdn2.com/20220321/211_6dff5a77/1200k/hls/mixed.m3u8
+陪着你走,http://s1.bfzycdn.com/video/peizhuonizou/HD中字/index.m3u8
+捡来的孩子,http://s6.bfzycdn.com/video/jianlaidehaizi/HD中字/index.m3u8
+土狼湖,http://s4.bfzycdn.com/video/tulanghu/HD中字/index.m3u8
+怒火救援,http://s1.bfzycdn.com/video/nuhuojiuyuan/HD中字/index.m3u8
+像素大战,http://s4.bfzycdn.com/video/xiangsudazhan/HD中字/index.m3u8
 全民超人汉考克,http://c1.ddbbffcdn.com/video/quanminchaorenhankaoke/HD中字/index.m3u8
 水上乐园杀戮,http://c1.ddbbffcdn.com/video/shuishangleyuanshalu/HD中字/index.m3u8
+守法公民,http://p.bvvvvvvvvv1f.com/video/shoufagongmin/HD中字/index.m3u8
+健听女孩,http://s6.bfzycdn.com/video/jiantingnvhai/HD中字/index.m3u8
 老黄狗,http://sd2.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-30/1/70fe9061793b/41f2bd6bb4a4/playlist.m3u8
 惊变28年,http://8.bf8bf.com/video/jingbian28nian/HD/index.m3u8
 国王理查德,http://s6.bfzycdn.com/video/guowanglichade/HD中字/index.m3u8
@@ -606,6 +620,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 
 
 香港单片,#genre#
+跟踪,http://s1.bfzycdn.com/video/genzong/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 水餃皇后,http://ukzyvod3.ukubf5.com/20250704/BZlHLGba/2000kb/hls/index.m3u8
 毒舌律师,https://c1.rrcdnbf6.com/video/dushelvshi/粤语/index.m3u8
 破地狱,http://p.bvvvvvvv7f.com/video/podiyu/HD粤语/index.m3u8
