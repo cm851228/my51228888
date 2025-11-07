@@ -327,6 +327,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 韩日单片,#genre#
+对我来说非常珍贵的你,http://s6.bfzycdn.com/video/duiwolaishuofeichangzhenguideni/HD中字/index.m3u8
+老男孩,http://s1.bfzycdn.com/video/laonanhai/HD中字/index.m3u8
+螢火蟲之星,http://s1.bfzycdn.com/video/yinghuochongzhixing/HD中字/index.m3u8
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
 鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
 坏家伙们,http://c1.rrcdnbf2.com/video/huaijiahuomen2019/HD中字/index.m3u8
@@ -470,7 +473,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
-
 外国单片,#genre#
 狼与狮子,http://c1.ddbbffcdn.com/video/langyushizi/HD中字/index.m3u8
 末日崩塌,http://s1.bfzycdn.com/video/moribengta/HD中字/index.m3u8
@@ -478,6 +480,13 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 黑神駒,http://s6.bfzycdn.com/video/heishenju/HD中字/index.m3u8
 战争下的女儿http://c1.ddbbffcdn.com/video/replacexxx0810/202409272N227RBZindex.m3u8/index.m3u8
 他们都叫我杰哥,http://c1.ddbbffcdn.com/video/tamenjiaowojike/HD中字/index.m3u8
+相助,http://s6.bfzycdn.com/video/xiangzhu/HD中字/inde
+极寒潜袭,http://p.b8bf.com/video/jihanqianxi/HD/index.m3u8
+我在雨中等你,http://c1.ddbbffcdn.com/video/wozaiyuzhongdengni/HD中字/index.m3u8
+迷途新娘,http://c1.ddbbffcdn.com/video/mituxinniang/中字/index.m3u8
+捉迷藏,http://vip.lz-cdn16.com/20230827/37052_aeeb01b0/2000k/hls/mixed.m3u8
+神秘仙境,http://s1.bfzycdn.com/video/shenmixianjing/HD国语/index.m3u8
+偶得回响,http://v1.cdnlz1.com/20231026/23156_9df62bf0/2000k/hls/mixed.m3u8
 熱血教師,http://vip1.lz-cdn7.com/20230304/14734_2ff9c22b/2000k/hls/mixed.m3u8
 萨扬,http://s3.bfzycdn.com/video/sayang/HD中字/index.m3u8
 奇迹男孩,http://vip.lzcdn2.com/20220321/211_6dff5a77/1200k/hls/mixed.m3u8
