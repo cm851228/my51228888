@@ -327,12 +327,14 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 韩日单片,#genre#
+担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
+特務搞飛機,http://c1.ddbbffcdn.com/video/OKlaobanniang/HD中字/index.m3u8
+神明,http://8.bf8bf.com/video/shenming2025/HD/index.m3u8
+鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
+坏家伙们,http://c1.rrcdnbf2.com/video/huaijiahuomen2019/HD中字/index.m3u8
 对我来说非常珍贵的你,http://s6.bfzycdn.com/video/duiwolaishuofeichangzhenguideni/HD中字/index.m3u8
 老男孩,http://s1.bfzycdn.com/video/laonanhai/HD中字/index.m3u8
 螢火蟲之星,http://s1.bfzycdn.com/video/yinghuochongzhixing/HD中字/index.m3u8
-担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
-鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
-坏家伙们,http://c1.rrcdnbf2.com/video/huaijiahuomen2019/HD中字/index.m3u8
 生存家族,http://p.bvvvvvvvvv1f.com/video/shengcunjiazu/HD中字/index.m3u8
 辩护人,http://c1.ddbbffcdn.com/video/bianhuren/HD中字/index.m3u8
 河畔须臾,http://vip.lz-cdn3.com/20230108/17020_23ce6cff/1800k/hls/mixed.m3u8
@@ -484,6 +486,13 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 相助,http://s6.bfzycdn.com/video/xiangzhu/HD中字/inde
 极寒潜袭,http://p.b8bf.com/video/jihanqianxi/HD/index.m3u8
 夜班,http://v.lzcdn27.com/20250803/775_299ab5a7/2000k/hls/mixed.m3u8
+密弒逃生,http://s3.bfzycdn.com/video/fenbidilao/HD中字/index.m3u8
+墓中酷刑,http://c1.ddbbffcdn.com/video/muzhongkuxing/HD/index.m3u8
+不法岳父母,http://s6.bfzycdn.com/video/bufayuefumu/HD/index.m3u8
+贼巢,http://s2.bfzycdn.com/video/zeichao/HD中字/index.m3u8
+明日之战,http://s1.bfzycdn.com/video/mingrizhizhan/HD国语版/index.m3u8
+恐吓运动,http://c1.ddbbffcdn.com/video/kongxiayundong/HD中字/index.m3u8
+奇幻精靈事件簿,http://p.bvvvvvvvvv1f.com/video/qihuanjinglingshijianbu/HD中字/index.m3u8
 源代码,http://c1.ddbbffcdn.com/video/yuandaima/HD中字/index.m3u8
 倾城佳话,http://c1.ddbbffcdn.com/video/qingchengjiahua/HD中字/index.m3u8
 修复,http://c1.7bbffvip.com/video/xiufuTheFix/HD/index.m3u8
@@ -669,6 +678,8 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 
 
 泰国单片,#genre#
+鬼滴语1,http://c1.ddbbffcdn.com/video/guidiyu/中字/index.m3u8
+鬼滴语2,http://c1.7bbffvip.com/video/guidiyu2/中字/index.m3u8
 泰頑皮鬼1,http://cdn10.hdzyk-cdn.com/20221213/18912_52f45805/1000k/hls/mixed.m3u8
 泰頑皮鬼2,http://cdn10.hdzyk-cdn.com/20221213/18911_1d5d537c/1000k/hls/mixed.m3u8
 泰頑皮鬼3,http://cdn10.hdzyk-cdn.com/20221213/18910_28fa4795/1000k/hls/mixed.m3u8
