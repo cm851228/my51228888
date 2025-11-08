@@ -422,7 +422,9 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 中国单片,#genre#
 过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
+失孤,http://s1.bfzycdn.com/video/shigu/HD%E5%9B%BD%E8%AF%AD%E7%89%88/index.m3u8
 重生,http://c1.rrcdnbf1.com/video/replacexxx0810/20240929HbSMjPMDindex.m3u8/index.m3u8
+解密,http://c1.ddbbffcdn.com/video/jiemi2024/HD/index.m3u8
 老師好,http://s1.bfzycdn.com/video/laoshihao/HD国语/index.m3u8
 扫毒风暴,http://p.b8bf.com/video/saodufengbao/HD/index.m3u8
 起立老师好,http://p.bvvvvvvvvv1f.com/video/qililaoshihao/HD国语/index.m3u8
@@ -430,7 +432,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 真爱,http://c1.rrcdnbf6.com/video/zhenai2014/HD国语/index.m3u8
 三大队,http://c1.rrcdnbf5.com/video/sandaduidianyingban/HD/index.m3u8
 逆行人生,http://c1.rrcdnbf7.com/video/nixingrensheng2024/HD/index.m3u8
-失孤,http://s1.bfzycdn.com/video/shigu/HD%E5%9B%BD%E8%AF%AD%E7%89%88/index.m3u8
 出拳吧媽媽,http://s1.bfzycdn.com/video/chuquanbamama/HD国语/index.m3u8
 南京照相馆,http://v.fengbao8.com/video/nanjingzhaoxiangguan/HD/index.m3u8
 东极岛,http://v.fengbao8.com/video/dongjidao/HD/index.m3u8
@@ -482,6 +483,12 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 他们都叫我杰哥,http://c1.ddbbffcdn.com/video/tamenjiaowojike/HD中字/index.m3u8
 相助,http://s6.bfzycdn.com/video/xiangzhu/HD中字/inde
 极寒潜袭,http://p.b8bf.com/video/jihanqianxi/HD/index.m3u8
+夜班,http://v.lzcdn27.com/20250803/775_299ab5a7/2000k/hls/mixed.m3u8
+源代码,http://c1.ddbbffcdn.com/video/yuandaima/HD中字/index.m3u8
+倾城佳话,http://c1.ddbbffcdn.com/video/qingchengjiahua/HD中字/index.m3u8
+修复,http://c1.7bbffvip.com/video/xiufuTheFix/HD/index.m3u8
+杀手,http://s5.bfzycdn.com/video/shashou/中字/index.m3u8
+心靈投手,http://v.cdnlz11.com/20231021/17864_25ccc4b3/2000k/hls/mixed.m3u8
 我在雨中等你,http://c1.ddbbffcdn.com/video/wozaiyuzhongdengni/HD中字/index.m3u8
 迷途新娘,http://c1.ddbbffcdn.com/video/mituxinniang/中字/index.m3u8
 捉迷藏,http://vip.lz-cdn16.com/20230827/37052_aeeb01b0/2000k/hls/mixed.m3u8
