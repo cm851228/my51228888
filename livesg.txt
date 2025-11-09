@@ -325,10 +325,22 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 當邪惡潛伏時,http://s5.bfzycdn.com/video/dangxieeqianfushi/HD/index.m3u8
 
 
+憨豆单片,#genre#
+憨豆先生精选辑,http://c1.ddbbffcdn.com/video/handouxianshengjingxuanji/HD中字/index.m3u8
+憨豆先生的大灾难,http://c1.rrcdnbf2.com/video/handouxianshengdedazainan/HD中字/index.m3u8
+憨豆的黄金周,http://s1.bfzycdn.com/video/handoudehuangjinzhou/HD中字/index.m3u8
+憨豆特工1,http://s1.bfzycdn.com/video/handoutegong/HD中字/index.m3u8
+憨豆特工2,http://vip1.lz-cdn1.com/20220403/793_2ea3d282/1200k/hls/mixed.m3u8
+憨豆特工3,http://c1.ddbbffcdn.com/video/handoutegong3/HD中字/index.m3u8
+
+
 
 韩日单片,#genre#
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
 特務搞飛機,http://c1.ddbbffcdn.com/video/OKlaobanniang/HD中字/index.m3u8
+殺人依賴,http://p.bvvvvvvvvv1f.com/video/sharenyilai/HD中字/index.m3u8
+神之一手,http://c1.ddbbffcdn.com/video/shenzhiyishou/HD中字/index.m3u8
+致命之旅,http://c1.ddbbffcdn.com/video/zhimingzhilv/HD中字/index.m3u8
 神明,http://8.bf8bf.com/video/shenming2025/HD/index.m3u8
 鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
 坏家伙们,http://c1.rrcdnbf2.com/video/huaijiahuomen2019/HD中字/index.m3u8
@@ -482,6 +494,7 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 家庭计划,http://v.cdnlz11.com/20231215/18694_3a567134/2000k/hls/mixed.m3u8
 黑神駒,http://s6.bfzycdn.com/video/heishenju/HD中字/index.m3u8
 战争下的女儿http://c1.ddbbffcdn.com/video/replacexxx0810/202409272N227RBZindex.m3u8/index.m3u8
+挚爱枭雄,http://s1.bfzycdn.com/video/zhiaixiaoxiong/HD中字/index.m3u8
 他们都叫我杰哥,http://c1.ddbbffcdn.com/video/tamenjiaowojike/HD中字/index.m3u8
 相助,http://s6.bfzycdn.com/video/xiangzhu/HD中字/inde
 极寒潜袭,http://p.b8bf.com/video/jihanqianxi/HD/index.m3u8
@@ -637,10 +650,6 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 終極假期,http://v1.tlkqc.com/wjv1/202308/19/bcqRqnZHNx2/video/1000k_720/hls/index.m3u8
 行走距離,http://v1.tlkqc.com/wjv1/202308/19/3WSfde1ukw2/video/1000k_720/hls/index.m3u8
 金刚,http://svipsvip.ffzy-online5.com/20240514/27243_6a0055ac/3000k/hls/mixed.m3u8
-憨豆特工1,http://cdn2.vipzyk-video.com/20220505/18542_75f23339/1000k/hls/mixed.m3u8
-憨豆特工2,http://play.xluuss.com/play/rb22pNbW/index.m3u8
-憨豆特工3,http://cdn5.vipzyk-video.com/20220530/21151_2a430aaa/1000k/hls/mixed.m3u8
-
 
 
 
@@ -649,6 +658,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 水餃皇后,http://ukzyvod3.ukubf5.com/20250704/BZlHLGba/2000kb/hls/index.m3u8
 毒舌律师,https://c1.rrcdnbf6.com/video/dushelvshi/粤语/index.m3u8
 破地狱,http://p.bvvvvvvv7f.com/video/podiyu/HD粤语/index.m3u8
+男人不可以穷,http://s1.bfzycdn.com/video/nanrenbukeyiqiong/HD粤语/index.m3u8
 心想事成,http://mzm3u8.com/20250115/01h82mbJ/1100kb/hls/index.m3u8
 使徒行者1,http://s4.bfzycdn.com/video/shituxingzhe/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 使徒行者2,http://c1.ddbbffcdn.com/video/replacexxx0810/20240925ZFiSzWq7index.m3u8/index.m3u8
