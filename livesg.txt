@@ -238,6 +238,9 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 遇见贵人,http://s2.bfzycdn.com/video/yujianguiren/HD国语/index.m3u8
 我的一切,http://vip1.lz-cdn1.com/20230811/21752_4b20daa4/2000k/hls/mixed.m3u8
 割爱,http://vip1.lz-cdn1.com/20230812/21763_77439391/2000k/hls/mixed.m3u8
+玉建煌崇大件事,http://v11.daayee.com/yyv11/202408/09/eCYgQSBCuh3/video/2000k_1080/hls/index.m3u8
+露露的电影,http://cdn15.yzzy-tv-cdn.com/20230522/13645_036e9b24/2000k/hls/mixed.m3u8
+灵听,http://vip.ffzy-online1.com/20230811/42785_4ea58271/2000k/hls/mixed.m3u8
 发财联盟,http://s6.bfzycdn.com/video/facailianmeng/HD/index.m3u8
 再見巨人,http://s1.bfzycdn.com/video/zaijianjuren/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 结婚那件事,http://p.bvvvvvvvvv1f.com/video/jiehunnajianshi/HD国语/index.m3u8
@@ -370,6 +373,10 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 特務搞飛機,http://c1.ddbbffcdn.com/video/OKlaobanniang/HD中字/index.m3u8
 殺人依賴,http://p.bvvvvvvvvv1f.com/video/sharenyilai/HD中字/index.m3u8
 神之一手,http://c1.ddbbffcdn.com/video/shenzhiyishou/HD中字/index.m3u8
+破果,http://p.b8bf.com/video/poguo/HD/index.m3u8
+局内人,http://s2.bfzycdn.com/video/juneiren2015/HD中字/index.m3u8
+杀婴者,http://8.bf8bf.com/video/shayingzhe/HD/index.m3u8
+老师的恩惠,http://vip1.lz-cdn7.com/20230227/14582_c20e5285/2000k/hls/mixed.m3u8
 致命之旅,http://c1.ddbbffcdn.com/video/zhimingzhilv/HD中字/index.m3u8
 神明,http://8.bf8bf.com/video/shenming2025/HD/index.m3u8
 鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
@@ -527,6 +534,12 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 挚爱枭雄,http://s1.bfzycdn.com/video/zhiaixiaoxiong/HD中字/index.m3u8
 他们都叫我杰哥,http://c1.ddbbffcdn.com/video/tamenjiaowojike/HD中字/index.m3u8
 相助,http://s6.bfzycdn.com/video/xiangzhu/HD中字/inde
+精英部队1,http://c1.ddbbffcdn.com/video/jingyingbudui/HD中字/index.m3u8
+精英部队2,http/://s1.bfzycdn.com/video/jingyingbudui2dadidangqian/HD中字/index.m3u8
+苦涩之味,http://v.fengbao8.com/video/kusezhiwei/HD/index.m3u8
+丧屍樂園1,http://c1.ddbbffcdn.com/video/sangshileyuan/HD中字/index.m3u8
+丧屍樂園2,http://c1.ddbbffcdn.com/video/sangshileyuan2/HD中字/index.m3u8
+鼠洞里的好朋友,http://vip1.lz-cdn1.com/20220524/6635_f3aeefb3/1200k/hls/mixed.m3u8
 极寒潜袭,http://p.b8bf.com/video/jihanqianxi/HD/index.m3u8
 夜班,http://v.lzcdn27.com/20250803/775_299ab5a7/2000k/hls/mixed.m3u8
 密弒逃生,http://s3.bfzycdn.com/video/fenbidilao/HD中字/index.m3u8
