@@ -320,6 +320,8 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 星守之犬,http://s2.bfzycdn.com/video/xingshouzhiquan/HD中字/index.m3u8
 爱犬的奇迹,http://s6.bfzycdn.com/video/aiquandeqiji/HD中字/index.m3u8
 导盲犬小Q,http://s6.bfzycdn.com/video/daomangquanxiaoQ/HD中字/index.m3u8
+忠犬流浪记,http://s1.bfzycdn.com/video/zhongquanliulangji/HD国语版/index.m3u8
+可拉米洛,http://v.fengbao8.com/video/kelamiluo/HD/index.m3u8
 忠犬八公的故事,http://8.bf8bf.com/video/zhongquanbagongdegushi2009/高清/index.m3u8
 第7日的奇蹟,http://s6.bfzycdn.com/video/diqirideqiji/HD/index.m3u8
 红犬历险记,http://s1.bfzycdn.com/video/hongquanlixianji/HD中字/index.m3u8
@@ -380,6 +382,10 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 侦探开端,http://c1.ddbbffcdn.com/video/zhentankaiduan/HD中字/index.m3u8
 大叔,http://play.ly166.com:65/videos/20250119/678c679a1672d95e8355b0f8/033b8b/index.m3u8
 致命之旅,http://c1.ddbbffcdn.com/video/zhimingzhilv/HD中字/index.m3u8
+王子,http://vip1.lz-cdn1.com/20230816/21847_f9493b81/2000k/hls/mixed.m3u8
+道熙啊,http://s6.bfzycdn.com/video/daoxiya/HD中字/index.m3u8
+老手1,http://s1.bfzycdn.com/video/laoshou/HD国语版/index.m3u8
+老手2,http://c1.7bbffvip.com/video/laoshou2/HD/index.m3u8
 神明,http://8.bf8bf.com/video/shenming2025/HD/index.m3u8
 鬼妈妈的假期,http://v.cdnlz3.com/20231230/22539_df836947/2000k/hls/mixed.m3u8
 坏家伙们,http://c1.rrcdnbf2.com/video/huaijiahuomen2019/HD中字/index.m3u8
@@ -475,6 +481,8 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 
 中国单片,#genre#
 过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
+团圆饭,http://p.bvvvvvvvvv1f.com/video/tuanyuanfan/HD国语版/index.m3u8
+唤爱,http://tyyszywvod5.com/videos/202503/10/67ce5dc3643269f77a6a4cb0/f96810/index.m3u8
 失孤,http://s1.bfzycdn.com/video/shigu/HD%E5%9B%BD%E8%AF%AD%E7%89%88/index.m3u8
 重生,http://c1.rrcdnbf1.com/video/replacexxx0810/20240929HbSMjPMDindex.m3u8/index.m3u8
 解密,http://c1.ddbbffcdn.com/video/jiemi2024/HD/index.m3u8
@@ -575,6 +583,9 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 地震与海啸,http://sd5.taopianplay1.com:43333/c56b1bc09da3/HD/2023-07-15/1/6a67f9f24ea6/e474c6106ed2/playlist.m3u8
 马里布鲨鱼攻击,http://vodcnd09.rsfcxq.com/20250914/horfXu7d/4142kb/hls/index.m3u8
 四十日夜,http://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-03-14/1/033699fe4c3c/59a1684af506/playlist.m3u8
+蝴蝶,http://c1.ddbbffcdn.com/video/hudie2002/HD中字/index.m3u8
+哈基,http://8.bf8bf.com/video/haji/HD/index.m3u8
+濃情巧克力,http://c1.ddbbffcdn.com/video/nongqingqiaokeli/HD中字/index.m3u8
 末日崩塌1,http://s1.bfzycdn.com/video/moribengta/HD中字/index.m3u8
 家庭计划,http://v.cdnlz11.com/20231215/18694_3a567134/2000k/hls/mixed.m3u8
 黑神駒,http://s6.bfzycdn.com/video/heishenju/HD中字/index.m3u8
@@ -746,6 +757,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 
 香港单片,#genre#
 有客到,http://c1.ddbbffcdn.com/video/youkedao/HD国语/index.m3u8
+拼命三郎,http://p.b8bf.com/video/pinmingsanlang/HD/index.m3u8
 魔警,http://s1.bfzycdn.com/video/mojing/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 半斤百两,http://p.bvvvvvvv7f.com/video/banjinbailiang/HD/index.m3u8
 新年奇迹号,http://v.lzcdn27.com/20251003/1678_2d69469a/2000k/hls/mixed.m3u8
