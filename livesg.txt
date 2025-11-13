@@ -372,6 +372,11 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 
 韩日单片,#genre#
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
+我沒事,http://p.bvvvvvvv7f.com/video/meishimeishimeishi/HD/index.m3u8
+禁止停车,http://v.lzcdn27.com/20251110/2123_bf53aacb/2000k/hls/mixed.m3u8
+甜蜜的人生,http://c1.ddbbffcdn.com/video/tianmiderensheng/HD中字/index.m3u8
+走到尽头,http://c1.ddbbffcdn.com/video/zoudaojintou/HD中字/index.m3u8
+奇迹的苹果,http://s4.bfzycdn.com/video/qijidepingguo/HD中字/index.m3u8
 特務搞飛機,http://c1.ddbbffcdn.com/video/OKlaobanniang/HD中字/index.m3u8
 殺人依賴,http://p.bvvvvvvvvv1f.com/video/sharenyilai/HD中字/index.m3u8
 神之一手,http://c1.ddbbffcdn.com/video/shenzhiyishou/HD中字/index.m3u8
@@ -482,6 +487,10 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 中国单片,#genre#
 过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
 团圆饭,http://p.bvvvvvvvvv1f.com/video/tuanyuanfan/HD国语版/index.m3u8
+第二十条,http://c1.ddbbffcdn.com/video/diershitiao/HD/index.m3u8
+一秒鐘,http://s5.bfzycdn.com/video/yimiaozhong/HD国语/index.m3u8
+东京审判,http://c1.ddbbffcdn.com/video/replacexxx0810/202409273CKPVMXAindex.m3u8/index.m3u8
+诛烬枭亡,http://s4.bfzycdn.com/video/zhujinxiaowang/HD国语/index.m3u8
 唤爱,http://tyyszywvod5.com/videos/202503/10/67ce5dc3643269f77a6a4cb0/f96810/index.m3u8
 失孤,http://s1.bfzycdn.com/video/shigu/HD%E5%9B%BD%E8%AF%AD%E7%89%88/index.m3u8
 重生,http://c1.rrcdnbf1.com/video/replacexxx0810/20240929HbSMjPMDindex.m3u8/index.m3u8
@@ -537,6 +546,16 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 
 外国单片,#genre#
 狼与狮子,http://c1.ddbbffcdn.com/video/langyushizi/HD中字/index.m3u8
+夺魂,http://vip.lz-cdn3.com/20230817/21172_91780438/2000k/hls/mixed.m3u8
+热血警探,http://s1.bfzycdn.com/video/rexuejingtan/HD中字/index.m3u8
+劫案迷云,http://s1.bfzycdn.com/video/jieanmiyun/HD/index.m3u8
+我心深处,http://vip1.lz-cdn1.com/20220504/4284_7f6b7ea6/1200k/hls/mixed.m3u8
+危險13小時,http://s1.bfzycdn.com/video/weiji13xiaoshi/HD中字/index.m3u8
+无名弑2,http://cdn.yzzy29-play.com/20250902/1304_5caf41d6/2000k/hls/mixed.m3u8
+废柴特工,http://s4.bfzycdn.com/video/feichaitegong/HD中字/index.m3u8
+獵殺紅色十月,http://s6.bfzycdn.com/video/lieshahongseshiyue/HD中字/index.m3u8
+與我的園丁對話,http://v.cdnlz12.com/20240217/11588_f1b25b90/2000k/hls/mixed.m3u8
+普羅旺斯的夏天,http://c1.ddbbffcdn.com/video/puluowangsidexiatian/HD中字/index.m3u8
 海啸奇迹,http://s1.bfzycdn.com/video/haixiaoqiji/HD/index.m3u8
 海啸,http://p.bvvvvvvvvv1f.com/video/haixiao/HD/index.m3u8
 海啸与樱花,http://p.bvvvvvvvvv1f.com/video/haixiaoyuyinghua/HD中字/index.m3u8
@@ -759,6 +778,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 有客到,http://c1.ddbbffcdn.com/video/youkedao/HD国语/index.m3u8
 拼命三郎,http://p.b8bf.com/video/pinmingsanlang/HD/index.m3u8
 魔警,http://s1.bfzycdn.com/video/mojing/HD%E7%B2%A4%E8%AF%AD/index.m3u8
+同袍,http://s1.bfzycdn.com/video/jidongbuduitongpao/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 半斤百两,http://p.bvvvvvvv7f.com/video/banjinbailiang/HD/index.m3u8
 新年奇迹号,http://v.lzcdn27.com/20251003/1678_2d69469a/2000k/hls/mixed.m3u8
 哈哈哈新年喜戏,http://8.bf8bf.com/video/hahahaxinnianxixi/HD/index.m3u8
