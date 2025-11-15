@@ -207,8 +207,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 
 
 
-
-
 新国单片,#genre#
 AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 过江新娘,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_n3jpnyqk/v/1/pv/1/ev/16/flavorId/1_m9uxlx6i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
@@ -373,6 +371,11 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 韩日单片,#genre#
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
 我沒事,http://p.bvvvvvvv7f.com/video/meishimeishimeishi/HD/index.m3u8
+跨界任务,http://c1.ddbbffcdn.com/video/kuajierenwu/HD/index.m3u8
+她們的藍衫時光,http://s6.bfzycdn.com/video/2037/HD中字/index.m3u8
+麻药王,http://c1.ddbbffcdn.com/video/mayaowang/HD中字/index.m3u8
+罪惡之城,http://8.bf8bf.com/video/zuiezhicheng/HD/index.m3u8
+黑带出勤中,http://c1.ddbbffcdn.com/video/heidaichuqinzhong/HD/index.m3u8
 禁止停车,http://v.lzcdn27.com/20251110/2123_bf53aacb/2000k/hls/mixed.m3u8
 甜蜜的人生,http://c1.ddbbffcdn.com/video/tianmiderensheng/HD中字/index.m3u8
 走到尽头,http://c1.ddbbffcdn.com/video/zoudaojintou/HD中字/index.m3u8
@@ -547,6 +550,9 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 外国单片,#genre#
 狼与狮子,http://c1.ddbbffcdn.com/video/langyushizi/HD中字/index.m3u8
 夺魂,http://vip.lz-cdn3.com/20230817/21172_91780438/2000k/hls/mixed.m3u8
+隨身危機,http://c1.7bbffvip.com/video/suishenweiji/HD/index.m3u8
+世界毁灭者,http://v.fengbao8.com/video/shijiehuimiezhe/HD/index.m3u8
+七磅,http://vip.lzcdn2.com/20220324/393_93662845/120
 热血警探,http://s1.bfzycdn.com/video/rexuejingtan/HD中字/index.m3u8
 劫案迷云,http://s1.bfzycdn.com/video/jieanmiyun/HD/index.m3u8
 我心深处,http://vip1.lz-cdn1.com/20220504/4284_7f6b7ea6/1200k/hls/mixed.m3u8
@@ -777,6 +783,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 香港单片,#genre#
 有客到,http://c1.ddbbffcdn.com/video/youkedao/HD国语/index.m3u8
 拼命三郎,http://p.b8bf.com/video/pinmingsanlang/HD/index.m3u8
+常在你左右,http://c1.ddbbffcdn.com/video/replacexxx0810/20240924lZHWHMsqindex.m3u8/index.m3u8
 魔警,http://s1.bfzycdn.com/video/mojing/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 同袍,http://s1.bfzycdn.com/video/jidongbuduitongpao/HD%E7%B2%A4%E8%AF%AD/index.m3u8
 半斤百两,http://p.bvvvvvvv7f.com/video/banjinbailiang/HD/index.m3u8
