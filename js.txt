@@ -196,9 +196,6 @@ JR.,https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
 LEAD,https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
 ROLL,https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
 SNAP,https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
-
-
-MALAYSIA,#genre#
 TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1
 TV1,https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
 TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
@@ -208,10 +205,10 @@ TV6,#KODIPROP:inputstream.adaptive.license_type=clearkey
 TV6,https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
 DIDIKTV KPM,https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 8TV,http://66.90.99.154:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35
+TVB CLASSIC2,http://66.90.99.154:8278/Tvbclassic/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d65fb48fcd150facb9a4533b9229516a
+TVB JADE2,http://66.90.99.154:8278/Tvbjade/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=daebd658e5b9b29cbe56ab0e6fe81ae7
 TVB XING HE2,https://dl.dropboxusercontent.com/scl/fi/1kgnqozkgyv940xjkiaaw/xinghe.m3u8?rlkey=utphzhvgjyntyhqj9647y3fjg&st=m1qukd4j
 TVB NEWS2,http://66.90.99.154:8278/Tvbentertainment/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=f730c95b6c5085de2443b8a85e0ffc53
-TVB JADE2,http://66.90.99.154:8278/Tvbjade/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=daebd658e5b9b29cbe56ab0e6fe81ae7
-TVB CLASSIC2,http://66.90.99.154:8278/Tvbclassic/playlist.m3u8?tid=mc42afe745533&ct=11448811&tsum=d65fb48fcd150facb9a4533b9229516a
 IQIYI2,https://dl.dropboxusercontent.com/scl/fi/80va2x99au41jv0wjvifv/iqiyi.m3u8?rlkey=spnj6vdw9az5se4dj9u9f9229&st=x6a95km7
 TVBS ASIA2,https://dl.dropboxusercontent.com/scl/fi/awqvwt4jm7kek51jlw0xy/tvbsasia.m3u8?rlkey=0kxnzpjpctf9cwmzylgbdj3v3&st=46tcgze1
 
