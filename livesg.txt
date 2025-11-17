@@ -1,23 +1,6 @@
-你好再见,#genre#
-你好再见 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_t3ftazf0/v/11/pv/1/ev/16/flavorId/1_sybs54lm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ju6wk2xk/v/11/pv/1/ev/16/flavorId/1_5l45pwpz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sf4ihrwj/v/11/pv/1/ev/16/flavorId/1_32i2q1vv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ewawil71/v/11/pv/1/ev/16/flavorId/1_lkxwqq9p/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8mst9awq/v/11/pv/1/ev/16/flavorId/1_vg88bqog/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lvo4o5x7/v/11/pv/1/ev/16/flavorId/1_xqbczz44/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_0j8o5naa/v/11/pv/1/ev/16/flavorId/1_dyi02na1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3b77picq/v/11/pv/1/ev/16/flavorId/1_wj4jdmo4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3b77picq/v/11/pv/1/ev/16/flavorId/1_wj4jdmo4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nv0s5iov/v/11/pv/1/ev/16/flavorId/1_bjb0h15k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bzasrqvh/v/11/pv/1/ev/16/flavorId/1_nu2mucf4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_x01zocea/v/31/pv/1/ev/24/flavorId/1_7j1fxxyp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bl0s6nhr/v/11/pv/1/ev/16/flavorId/1_0n4fcs1u/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_tuiqkcls/v/11/pv/1/ev/16/flavorId/1_5e3j1o6y/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rhos5mei/v/11/pv/1/ev/16/flavorId/1_xiux7jy7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_emsxzu2e/v/11/pv/1/ev/16/flavorId/1_yfjrylfa/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_emsxzu2e/v/11/pv/1/ev/16/flavorId/1_yfjrylfa/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
-
+力挽狂篮,#genre#
+力挽狂篮 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_q15poe6v/v/11/pv/1/ev/16/flavorId/1_v5ei1vcd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3k6pidvm/v/11/pv/1/ev/16/flavorId/1_hg24hjsv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 开门见山,#genre#
@@ -27,12 +10,7 @@
 第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vji5kjc7/v/1/pv/1/ev/9/flavorId/1_elod42l4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_x684pr45/v/1/pv/1/ev/9/flavorId/1_3ivbz8y5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_r4so0k7h/v/1/pv/1/ev/9/flavorId/1_0q4frj2r/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
-
-
-inside the police,#genre#
-inside the police 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_i54op30k/v/21/pv/1/ev/23/flavorId/1_y9z3ebbx/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ygdvf2ro/v/11/pv/1/ev/16/flavorId/1_5o9rwzhf/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dkxnfiq5/v/1/pv/1/ev/9/flavorId/1_tg7skcuc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
@@ -203,6 +181,10 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 第164集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5vcmq90e/v/11/pv/1/ev/16/flavorId/1_3fi9ksun/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第165集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_uund23ot/v/11/pv/1/ev/16/flavorId/1_avfblt9t/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第166集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wnlnh3gx/v/11/pv/1/ev/16/flavorId/1_3klv1htt/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第167集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_myo7b5a8/v/11/pv/1/ev/16/flavorId/1_f2570fld/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第168集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7f9e466c/v/11/pv/1/ev/16/flavorId/1_oof3e0jd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第169集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_uk9e17ph/v/11/pv/1/ev/16/flavorId/1_k1bp2l52/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第170集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8sv1668n/v/11/pv/1/ev/16/flavorId/1_ci2db1i1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 
@@ -369,8 +351,18 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 
 
 韩日单片,#genre#
+邻居,http://s6.bfzycdn.com/video/linju/HD中字/index.m3u8
+釜山行1,http://c1.ddbbffcdn.com/video/fushanxing/HD%E4%B8%AD%E5%AD%97/index.m3u8
+釜山行2,http://s6.bfzycdn.com/video/fushanxing2bandao/HD中字/index.m3u8
+恶人传,http://s2.bfzycdn.com/video/erenchuan/HD中字/index.m3u8
+犯罪都市1,http://s2.bfzycdn.com/video/fanzuidushi/HD中字/index.m3u8
+犯罪都市2,http://s2.bfzycdn.com/video/fanzuidushi2/HD中字/index.m3u8
+犯罪都市3,http://s6.bfzycdn.com/video/fanzuidushi3/HD/index.m3u8
+犯罪都市4,http://c1.ddbbffcdn.com/video/fanzuidushi4/中字/index.m3u8
 非常宣言,http://c1.rrcdnbf2.com/video/feichangxuanyan/HD中字/index.m3u8
 惡魔搬進來了,http://8.bf8bf.com/video/emobanjinlailiao/HD/index.m3u8
+侵犯,http://p.bvvvvvvv7f.com/video/qinfan2024/HD/index.m3u8
+空氣殺人,http://s6.bfzycdn.com/video/kongqisharen/HD中字/index.m3u8
 担保,http://s6.bfzycdn.com/video/danbao/HD中字/index.m3u8
 我沒事,http://p.bvvvvvvv7f.com/video/meishimeishimeishi/HD/index.m3u8
 跨界任务,http://c1.ddbbffcdn.com/video/kuajierenwu/HD/index.m3u8
@@ -390,7 +382,6 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 杀婴者,http://8.bf8bf.com/video/shayingzhe/HD/index.m3u8
 老师的恩惠,http://vip1.lz-cdn7.com/20230227/14582_c20e5285/2000k/hls/mixed.m3u8
 侦探开端,http://c1.ddbbffcdn.com/video/zhentankaiduan/HD中字/index.m3u8
-大叔,http://play.ly166.com:65/videos/20250119/678c679a1672d95e8355b0f8/033b8b/index.m3u8
 致命之旅,http://c1.ddbbffcdn.com/video/zhimingzhilv/HD中字/index.m3u8
 王子,http://vip1.lz-cdn1.com/20230816/21847_f9493b81/2000k/hls/mixed.m3u8
 道熙啊,http://s6.bfzycdn.com/video/daoxiya/HD中字/index.m3u8
@@ -438,10 +429,9 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 传说的拳头,http://s1.bfzycdn.com/video/chuanshuodequantou/HD中字/index.m3u8
 第十一个妈妈,http://vip1.lz-cdn7.com/20230107/13283_be9f823f/2000k/hls/mixed.m3u8
 逃脱,http://c1.ddbbffcdn.com/video/taotuo2024/HD/index.m3u8
-清白,http://tyyszywvod5.com/videos/202412/30/677231408b3ec726a9fb36f3/8da0d3/index.m3u8
+清白,http://cdn7.vipzyk-video.com/20221014/22769_f96ad4c0/1000k/hls/mixed.m3u8
 限制,http://vip.lz-cdn10.com/20220920/2533_4a8dd1c1/1200k/hls/mixed.m3u8
-相会的广场,http://mzm3u8.com/20250115/uBfQhl29/1100kb/hls/index.m3u8
- 特送,http://s3.bfzycdn.com/video/tesong/HD中字/index.m3u8
+特送,http://s3.bfzycdn.com/video/tesong/HD中字/index.m3u8
 從邪惡中拯救我,http://s2.bfzycdn.com/video/congxieezhongzhengjiuwo/HD中字/index.m3u8
 白兔糖,http://c1.ddbbffcdn.com/video/baitutang/HD中字/index.m3u8
 名偵探奶奶,http://s2.bfzycdn.com/video/owenji/HD中字/index.m3u8
@@ -453,38 +443,30 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 帅哥们,http://c1.ddbbffcdn.com/video/shuaigemen/HD/index.m3u8
 父亲与伊藤先生,http://s1.bfzycdn.com/video/fuqinyuyitengxiansheng/HD中字/index.m3u8
 东京塔,http://vip.lzcdn2.com/20220401/1757_17ea781c/1800k/hls/mixed.m3u8
-比悲伤更悲伤的故事,http://ukzy.ukubf4.com/20220408/y1EkQ6j9/2000kb/hls/index.m3u8
+比悲伤更悲伤的故事,http://v.lzcdn24.com/20241216/10392_0760799f/2000k/hls/index.m3u8
 新常態,http://c1.rrcdnbf5.com/video/xinchangtai/HD/index.m3u8
 率性而活,http://s1.bfzycdn.com/video/lvxingerhuo/HD中字/index.m3u8
-雪路,http://ukzy.ukubf4.com/20220407/25QcblKA//2000kb/hls/index.m3u8
+雪路,http://vip.lz-cdn3.com/20221128/16359_c0491fdb/1800k/hls/mixed.m3u8
 花漾奶奶秀英文,http://c1.ddbbffcdn.com/video/wonengshuo/HD中字/index.m3u8
 祸乱,http://s5.bfzycdn.com/video/huoluan/中字/index.m3u8
 对我而言非常珍贵的你,http://s6.bfzycdn.com/video/duiwolaishuofeichangzhenguideni/HD中字/index.m3u8
-你是我的命运,http://ukzy.ukubf4.com/20220407/LNpp8FxT/2000kb/hls/index.m3u8
+你是我的命运,http://v.cdnlz3.com/20240113/22752_a4e44542/2000k/hls/mixed.m3u8
 我脑海中的橡皮擦,http://s4.bfzycdn.com/video/wonaozhongdexiangpica/HD中字/index.m3u8
 國際市場,http://s6.bfzycdn.com/video/guojishichang/HD中字/index.m3u8
-七日綁票令,http://cdn6.vipzyk-video.com/20220904/12894_6c18b4f8/1000k/hls/mixed.m3u8
-丈夫得了抑郁症,http://3mzm3u8.com/20250929/OMc817P9/2940kb/hls/index.m3u8
-等着你,http://1080p.huyall.com/play/xe736yBe/index.m3u8
-不可饶恕,http://ukzy.ukubf4.com/20220407/pmD8wX8g/2000kb/hls/index.m3u8
+七日綁票令,http://c1.rrcdnbf5.com/video/qitian2007/HD中字/index.m3u8
+丈夫得了抑郁症,http://s4.bfzycdn.com/video/zhangfudeliaoyiyuzheng/HD中字/index.m3u8
+等着你,http://c1.rrcdnbf6.com/video/dengzhuoni/HD中字/index.m3u8
+不可饶恕,http://p.bvvvvvvvvv1f.com/video/bukeraoshu/HD中字/index.m3u8
 宠爱,http://c1.rrcdnbf5.com/video/chongai2024/HD%E4%B8%AD%E5%AD%97/index.m3u8
-釜山行1,http://c1.ddbbffcdn.com/video/fushanxing/HD%E4%B8%AD%E5%AD%97/index.m3u8
-釜山行2,http://vip.dytt-cine.com/20250523/25661_54526e43/3000k/hls/mixed.m3u8
-恶人传,http://s2.bfzycdn.com/video/erenchuan/HD中字/index.m3u8
-邻居,http://v1.longshengtea.com/yyv1/202308/20/THwES320vJ2/video/2000k_1080/hls/index.m3u8
-犯罪都市1,http://vip.dytt-cine.com/20250521/25513_09007e0c/3000k/hls/mixed.m3u8
-犯罪都市2,http://vip.dytt-cine.com/20250521/25511_d3a80d22/3000k/hls/mixed.m3u8
-犯罪都市3,http://vip.dytt-cine.com/20250521/25512_f935853f/3000k/hls/mixed.m3u8
-犯罪都市4,http://vip.dytt-cine.com/20250521/25515_788719cc/3000k/hls/mixed.m3u8
-白头山,http://vip.dytt-kan.com/20250607/478_cfee3986/3000k/hls/mixed.m3u8
+白头山,http://s4.bfzycdn.com/video/baitoushan/HD中字/index.m3u8
 愤怒的黄牛,http://vip.lz-cdn16.com/20230623/28660_d8ab10c2/2000k/hls/mixed.m3u8
-恶意编年史,http://play.ly166.com:65/videos/20250119/678c67a41672d95e8355bcea/cace60/index.m3u8
-兄弟,http://cdn5.vipzyk-video.com/20220521/17290_d85b958a/1000k/hls/mixed.m3u8
+恶意编年史,http://c1.ddbbffcdn.com/video/zuiedebiannianshi/HD中字/index.m3u8
+兄弟,http://vip1.lz-cdn1.com/20220325/541_7426b2f7/1200k/hls/mixed.m3u8
 流感,http://s6.bfzycdn.com/video/liugan/HD%E4%B8%AD%E5%AD%97/index.m3u8
-奇妙幽灵,http://vip.dytt-kan.com/20250711/2364_f7e2b2b7/3000k/hls/mixed.m3u8
+奇妙幽灵,http://cdn5.vipzyk-video.com/20220521/17288_128774c9/1000k/hls/mixed.m3u8
 韩剧爱回家,http://vip.lz-cdn16.com/20230318/13255_6bdf4b39/2000k/hls/mixed.m3u8
-儿童食堂,http://tyyszywvod5.com/videos/202412/30/6771cb1b8b3ec726a9faa3d0/22g46e/index.m3u8
-不求上進的玉子,http://v1.tlkqc.com/wjv1/202308/19/7ZskJLKsZv2/video/1000k_720/hls/index.m3u8
+儿童食堂,http://vip.lz-cdn3.com/20220824/11944_2df7c73f/1000k/hls/mixed.m3u8
+不求上進的玉子,http://c1.ddbbffcdn.com/video/buqiushangjindeyuzi/HD中字/index.m3u8
 
 
 
@@ -492,6 +474,7 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 中国单片,#genre#
 过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
 团圆饭,http://p.bvvvvvvvvv1f.com/video/tuanyuanfan/HD国语版/index.m3u8
+落葉歸根,http://c1.ddbbffcdn.com/video/replacexxx0810/20240926Lxn26Xhdindex.m3u8/index.m3u8
 第二十条,http://c1.ddbbffcdn.com/video/diershitiao/HD/index.m3u8
 一秒鐘,http://s5.bfzycdn.com/video/yimiaozhong/HD国语/index.m3u8
 东京审判,http://c1.ddbbffcdn.com/video/replacexxx0810/202409273CKPVMXAindex.m3u8/index.m3u8
@@ -552,6 +535,7 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 外国单片,#genre#
 狼与狮子,http://c1.ddbbffcdn.com/video/langyushizi/HD中字/index.m3u8
 夺魂,http://vip.lz-cdn3.com/20230817/21172_91780438/2000k/hls/mixed.m3u8
+絕命尬車,http://s1.bfzycdn.com/video/siwangfeiche/HD%E4%B8%AD%E5%AD%97/index.m3u8
 隨身危機,http://c1.7bbffvip.com/video/suishenweiji/HD/index.m3u8
 世界毁灭者,http://v.fengbao8.com/video/shijiehuimiezhe/HD/index.m3u8
 死寂,http://vip.lzcdn2.com/20220401/1681_c2351eef/1800k/hls/mixed.m3u8
@@ -785,6 +769,7 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 
 香港单片,#genre#
 阿龙,http://v.lzcdn27.com/20250923/1553_ed536761/2000k/hls/mixed.m3u8
+非常突然,http://vip1.lz-cdn7.com/20230116/13520_491be61f/2000k/hls/mixed.m3u8
 九龙城寨,http://c1.ddbbffcdn.com/video/jiulongchengzhaizhiweichengyueyu/%E7%B2%A4%E8%AF%AD%E4%B8%AD%E5%AD%97/index.m3u8
 有客到,http://c1.ddbbffcdn.com/video/youkedao/HD国语/index.m3u8
 拼命三郎,http://p.b8bf.com/video/pinmingsanlang/HD/index.m3u8
