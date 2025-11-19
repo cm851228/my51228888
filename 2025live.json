@@ -475,6 +475,14 @@
             
         },
 {
+      "key": "瓜子js",
+      "name": "瓜子(js)",
+      "type": 3,
+      "changeable": 0,
+      "api": "https://raw.githubusercontent.com/su147456888444/tvbox/refs/heads/main/drpy_libs/drpy2.min.js",
+      "ext": "https://raw.githubusercontent.com/su147456888444/tvbox/refs/heads/main/drpy_js/瓜子.js"
+    },
+{
             "key": "ikanbotjs",
             "name": "ikanbot(js)",
             "type": 3,
