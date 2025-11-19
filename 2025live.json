@@ -471,7 +471,7 @@
             "type": "新闻直播live#@phoenixtvhk live#@8worldsg live#@ntdaptv live#Berita rtm live#@astroawani live#@Live Chinese news#@8tvmandarinnews live#cartoon live#TVB Drama playlist#FULL TVB Drama 4K Cantonese playlist#@mediacorpdrama playlist#cartoon Cantonese playlist#@ultraman playlist#@Mr Bean playlist#@8-hkmovie#@netflix full episode#@8tvaddicts#@astrobdq#外来媳妇本地郎全部#七十二家房客全部#胖子视界#阿胖山#香港怪谈#象棋八妹#陈师傅开挖机#周星驰粤语电影#粤语电影#香港电视剧#荒野求生#自然传奇#国家地理野生#探索频道求生纪录片#原始部落纪录片#CCTV9记录片#国家地理频道#纪录片#人与自然#盘点那些感人瞬间#监控下真实一幕#盘点那些#天网#一线#粤语长片#粤语记录片#tonton粤语频道#粤睇粤配粤精彩#温油辣辣U#密子君#李子柒#极地探险#广东卫视你会怎么样做#广东电视#非洲小五#美食星球#亚洲旅游台#动物星球#动物世界#我爱返寻味#舌尖上的中国#老廣的味道#美食大三通#食尚玩家#爱玩客#美食#粤语卡通#国语卡通#沙雕动漫#兔小贝#儿童#儿歌#儿童早教#儿童歌曲#儿童音乐#儿童绘画#儿童动画#儿童启蒙故事#儿童英语启蒙#儿童安全教育#睡前故事#贝瓦儿歌#宝宝巴士#儿歌多多#学而思#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#寻找他乡的故事#远方的家#游牧民族#马来西亚#新加坡#老挝#越南#缅甸#泰国#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#记住乡愁#格斗比赛#泰拳比赛#WWE#粤语MV#国语MV#演唱会#MV#歌曲#粤剧#戏曲#音乐#4K#电影#电视剧#影视#娱乐#搞笑#动画#相声小品"
       
             },
-            "jar": "./jars/pg.jar"
+            "jar": "https://f004.backblazeb2.com/file/2023118/pg.jar"
             
         },
 {
@@ -491,6 +491,17 @@
             "ext": "https://tvbox.catvod.com/js/ik.js"
         },
 {
+            "key": "dr_兔小贝",
+            "name": "儿童启蒙(js)",
+            "type": 3,
+            "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0
+            
+        },
+{
             "key": "采集js",
             "name": "采集之王(js)",
             "type": 3,
@@ -500,6 +511,98 @@
             "order_num": 142,
             "ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"
         },
+{
+            "key": "GUAZI(wex)",
+            "name": "瓜子(wex)",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_Gz360",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
+            
+        },
+{
+      "key": "bilibiliys",
+      "name": " 哔哩影视(wex)",
+      "type": 3,
+      "api": "csp_WexNewBiLiYSGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
+      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"
+    },
+{
+      "key": "bili",
+      "name": "哔哔合集(wex)",
+      "type": 3,
+      "api": "csp_BiliGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"
+      }
+    },
+{
+         "key":"Qile优视频",
+         "name":"优视频",
+         "type":3,
+         "searchable":1,
+         "changeable":1,
+         "api":"csp_Uvod",
+         "filterable":1,
+         "playerType":2,
+         "jar": "http://github.com/FongMi/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar"
+            
+        },
+{
+         "key":"Cori爱壹帆",
+         "name":"爱壹帆",
+         "type":3,
+         "searchable":1,
+         "changeable":1,
+         "quickSearch":0,
+         "api":"csp_GM",
+         "ext":{
+            "userScript":"http://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/userScripts/ysfp.user.js",
+            "debug":false,
+            "webViewSettings":{
+               "blockNetworkImage":true,
+               "blockList":[
+                  "*.png*",
+                  "*.mp3*",
+                  "*.css*",
+                  "https://*.googletagmanager.com/*",
+                  "https://*.google-analytics.com/*"
+               ]
+            },
+            "spider":{
+               "homeContent":{
+                  "loadUrl":"https://m.yfsp.tv/"
+               },
+               "categoryContent":{
+                  "loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
+               },
+               "detailContent":{
+                  "loadUrl":"https://m.yfsp.tv/play/${id}"
+               },
+               "playerContent":{
+                  "loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
+               },
+               "searchContent":{
+                  "loadUrl":"https://m.yfsp.tv/search"
+               }
+            }
+         },
+         "jar":"http://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
+      },
 {
             "key": "wujin",
             "name": "无尽云",
@@ -730,98 +833,6 @@
                 "欧美动漫"
             ]
         },
-{
-            "key": "GUAZI(wex)",
-            "name": "瓜子(wex)",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_Gz360",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
-            
-        },
-{
-      "key": "bilibiliys",
-      "name": " 哔哩影视(wex)",
-      "type": 3,
-      "api": "csp_WexNewBiLiYSGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"
-    },
-{
-      "key": "bili",
-      "name": "哔哔合集(wex)",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"
-      }
-    },
-{
-         "key":"Qile优视频",
-         "name":"优视频",
-         "type":3,
-         "searchable":1,
-         "changeable":1,
-         "api":"csp_Uvod",
-         "filterable":1,
-         "playerType":2,
-         "jar": "http://github.com/FongMi/CatVodSpider/raw/7b76dc4523bd01cc1459c3de588de233f0aa2e6a/jar/custom_spider.jar"
-            
-        },
-{
-         "key":"Cori爱壹帆",
-         "name":"爱壹帆",
-         "type":3,
-         "searchable":1,
-         "changeable":1,
-         "quickSearch":0,
-         "api":"csp_GM",
-         "ext":{
-            "userScript":"http://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/userScripts/ysfp.user.js",
-            "debug":false,
-            "webViewSettings":{
-               "blockNetworkImage":true,
-               "blockList":[
-                  "*.png*",
-                  "*.mp3*",
-                  "*.css*",
-                  "https://*.googletagmanager.com/*",
-                  "https://*.google-analytics.com/*"
-               ]
-            },
-            "spider":{
-               "homeContent":{
-                  "loadUrl":"https://m.yfsp.tv/"
-               },
-               "categoryContent":{
-                  "loadUrl":"https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
-               },
-               "detailContent":{
-                  "loadUrl":"https://m.yfsp.tv/play/${id}"
-               },
-               "playerContent":{
-                  "loadUrl":"https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
-               },
-               "searchContent":{
-                  "loadUrl":"https://m.yfsp.tv/search"
-               }
-            }
-         },
-         "jar":"http://github.com/CatVodSpider-GM/SFW-Spiders/raw/refs/heads/main/Spiders-Lib/GM.jar"
-      },
 {
          "key":"黑影视",
          "name":"黑木影视",
@@ -3124,17 +3135,6 @@
 		"jar": "https://f004.backblazeb2.com/file/2023118/pg.jar"
 		
 		},
-{
-            "key": "dr_兔小贝",
-            "name": "儿童启蒙(js)",
-            "type": 3,
-            "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-            
-        },        
 {
             "key": "JAV转点播",
             "name": "JAV转点播",
