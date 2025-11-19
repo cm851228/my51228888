@@ -84,7 +84,7 @@
             "playerType": 2
         },
 {
-            "name": "rocketTv",
+            "name": "RocketTV",
             "type": 0,
             "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/radiotv.m3u?alt=media&token=0a84c82f-41c4-4c59-9a98-9b6bdb0cc935",
             "ua": "OTTNavigator/2.0(Android)",
@@ -92,13 +92,13 @@
             "playerType": 2
         },
 {
-            "name": "PerfectTVPHP",
+            "name": "Web118",
             "type": 0,
-            "url": "http://a90120.serv00.net/anbox/perfecttv.php",
+            "url": "http://anbox118.zya.me/myplaylist.m3u8.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
-        },
+        }, 
 {
             "name": "Anbox118",
             "type": 0,
@@ -106,16 +106,6 @@
             "timeout": 30,
             "playerType": 2,
             "ua": "okhttp",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-{
-            "name": "Anbox亚洲",
-            "type": 0,
-            "url": "http://bit.ly/tvmu",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
@@ -129,6 +119,16 @@
             "epg": "https://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia/Hong_Kong"
         },
 {
+            "name": "Anbox亚洲",
+            "type": 0,
+            "url": "http://bit.ly/tvmu",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
             "name": "Anbox国际",
             "type": 0,
             "url": "http://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
@@ -136,6 +136,14 @@
             "timeout": 30,
             "playerType": 1,
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+{
+            "name": "PerfectTVPHP",
+            "type": 0,
+            "url": "http://a90120.serv00.net/anbox/perfecttv.php",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
         },
 {
             "name": "SmartTV",
@@ -162,9 +170,17 @@
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
         },
 {
-            "name": "欧华直播",
+            "name": "4GTV",
             "type": 0,
-            "url": "https://files.catbox.moe/hppkqj.txt",
+            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "JudySmart",
+            "type": 0,
+            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/smart.m3u",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
@@ -200,13 +216,21 @@
             "playerType": 1
         },   
 {
-            "name": "lvse频道",
+            "name": "Lvse频道",
             "type": 0,
             "url": "http://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
         },   
+{
+            "name": "欧华直播",
+            "type": 0,
+            "url": "https://files.catbox.moe/hppkqj.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
 {
             "name": "freetv马国",
             "type": 0,
@@ -278,7 +302,7 @@
             "playerType": 1
         },
 {
-            "name": "成人密码q",
+            "name": "按收藏5次密码q",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/JAV.txt",
             "timeout": 30,
