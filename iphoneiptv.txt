@@ -1,0 +1,585 @@
+MYASTRO,#genre#
+八度空间 HD,#EXTVLCOPT:http-referrer=https://playtv.unifi.com.my
+TVB Classic HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TVB Xing He HD,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+TVB Jade,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Channel 8 HD,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+CCTV4 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Celestial Movies HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+Astro Hua Hee Dai HD,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+爱奇艺 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+CCM,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+DRAMA HOTPOT HD,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+凤凰卫视 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+中天亚洲台 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TVBS Asia HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TVB Classic HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TVB Jade,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TVB Classic HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/5016/default_ott.mpd
+TVB Xing He HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/401/default_ott.mpd
+TVB Jade,https://linearjitp-playback.astro.com.my/dash-wv/linear/2600/default_ott.mpd
+Celestial Movies HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/506/default_ott.mpd
+CCM,https://linearjitp-playback.astro.com.my/dash-wv/linear/100/default_ott.mpd
+Astro Hua Hee Dai HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/2308/default_ott.mpd
+iQIYI HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/1006/default_ott.mpd
+Phoenix Chinese Channel HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/400/default_ott.mpd
+TVBS Asia HD,https://linearjitp-playback.astro.com.my/dash-wv/linear/402/default_ott.mpd
+MEWATCH,#genre#
+Channel 8,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Channel 5,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Channel U,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Mediacorp Entertainment Chinese,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+ Channel Vasantham,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Suria,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+ CNA,#KODIPROP:inputstream.adaptive.license_type=clearkey
+oktolidays,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+oktolidays,https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+SPORT 1 (SGP),https://tglmp04.akamaized.net/out/v1/6ec3ff8c3b5649249f9c8a6e2651195a/manifest.mpd
+SPORT 2 (SGP),https://tglmp02.akamaized.net/out/v1/06bffdc183074130a6faf73d04502eaa/manifest.mpd
+MYTV,#genre#
+TVB Classic HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TVB Jade,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TVB Xing He HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+129 Drama Hotpot,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+125 Hua Hee Dai,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+126 iQIYI,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+131 TVB Entertainment News,#KODIPROP:inputstreamaddon=inputstream.adaptive
+CCTV4 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TVBS Asia HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+CCTV4 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+135 Phoenix Chinese Channel,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+MALAYSIA,#genre#
+TV1 HD,#KODIPROP:inputstream=inputstream.adaptive
+TV2 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TV3,#KODIPROP:inputstream=inputstream.adaptive
+TV3,#KODIPROP:inputstream=inputstream.adaptive
+TV3,#KODIPROP:inputstream=inputstream.adaptive
+104 TV7,#KODIPROP:inputstreamaddon=inputstream.adaptive
+8TV,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TV9,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+TVS,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TV Okey,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
+TV ALHIJRAH,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+,https://get.perfecttv.net/1080ceria.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=sensasi
+Inspirasi,#KODIPROP:inputstreamaddon=inputstream.adaptive
+112 Salam HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Awani,#KODIPROP:inputstreamaddon=inputstream.adaptive
+114 Bernama,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+115 Oasis,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+118 Prima,#KODIPROP:inputstream.adaptive.license_type=clearkey
+118 Prima C,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+118 Prima C FHD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+119 Ria,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+119 Ria C,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+119 Ria C FHD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+121,#Citra KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+122 Aura,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+123 Rania,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+124 Jom Ngaji,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+125 Lawak Sentral,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+126 Oh My Ceria,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+127 Drama Hebat,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+128 Filem Mantap,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+129 Drama Hotpot,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+CHINESE,#genre#
+123 AOD,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+124 AEC,#KODIPROP:inputstream.adaptive.license_type=clearkey
+124 AEC FHD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SET,https://get.perfecttv.net/unifi2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=set
+125 Hua Hee Dai,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+126 iQIYI,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+127 QJ (A),https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qj
+127 QJ FHD,https://get.perfecttv.net/dash2.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=qj
+TVB Jade,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TVBS Asia HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TVB Xing He HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+131 TVB Entertainment News,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TVB Classic HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+CCTV4 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+CCTV4 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+135 Phoenix Chinese Channel,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+SINGAPORE,#genre#
+Channel 8,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Channel U,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Channel 5,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Suria,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Vasantham,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+meWATCH 1,https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+meWATCH 2,https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd
+CNA HD,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; 27821-67832-42-315-4231-233-21-43-12-1312-321-23-21-232-) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Mobile Safari/537.36
+,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+RTB Sukmaindera,https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
+RTB Aneka,https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b1120000_sleng.m3u8
+Go Live,https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8|referer=https://www.rtbgo.bn/
+,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+MYRTM,#genre#
+TV1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+TV2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+TV3,#KODIPROP:inputstream=inputstream.adaptive
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+DidikTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+8TV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TV9,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TRAVEL & TASTE,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+FILEM MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+LAWAK SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+Drama Hotpot,#KODIPROP:contentlookup=False
+Oh My Ceria!,#KODIPROP:contentlookup=False
+OKEY,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+SALAM HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+AlHijrah,https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_primary.mpd
+SIAR,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TV3,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Mediacorp118,#genre#
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+CHANNEL 5,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub ECity HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CHANNEL 8,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CHANNEL U,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SURIA,#KODIPROP:inputstream.adaptive.license_type=clearkey
+VASANTHAM,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ SPL CH01,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ SPL CH02,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ LIVE 1,https://tglmp04.akamaized.net/out/v1/b38b8a6306714a8e91ae7674291a4a94/manifest.mpd
+ LIVE 2,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ LIVE 5,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ LIVE 6,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ FIFA+,https://tglmp03.akamaized.net/out/v1/87d046be806149d29fafbca93f50858d/manifest.mpd
+ W-Sport,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ TRACE Sport Stars,https://d29ecfnk3jwkp9.cloudfront.net/out/v1/ade3187e42db432eb46a7039498f0dd0/manifest.mpd
+ Kartoon Channel!,https://d29ecfnk3jwkp9.cloudfront.net/out/v1/90ea1fea036445f7af28cd167453a1c6/manifest.mpd
+ TG Junior,https://tglmp03.akamaized.net/out/v1/0589826b075f4e0cbc7c9a5743ebc9df/manifest.mpd
+ Action Hollywood Movies,https://d29ecfnk3jwkp9.cloudfront.net/out/v1/9d160573fb7944608da8ebd020de4474/manifest.mpd
+ NOW 80s,https://tglmp02.akamaized.net/out/v1/4148d890e367435480ca18465a014dd8/manifest.mpd
+ NOW 70s,https://tglmp03.akamaized.net/out/v1/b0ddd3ed82164617a9640ec76f3628c2/manifest.mpd
+ NOW Rock,https://tglmp04.akamaized.net/out/v1/61b00aa312c84a0b988dc000d37926db/manifest.mpd
+Channel 8,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Channel U,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+ Channel Vasantham,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Suria,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+Mediacorp Entertainment Chinese,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+Malaysia118,#genre#
+APETITO,https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+AURA,https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+FITRAH,https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+JR.,https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+LEAD,https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+ROLL,https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+SNAP,https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+TV1 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TV1 HD,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+TV2 HD,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+124 Jom Ngaji,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+125 Lawak Sentral,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+126 Oh My Ceria,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+ASTRO AWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8
+Astro Oasis,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TVS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BERITA RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+TV6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+OKEY,#KODIPROP:inputstream.adaptive.license_type=clearkey
+DIDIK TV KPM,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+DIDIK TV KPM,#KODIPROP:inputstream.adaptive.license_type=clearkey
+8TV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Discovery Channel HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Discovery Asia HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+BBC Earth,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+History HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Cartoon Network HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Nickelodeon HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Nickelodeon Junior,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+ANIMAX,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+MOONBUG KID,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Lifetime HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TLC HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+HGTV HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+MTV Asia HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+147 TV7,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Astro Oasis HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+FILEM MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+LAWAK SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+DRAMA HOTSPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+TRAVEL & TASTE,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+Astro118,#genre#
+AEC,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Hua Hee Dai,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+QJ,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Drama HotPot,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+IQIYI HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub娛家戲劇台,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+Hub都會台,#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0
+NHK World,#KODIPROP:inputstreamaddon=inputstream.adaptive
+CNA HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+e乐,#KODIPROP:inputstreamaddon=inputstream.adaptive
+BBCEarth,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Phoenix Chinese Channel HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+NHK World,#KODIPROP:inputstreamaddon=inputstream.adaptive
+MOVIES118,#genre#
+0000,#KODIPROP:inputstream.adaptive.license_type=clearkey
+0000,#KODIPROP:inputstream.adaptive.license_type=clearkey
+IN: &PRIVE (4K).,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ Zee Cinema,#KODIPROP:inputstream.adaptive.license_type=clearkey
+AXN HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ps HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+HBO Hits +1 HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+HBO Family +1 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Movies Now,#KODIPROP:inputstream.adaptive.manifest_type=dash
+309 Celestial Movies,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Asian Box,https://cdn3.skygo.mn/live/disk1/AsianBOX/HLSv3-FTA/AsianBOX.m3u8
+5. RTB ANEKA,#EXTVLCOPT:network-caching=1000
+Bollywood HD,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+Showcase Movies,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Celestial Movies HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+,https://linear-798.frequency.stream/mt/plex/798/hls/master/playlist.m3u8
+MovieSphere By Lionsgate,https://raw.githubusercontent.com/mystery75/m3u8/main/MSPHERE.m3u8
+HiYah,https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
+CHINESE118,#genre#
+Phoenix Chinese Channel HD,#KODIPROP:inputstreamaddon=inputstream.adaptive
+iQIYI,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Astro Hua Hee Dai HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CCTV4 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Phoenix Chinese Channel HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Phoenix Info News HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Celestial Classic,#KODIPROP:inputstream.adaptive.license_type=clearkey
+309 Celestial Movies,#KODIPROP:inputstream.adaptive.license_type=clearkey
+8TV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+iQIYI,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Astro Hua Hee Dai HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CTI Asia HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TVB Xing He HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TVBS Asia HD,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+TVB Classic HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TVB Jade,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TVB Entertainment News HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CCTV4 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Phoenix Chinese Channel HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Phoenix Info News HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Celestial Classic,#KODIPROP:inputstream.adaptive.license_type=clearkey
+309 Celestial Movies,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Starhub,#genre#
+ABCAUSTRALIA,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ANIMAX,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ARIRANGTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+AXN,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CBEEBIES,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BBCEARTH,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BBCLIFESTYLE,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BBC News,#KODIPROP:inputstream.adaptive.license_type=clearkey
+beIN Sports 3 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Bein Sports 4,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Bein Sports 5,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BLOOMBERGTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Bloomberg Quicktake,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BLUEANTENTERTAINMENT,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BOOMERANG,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Cartoon Network,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CNBCHONGKONG,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CNN,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Crime + Investigation,#KODIPROP:inputstream.adaptive.license_type=clearkey
+DREAMWORKS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+DW,#KODIPROP:inputstream.adaptive.license_type=clearkey
+EURONEWS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+FASHIONTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Fight Sports,#KODIPROP:inputstream.adaptive.license_type=clearkey
+FOX,#KODIPROP:inputstream.adaptive.license_type=clearkey
+FRANCE24,#KODIPROP:inputstream.adaptive.license_type=clearkey
+HISTORY,#KODIPROP:inputstream.adaptive.license_type=clearkey
+HBOHITS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+HITS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CI,#KODIPROP:inputstream.adaptive.license_type=clearkey
+LIFETIME,#KODIPROP:inputstream.adaptive.license_type=clearkey
+NHK,#KODIPROP:inputstream.adaptive.license_type=clearkey
+NICKJR.,#KODIPROP:inputstream.adaptive.license_type=clearkey
+NICKELODEON,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Preview,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SKYNEWS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SPOTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SPOTV2,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Travelxp,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ EUROSPORT 1,#KODIPROP:inputstreamaddon=inputstream.adaptive
+ EUROSPORT 2,#KODIPROP:inputstreamaddon=inputstream.adaptive
+EPL,#genre#
+Hub Premier 1 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 2 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 3 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 4 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 5 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 6 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 7 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 8 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 9 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 10 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 11 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Hub Premier 12 HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SPORTS,#genre#
+,#KODIPROP:inputstreamaddon=inputstream.adaptive
+ NFL,#KODIPROP:inputstreamaddon=inputstream.adaptive
+ UNIFI SPORTS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Astro Grandstand,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+ASTRO FOOTBALL,#KODIPROP:inputstream.adaptive.license_type=clearkey
+W-Sport,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Premier Sports,#KODIPROP:inputstream.adaptive.license_key=9bfeb5068725617dbad6338473da6d10:06577ffcc4935ba24aff4c4c9dd6846d
+ASTRO ARENA,#KODIPROP:inputstream.adaptive.license_key=efda647dad723563b625be8c05ee6110:6776985938b332164b97b81fe566a34a
+Astro Cricket,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SPOTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SPOTV2,#KODIPROP:inputstream.adaptive.license_type=clearkey
+PREMEIRSPORT,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Sports,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Golf,#KODIPROP:inputstream.adaptive.manifest_type=dash
+TSN 1,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TSN 2,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TSN 3,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ TSN 4,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Champion League,#genre#
+beIN Sports 3,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Bein Sports 4,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Bein Sports 5,#KODIPROP:inputstream.adaptive.license_type=clearkey
+beIN Sports 4,#KODIPROP:inputstreamaddon=inputstream.adaptive
+beIN Sports 5,#KODIPROP:inputstreamaddon=inputstream.adaptive
+beIN Sports 3,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CHINA,#genre#
+,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+KOREA,#genre#
+200 One,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+tvN Movies,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ 203 K+,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+204 KBS World,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+,https://fgtvlive.fgtv.com/smil:fgtv.smil/playlist.m3u8
+,https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
+,https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
+,https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
+,https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+,https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+,https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+,https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
+,https://8fd4e0b07d96480eb52382739cc8acce.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung_NewKID/76da8a34-9b9c-4920-b86f-934fbdaa2fcf/2.m3u8
+,https://vod2.abn.co.kr/IPHONE/abn.m3u8
+,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
+,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+,https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
+,https://s28.qtcdn.co.kr/media/liveM3U8/idx/518045142/enc/1860408350/playlist.m3u8
+Indian,#genre#
+ASTRO THANGATHIRAI,#KODIPROP:inputstream.adaptive.license_type=clearkey
+COLORS (TAMIL),#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+KTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SUN LIFE,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+SUN NEWS,#KODIPROP:inputstream.adaptive.license_type=clearkey
+SUN TV,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+ZEE TAMIL,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Sun News,#KODIPROP:inputstream.adaptive.license_type=clearkey
+KTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Sun Life,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Astro Thangathirai,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Zee Cinema,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Colors Tamil HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Zee Tamil HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ ABO Movies Thangathirai HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ Colors Hindi HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Astro Vaanavil HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ SUN TV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Sun Music HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+WORLD NEWS,#genre#
+Euronews English,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/euronews-en.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
+RT,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+TRT World,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+WION,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+BBC News UK,https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd
+DW Arabic,#KODIPROP:inputstream=inputstream.adaptive
+Dewan Negara,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
+DOCUMENTARY,#genre#
+Love Nature,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Discovery Channel HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Discovery Asia HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+History HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+CGTN,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BBC Earth,#KODIPROP:inputstream.adaptive.license_type=clearkey
+BBC Lifestyle,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Love Nature,#KODIPROP:inputstream.adaptive.license_type=clearkey
+HGTV,#KODIPROP:inputstream.adaptive.license_type=clearkey
+TLC HD,#KODIPROP:inputstream.adaptive.license_type=clearkey
+World TV,#genre#
+ HBO POP,#KODIPROP:inputstreamaddon=inputstream.adaptive
+USA Network,#KODIPROP:inputstreamaddon=inputstream.adaptive
+tvN Movies,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Hits,#KODIPROP:inputstreamaddon=inputstream.adaptive
+AXN HD,#KODIPROP:inputstream.adaptive.manifest_type=dash
+HITS Movies,#KODIPROP:inputstreamaddon=inputstream.adaptive
+HBO Hits,#KODIPROP:inputstreamaddon=inputstream.adaptive
+HBO Family,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Celestial Movies,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Discovery Channel,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Discovery Asia,#KODIPROP:inputstreamaddon=inputstream.adaptive
+History,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Crime & Investigation,#KODIPROP:inputstream.adaptive.manifest_type=dash
+BBC Earth,#KODIPROP:inputstream.adaptive.manifest_type=dash
+BBC Lifestyle,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Love Nature,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Global Trekker,#KODIPROP:inputstreamaddon=inputstream.adaptive
+HGTV,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TLC,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Lifetime,#KODIPROP:inputstreamaddon=inputstream.adaptive
+MTV Live,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Nickelodeon,#KODIPROP:inputstreamaddon=inputstream.adaptive
+BBC World News,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Channel News Asia,#KODIPROP:inputstreamaddon=inputstream.adaptive
+ CNN,#KODIPROP:inputstreamaddon=inputstream.adaptive
+CNBC Asia,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Bloomberg,#KODIPROP:inputstream.adaptive.manifest_type=dash
+CGTN,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Al Jazeera,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Adult Swim,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Cartoon Network,#KODIPROP:inputstream.adaptive.manifest_type=dash
+YTV,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Cartoonito Asia,#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+Disney Channel,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Kapamilya Channel,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ ANC,#KODIPROP:inputstreamaddon=inputstream.adaptive
+Channel News Asia,#KODIPROP:inputstream.adaptive.license_type=clearkey
+DZMM TeleRadyo,#KODIPROP:inputstreamaddon=inputstream.adaptive
+TFC,#KODIPROP:inputstream.adaptive.license_type=clearkey
+ NBC Sports,#KODIPROP:inputstreamaddon=inputstream.adaptive
+BBC News,#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+MTV 90s,#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+MTV Live,#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+MYX Global,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+ WWE Network,#KODIPROP:inputstream.adaptive.manifest_type=mpd
+W-Sport,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Cbeebies,#KODIPROP:inputstream.adaptive.license_type=clearkey
+Bein Sports 3,#KODIPROP:inputstream.adaptive.manifest_type=dash
+ ABC Australia,#KODIPROP:inputstream.adaptive.manifest_type=dash
+ CCTV4,#KODIPROP:inputstream.adaptive.manifest_type=dash
+ France24,#KODIPROP:inputstream.adaptive.manifest_type=dash
+ Celestial Classic Movies,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Dateline,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Disney Channel,#KODIPROP:inputstream.adaptive.manifest_type=dash
+GMA Pinoy TV,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Golf Channel,#KODIPROP:inputstream.adaptive.manifest_type=dash
+NFL,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Premier League,#KODIPROP:inputstream.adaptive.manifest_type=dash
+Zee Cinema,#KODIPROP:inputstream.adaptive.manifest_type=dash
+ Cinema One,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+GMA Pinoy TV,#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+Indonesia,#genre#
+Sampit TV,https://e.siar.us/live/sampit-tv.m3u8
+Kilisuci TV,https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+SURABAYA TV,https://e.siar.us/live/surabayatv.m3u8
+Lingkar TV (1080p),https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com
+Sakti TV,https://saktitv.siar.us/saktitv/live/playlist.m3u8
+Duta TV,https://dutatv.siar.us/dutatv/live/playlist.m3u8
+DMTV MALANG,https://e.siar.us/live/dmtv.m3u8
+Inspira Tv,https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+Banjar TV,https://banjartv.siar.us/banjartv/live/playlist.m3u8
+Dhamma TV,https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+Dhoho TV,https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+ DAAI TV,#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+體育賽事,#genre#
+TNT SPORTS 1,https://l.lioncdn.net/TNT-Sports-1/index.m3u8
+TNT SPORTS 1 [備線1],https://l.lioncdn.net/TNT-Sports-1-BU/index.m3u8
+TNT SPORTS 1 [備線2],https://test.lioncdn.net/TNT_Sports_1/index.m3u8
+TNT SPORTS 2,https://l.lioncdn.net/TNT-Sports-2/index.m3u8
+TNT SPORTS 2 [備線1],https://l.lioncdn.net/TNT-Sports-2-BU/index.m3u8
+TNT SPORTS 3,https://l.lioncdn.net/TNT-Sports-3/index.m3u8
+TNT SPORTS 3 [備線1],https://l.lioncdn.net/TNT-Sports-3-BU/index.m3u8
+TNT SPORTS 4,https://l.lioncdn.net/TNT-Sports-4/index.m3u8
+TNT SPORTS 4 [備線1],https://l.lioncdn.net/TNT-Sports-4-BU/index.m3u8
+SKY SPORTS FOOTBALL,https://l.lioncdn.net/Sky-Sports-Football/index.m3u8
+SKY SPORTS FOOTBALL [備線1],https://l.lioncdn.net/Sky-Sports-Football-BU/index.m3u8
+SKY SPORTS MAIN EVENT,https://l.lioncdn.net/Sky-Sports-Main-Event/index.m3u8
+SKY SPORTS MAIN EVENT [備線1],https://l.lioncdn.net/Sky-Sports-Main-Event-BU/index.m3u8
+SKY SPORTS PREMIER LEAGUE,https://l.lioncdn.net/Sky-Sports-Premier-League/index.m3u8
+SKY SPORTS PREMIER LEAGUE [備線1],https://l.lioncdn.net/Sky-Sports-Premier-League-BU/index.m3u8
+SKY SPORTS MIX,https://l.lioncdn.net/Sky-Sports-Mix/index.m3u8
+SKY SPORTS ARENA,https://l.lioncdn.net/Sky-Sports-Arena/index.m3u8
+SKY SPORTS NEWS,https://l.lioncdn.net/Sky-Sports-News/index.m3u8
+SKY SPORTS CRICKET,https://l.lioncdn.net/Sky-Sports-Cricket/index.m3u8
+Sky Sports Tennis,https://l.lioncdn.net/Sky-Sports-Tennis/index.m3u8
+SKY SPORTS F1,https://l.lioncdn.net/Sky-Sports-F1/index.m3u8
+SKY SPORTS GOLF,https://l.lioncdn.net/Sky-Sports-Golf/index.m3u8
+SKY SPORTS RACING,https://l.lioncdn.net/Sky-Sports-Racing/index.m3u8
+BEIN SPORTS USA,https://l.lioncdn.net/Bein-Sports-USA/index.m3u8
+BEIN SPORTS USA [備線1],https://l.lioncdn.net/BEIN-SPORT-USA-BU/index.m3u8
+Racing TV,https://l.lioncdn.net/Racing-TV/index.m3u8
+TENNIS CHANNEL,https://l.lioncdn.net/Tennis-Channel/index.m3u8
+Sky Cinema Comedy,https://l.lioncdn.net/UK-Sky-Cinema-Comedy/index.m3u8
+Sky Cinema Family,https://l.lioncdn.net/UK-Sky-Cinema-Family/index.m3u8
+Sky Cinema Action,https://l.lioncdn.net/Sky-Cinema-Action/index.m3u8
+Sky Cinema Animation,https://l.lioncdn.net/Sky-Cinema-Animation/index.m3u8
+DAZN,https://l.lioncdn.net/DAZN-TV/index.m3u8
+Bein Sports English 1,https://l.lioncdn.net/Bein-Sports-English-1/index.m3u8
+Bein Sports English 2,https://l.lioncdn.net/Bein-Sports-English-2/index.m3u8
+Bein Sports English 3,https://l.lioncdn.net/Bein-Sports-English-3/index.m3u8
+Eurosport 2,https://l.lioncdn.net/Eurosport-2/index.m3u8
+Premier Sports 1,https://l.lioncdn.net/Premier-Sports-1/index.m3u8
+Premier Sports 2,https://l.lioncdn.net/Premier-Sports-2/index.m3u8
+Golf Channel,https://l.lioncdn.net/Golf-Channel/index.m3u8
+MLB Network,https://l.lioncdn.net/MLB-Network/index.m3u8
+NFL Network,https://l.lioncdn.net/NFL-Network/index.m3u8
+NFL REDZONE,https://l.lioncdn.net/NFL-REDZONE/index.m3u8
+WWE,https://l.lioncdn.net/WWE/index.m3u8
+Willow Cricket,https://l.lioncdn.net/Willow-Cricket/index.m3u8
+ESPN,https://l.lioncdn.net/ESPN/index.m3u8
+ESPN 2,https://l.lioncdn.net/ESPN-2/index.m3u8
+ESPN News,https://l.lioncdn.net/ESPN-News/index.m3u8
+ESPN U,https://l.lioncdn.net/ESPN-U/index.m3u8
+ESPN Deportes,https://l.lioncdn.net/ESPN-Deportes/index.m3u8
+ESPN Deportes [備線1],https://l.lioncdn.net/ESPN-Deportes-BU/index.m3u8
+MUTV,https://l.lioncdn.net/MUTV/index.m3u8
+LFC TV,https://l.lioncdn.net/LFC-TV/index.m3u8
+Fight Network,https://l.lioncdn.net/Fight-Network/index.m3u8
+CBS Sports Network,https://l.lioncdn.net/CBS-Sports-Network/index.m3u8
+Fox Sports 1,https://l.lioncdn.net/Fox-Sports-1/index.m3u8
+Fox Sports 2,https://l.lioncdn.net/Fox-Sports-2/index.m3u8
+新聞財經,#genre#
+BBC News,https://l.lioncdn.net/BBC-News/index.m3u8
+FOX NEWS,https://l.lioncdn.net/FOX-NEWS/index.m3u8
+CNBC,https://l.lioncdn.net/CNBC/index.m3u8
+NBC UNIVERSO,https://l.lioncdn.net/NBC-UNIVERSO/index.m3u8
+綜合頻道,#genre#
+BBC Three,https://l.lioncdn.net/BBC-Three/index.m3u8
+BBC FOUR,https://l.lioncdn.net/BBC-FOUR/index.m3u8
+BBC One,https://l.lioncdn.net/BBC-1/index.m3u8
+BBC Two,https://l.lioncdn.net/BBC-2/index.m3u8
+Virgin 3,https://l.lioncdn.net/UK-Virgin-3/index.m3u8
+Virgin 1,https://l.lioncdn.net/UK-Virgin-1/index.m3u8
+NHL Network,https://l.lioncdn.net/NHL-Network/index.m3u8
+World Fishing Network,https://l.lioncdn.net/World-Fishing-Network/index.m3u8
+ITV 1,https://l.lioncdn.net/ITV-1/index.m3u8
+ITV 2,https://l.lioncdn.net/ITV-2/index.m3u8
+ITV 3,https://l.lioncdn.net/ITV-3/index.m3u8
+ITV 4,https://l.lioncdn.net/ITV-4/index.m3u8
+ACC Network,https://l.lioncdn.net/ACC-Network/index.m3u8
+BBC Red Button,https://l.lioncdn.net/BBC-Red-Button/index.m3u8
+其他綜合,#genre#
+LALIGA TV HD,https://l.lioncdn.net/La-Liga-TV/index.m3u8
+LALIGA TV HD [備線1],https://l.lioncdn.net/LA-LIGA-TV-BU/index.m3u8
+Willow Extra,https://l.lioncdn.net/Willow-Extra/index.m3u8
+Fox Soccer Plus,https://l.lioncdn.net/Fox-Soccer-Plus/index.m3u8
+FOX DEPORTES,https://l.lioncdn.net/FOX-DEPORTES/index.m3u8
+FOX DEPORTES [備線1],https://l.lioncdn.net/FOX-DEPORTES-BU/index.m3u8
+戲劇電影,#genre#
+HBO 1,https://l.lioncdn.net/HBO/index.m3u8
+HBO 2,https://l.lioncdn.net/HBO-2/index.m3u8
+Discovery Channel,https://l.lioncdn.net/Discovery-Channel/index.m3u8
+Discovery Life,https://l.lioncdn.net/Discovery-Life/index.m3u8
+Cinemax West,https://l.lioncdn.net/Cinemax-West/index.m3u8
+Great Movies,https://l.lioncdn.net/UK-Great-Movies/index.m3u8
+兒童卡通,#genre#
+Cartoon Network,https://l.lioncdn.net/UK-Cartoon-Network/index.m3u8
