@@ -2826,8 +2826,8 @@ Third Rail 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/se
 第a19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fk6r8enh/v/11/pv/1/ev/27/flavorId/1_8b752qf3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第a20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_mko47mdo/v/11/pv/1/ev/27/flavorId/1_hln2hpyt/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 过江新娘,#genre#
-过江新娘 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lzerpjsr/v/11/pv/1/ev/27/flavorId/1_ryh1u8vi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_zdvm7j0c/v/11/pv/1/ev/27/flavorId/1_67b59szq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+过江新娘 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lzerpjsr/v/21/pv/1/ev/38/flavorId/1_ryh1u8vi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_zdvm7j0c/v/21/pv/1/ev/37/flavorId/1_67b59szq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_s7nwhfbl/v/11/pv/1/ev/27/flavorId/1_i4hcmq3e/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vddu4j78/v/11/pv/1/ev/27/flavorId/1_h9d6ziey/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1nvmuoci/v/11/pv/1/ev/26/flavorId/1_pxuctqcl/name/a.mp4/index.m3u8/index-v1-a1.m3u8
