@@ -613,7 +613,6 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./json/dubk.json",
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
         },
 {
@@ -625,7 +624,6 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./json/guazi.json",
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
         },
 {
@@ -714,7 +712,6 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "ext": "./json/jpian.json",
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
         },
 {
