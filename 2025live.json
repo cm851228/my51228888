@@ -233,6 +233,62 @@
             "playerType": 1
         },   
 {
+            "name": "JACKTV",
+            "type": 0,
+            "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "咪咕MIGU",
+            "type": 0,
+            "url": "http://github.com/develop202/migu_video/raw/main/interface.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "BXTV",
+            "type": 0,
+            "url": "http://bxtv.3a.ink/live.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "冰茶TV",
+            "type": 0,
+            "url": "http://188766.xyz/itv",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "风云TV",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "SDTV",
+            "type": 0,
+            "url": "http://zz.zoho.to//z/=SDTV",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "APTV",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
             "name": "欧华直播",
             "type": 0,
             "url": "https://files.catbox.moe/hppkqj.txt",
@@ -555,6 +611,119 @@
             },
              "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
             
+        },
+{
+            "name": "嗷嗚独播库",
+            "key": "🎭杜北",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/dubk.json",
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚瓜子",
+            "key": "🎬瓜子",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/guazi.json",
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+        {
+            "name": "嗷嗚小苹果",
+            "key": "🍏小苹果",
+            "type": 3,
+            "api": "csp_XpgAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚金牌",
+            "key": "🥇金牌",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚爱瓜",
+            "key": "🍈爱瓜",
+            "type": 3,
+            "api": "csp_AiGuaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚优视频",
+            "key": "📹YOU视",
+            "type": 3,
+            "api": "csp_YouSPAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚伊外",
+            "key": "🎪伊外",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚高端",
+            "key": "🏆高端",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚哔嘀",
+            "key": "🍿哔嘀",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚荐片",
+            "key": "🎯荐片",
+            "type": 3,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/jpian.json",
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "key": "GUAZI(wex)",
