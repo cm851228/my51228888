@@ -605,6 +605,30 @@
             
         },
 {
+            "name": "嗷嗚独播库",
+            "key": "🎭杜北",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/dubk.json",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+        },
+{
+            "name": "嗷嗚瓜子",
+            "key": "🎬瓜子",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/guazi.json",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+        },
+{
             "name": "嗷嗚小苹果",
             "key": "🍏小苹果",
             "type": 3,
@@ -679,6 +703,18 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+        },
+{
+            "name": "嗷嗚荐片",
+            "key": "🎯荐片",
+            "type": 3,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "./json/jpian.json",
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
         },
 {
