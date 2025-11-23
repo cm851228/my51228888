@@ -195,44 +195,6 @@
             "playerType": 1
         },
 {
-            "name": "RobYangrb",
-            "type": 0,
-            "playerType": 2,
-            "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
-        },
-{
-            "name": "Gather直播",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/Gather",
-            "ua": "okhttp/5.0.0-alpha.14",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "MyTV",
-            "type": 0,
-            "url": "https://tv.iill.top/m3u/MyTV",
-            "ua": "okhttp/5.0.0-alpha.14",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "易发频道",
-            "type": 0,
-            "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },   
-{
-            "name": "Lvse频道",
-            "type": 0,
-            "url": "http://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },   
-{
             "name": "JACKTV",
             "type": 0,
             "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
@@ -288,6 +250,44 @@
             "timeout": 30,
             "playerType": 1
         },
+{
+            "name": "RobYangrb",
+            "type": 0,
+            "playerType": 2,
+            "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/robyang.txt.m3u?alt=media&token=72c905aa-6d4d-4f2e-b3d1-78114ee11b9b"
+        },
+{
+            "name": "Gather直播",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/Gather",
+            "ua": "okhttp/5.0.0-alpha.14",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "MyTV",
+            "type": 0,
+            "url": "https://tv.iill.top/m3u/MyTV",
+            "ua": "okhttp/5.0.0-alpha.14",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "易发频道",
+            "type": 0,
+            "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },   
+{
+            "name": "Lvse频道",
+            "type": 0,
+            "url": "http://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },   
 {
             "name": "freetv马国",
             "type": 0,
@@ -597,7 +597,7 @@
             "changeable": 0,
             "playerType": 2,
             "ext": {
-            "type": "魏佳艺 高清mv#苏谭谭 高清mv#恋特特 高清mv#亦伊 高清mv#橘子妹 高清mv#阿悠悠 高清mv#王一佳 高清mv#马健涛 高清mv#黄静美 高清mv#曾诗涵 高清mv#大麦 高清mv#王超然 高清mv#常超凡 高清mv#草原兄弟 高清mv#候泽润 高清mv#任夏 高清mv#洋澜一 高清mv#王小乱 高清mv#李雨婷 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#诺爷plus 高清mv#张鑫雨 高清mv#王贰浪 高清mv#吕口口 高清mv#王睿卓 高清mv#王一一 高清mv#李樂樂 高清mv#李發發 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",    
+            "type": "魏佳艺 高清mv#苏谭谭 高清mv#周小双 高清mv#恋特特 高清mv#亦伊 高清mv#程响 高清mv#阿悠悠 高清mv#王一佳 高清mv#窝窝 高清mv#黄静美 高清mv#曾诗涵 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#曹艺馨 高清mv#乔艳艳 高清mv#小璐 高清mv#彤大王 高清mv#谭艳 高清mv#鱼精 高清mv#黄文文 高清mv#橘子妹 高清mv#大麦 高清mv#王超然 高清mv#马健涛 高清mv#常超凡 高清mv#草原兄弟 高清mv#候泽润 高清mv#海来阿木 高清mv#任夏 高清mv#洋澜一 高清mv#张鑫雨 高清mv#石大侠 高清mv#王贰浪 高清mv#怪阿姨 高清mv#席慕阳 高清mv#野哥 高清mv#陈舒岩 高清mv#张冬玲 高清mv#赵梓婷 高清mv#就是南方凯 高清mv#温奕心 高清mv#大美 高清mv# 影子 高清mv#吕口口 高清mv#媛小小 高清mv#安儿陈 高清mv#孙火火 高清mv#大欢 高清mv#田园 高清mv#原来是夏夏 高清mv#龙梅子 高清mv#李英 高清mv#黑大婶 高清mv#高丽霞 高清mv#艺凌 高清mv#蒋蕙林 高清mv#林小璐 高清mv#恰恰恰恰恰 高清mv#王小乱 高清mv#李雨婷 高清mv#莫叫姐姐 高清mv#诺爷plus 高清mv#王睿卓 高清mv#王一一 高清mv#李樂樂 高清mv#李發發 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
             "cookie": ""
        
             },
@@ -613,7 +613,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚瓜子",
@@ -624,7 +624,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚小苹果",
@@ -635,7 +635,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚金牌",
@@ -646,7 +646,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚爱瓜",
@@ -657,7 +657,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚优视频",
@@ -668,7 +668,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚伊外",
@@ -679,7 +679,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚高端",
@@ -690,7 +690,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚哔嘀",
@@ -701,7 +701,7 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚荐片",
@@ -712,8 +712,73 @@
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Awoo.jar"
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
+{
+            "name": "嗷嗚哔哩",
+            "key": "🎉Bili",
+            "type": 3,
+            "api": "csp_BiliAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar",
+            "ext": {
+                "json": "https://gitee.com/amg99/tvjson/raw/master/spider/json/bili.json",
+                "cookie": ""
+            }
+        },
+{
+      "key": "py_64832281816dd9a7b7c506233d457a5d",
+      "name": "官方采集(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/v2/spider?site=64832281816dd9a7b7c506233d457a5d",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+{
+      "key": "py_9037cfae7c64405111e0e364401adb60",
+      "name": "小苹果(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/v2/spider?site=9037cfae7c64405111e0e364401adb60",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "py_OleVodt4",
+      "name": "欧乐影院(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=OleVod",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+{
+      "key": "py_Dm84t4",
+      "name": "动漫巴士(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/spider?site=Dm84",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+{
+      "key": "py_粤漫之家",
+      "name": "粤漫之家(T4)",
+      "type": 4,
+      "api": "https://py.doube.eu.org/v2/spider?site=de0fbc805050ecc4d63971c109724d0e",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
 {
             "key": "GUAZI(wex)",
             "name": "瓜子",
@@ -842,56 +907,6 @@
       "ext": {
         "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"
       }
-    },
-{
-      "key": "py_64832281816dd9a7b7c506233d457a5d",
-      "name": "官方采集(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/v2/spider?site=64832281816dd9a7b7c506233d457a5d",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-{
-      "key": "py_9037cfae7c64405111e0e364401adb60",
-      "name": "小苹果(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/v2/spider?site=9037cfae7c64405111e0e364401adb60",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "py_OleVodt4",
-      "name": "欧乐影院(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-{
-      "key": "py_Dm84t4",
-      "name": "动漫巴士(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=Dm84",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-{
-      "key": "py_粤漫之家",
-      "name": "粤漫之家(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/v2/spider?site=de0fbc805050ecc4d63971c109724d0e",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
     },
 {
             "key": "新央视库",
@@ -1071,7 +1086,7 @@
             "changeable": 0,
             "playerType": 2,
             "ext": {
-            "type": "魏佳艺 高清mv#苏谭谭 高清mv#恋特特 高清mv#亦伊 高清mv#橘子妹 高清mv#阿悠悠 高清mv#王一佳 高清mv#马健涛 高清mv#黄静美 高清mv#曾诗涵 高清mv#大麦 高清mv#王超然 高清mv#常超凡 高清mv#草原兄弟 高清mv#候泽润 高清mv#任夏 高清mv#洋澜一 高清mv#王小乱 高清mv#李雨婷 高清mv#莫叫姐姐 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#诺爷plus 高清mv#张鑫雨 高清mv#王贰浪 高清mv#吕口口 高清mv#王睿卓 高清mv#王一一 高清mv#李樂樂 高清mv#李發發 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐", 
+            "type": "魏佳艺 高清mv#苏谭谭 高清mv#周小双 高清mv#恋特特 高清mv#亦伊 高清mv#程响 高清mv#阿悠悠 高清mv#王一佳 高清mv#窝窝 高清mv#黄静美 高清mv#曾诗涵 高清mv#谈柒柒 高清mv#张茜 高清mv#于冬燃 高清mv#曹艺馨 高清mv#乔艳艳 高清mv#小璐 高清mv#彤大王 高清mv#谭艳 高清mv#鱼精 高清mv#黄文文 高清mv#橘子妹 高清mv#大麦 高清mv#王超然 高清mv#马健涛 高清mv#常超凡 高清mv#草原兄弟 高清mv#候泽润 高清mv#海来阿木 高清mv#任夏 高清mv#洋澜一 高清mv#张鑫雨 高清mv#石大侠 高清mv#王贰浪 高清mv#怪阿姨 高清mv#席慕阳 高清mv#野哥 高清mv#陈舒岩 高清mv#张冬玲 高清mv#赵梓婷 高清mv#就是南方凯 高清mv#温奕心 高清mv#大美 高清mv# 影子 高清mv#吕口口 高清mv#媛小小 高清mv#安儿陈 高清mv#孙火火 高清mv#大欢 高清mv#田园 高清mv#原来是夏夏 高清mv#龙梅子 高清mv#李英 高清mv#黑大婶 高清mv#高丽霞 高清mv#艺凌 高清mv#蒋蕙林 高清mv#林小璐 高清mv#恰恰恰恰恰 高清mv#王小乱 高清mv#李雨婷 高清mv#莫叫姐姐 高清mv#诺爷plus 高清mv#王睿卓 高清mv#王一一 高清mv#李樂樂 高清mv#李發發 高清mv#孫露 高清mv#伍佰 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#半吨兄弟 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
             "cookie": ""
          
             },
