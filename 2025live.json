@@ -289,6 +289,14 @@
             "playerType": 1
         },   
 {
+            "name": "全球直播",
+            "type": 0,
+            "url": "http://freetv.fun/test_channels_new.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
             "name": "freetv马国",
             "type": 0,
             "url": "http://freetv.fun/test_channels_malaysia_new.m3u",
