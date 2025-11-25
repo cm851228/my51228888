@@ -66,6 +66,61 @@ tvod澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 tvod澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 
 
+马港直播,#genre#
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
+千禧经典台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+Astro AOD,http://php.jdshipin.com:8880/smt.php?id=Aodhd
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
+Mediacorp华语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+Mediacorp英语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+Mediacorp谈语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娱乐新闻台,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTVSix,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+MyAEC,http://smt.1678520.xyz/smt3.2.1.php?id=AEC
+MyAEC2,http://php.jdshipin.com/smt.php?id=AEC
+香港经典台,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+香港经典台2,http://php.jdshipin.com/smt.php?id=Tvbclassic
+My翡翠台,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+My翡翠台2,http://smt.1678520.xyz/smt3.2.1.php?id=jade_twn
+My翡翠台3,http://php.jdshipin.com/smt.php?id=Tvbjade
+My欢喜台,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+My欢喜台2,http://php.jdshipin.com/smt.php?id=Huahee
+MyAOD,http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+MyAOD2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
+MyAOD3,http://php.jdshipin.com/smt.php?id=Aodhd
+My全佳,http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+My全佳2,http://php.jdshipin.com/smt.php?id=Quanjia
+My爱奇艺,http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+
+
 
 Stream,#genre#
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
