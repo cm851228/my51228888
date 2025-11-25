@@ -35,8 +35,23 @@
         
     },
 {
+        "name": "中国直播",
+        "url": "http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
+     
+    },
+{
         "name": "全球直播",
         "url": "http://freetv.fun/test_channels_new.txt"
+     
+    },
+{
+        "name": "RadioTV",
+        "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/radiotv.m3u?alt=media&token=0a84c82f-41c4-4c59-9a98-9b6bdb0cc935"
+     
+    },
+{
+        "name": "MysmatTV",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/SMT.py"
      
     },
 {
