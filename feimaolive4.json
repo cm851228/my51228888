@@ -20,38 +20,23 @@
         
     },
 {
-        "name": "PerfectTV",
-        "url": "https://perfecttv.net/PerfecttvFree.m3u"
-        
-    },
-{
-        "name": "web118",
-        "url": "http://tv.anboxtv.online/webtv"
-        
-    },
-{
-        "name": "WEB2025",
-        "url": "http://anbox118.zya.me/myplaylist.m3u8.txt"
-        
-    },
-{
-        "name": "中国直播",
-        "url": "http://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"
-     
-    },
-{
         "name": "全球直播",
         "url": "http://freetv.fun/test_channels_new.txt"
      
     },
 {
-        "name": "RadioTV",
-        "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/radiotv.m3u?alt=media&token=0a84c82f-41c4-4c59-9a98-9b6bdb0cc935"
-     
+        "name": "ANBOX亚洲",
+        "url": "http://bit.ly/tvmu"
+        
     },
 {
-        "name": "MysmatTV",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/SMT.py"
+        "name": "APTV",
+        "url": "http://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+        
+    },
+{
+        "name": "ANBOX国际",
+        "url": "http://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25"
      
     },
 {
