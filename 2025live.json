@@ -541,18 +541,21 @@
             ]
         },
 {
-            "key": "阿里资源",
-            "name": "阿里云",
+            "key": "魔都云",
+            "name": "魔都云",
             "type": 1,
-            "api": "http://alivod.com/api.php/provide/vod",
+            "api": "http://www.mdzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
-            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
             "categories": [
                 "香港剧",
                 "国产剧",
                 "台湾剧",
-                "日本剧",
+                "其他剧",
+                "泰国剧",
                 "韩国剧",
+                "日本剧",
                 "欧美剧",
                 "海外剧",
                 "动作片",
@@ -561,36 +564,33 @@
                 "科幻片",
                 "恐怖片",
                 "剧情片",
-                "战争片",
-                "家庭片",
-                "古装片",
-                "悬疑片",
-                "纪录片",   
+                "港台综艺",
+                "大陆综艺",
+                "日韩综艺",
+                "欧美综艺",
                 "国产动漫",
                 "日韩动漫",
                 "欧美动漫",
                 "动漫电影",
-                "内地综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
+                "体育赛事"
             ]
         },
 {
-      "key": "无忧采集",
-      "name": "无忧云",
-      "type": 1,
-      "api": "http://www.wyvod.com/api.php/provide/vod/",
-      "playerType": 1,
-      "searchable": 1,
-      "categories": [
-                "港剧",
+            "key": "非凡",
+            "name": "️非凡云",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "香港剧",
                 "国产剧",
-                "台剧",
-                "泰剧",
+                "台湾剧",
+                "泰国剧",
                 "韩剧",
-                "日剧",
-                "欧美剧",
+                "日本剧",
+                "美国剧",
                 "海外剧",
                 "动作片",
                 "喜剧片",
@@ -604,19 +604,18 @@
                 "悬疑片",
                 "犯罪片",
                 "奇幻片",
-                "邵氏电影",
                 "港台综艺",
                 "大陆综艺",
                 "欧美综艺",
                 "日韩综艺",
-                "港台动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "海外动漫"
-        
-      ]
-    },
+                "港台动画",
+                "国产动画",
+                "日韩动画",
+                "欧美动画",
+                "海外动画",
+                "体育赛事"
+            ]
+        },
 {
             "key": "直播转点播",
             "name": "直播转点播",
@@ -625,16 +624,6 @@
             "timeout": 60,
             "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
-        },
-{
-            "key": "猫TV直播",
-            "name": "猫TV直播",
-            "type": 3,
-            "playerType": 1,
-            "timeout": 60,
-            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/sdtv.js",
-            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/sdtv.txt",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/sdtv.jar"
         },
 {
             "key": "油管云",
@@ -650,8 +639,18 @@
             "type": "新闻直播live#@phoenixtvhk live#@8worldsg live#@ntdaptv live#Berita rtm live#@astroawani live#@Live Chinese news#@8tvmandarinnews live#cartoon live#TVB Drama playlist#FULL TVB Drama 4K Cantonese playlist#@mediacorpdrama playlist#cartoon Cantonese playlist#@ultraman playlist#@Mr Bean playlist#@8-hkmovie#@netflix full episode#@8tvaddicts#@astrobdq#外来媳妇本地郎全部#七十二家房客全部#胖子视界#阿胖山#香港怪谈#象棋八妹#陈师傅开挖机#周星驰粤语电影#粤语电影#香港电视剧#荒野求生#自然传奇#国家地理野生#探索频道求生纪录片#原始部落纪录片#CCTV9记录片#国家地理频道#纪录片#人与自然#盘点那些感人瞬间#监控下真实一幕#盘点那些#天网#一线#粤语长片#粤语记录片#tonton粤语频道#粤睇粤配粤精彩#温油辣辣U#密子君#李子柒#极地探险#广东卫视你会怎么样做#广东电视#非洲小五#美食星球#亚洲旅游台#动物星球#动物世界#我爱返寻味#舌尖上的中国#老廣的味道#美食大三通#食尚玩家#爱玩客#美食#粤语卡通#国语卡通#沙雕动漫#兔小贝#儿童#儿歌#儿童早教#儿童歌曲#儿童音乐#儿童绘画#儿童动画#儿童启蒙故事#儿童英语启蒙#儿童安全教育#睡前故事#贝瓦儿歌#宝宝巴士#儿歌多多#学而思#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#寻找他乡的故事#远方的家#游牧民族#马来西亚#新加坡#老挝#越南#缅甸#泰国#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#记住乡愁#格斗比赛#泰拳比赛#WWE#粤语MV#国语MV#演唱会#MV#歌曲#粤剧#戏曲#音乐#4K#电影#电视剧#影视#娱乐#搞笑#动画#相声小品"
       
             },
-            "jar": "https://f004.backblazeb2.com/file/2023118/pg.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg2025.jar"
+      
+        },
+{
+            "key": "猫TV直播",
+            "name": "猫TV直播",
+            "type": 3,
+            "playerType": 1,
+            "timeout": 60,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/sdtv.js",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/sdtv.txt",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/sdtv.jar"
         },
 {
             "key": "低版儿童",
@@ -1779,10 +1778,10 @@
             ]
         },
 {
-            "key": "非凡",
-            "name": "️非凡云",
+            "key": "优质云",
+            "name": "优质云",
             "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "api": "http://api.1080zyku.com/inc/apijson.php",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1791,9 +1790,9 @@
                 "国产剧",
                 "台湾剧",
                 "泰国剧",
-                "韩剧",
+                "韩国剧",
                 "日本剧",
-                "美国剧",
+                "欧美剧",
                 "海外剧",
                 "动作片",
                 "喜剧片",
@@ -1802,21 +1801,16 @@
                 "恐怖片",
                 "剧情片",
                 "战争片",
-                "纪录片",
                 "动画片",
-                "悬疑片",
-                "犯罪片",
-                "奇幻片",
+                "纪录片",
                 "港台综艺",
                 "大陆综艺",
                 "欧美综艺",
                 "日韩综艺",
-                "港台动画",
-                "国产动画",
-                "日韩动画",
-                "欧美动画",
-                "海外动画",
-                "体育赛事"
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
             ]
         },
 {
@@ -1856,41 +1850,6 @@
 
            ]
        },
-{
-            "key": "魔都云",
-            "name": "魔都云",
-            "type": 1,
-            "api": "http://www.mdzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "其他剧",
-                "泰国剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "港台综艺",
-                "大陆综艺",
-                "日韩综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "动漫电影",
-                "体育赛事"
-            ]
-        },
 {
             "key": "ikun",
             "name": "伊昆云",
@@ -2000,6 +1959,83 @@
             }
         },
 {
+            "key": "阿里资源",
+            "name": "阿里云",
+            "type": 1,
+            "api": "http://alivod.com/api.php/provide/vod",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "日本剧",
+                "韩国剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "家庭片",
+                "古装片",
+                "悬疑片",
+                "纪录片",   
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "动漫电影",
+                "内地综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺"
+            ]
+        },
+{
+      "key": "无忧采集",
+      "name": "无忧云",
+      "type": 1,
+      "api": "http://www.wyvod.com/api.php/provide/vod/",
+      "playerType": 1,
+      "searchable": 1,
+      "categories": [
+                "港剧",
+                "国产剧",
+                "台剧",
+                "泰剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动画片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "邵氏电影",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "海外动漫"
+        
+      ]
+    },
+{
             "key": "索尼云",
             "name": "索尼云",
             "type": 1,
@@ -2070,42 +2106,6 @@
                 "日韩动漫",
                 "欧美动漫"
 
-            ]
-        },
-{
-            "key": "优质云",
-            "name": "优质云",
-            "type": 1,
-            "api": "http://api.1080zyku.com/inc/apijson.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰国剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "动画片",
-                "纪录片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫"
             ]
         },
 {
@@ -2888,9 +2888,9 @@
 	        "keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐"
 			
 		},
-		"jar": "https://f004.backblazeb2.com/file/2023118/pg.jar"
-		
-		},
+		"jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg2025.jar"
+      
+        },
 {
             "key": "py_supjav",
             "name": "supjav18+(T4)",
