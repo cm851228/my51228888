@@ -44,6 +44,14 @@
             "playerType": 1
         },
 {
+            "name": "线更長剧",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Long%20Drama.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
             "name": "线更单片",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/movie.txt",
