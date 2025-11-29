@@ -100,14 +100,6 @@
             "playerType": 2
         },
 {
-            "name": "RocketTV",
-            "type": 0,
-            "url": "https://firebasestorage.googleapis.com/v0/b/myiptv-f81a8.appspot.com/o/radiotv.m3u?alt=media&token=0a84c82f-41c4-4c59-9a98-9b6bdb0cc935",
-            "ua": "OTTNavigator/2.0(Android)",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
             "name": "Web118",
             "type": 0,
             "url": "http://anbox118.zya.me/myplaylist.m3u8.txt",
@@ -119,6 +111,16 @@
             "name": "Anbox118",
             "type": 0,
             "url": "https://firebase.anbox118.workers.dev/",
+            "timeout": 30,
+            "playerType": 2,
+            "ua": "okhttp",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+            "name": "IPTV2025",
+            "type": 0,
+            "url": "https://iptv.vrsmarter.workers.dev",
             "timeout": 30,
             "playerType": 2,
             "ua": "okhttp",
@@ -143,17 +145,17 @@
             "ext": {}
         }, 
 {
-            "name": "SmartTV",
-            "url": "http://live.catvod.com/tv.m3u",
-            "ua": "catvod.com",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
             "name": "咪咕直播",
             "type": 0,
             "url": "http://iptv.catvod.com/tv.m3u",
             "ua": "okHttp/Mod-1.2.0.1",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "SmartTV",
+            "url": "http://live.catvod.com/tv.m3u",
+            "ua": "catvod.com",
             "timeout": 30,
             "playerType": 1
         },
@@ -789,6 +791,54 @@
             "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
             
         },
+{            
+            "key": "4KVMYS",
+            "name": "4KVMYS",
+            "api": "https://learnpython.ggff.net/4KVMYS",
+            "timeout": 60,
+            "type": 4
+            
+        },
+{           
+            "key": "yongle",
+            "name": "永乐视频",
+            "api": "https://learnpython.ggff.net/yongle",
+            "timeout": 60,
+            "type": 4
+            
+        },
+{
+            "key": "欧乐影",
+            "name": "欧乐影",
+            "timeout": 60,
+            "type": 4,
+            "api": "https://py.doube.eu.org/spider?site=OleVod"
+            
+        },
+{                 
+            "key": "xpgyshi",
+            "name": "苹果",
+            "api": "https://learnpython.ggff.net/xpgyshi",
+            "timeout": 60,
+            "type": 4
+            
+        },
+{            
+            "key": "yunyun",
+            "name": "园园",
+            "api": "https://learnpython.ggff.net/yunyun",
+            "timeout": 60,
+            "type": 4
+            
+        },
+{
+            "key": "土豆",
+            "name": "土豆视频",
+            "api": "https://learnpython.ggff.net/py_tudou",
+            "timeout": 60,
+            "type": 4
+            
+        },
 {
             "name": "嗷嗚独播库",
             "key": "🎭杜北",
@@ -911,6 +961,39 @@
             "changeable": 1,
             "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar",
             "ext": "http://v.rbotv.cn"
+        },
+{
+            "name": "嗷嗚厂长",
+            "key": "厂长",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚LIBVIO",
+            "key": "LIBVIO",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚俩BT",
+            "key": "俩BT",
+            "type": 3,
+            "api": "csp_BttwoAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
         },
 {
             "name": "嗷嗚荐片",
