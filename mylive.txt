@@ -51,3 +51,74 @@ My爱奇艺,http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
 浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
 之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+八度空间1,http://php.jdshipin.com:8880/smt.php?id=TV8
+八度空间2,http://php.jdshipin.com/smt.php?id=TV8
+Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
+爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
+Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
+Astro欢喜台,http://php.jdshipin.com:8880/smt.php?id=Huahee
+TVB星河粤,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+TVBJ1,http://php.jdshipin.com/PLTV/iptv.php?id=j1
+TVB J1台,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
+华丽翡翠2台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+马来天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+馬來星河粵英字幕,http://php.jdshipin.com/smt.php?id=Xinhe
+马来天映频道国,http://php.jdshipin.com/smt.php?id=Celestial
+台湾美亚电影国语,http://php.jdshipin.com/smt.php?id=meiyamovie_twn
+馬來AOD,http://php.jdshipin.com/smt.php?id=Aodhd
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+明珠台,http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+TVB Plus,http://php.jdshipin.com:8880/smt.php?id=j2_twn
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB娱乐新闻,http://php.jdshipin.com:8880/smt.php?id=Tvbentertainment
+ViuTV,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+ViuTV6,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+RTHK31,http://php.jdshipin.com:8880/smt.php?id=rhk31_twn
+RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰资讯,http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
+TVB功夫,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB功夫台,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+台美亚电影国,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+有线综合,http://php.jdshipin.com/PLTV/iptv.php?id=hoytv2
+星空卫视,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+http://171.213.210.154:8888/udp/239.93.0.156:2193
+CNC,http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
+莲花卫视,http://1033946631.cloudvdn.com/a.m3u8?domain=live-
+hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
+BRTV新闻HD,http://123.118.50.166:8686/rtp/239.3.1.159:8000
+TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+新加坡中文台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+翡翠台6,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+香港32台,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream5/streamPlaylist.m3u8
+亚洲卫视,https://pull-hsbj.vzan.com/v/slowlive_821481626725612419.flv
+美亚电影台,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
+日本富士电视台,https://fujitv4.mov3.co/hls/fujitv.m3u8
+韩国·SBSCJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+韩国KBS World,http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+韩国MBC 大田,https://ns1.tjmbc.co.kr/live/myStream.sdp/playlist.m3u8
+朝鲜中央台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+TVB J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw﻿
+无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+TVB无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
+千禧经典台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+有线综合,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+无线明珠,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
