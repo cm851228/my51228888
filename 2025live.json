@@ -4,14 +4,6 @@
 
 "lives": [
 {
-            "name": "线更新剧",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/livesg.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
             "name": "线更Astro",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
@@ -35,62 +27,6 @@
             "timeout": 30,
             "playerType": 2
         }, 
-{
-            "name": "线更剧场",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/gd2.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更長剧",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Long%20Drama.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更单片",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/movie.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更萌吖",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更MV",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },  
-{
-            "name": "线更音乐",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },  
-{
-            "name": "新加坡剧",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
 {
             "name": "PerfectTV",
             "type": 0,
@@ -347,14 +283,8 @@
             "url": "http://freetv.fun/test_channels_japan_new.m3u",
             "timeout": 30,
             "playerType": 1
-        },
-{
-            "name": "按收藏5次密码q",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/JAV.txt",
-            "timeout": 30,
-            "playerType": 1
         }
+
         
 
 
@@ -436,7 +366,7 @@
         },
 {
             "key": "低版儿童",
-            "name": "低版儿童(my)",
+            "name": "低版儿童(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -452,7 +382,7 @@
         },
 {
             "key": "低版哔哩",
-            "name": "低版哔哩(my)",
+            "name": "低版哔哩(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -468,7 +398,7 @@
         },
 {
             "key": "低版音乐",
-            "name": "低版音乐(my)",
+            "name": "低版音乐(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -1081,7 +1011,7 @@
     },
 {
             "key": "高版哔哩",
-            "name": "哔哩(fm)",
+            "name": "哔哩(FM)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -1097,7 +1027,7 @@
         },
 {
             "key": "高版儿童",
-            "name": "儿童(fm)",
+            "name": "儿童(FM)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -1113,7 +1043,7 @@
         },
 {
             "key": "高版音乐",
-            "name": "音乐(fm)",
+            "name": "音乐(FM)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
