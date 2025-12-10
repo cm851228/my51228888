@@ -36,7 +36,7 @@
             "playerType": 2
         },
 {
-            "name": "线更EXO长剧",
+            "name": "线更EXO長剧",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Long%20Drama.txt",
             "ua": "okhttp",
@@ -805,6 +805,188 @@
             "timeout": 60,
             "type": 4
             
+        },
+{
+            "name": "嗷嗚独播库",
+            "key": "🎭杜北",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚瓜子",
+            "key": "🎬瓜子",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚小苹果",
+            "key": "🍏小苹果",
+            "type": 3,
+            "api": "csp_XpgAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚金牌",
+            "key": "🥇金牌",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚爱瓜",
+            "key": "🍈爱瓜",
+            "type": 3,
+            "api": "csp_AiGuaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚优视频",
+            "key": "📹YOU视",
+            "type": 3,
+            "api": "csp_YouSPAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚伊外",
+            "key": "🎪伊外",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚高端",
+            "key": "🏆高端",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚哔嘀",
+            "key": "🍿哔嘀",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚春天",
+            "key": "🌱春天",
+            "type": 3,
+            "api": "csp_NewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar",
+            "ext": "PnUH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYCOAcYRFlWHxJQV1QEDREAKB8DUF9HVlFHW01XBkFSCRdTE1JORgRQSUdWGBULH1JVF2xfEwkXR01WRREKCloNGAkaVhwDWlAcBxcLEAIGXAkPFw1WRFQRQQtAbgIIExERGRUfR11USkZKWBMQAUpCAAEeABYFAlBfR1ZZRUpYExAEVkMBDR0LVUxHUFFXRFhESgk="
+        },
+{
+            "name": "嗷嗚热播",
+            "key": "热播",
+            "type": 3,
+            "api": "csp_RbysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar",
+            "ext": "http://v.rbotv.cn"
+        },
+{
+            "name": "嗷嗚厂长",
+            "key": "厂长",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚LIBVIO",
+            "key": "LIBVIO",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚俩BT",
+            "key": "俩BT",
+            "type": 3,
+            "api": "csp_BttwoAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚荐片",
+            "key": "🎯荐片",
+            "type": 3,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar"
+        },
+{
+            "name": "嗷嗚哔哩",
+            "key": "🎉Bili",
+            "type": 3,
+            "api": "csp_BiliAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://9763.kstore.space/wnqiwnquidwiunddneudne/custom_spider.jar",
+            "ext": {
+                "json": "https://gitee.com/amg99/tvjson/raw/master/spider/json/bili.json",
+                "cookie": ""
+            }
         },
 {
       "key": "py_64832281816dd9a7b7c506233d457a5d",
