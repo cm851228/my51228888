@@ -807,107 +807,32 @@
             
         },
 {
-            "name": "嗷嗚独播库",
-            "key": "🎭杜北",
+            "name": "🎭杜北",
+            "key": "杜北",
             "type": 3,
             "api": "csp_DubkAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json"
+        },        
 {
-            "name": "嗷嗚瓜子",
-            "key": "🎬瓜子",
+            "name": "🎬瓜子",
+            "key": "瓜子",
             "type": 3,
             "api": "csp_GuaziAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
             "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
         },
 {
-            "name": "嗷嗚小苹果",
-            "key": "🍏小苹果",
-            "type": 3,
-            "api": "csp_XpgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚金牌",
-            "key": "🥇金牌",
-            "type": 3,
-            "api": "csp_JinPaiAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚爱瓜",
-            "key": "🍈爱瓜",
-            "type": 3,
-            "api": "csp_AiGuaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚优视频",
-            "key": "📹YOU视",
-            "type": 3,
-            "api": "csp_YouSPAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚伊外",
-            "key": "🎪伊外",
-            "type": 3,
-            "api": "csp_YIysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚高端",
-            "key": "🏆高端",
-            "type": 3,
-            "api": "csp_DdysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚哔嘀",
-            "key": "🍿哔嘀",
-            "type": 3,
-            "api": "csp_BidysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚春天",
-            "key": "🌱春天",
+            "name": "🌱春天",
+            "key": "春天",
             "type": 3,
             "api": "csp_NewGrAmns",
             "searchable": 1,
@@ -918,7 +843,139 @@
             "ext": "PnUH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYCOAcYRFlWHxJQV1QEDREAKB8DUF9HVlFHW01XBkFSCRdTE1JORgRQSUdWGBULH1JVF2xfEwkXR01WRREKCloNGAkaVhwDWlAcBxcLEAIGXAkPFw1WRFQRQQtAbgIIExERGRUfR11USkZKWBMQAUpCAAEeABYFAlBfR1ZZRUpYExAEVkMBDR0LVUxHUFFXRFhESgk="
         },
 {
-            "name": "嗷嗚热播",
+            "name": "🎪伊外",
+            "key": "伊外",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🥇金牌",
+            "key": "金牌",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍏小苹果",
+            "key": "小苹果",
+            "type": 3,
+            "api": "csp_XpgAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍈爱瓜",
+            "key": "爱瓜",
+            "type": 3,
+            "api": "csp_AiGuaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📹YOU视",
+            "key": "YOU视",
+            "type": 3,
+            "api": "csp_YouSPAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🏆高端",
+            "key": "高端",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍿哔嘀",
+            "key": "哔嘀",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🏭厂长",
+            "key": "厂长",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📽️LIBVIO",
+            "key": "LIBVIO",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📀俩BT",
+            "key": "俩BT",
+            "type": 3,
+            "api": "csp_BttwoAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🎯荐片",
+            "key": "荐片",
+            "type": 3,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
+            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
+        },
+{
+            "name": "🔥热播",
             "key": "热播",
             "type": 3,
             "api": "csp_RbysAmns",
@@ -930,52 +987,8 @@
             "ext": "http://v.rbotv.cn"
         },
 {
-            "name": "嗷嗚厂长",
-            "key": "厂长",
-            "type": 3,
-            "api": "csp_CzzyAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚LIBVIO",
-            "key": "LIBVIO",
-            "type": 3,
-            "api": "csp_LibvioAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚俩BT",
-            "key": "俩BT",
-            "type": 3,
-            "api": "csp_BttwoAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚荐片",
-            "key": "🎯荐片",
-            "type": 3,
-            "api": "csp_JPianAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
-{
-            "name": "嗷嗚哔哩",
-            "key": "🎉Bili",
+            "name": "🎉Bili",
+            "key": "Bili",
             "type": 3,
             "api": "csp_BiliAmns",
             "searchable": 1,
@@ -984,10 +997,119 @@
             "changeable": 1,
             "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "ext": {
-                "json": "https://gitee.com/amg99/tvjson/raw/master/spider/json/bili.json",
+                "json": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/bili.json",
                 "cookie": ""
             }
         },
+{
+            "name": "🍉找短剧",
+            "key": "找短剧",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "indexs": 1,
+            "searchable": 0,
+            "filterable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🎦豪堪短剧",
+            "key": "豪堪短剧",
+            "type": 3,
+            "api": "csp_HHkkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📺盒马短剧",
+            "key": "盒马短剧",
+            "type": 3,
+            "api": "csp_HemaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🎞️拜拜短剧",
+            "key": "拜拜短剧",
+            "type": 3,
+            "api": "csp_BddjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🐠锦鲤短剧",
+            "key": "锦鲤短剧",
+            "type": 3,
+            "api": "csp_JLdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍩甜圈短剧",
+            "key": "甜圈短剧",
+            "type": 3,
+            "api": "csp_TQdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🐱喵喵短剧",
+            "key": "喵喵短剧",
+            "type": 3,
+            "api": "csp_QmdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "⭐星星短剧",
+            "key": "星星短剧",
+            "type": 3,
+            "api": "csp_XydjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🎂岁岁短剧",
+            "key": "岁岁短剧",
+            "type": 3,
+            "api": "csp_SpdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        }, 
 {
       "key": "py_64832281816dd9a7b7c506233d457a5d",
       "name": "官方采集(T4)",
