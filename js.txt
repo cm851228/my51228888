@@ -191,6 +191,43 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 
 
+CDN,#genre#
+大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+大湾区卫视2,http://36.36.200.198:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
+八度空间,http://cdn6.163189.xyz/163189/8tv
+CH8,http://cdn6.163189.xyz/163189/ch8
+CH5,http://cdn6.163189.xyz/163189/ch5
+CHU,http://cdn6.163189.xyz/163189/chu
+HOY TV1,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+HOY TV2,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
+澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+澳门体育,http://cdn6.163189.xyz/163189/amty
+澳门综艺,http://cdn6.163189.xyz/163189/amzy
+澳门莲花,http://cdn6.163189.xyz/163189/amlh
+龙华电影,http://cdn8.163189.xyz/163189/lhdy
+龙华经典,http://cdn8.163189.xyz/163189/lhjd
+龙华卡通,http://cdn8.163189.xyz/163189/lhkt
+龙华偶像,http://cdn8.163189.xyz/163189/lhox
+龙华日韩,http://cdn8.163189.xyz/163189/lhrh
+龙华戏剧,http://cdn8.163189.xyz/163189/lhxj
+龙华洋片,http://cdn8.163189.xyz/163189/lhyp
+CCTV1,http://cdn6.163189.xyz/163189/cctv1
+CCTV13,http://cdn3.163189.xyz/163189/cctv13
+CCTV2,http://cdn6.163189.xyz/163189/cctv2
+CCTV9,http://cdn3.163189.xyz/163189/cctv9
+翡翠台,http://php.jdshipin.com/smt.php
+无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+天映经典,http://tl.061833.xyz/tl/null-1
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+PLAYBOY,http://190.14.10.19:16000/play/a045/index.m3u8
+
 
 SMT2-马来西亚,#genre#
 TV1,https://smart.946985.filegear-sg.me/smart.php?id=TV1
