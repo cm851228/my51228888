@@ -3040,8 +3040,8 @@ Third Rail 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/se
 第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8pg3ajji/v/11/pv/1/ev/27/flavorId/1_l8pr8wnr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rpgpqk6d/v/11/pv/1/ev/27/flavorId/1_woq9nni4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 味之道,#genre#
-味之道 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5fns45uq/v/21/pv/1/ev/34/flavorId/1_2ahbuf8z/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ujtvlfe4/v/31/pv/1/ev/45/flavorId/1_d1gxxazz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+味之道 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5fns45uq/v/21/pv/1/ev/42/flavorId/1_y6abld11/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ujtvlfe4/v/21/pv/1/ev/59/flavorId/1_sw6nmylv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_y3guk4o5/v/21/pv/1/ev/50/flavorId/1_463pv5w1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_l5mlyic6/v/21/pv/1/ev/54/flavorId/1_lhj3bmhw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qw3uwgna/v/21/pv/1/ev/39/flavorId/1_5obnm2br/name/a.mp4/index.m3u8/index-v1-a1.m3u8
