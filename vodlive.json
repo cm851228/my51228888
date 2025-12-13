@@ -70,7 +70,7 @@
 {
             "name": "EXO Web118",
             "type": 0,
-            "url": "http://anbox118.zya.me/myplaylist.m3u8.txt",
+            "url": "http://anbox118.zya.me/anbox/webplaylist.m3u8.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
@@ -805,6 +805,18 @@
             "timeout": 60,
             "type": 4
             
+        },
+{
+            "key": "泥视频",
+            "name": "泥视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ8.jar",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E6%B3%A5%E8%A7%86%E9%A2%91VIP.json"
+         
         },
 {
             "name": "🎭杜北",
@@ -3057,8 +3069,17 @@
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive3.json"
         },
 {
+            "key": "zp100",
+            "name": "乐播18+",
+            "type": 0,
+            "api": "http://lbapi9.com/api.php/provide/vod/at/xml/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0
+        },
+{
             "key": "91麻豆",
-            "name": "麻花18+云",
+            "name": "麻花18+",
             "type": 1,
             "api": "http://91md.me/api.php/provide/vod/",
             "playerType": 1,
