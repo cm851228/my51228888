@@ -1575,7 +1575,23 @@ Njavtv,#genre#
 香蕉,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
 松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
-
+驚艷,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵拉完美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松視1台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+PLAYBOY,http://190.14.10.19:16000/play/a045/index.m3u8
+驚豔台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+潘朵啦玩美,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+香蕉台,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+松視1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+松視2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+松視3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+驚豔台(125),http://125.227.210.55:8156/VideoInput/play.ts
+香蕉台(125),http://125.227.210.55:8159/VideoInput/play.ts
+奧視3台(125),http://125.227.210.55:8201/VideoInput/play.ts
+奧視2台(125),http://125.227.210.55:8203/VideoInput/play.ts
+奧視1台(125),http://125.227.210.55:8205/VideoInput/play.ts
 
 
 Adults1,#genre#

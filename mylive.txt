@@ -206,3 +206,15 @@ CCTV9,http://cdn3.163189.xyz/163189/cctv9
 翡翠台,http://php.jdshipin.com/smt.php
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 天映经典,http://tl.061833.xyz/tl/null-1
+
+
+
+astro,#genre#
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+Astro AEC,https://o11.163189.xyz/stream/live/aec/
+Astro AOD,https://o11.163189.xyz/stream/live/test/
+华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
+Astro QJ,https://o11.163189.xyz/stream/live/qj/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+HBO,http://167.de5.net/bbb/115/master.m3u8
+翡翠台,http://50.7.158.194:8277/jade_twn/playlist.m3u8
