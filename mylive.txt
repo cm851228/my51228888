@@ -178,7 +178,8 @@ TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 ua=bingcha/1.1 (mianfeifenxiang) 
 大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-咪咕南方卫视,https://migu.188766.xyz/?migutoken=ab2da5c17fb501683056d149cfa4dac5&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+咪咕南方卫视,https://migu.188766.xyz/?migutoken=12a4fd41564dc005ae11785a74141ee3&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
+https://migu.188766.xyz/?migutoken=ab2da5c17fb501683056d149cfa4dac5&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 大湾区卫视2,http://36.36.200.198:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 八度空间,http://cdn6.163189.xyz/163189/8tv
 CH8,http://cdn6.163189.xyz/163189/ch8
@@ -209,7 +210,7 @@ CCTV9,http://cdn3.163189.xyz/163189/cctv9
 
 
 
-astro,#genre#
+Astro,#genre#
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
 Astro AOD,https://o11.163189.xyz/stream/live/test/

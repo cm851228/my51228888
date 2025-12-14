@@ -182,23 +182,23 @@
             "playerType": 2
         },
 {
-      "name": "冰茶1TV",
+      "name": "冰茶体育",
       "type": 0,
-      "url": "http://bc.188766.xyz/?ip=&json=true",
+      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=mianfeibuhuaqian",
       "ua": "bingcha/1.1 (mianfeifenxiang) ",
       "timeout": 30,
       "playerType": 1
     },
 {
-      "name": "EXO冰茶1TV",
+      "name": "EXO冰茶体育",
       "type": 0,
-      "url": "http://bc.188766.xyz/?ip=&json=true",
+      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=mianfeibuhuaqian",
       "ua": "bingcha/1.1 (mianfeifenxiang) ",
       "timeout": 30,
       "playerType": 2
     },
 {
-            "name": "冰茶2TV",
+            "name": "冰茶TV",
             "type": 0,
             "url": "http://188766.xyz/itv",
             "ua": "bingcha/1.1 (mianfeifenxiang) ",
@@ -206,7 +206,7 @@
             "playerType": 1
         },
 {
-            "name": "EXO冰茶2TV",
+            "name": "EXO冰茶TV",
             "type": 0,
             "url": "http://188766.xyz/itv",
             "ua": "bingcha/1.1 (mianfeifenxiang) ",
