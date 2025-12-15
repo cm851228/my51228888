@@ -174,13 +174,60 @@ TVB无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 
 
 
+MYsmt,#genre#
+8度空间,http://smt.1678520.xyz/smt3.2.1.php?id=TV8
+AEC,http://smt.1678520.xyz/smt3.2.1.php?id=AEC
+TVBClassic,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+Xing He,http://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+AOD,http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+Hua Hee,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+Qiyi,http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+天映频道1,http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+天映经典台,http://smt.1678520.xyz/smt3.2.1.php?id=Celestial2
+TVB Jade,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+TVB Entertainment,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+AEC,http://smt.1678520.xyz/smt3.2.1.php?id=AEC
+华丽台 HD （Wah Lai Toi）,http://smt.1678520.xyz/smt3.2.1.php?id=Wlt
+欢喜台 HD （Hua Hee Tai）,http://smt.1678520.xyz/smt3.2.1.php?id=Huahee
+Astro QJ,http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+TVB Jade,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbjade
+TVB Entertainment,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+TVB Classic,http://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+AOD,http://smt.1678520.xyz/smt3.2.1.php?id=Aodhd
+TVB 星河台 Xing He,http://smt.1678520.xyz/smt3.2.1.php?id=Xinhe
+爱奇艺 iQiyi,http://smt.1678520.xyz/smt3.2.1.php?id=Qiyi
+Celestial Movies HD,http://smt.1678520.xyz/smt3.2.1.php?id=Celestial
+QJ,http://smt.1678520.xyz/smt3.2.1.php?id=Quanjia
+天映频道2,http://smt.1678520.xyz/smt3.2.1.php?id=Celestialindo
+翡翠台,http://smt.1678520.xyz/smt3.2.1.php?id=Jade_xue
+明珠台,http://smt.1678520.xyz/smt3.2.1.php?id=pearl_twn
+无线新闻,http://smt.1678520.xyz/smt3.2.1.php?id=inews_twn
+TVBPLUS,http://smt.1678520.xyz/smt3.2.1.php?id=j2_twn
+ViuTV,http://smt.1678520.xyz/smt3.2.1.php?id=viu1_twn
+ViuTV 6,http://smt.1678520.xyz/smt3.2.1.php?id=viusix_twn
+RTHK 31,http://smt.1678520.xyz/smt3.2.1.php?id=rhk31_twn
+RTHK 32,http://smt.1678520.xyz/smt3.2.1.php?id=rhk32_twn
+HOY TV,http://smt.1678520.xyz/smt3.2.1.php?id=hoycaijing_twn
+凤凰中文,http://smt.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+凤凰资讯,http://smt.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+凤凰香港,http://smt.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+APETITO,https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/chunklist_b2596000_slENG.m3u8
+AURA,https://d1sq2slp9afh7o.cloudfront.net/smil:aura/chunklist_b2596000_slENG.m3u8
+FITRAH,https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/chunklist_b2596000_slENG.m3u8
+JR.,https://d1sq2slp9afh7o.cloudfront.net/smil:jr/chunklist_b2596000_slENG.m3u8
+LEAD,https://d1sq2slp9afh7o.cloudfront.net/smil:lead/chunklist_b2596000_slENG.m3u8
+ROLL,https://d1sq2slp9afh7o.cloudfront.net/smil:roll/chunklist_b2596000_slENG.m3u8
+SNAP,https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3u8
+
+
+
+
 广东,#genre#
 ua=bingcha/1.1 (mianfeifenxiang) 
 大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 咪咕南方卫视,https://migu.188766.xyz/?migutoken=12a4fd41564dc005ae11785a74141ee3&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 https://migu.188766.xyz/?migutoken=ab2da5c17fb501683056d149cfa4dac5&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
-大湾区卫视2,http://36.36.200.198:44330/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
 八度空间,http://cdn6.163189.xyz/163189/8tv
 CH8,http://cdn6.163189.xyz/163189/ch8
 CH5,http://cdn6.163189.xyz/163189/ch5
@@ -210,12 +257,170 @@ CCTV9,http://cdn3.163189.xyz/163189/cctv9
 
 
 
+
+咪咕央视,#genre#
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
+CCTV-9 纪录,https://iptv.catvod.com/live.php?id=CCTV-9%20%E7%BA%AA%E5%BD%95
+CCTV-1 综合,https://iptv.catvod.com/live.php?id=CCTV-1%20%E7%BB%BC%E5%90%88
+CCTV-2 财经,https://iptv.catvod.com/live.php?id=CCTV-2%20%E8%B4%A2%E7%BB%8F
+CCTV-3 综艺,https://iptv.catvod.com/live.php?id=CCTV-3%20%E7%BB%BC%E8%89%BA
+CCTV-4 中文国际,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
+CCTV-5 体育,https://iptv.catvod.com/live.php?id=CCTV-5%20%E4%BD%93%E8%82%B2
+CCTV-5+ 体育赛事,https://iptv.catvod.com/live.php?id=CCTV-5%2B%20%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B
+CCTV-6 电影,https://iptv.catvod.com/live.php?id=CCTV-6%20%E7%94%B5%E5%BD%B1
+CCTV-7 国防军事,https://iptv.catvod.com/live.php?id=CCTV-7%20%E5%9B%BD%E9%98%B2%E5%86%9B%E4%BA%8B
+CCTV-8 电视剧,https://iptv.catvod.com/live.php?id=CCTV-8%20%E7%94%B5%E8%A7%86%E5%89%A7
+CCTV-9 纪录,https://iptv.catvod.com/live.php?id=CCTV-9%20%E7%BA%AA%E5%BD%95
+CCTV-10 科教,https://iptv.catvod.com/live.php?id=CCTV-10%20%E7%A7%91%E6%95%99
+CCTV-11 戏曲,https://iptv.catvod.com/live.php?id=CCTV-11%20%E6%88%8F%E6%9B%B2
+CCTV-12 社会与法,https://iptv.catvod.com/live.php?id=CCTV-12%20%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95
+CCTV-13 新闻,https://iptv.catvod.com/live.php?id=CCTV-13%20%E6%96%B0%E9%97%BB
+CCTV-14 少儿,https://iptv.catvod.com/live.php?id=CCTV-14%20%E5%B0%91%E5%84%BF
+CCTV-15 音乐,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90
+CCTV-17 农业农村,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
+CCTV-4 中文国际 欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
+CCTV-4 中文国际 美洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
+咪咕卫视,#genre#
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
+东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
+陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
+河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+三沙卫视,https://iptv.catvod.com/live.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86
+吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
+青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+农林卫视,https://iptv.catvod.com/live.php?id=%E5%86%9C%E6%9E%97%E5%8D%AB%E8%A7%86
+内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+兵团卫视,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86
+大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
+咪咕影视,#genre#
+CHC家庭影院,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2
+CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
+CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1
+五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
+五星体育,https://iptv.catvod.com/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
+重温经典,https://iptv.catvod.com/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
+咪咕卫视,#genre#
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+央视频道,#genre#
+CCTV-1,https://iptv.catvod.com/live.php?id=CCTV-1
+CCTV-2,https://iptv.catvod.com/live.php?id=CCTV-2
+CCTV-3,https://iptv.catvod.com/live.php?id=CCTV-3
+CCTV-4,https://iptv.catvod.com/live.php?id=CCTV-4
+CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5
+CCTV-5plus,https://iptv.catvod.com/live.php?id=CCTV-5plus
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV-6
+CCTV-7,https://iptv.catvod.com/live.php?id=CCTV-7
+CCTV-8,https://iptv.catvod.com/live.php?id=CCTV-8
+CCTV-9,https://iptv.catvod.com/live.php?id=CCTV-9
+CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10
+CCTV-11,https://iptv.catvod.com/live.php?id=CCTV-11
+CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12
+CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13
+CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14
+CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
+CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
+卫视频道,#genre#
+北京卫视台,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86%E5%8F%B0
+东方卫视台,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E5%8F%B0
+天津卫视台,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86%E5%8F%B0
+重庆卫视台,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E5%8F%B0
+黑龙江卫视台,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
+吉林卫视台,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+辽宁卫视台,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86%E5%8F%B0
+内蒙古卫视台,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86%E5%8F%B0
+甘肃卫视台,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86%E5%8F%B0
+青海卫视台,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86%E5%8F%B0
+陕西卫视台,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
+山西卫视台,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
+山东卫视台,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
+安徽卫视台,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E5%8F%B0
+河南卫视台,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+湖北卫视台,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+湖南卫视台,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+江西卫视台,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
+江苏卫视台,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
+浙江卫视台,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86%E5%8F%B0
+东南卫视台,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+广东卫视台,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86%E5%8F%B0
+深圳卫视台,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86%E5%8F%B0
+广西卫视台,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86%E5%8F%B0
+云南卫视台,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86%E5%8F%B0
+贵州卫视台,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86%E5%8F%B0
+四川卫视台,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86%E5%8F%B0
+新疆卫视台,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86%E5%8F%B0
+兵团卫视台,https://iptv.catvod.com/live.php?id=%E5%85%B5%E5%9B%A2%E5%8D%AB%E8%A7%86%E5%8F%B0
+西藏卫视台,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86%E5%8F%B0
+影视频道,#genre#
+CHC影迷电影台,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
+CHC动作电影台,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
+CHC家庭影院台,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
+
+
 Astro,#genre#
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 Astro AEC,https://o11.163189.xyz/stream/live/aec/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 Astro AOD,https://o11.163189.xyz/stream/live/test/
 华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
 Astro QJ,https://o11.163189.xyz/stream/live/qj/
 爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
 HBO,http://167.de5.net/bbb/115/master.m3u8
 翡翠台,http://50.7.158.194:8277/jade_twn/playlist.m3u8
+
+
+
+广东咪咕,#genre#
+广东珠江,http://go.bkpcp.top/mg/gdzj
+广东大湾区卫视,http://go.bkpcp.top/mg/gddwq
+广东新闻,http://go.bkpcp.top/mg/gdxw
+广东民生,http://go.bkpcp.top/mg/gdms
+广东影视,http://go.bkpcp.top/mg/gdys
+广东体育,http://go.bkpcp.top/mg/gdty
+CCTV1,http://go.bkpcp.top/mg/cctv1
+CCTV2,http://go.bkpcp.top/mg/cctv2
+CCTV3,http://go.bkpcp.top/mg/cctv3
+CCTV4,http://go.bkpcp.top/mg/cctv4
+CCTV5,http://go.bkpcp.top/mg/cctv5
+CCTV5+,http://go.bkpcp.top/mg/cctv5p
+CCTV6,http://go.bkpcp.top/mg/cctv6
+CCTV7,http://go.bkpcp.top/mg/cctv7
+CCTV8,http://go.bkpcp.top/mg/cctv8
+CCTV9,http://go.bkpcp.top/mg/cctv9
+CCTV10,http://go.bkpcp.top/mg/cctv10
+CCTV11,http://go.bkpcp.top/mg/cctv11
+CCTV12,http://go.bkpcp.top/mg/cctv12
+CCTV13,http://go.bkpcp.top/mg/cctv13
+CCTV14,http://go.bkpcp.top/mg/cctv14
+CCTV15,http://go.bkpcp.top/mg/cctv15
+CCTV16,http://go.bkpcp.top/mg/cctv16
+CCTV17,http://go.bkpcp.top/mg/cctv17
+cct4欧洲,http://go.bkpcp.top/mg/cctv4o
+cct4美洲,http://go.bkpcp.top/mg/cctv4m
+CGTN-西,http://go.bkpcp.top/mg/cgtne
+CGTN-阿,http://go.bkpcp.top/mg/cgtna
+CGTN-法,http://go.bkpcp.top/mg/cgtnf
+北京卫视,http://go.bkpcp.top/mg/bjws
+东方卫视,http://go.bkpcp.top/mg/dfws
+浙江卫视,http://go.bkpcp.top/mg/zjws
+江苏卫视,http://go.bkpcp.top/mg/jsws
+湖南卫视,http://go.bkpcp.top/mg/hunws
+广东卫视,http://go.bkpcp.top/mg/gdws
+深圳卫视,http://go.bkpcp.top/mg/szws
+山东卫视,http://go.bkpcp.top/mg/sdws
+河南卫视,http://go.bkpcp.top/mg/hnws
+江西卫视,http://go.bkpcp.top/mg/jxws
+湖北卫视,http://go.bkpcp.top/mg/hubws
+海南卫视,http://go.bkpcp.top/mg/hinws
+陕西卫视,http://go.bkpcp.top/mg/sxws
+兵团卫视,http://go.bkpcp.top/mg/btws
+黑龙江视,http://go.bkpcp.top/mg/hljws

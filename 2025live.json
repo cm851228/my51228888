@@ -402,6 +402,42 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 {
+            "name": "国际直播",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 1,
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+{
+            "name": "EXO国际直播",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/playlist25",
+            "ua": "okhttp/3.15",
+            "timeout": 30,
+            "playerType": 2,
+            "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
+        },
+{
+            "name": "央卫直播",
+            "type": 0,
+            "timeout": 30,
+            "playerType": 1,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "timeout": 10
+        },        
+{
+            "name": "EXO央卫直播",
+            "type": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
+            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+            "timeout": 10
+        },
+{
             "name": "全球直播",
             "type": 0,
             "url": "http://freetv.fun/test_channels_new.txt",
