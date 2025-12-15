@@ -16,6 +16,9 @@
 第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7876l3va/v/21/pv/1/ev/23/flavorId/1_obt4d9n8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jeygxdmz/v/11/pv/1/ev/16/flavorId/1_5qi9wcbk/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jeygxdmz/v/11/pv/1/ev/16/flavorId/1_5qi9wcbk/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1p8z2dix/v/11/pv/1/ev/16/flavorId/1_s0m4fh2v/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xh203gip/v/11/pv/1/ev/16/flavorId/1_0z2n2c7z/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_guip1qbu/v/11/pv/1/ev/16/flavorId/1_leitmq1f/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
 开门见山,#genre#
@@ -391,6 +394,7 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 寵爱,http://c1.rrcdnbf5.com/video/chongai2024/HD中字/index.m3u8
 奇妙幽靈,http://v.fengbao8.com/video/qimiaoyouling/高清/index.m3u8
 白头山,http://s4.bfzycdn.com/video/baitoushan/HD中字/index.m3u8
+四等,http://s6.bfzycdn.com/video/4deng/HD%E4%B8%AD%E5%AD%97/index.m3u8
 玉子,http://vip1.lz-cdn1.com/20230816/21847_f9493b81/2000k/hls/mixed.m3u8
 奇蹟,http://s4.bfzycdn.com/video/qiji2021/HD中字/index.m3u8
 狼狩猎,http://s6.bfzycdn.com/video/langshoulie/HD中字/index.m3u8
@@ -623,6 +627,7 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 因果报应,http://c1.ddbbffcdn.com/video/yinguobaoying/HD/index.m3u8
 致命弯道,http://vip.lz-cdn6.com/20220714/18623_c5a39573/1000k/hls/mixed.m3u8
 強盜保鑣,http://c1.ddbbffcdn.com/video/replacexxx0810/20240920OOkSQXZzindex.m3u8/index.m3u8
+2012,http://vip1.lz-cdn1.com/20220520/6235_581c98de/1200k/hls/mixed.m3u8
 摩托日记,http://s1.bfzycdn.com/video/motuoriji/HD/index.m3u8
 些房是我造的,http://s4.bfzycdn.com/video/cifangshiwozao/HD中字/index.m3u8
 待綻薔薇,http://s1.bfzycdn.com/video/daizhanqiangwei/HD中字/index.m3u8
