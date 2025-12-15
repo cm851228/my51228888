@@ -1496,35 +1496,6 @@
             "ext": "https://tvbox.catvod.com/js/采集之王.js?type=url&params=https://tvbox.catvod.com/js/采集静态.json$1$1"
         },
 {
-      "key": "bilibiliys",
-      "name": " 哔哩影视(wex)",
-      "type": 3,
-      "api": "csp_WexNewBiLiYSGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557798499/bilisong.txt"
-    },
-{
-      "key": "bili",
-      "name": "哔哔合集(wex)",
-      "type": 3,
-      "api": "csp_BiliGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "json": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1730557872081/bili001.txt"
-      }
-    },
-{
             "key": "新央视库",
             "name": "央视库(py)",
             "type": 3,
@@ -1590,18 +1561,6 @@
       
     },
 {
-      "key": "py_live_livelive小苹果",
-      "name": "小苹果(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%B0%8F%E8%8B%B9%E6%9E%9CAPP.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
       "key": "py_live_livelive影视界",
       "name": "影视界(py)",
       "type": 3,
@@ -1626,18 +1585,6 @@
     
      },
 {
-      "key": "py_live_livelive国外剧",
-      "name": "国外剧(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E5%9B%BD%E5%A4%96%E5%89%A7APP.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
-{
       "key": "py_live_livelive哇哇",
       "name": "哇哇(py)",
       "type": 3,
@@ -1660,6 +1607,94 @@
       "filterable": 1,
       "timeout": 60
       
+    },
+{
+      "key": "py_瓜子.py",
+      "name": "瓜子(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E7%93%9C%E5%AD%90.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+{
+      "key": "小鸭子看看",
+      "name": "小鸭子看看(py)",
+      "type": 3,
+      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E5%B0%8F%E9%B8%AD%E5%AD%90%E7%9C%8B%E7%9C%8B.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },    
+{
+            "key": "两个BT",
+            "name": "两个BT(py)",
+            "type": 3,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E4%B8%A4%E4%B8%AABT.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+{
+            "key": "爱看机器人",
+            "name": "爱看机器人(py)",
+            "type": 3,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E7%88%B1%E7%9C%8B%E6%9C%BA%E5%99%A8%E4%BA%BA.py",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60
+        },
+{
+      "key": "WexikanbotGuard",
+      "name": "爱看采集(wex)",
+      "type": 3,
+      "api": "csp_WexikanbotGuard",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar"
+      
+    },
+{
+      "key": "bilibiliys",
+      "name": "哔哩影视(wex)",
+      "type": 3,
+      "api": "csp_WexNewBiLiYSGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
+      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
+    },
+{
+      "key": "bilibili",
+      "name": "哔哩合集(wex)",
+      "type": 3,
+      "api": "csp_WexNewBiLiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
+      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
+    },
+{
+      "key": "biliych",
+      "name": "哔哩歌曲(wex)",
+      "type": 3,
+      "api": "csp_WexNewBiLiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
+      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
     },
 {
             "key": "bilimd弹幕版",
@@ -3306,6 +3341,16 @@
             "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive3.json"
         },
+{
+      "key": "黄色仓库2",
+      "name": "黄色仓库18+",
+      "type": 3,
+      "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%932.py",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
 {
             "key": "zp100",
             "name": "乐播18+",
