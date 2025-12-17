@@ -134,6 +134,47 @@
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 {
+            "name": "anbox直播1",
+            "type": 0,
+            "url": "https://tv.anboxtv.online/live5",
+            "playerType": 2,
+            "ua": "okhttp",
+            "timeout": 30,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
+
+        },
+{
+            "name": "anbox直播2",
+            "type": 0,
+            "url": "https://tv.anboxtv.online/live7",
+            "playerType": 2,
+            "ua": "okhttp",
+            "timeout": 30,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
+        },
+{
+            "name": "anbox直播3",
+            "type": 0,
+            "url": "https://tv.anboxtv.online/live4",
+            "playerType": 2,
+            "ua": "okhttp",
+            "timeout": 30,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
+        },
+{
+            "name": "anbox直播4",
+            "type": 0,
+            "url": "https://tv.anboxtv.online/live3",
+            "playerType": 2,
+            "ua": "okhttp",
+            "timeout": 30,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
+        },
+{
             "name": "EXO IPTV2025",
             "type": 0,
             "url": "https://iptv.vrsmarter.workers.dev",
