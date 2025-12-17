@@ -267,9 +267,9 @@ CCTV9,http://cdn3.163189.xyz/163189/cctv9
 
 
 大湾区卫视,#genre#
-大湾catvod,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 大湾区(国际版),http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86%28%E5%9B%BD%E9%99%85%E7%89%88%29&auth=666858
 南方卫视2,http://yp.qqqtv.top/bc/bc.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=66615415
+大湾catvod,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 大湾区卫视2,http://migu.youdu.fan:8008/608917627
 大湾区卫视3,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=666858
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
