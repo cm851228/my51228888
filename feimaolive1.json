@@ -20,13 +20,18 @@
         
     },
 {
-        "name": "SmartTV",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/SmartTV.txt"
+        "name": "抽风Smart",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ssmart.txt"
      
     },    
 {
         "name": "全球直播",
         "url": "http://freetv.fun/test_channels_new.txt"
+     
+    },
+{
+        "name": "SmartTV",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/SmartTV.txt"
      
     },
 {
@@ -45,26 +50,25 @@
      
     },
 {
-        "name": "线更萌吖",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt"
+        "name": "新加坡剧",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt"
      
     },
 {
-        "name": "线更MV",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt"
-        
-    },
-{
-        "name": "新加坡剧",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt"
+        "name": "线更纪录",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt"
      
     },
 {
         "name": "线更音乐",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt"
         
+    },
+{
+        "name": "线更MV",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt"
+        
     }
- 
 
    
 ]
