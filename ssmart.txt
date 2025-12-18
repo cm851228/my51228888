@@ -251,6 +251,7 @@ CGTN 中国新闻,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab
 上海纪实,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/OT7EQYfENKbejskeleg09rdlSC8JNuTIztcp3-HHwSaoBEyw9fNbYRJ8lzDnb5ULH6O4f7pNzrGu9jThqfef4i.m3u8
 
 港澳vpstv,#genre#
+ua=hls-gateway.vpstv.net
 黃金翡翠台,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/9QHcp58qPiIDQ8blOV7nPIM3pC0ciK9vpdizHnXCKWI6-aW_H3AG5SPKjnktJKGVPm6AcNGSPc5nAPgn9GwSyC.m3u8
 TVB翡翠台 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/t2jnBOuC5LAK7lHj9viCRIbs3EHckTtqMunjJfy3wpC13WICrYCubwt1bWwlG6-0ah-My7-BjZ9WLMEKRn4yXP.m3u8
 TVB明珠台 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/FqGGF12GfDYYbeFP5glSh_oxUK-kdDYB-TY2ZiO3qpOWhJTPkhcc81Ts7eZaa27N4Pjdx20W9Ff1u2HBvDXZhP.m3u8
@@ -334,6 +335,7 @@ TVB粤语片澳洲,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709da
 1905邵氏电影,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/28fPnnKth0CsaVFuqH2HxqI3MgY_8VOANYdV0pD4DVlBWNXxgIwxgtWSgtTWXwKw8Zz4JWA74-Z4hep66oBP07.m3u8
 
 新加坡vpstv,#genre#
+ua=hls-gateway.vpstv.net
 Channel 5,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/bLemCfpR7QI8iJDHPNyj7GGzRnTVxo4CW2E6QOs9dOmuVFnOWdlC95nbcYh2Vfbz0fxUwe3aLcBgNXTKbIbX.m3u8
 Channel 8,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/rff9eRwTfGAKUix-LAQw6SU4O4gaEtocUfkqQ0YsbSzdDmvSecs_GPWvMbjrwh6CgJr0Shzk0ISuzBI2m2Or.m3u8
 Channel U,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/ytlt7BnozGp4xLqtBKeGX0YC5Na8AUnNBeQDfbGSPHzWSICOipaXbsDo4igs9NbAkc_Cnp94tpD9EmnkZBcaii.m3u8
@@ -426,6 +428,7 @@ Cinema World,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052
 ABC NENS LIVE,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/ZtIgqXLVPJUDqbimd-2vPyyPiSlavNW6n5n-QguOvmhhwgWabNSPy3XemxaxKdY-pwJFczlWja55uZEabTXcM7.m3u8
 
 台灣vpstv,#genre#
+ua=hls-gateway.vpstv.net
 CNN,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_OHxU8QCrIhNmMD_Xj4W8K6pjKdx502rKeZRA9xFOLawK_aDsmXF307f7nWJJbYtRTNSlZHiuvinQgpiRQANDC.m3u8
 民視 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/WpL9aobjTbY2DXJKWx7PZcOJdVYljAkR0wtuIH3ewXznJw7TFchBWXKGCcSsRsoY251kYQi2v81i2y84hB2b5P.m3u8
 人间卫视 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/DNq3BRkoccNB4Kwkwf8ery0S2PeZb-dhe90HMzVcpp8iqM-odORKohRK71rAj7CDthTsAAzgaJrogDqileQO.m3u8
@@ -1470,70 +1473,20 @@ NOWROCK,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/qVx
 1905邵氏电影,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/28fPnnKth0CsaVFuqH2HxqI3MgY_8VOANYdV0pD4DVlBWNXxgIwxgtWSgtTWXwKw8Zz4JWA74-Z4hep66oBP07.m3u8
 
 私密頻道vpstv,#genre#
-HAPPY,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/SEvghCZdsocJ739_UotvDpikw5YpEcrPQvyHFKohv1GxAbxDyqrdnDmhzQ0XyHg_5HecASY0sT48Q9tFc6SGPC.m3u8
-极限,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_UOm_cqYkNX1AinPoJyrt8dlMJzpjmsdaiY2RaDX3HBg8rSzAQqar6m-k25XMlcnpz20_k9W-8u6fCn1fkzPei.m3u8
-彩虹K台,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/fwSIsOKQu456I6-5zKEQ8yENIOzl14QHCj4EpcbH7zpRbkL7QExAe6VbHrlwAqAV165eDNOf3DJBbBylhwZ5Ti.m3u8
+驚艷,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/xEv8LNpfJlH-l5oXC-zMyLQ8dT8XuENm4qlVpQcY8zj4lsOQ0LzzNEemBPFwTxSOK3-95NvLNiPIf_uEmBgJ-i.m3u8
 潘朵拉,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/tQ0KXkOE376zDZkZWz-5w9KGmvpr6_zg4VCUjfFDkghpIT-Rwpd9Kc7S5Y0whIHRsFGlQZv1HgBk-sgXvp5bP7.m3u8
 松視1臺,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/dEHGYJExVp5GiDDh5R5oIbzjUFjw3teqPIb6k-P26n6fhYysFSqyeDUzDI1GFxto2f36s5eD3dAnzFRcxRzSLi.m3u8
 松視2台,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/wuVA92ptDAHl5qnEJR1iPUu_vOiOnO1zThVw6G6E6hMThOas39ZaYRlxy4h-5QtAcvltwNaswaNSydNYlvST.m3u8
-彩虹e臺,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_LIQ3nswndVIQzK7DUntRzm4lKfYpJbF1Dowr-zOPXgpljb4xUkp6WDmQDbStzRndC8WwxlI4r1oMM1rzqKc67.m3u8
-彩虹電影,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/Cdas2m-03koDMUDz6VD3D0vR2MpWRw_QsYcXByhoSuTDyoHg97CihHp9YzUCIKnr1Ys0isKAXxeOtR0fC-jGBi.m3u8
 松視3台,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/yhIkOC3J9gdGb9OjsbC5mrC7jx35EYarLIbpqnPFfGCEcdjZYGcxKPvLhg-rwMv9TO9bPNazeCNAa7ijU5kUEi.m3u8
-驚艷,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/xEv8LNpfJlH-l5oXC-zMyLQ8dT8XuENm4qlVpQcY8zj4lsOQ0LzzNEemBPFwTxSOK3-95NvLNiPIf_uEmBgJ-i.m3u8
+彩虹e臺,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_LIQ3nswndVIQzK7DUntRzm4lKfYpJbF1Dowr-zOPXgpljb4xUkp6WDmQDbStzRndC8WwxlI4r1oMM1rzqKc67.m3u8
 完美台,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/uyi3iUt1TqdT6ct8AK6A5Opc8yOgI5NBAo51P0EIVV1YW-Js1Z2A22rWsdqIe9WK0u9JN6NErpepOF-avEaLwP.m3u8
+彩虹K台,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/fwSIsOKQu456I6-5zKEQ8yENIOzl14QHCj4EpcbH7zpRbkL7QExAe6VbHrlwAqAV165eDNOf3DJBbBylhwZ5Ti.m3u8
+极限,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_UOm_cqYkNX1AinPoJyrt8dlMJzpjmsdaiY2RaDX3HBg8rSzAQqar6m-k25XMlcnpz20_k9W-8u6fCn1fkzPei.m3u8
+彩虹電影,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/Cdas2m-03koDMUDz6VD3D0vR2MpWRw_QsYcXByhoSuTDyoHg97CihHp9YzUCIKnr1Ys0isKAXxeOtR0fC-jGBi.m3u8
+HAPPY,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/SEvghCZdsocJ739_UotvDpikw5YpEcrPQvyHFKohv1GxAbxDyqrdnDmhzQ0XyHg_5HecASY0sT48Q9tFc6SGPC.m3u8
 Playboy,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/CWxFeX_18hu7ftKU2rxPsqiDwPQ1H08YhS1-FrWSU2AmXFcBgG-s2qVy9ByEbr_B7PsmmglPKDy5tfzc9s_kei.m3u8
 Dorcel ,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/1R1Dx9dqDZ_SNp9HRMaJWpRoIl7ZSNJeAUacwQ5g92-zNPiHEn2_3b_638Nv4eCA6r_svtXji3MKmcSFTniH9P.m3u8
 HAPPY CHANNEL,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/lvxasnj7rz4ELAYdeli7KV7cAQLU0HmJUDhVkqeKVSJvxP7aiq8tYLsOBh76tsqVs2DuOzZWByQViZlgvSWFOP.m3u8
 erox,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/6q85EAu3NgxZ_IEUO9L646970i6V3A0YrQXs6AM_tBVCSoEaO-e9Zm2Kbu20RYcvtK98MovRnekw1VU8OsbZ.m3u8
 eroxxx,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/f0UM7DWaLnF9R28ally0ihytAjvunU2zWP3E8MWzMEyzGxV5JZ3Umt_h7yVLH-cMlGXwWvvYbFMqpHh21vKjwi.m3u8
 brazzers,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/ty_De4nuMlA4Eplu-nXSYQWEXFu38xXXQzs63W6ih9hvY8TN_hYVeOuXiziYNlgytQQJ8PAZ8pwOxHi3nQOblP.m3u8
-
-
-
-
-
-广东咪咕,#genre#
-广东珠江,http://go.bkpcp.top/mg/gdzj
-广东大湾区卫视,http://go.bkpcp.top/mg/gddwq
-广东新闻,http://go.bkpcp.top/mg/gdxw
-广东民生,http://go.bkpcp.top/mg/gdms
-广东影视,http://go.bkpcp.top/mg/gdys
-广东体育,http://go.bkpcp.top/mg/gdty
-CCTV1,http://go.bkpcp.top/mg/cctv1
-CCTV2,http://go.bkpcp.top/mg/cctv2
-CCTV3,http://go.bkpcp.top/mg/cctv3
-CCTV4,http://go.bkpcp.top/mg/cctv4
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12
-CCTV13,http://go.bkpcp.top/mg/cctv13
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17
-cct4欧洲,http://go.bkpcp.top/mg/cctv4o
-cct4美洲,http://go.bkpcp.top/mg/cctv4m
-CGTN-西,http://go.bkpcp.top/mg/cgtne
-CGTN-阿,http://go.bkpcp.top/mg/cgtna
-CGTN-法,http://go.bkpcp.top/mg/cgtnf
-北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
-浙江卫视,http://go.bkpcp.top/mg/zjws
-江苏卫视,http://go.bkpcp.top/mg/jsws
-湖南卫视,http://go.bkpcp.top/mg/hunws
-广东卫视,http://go.bkpcp.top/mg/gdws
-深圳卫视,http://go.bkpcp.top/mg/szws
-山东卫视,http://go.bkpcp.top/mg/sdws
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws
-湖北卫视,http://go.bkpcp.top/mg/hubws
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws
-兵团卫视,http://go.bkpcp.top/mg/btws
-黑龙江视,http://go.bkpcp.top/mg/hljws
