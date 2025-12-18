@@ -727,7 +727,7 @@ ua=okhttp/5.3.2
 
 
 广东咪咕,#genre#
-ua=okhttp
+ua=okhttp/5.3.2
 广东珠江,http://go.bkpcp.top/mg/gdzj
 广东大湾区卫视,http://go.bkpcp.top/mg/gddwq
 广东新闻,http://go.bkpcp.top/mg/gdxw
