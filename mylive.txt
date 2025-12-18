@@ -226,12 +226,10 @@ SNAP,https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3
 
 
 广东,#genre#
-ua=bingcha/1.1 (mianfeifenxiang) 
 大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 南方卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-咪咕南方卫视,https://migu.188766.xyz/?migutoken=12a4fd41564dc005ae11785a74141ee3&id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&type=yy
 八度空间,http://cdn6.163189.xyz/163189/8tv
 CH8,http://cdn6.163189.xyz/163189/ch8
 CH5,http://cdn6.163189.xyz/163189/ch5
