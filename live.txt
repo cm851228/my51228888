@@ -209,16 +209,6 @@ Provocative 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/s
 第178集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7lpnscke/v/11/pv/1/ev/16/flavorId/1_gkigfmsm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第179集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lfan1af2/v/11/pv/1/ev/16/flavorId/1_ux6xb0qn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第180集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sc5urv1i/v/11/pv/1/ev/16/flavorId/1_9uhwtmu0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-
-开门见山,#genre#
-开门见山 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wadj5zls/v/1/pv/1/ev/9/flavorId/1_x3c2gdyi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kl5grej9/v/1/pv/1/ev/9/flavorId/1_11s7ragq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m8ejjejo/v/1/pv/1/ev/9/flavorId/1_tqftjf8j/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vji5kjc7/v/1/pv/1/ev/9/flavorId/1_elod42l4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_x684pr45/v/1/pv/1/ev/9/flavorId/1_3ivbz8y5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_r4so0k7h/v/1/pv/1/ev/9/flavorId/1_0q4frj2r/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dkxnfiq5/v/1/pv/1/ev/9/flavorId/1_tg7skcuc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8jwn6pln/v/1/pv/1/ev/9/flavorId/1_jod1iang/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 你好再见,#genre#
 你好再见 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_t3ftazf0/v/11/pv/1/ev/16/flavorId/1_sybs54lm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ju6wk2xk/v/11/pv/1/ev/16/flavorId/1_5l45pwpz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
