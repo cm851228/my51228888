@@ -101,6 +101,7 @@ HBO Signature,p2p://142.54.189.229:2666/64df46220007117705701eb010a05e11.ts
 RTM探嗅,#genre#
 TV 1,video://https://rtmklik.rtm.gov.my/live/tv1
 TV 2,video://https://rtmklik.rtm.gov.my/live/tv2
+Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
 BERITA,video://https://rtmklik.rtm.gov.my/live/beritartm
 TV 6,video://https://rtmklik.rtm.gov.my/live/tv6
 SUKAN,video://https://rtmklik.rtm.gov.my/live/sukanrtm
@@ -119,9 +120,8 @@ ads=static-mozai.4gtv.tv
 经典卡通台,video://https://m.4gtv.tv/channel/4gtv-live022?set=1&ch=202
 经典电影台,video://https://m.4gtv.tv/channel/4gtv-live021?set=1&ch=201
 精选动漫台,video://https://m.4gtv.tv/channel/4gtv-live024?set=1&ch=204
-戏剧免费台1,video://https://m.4gtv.tv/channel/4gtv-live010?set=1&ch=270
+戏剧免费台,video://https://m.4gtv.tv/channel/4gtv-live010?set=1&ch=270
 原住民族电视台,video://https://m.4gtv.tv/channel/4gtv-live014?set=1&ch=273
-华视新闻台,video://https://m.4gtv.tv/channel/4gtv-4gtv052?set=1&ch=34
 猪哥亮歌厅,video://https://m.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 滚动力,video://https://m.4gtv.tv/channel/4gtv-live012?set=1&ch=249
 
