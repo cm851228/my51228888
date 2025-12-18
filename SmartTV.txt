@@ -1668,66 +1668,6 @@ http://tv123.vvvv.ee/live.php/?ch=702
 http://tv123.vvvv.ee/live.php/?ch=703
 #EXTINF:-1 tvg-logo="https://static.188766.xyz/logo/AdamZhengLu/navigation/assets/ico/腾讯体育.png" group-title="🤠体育回看",12月15日02:00_NFL常规赛_比尔vs爱国者 英文原音
 http://tv123.vvvv.ee/live.php/?ch=704
-#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-1.png" group-title="🤠国际体育",TNT Sports 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=705
-#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-2.png" group-title="🤠国际体育",TNT Sports 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=706
-#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-3.png" group-title="🤠国际体育",TNT Sports 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=707
-#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/TNT-Sports-4.png" group-title="🤠国际体育",TNT Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=708
-#EXTINF:-1 tvg-id="SkySpMainEv" tvg-name="Sky Sports Main Event" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Main-Event.png" group-title="🤠国际体育",Sky Sports Main Event
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=709
-#EXTINF:-1 tvg-id="SkySp PL" tvg-name="Sky Sports Premier League" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Premier-League.png" group-title="🤠国际体育",Sky Sports Premier League
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=710
-#EXTINF:-1 tvg-id="SkySp Tennis HD" tvg-name="Sky Sports Tennis" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-Tennis.png" group-title="🤠国际体育",Sky Sports Tennis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=711
-#EXTINF:-1 tvg-id="SkySp F1" tvg-name="Sky Sports F1" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/Sky-Sports-F1.png" group-title="🤠国际体育",Sky Sports F1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=712
-#EXTINF:-1 tvg-id="La Liga TV" tvg-name="La Liga TV" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/La-Liga-TV.png" group-title="🤠国际体育",La Liga TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=713
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" http-referer="https://new-player.lioncdn.net/" tvg-logo="https://static.188766.xyz/logo/sln162/iptv-back/logo/Eurosport-2.png" group-title="🤠国际体育",Eurosport 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 Edg/143.0.0.0
-#EXTVLCOPT:http-referer=https://new-player.lioncdn.net/
-#EXTVLCOPT:referer=https://new-player.lioncdn.net/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://new-player.lioncdn.net/
-http://tv123.vvvv.ee/live.php/?ch=714
 #EXTINF:-1 tvg-id="CCTV1综合" tvg-name="CCTV1综合" tvg-logo="" group-title="🌀試看I",CCTV1综合
 http://tv123.vvvv.ee/live.php/?ch=715
 #EXTINF:-1 tvg-id="CCTV2财经" tvg-name="CCTV2财经" tvg-logo="" group-title="🌀試看I",CCTV2财经
