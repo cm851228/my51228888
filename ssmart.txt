@@ -251,7 +251,6 @@ CGTN 中国新闻,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab
 上海纪实,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/OT7EQYfENKbejskeleg09rdlSC8JNuTIztcp3-HHwSaoBEyw9fNbYRJ8lzDnb5ULH6O4f7pNzrGu9jThqfef4i.m3u8
 
 港澳vpstv,#genre#
-ua=hls-gateway.vpstv.net
 黃金翡翠台,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/9QHcp58qPiIDQ8blOV7nPIM3pC0ciK9vpdizHnXCKWI6-aW_H3AG5SPKjnktJKGVPm6AcNGSPc5nAPgn9GwSyC.m3u8
 TVB翡翠台 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/t2jnBOuC5LAK7lHj9viCRIbs3EHckTtqMunjJfy3wpC13WICrYCubwt1bWwlG6-0ah-My7-BjZ9WLMEKRn4yXP.m3u8
 TVB明珠台 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/FqGGF12GfDYYbeFP5glSh_oxUK-kdDYB-TY2ZiO3qpOWhJTPkhcc81Ts7eZaa27N4Pjdx20W9Ff1u2HBvDXZhP.m3u8
@@ -335,7 +334,6 @@ TVB粤语片澳洲,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709da
 1905邵氏电影,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/28fPnnKth0CsaVFuqH2HxqI3MgY_8VOANYdV0pD4DVlBWNXxgIwxgtWSgtTWXwKw8Zz4JWA74-Z4hep66oBP07.m3u8
 
 新加坡vpstv,#genre#
-ua=hls-gateway.vpstv.net
 Channel 5,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/bLemCfpR7QI8iJDHPNyj7GGzRnTVxo4CW2E6QOs9dOmuVFnOWdlC95nbcYh2Vfbz0fxUwe3aLcBgNXTKbIbX.m3u8
 Channel 8,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/rff9eRwTfGAKUix-LAQw6SU4O4gaEtocUfkqQ0YsbSzdDmvSecs_GPWvMbjrwh6CgJr0Shzk0ISuzBI2m2Or.m3u8
 Channel U,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/ytlt7BnozGp4xLqtBKeGX0YC5Na8AUnNBeQDfbGSPHzWSICOipaXbsDo4igs9NbAkc_Cnp94tpD9EmnkZBcaii.m3u8
@@ -428,7 +426,6 @@ Cinema World,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052
 ABC NENS LIVE,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/ZtIgqXLVPJUDqbimd-2vPyyPiSlavNW6n5n-QguOvmhhwgWabNSPy3XemxaxKdY-pwJFczlWja55uZEabTXcM7.m3u8
 
 台灣vpstv,#genre#
-ua=hls-gateway.vpstv.net
 CNN,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/_OHxU8QCrIhNmMD_Xj4W8K6pjKdx502rKeZRA9xFOLawK_aDsmXF307f7nWJJbYtRTNSlZHiuvinQgpiRQANDC.m3u8
 民視 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/WpL9aobjTbY2DXJKWx7PZcOJdVYljAkR0wtuIH3ewXznJw7TFchBWXKGCcSsRsoY251kYQi2v81i2y84hB2b5P.m3u8
 人间卫视 HD,https://hls-gateway.vpstv.net/sstreams/2rvhz4xpg384/d1b9709dab83052b/DNq3BRkoccNB4Kwkwf8ery0S2PeZb-dhe90HMzVcpp8iqM-odORKohRK71rAj7CDthTsAAzgaJrogDqileQO.m3u8
