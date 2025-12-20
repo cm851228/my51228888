@@ -74,6 +74,66 @@ tvod澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 
 
 
+JULI,#genre#
+Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+天映马来西亚,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+天映经典频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+星河频道,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+翡翠台,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+TVB PLUS,http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+HOY TV,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+VIUTVSIX,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+TV 31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+TV 32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+澳视卫星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+澳视体育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+凤凰卫视中文台,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+凤凰卫视资讯台,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+凤凰卫视香港台,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+CCTV1,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+深圳卫视,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
+深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
+第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
+重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+龙华偶像,http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
+
+
+
 马港直播,#genre#
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
@@ -289,6 +349,18 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 
 
 
+广东荔枝网,#genre#
+大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
+广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
+广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
+广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
+广东嘉佳卡通,http://220.231.188.194:8088/hls/27/index.m3u8
+CCTV6,http://220.231.188.194:8088/hls/26/index.m3u8
+汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
+汕尾生活,https://iswtv.swrtv.com/live/whshpd.m3u8
+
+
+
 广东酒店,#genre#
 1广东珠江,http://m.061899.xyz/mg/gdzj
 2广东民生,http://m.061899.xyz/mg/gdms
@@ -313,18 +385,6 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 1广东民生频道,http://m.061899.xyz/mg/gdms
 1广东新闻频道,http://m.061899.xyz/mg/gdxw
 无线功夫频标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
-
-
-
-广东荔枝网,#genre#
-大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
-广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
-广东卫视,http://220.231.188.194:8088/hls/28/index.m3u8
-广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
-广东嘉佳卡通,http://220.231.188.194:8088/hls/27/index.m3u8
-CCTV6,http://220.231.188.194:8088/hls/26/index.m3u8
-汕尾综合,https://iswtv.swrtv.com/live/xwzhpd.m3u8
-汕尾生活,https://iswtv.swrtv.com/live/whshpd.m3u8
 
 
 
@@ -376,124 +436,6 @@ CCTV17农业农村,http://183.57.248.230:8183/tsfile/live/0016_1.m3u8
 7广东新闻高清,http://183.7.146.94:20443/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0
 8嘉佳卡通高清,http://183.7.146.94:20443/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-
-港澳smt2,#genre#
-TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-天映马来西亚,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-天映经典频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
-八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-翡翠台,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
-TVB PLUS,http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-HOY TV,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-VIUTVSIX,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
-NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-TV 31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-TV 32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-澳视卫星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-澳视体育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-凤凰卫视中文台,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-凤凰卫视资讯台,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-凤凰卫视香港台,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-CCTV1,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-深圳卫视,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
-深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
-第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-龙华偶像,http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
-
-
-JULI,#genre#
-TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
-翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
-美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
-天映马来西亚,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
-天映经典频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
-爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
-八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
-Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
-Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
-Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
-Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
-翡翠台,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
-无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
-明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
-TVB PLUS,http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
-HOY TV,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-VIUTVSIX,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
-NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-TV 31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-TV 32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
-澳视卫星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
-澳视体育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-凤凰卫视中文台,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
-凤凰卫视资讯台,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
-凤凰卫视香港台,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
-CCTV1,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
-五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
-深圳卫视,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
-深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
-第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
-重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
-龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
-龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
-龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
-龙华偶像,http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
-龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
-龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
-龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 
 
 4GTV,#genre#
@@ -612,6 +554,66 @@ PET CLUB TV,https://4gtv.946985.filegear-sg.me/playlist?channel=Pet%20Club%20TV
 东森购物二台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%BA%8C%E5%8F%B0
 东森购物三台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E4%B8%89%E5%8F%B0
 东森购物四台,https://4gtv.946985.filegear-sg.me/playlist?channel=%E6%9D%B1%E6%A3%AE%E8%B3%BC%E7%89%A9%E5%9B%9B%E5%8F%B0
+
+
+
+港澳smt2,#genre#
+TVB1,http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+TVBJ1,http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+TVB亚洲武侠,http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+娱乐新闻台,http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+翡翠台,http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+TVB星河,http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+TVB星河,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Xinhe
+翡翠剧集台,http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+千禧经典台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvbclassic
+美亚电影台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=meiyamovie_twn
+天映马来西亚,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial
+天映经典频道,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
+爱奇艺,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
+八度空间,http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+CH5,http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+CH8,http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+CHU,http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+Astro欢喜台,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Huahee
+Astro AOD,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Aodhd
+Astro AEC,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=AEC
+Astro QJ,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Quanjia
+翡翠台,http://mytv.veryfast.filegear-sg.me/hls/fct/playlist.m3u8
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+翡翠台,http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+无线新闻台,http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+明珠台,http://cdn6.veryfast.filegear-sg.me/live/mzt/stream.m3u8
+明珠台,http://o12.veryfast.filegear-sg.me/hls/mzt/playlist.m3u8
+TVB PLUS,http://cdn6.veryfast.filegear-sg.me/live/tvbp/stream.m3u8
+HOY TV,http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+VIUTV,http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+VIUTVSIX,http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=viusix_twn
+NOW新闻台,http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+TV 31,http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+TV 32,http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+澳视澳门,http://cdn6.veryfast.filegear-sg.me/live/asam/stream.m3u8
+澳视卫星,http://cdn6.veryfast.filegear-sg.me/live/as/stream.m3u8
+澳视体育,http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+凤凰卫视中文台,http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+凤凰卫视资讯台,http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+凤凰卫视香港台,http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+CCTV1,http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+广东珠江,http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+广东体育,http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+五星体育,http://cdn3.veryfast.filegear-sg.me/live/wxty/stream.m3u8
+深圳卫视,http://cdn3.veryfast.filegear-sg.me/live/szws4k/stream.m3u8
+深圳财经生活,http://cdn3.veryfast.filegear-sg.me/live/szcjsh/stream.m3u8
+第一财经,http://cdn3.veryfast.filegear-sg.me/live/dycj/stream.m3u8
+重温经典,http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+龙华电影,http://cdn8.veryfast.filegear-sg.me/live/lhdy/stream.m3u8
+龙华经典,http://cdn8.veryfast.filegear-sg.me/live/lhjd/stream.m3u8
+龙华卡通,http://cdn8.veryfast.filegear-sg.me/live/lhkt/stream.m3u8
+龙华偶像,http://cdn8.veryfast.filegear-sg.me/live/lhox/stream.m3u8
+龙华日韩,http://cdn8.veryfast.filegear-sg.me/live/lhrh/stream.m3u8
+龙华戏剧,http://cdn8.veryfast.filegear-sg.me/live/lhxj/stream.m3u8
+龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 
 
 
@@ -11093,7 +11095,6 @@ TV OKEY,video://https://rtmklik.rtm.gov.my/live/okey
 
 
 四季探嗅,#genre#
-ads=static-mozai.4gtv.tv
 民视 HD,video://https://m.4gtv.tv/channel/4gtv-4gtv002?set=1&ch=3
 民视第一台,video://https://m.4gtv.tv/channel/4gtv-4gtv003?set=1&ch=1
 民视台湾台,video://https://m.4gtv.tv/channel/4gtv-4gtv001?set=1&ch=2
