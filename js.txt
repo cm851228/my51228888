@@ -133,6 +133,23 @@ CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 龙华洋片,http://cdn8.veryfast.filegear-sg.me/live/lhyp/stream.m3u8
 
 
+Stream多音轨,#genre#
+Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
+翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+HBO,http://167.de5.net/bbb/115/master.m3u8
+翡翠台,http://50.7.158.194:8277/jade_twn/playlist.m3u8
+
+
 
 马港直播,#genre#
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
@@ -254,24 +271,6 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-
-
-
-Stream多音轨,#genre#
-Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
-翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
-华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
-Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
-Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
-翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
-TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
-HBO,http://167.de5.net/bbb/115/master.m3u8
-翡翠台,http://50.7.158.194:8277/jade_twn/playlist.m3u8
 
 
 
