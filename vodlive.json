@@ -452,21 +452,14 @@
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
         },
 {
-            "key": "油管云",
-            "name": "油管云",
+            "key": "GUAZI(wex)",
+            "name": "瓜子影视",
             "type": 3,
-            "api": "csp_Youtube",
             "searchable": 1,
-            "quickSearch": 0,
-            "playerType": 2,
-            "timeout": 60,
-            "changeable": 0,
-            "ext": {
-            "type": "@中国新闻直播#@新闻直播live#@phoenixtvhk live#@8worldsg live#@ntdaptv live#@Berita rtm live#@astroawani live#@Live Chinese news#@8tvmandarinnews live#@cartoon live#@mediacorpdrama playlist#@cartoon Cantonese playlist#@ultraman playlist#@Mr Bean playlist#@8-hkmovie#@netflix full episode#@8tvaddicts#@astrobdq#@外来媳妇本地郎全部#@七十二家房客全部#@无线电视剧在线看#@香港电视剧在线看#胖子视界#阿胖山#香港怪谈#象棋八妹#陈师傅开挖机#周星驰粤语电影#粤语电影#荒野求生#自然传奇#国家地理野生#探索频道求生纪录片#原始部落纪录片#CCTV9记录片#国家地理频道#纪录片#人与自然#盘点那些感人瞬间#监控下真实一幕#盘点那些#天网#一线#粤语长片#粤语记录片#tonton粤语频道#粤睇粤配粤精彩#温油辣辣U#密子君#李子柒#极地探险#广东卫视你会怎么样做#广东电视#非洲小五#美食星球#亚洲旅游台#动物星球#动物世界#我爱返寻味#舌尖上的中国#老廣的味道#美食大三通#食尚玩家#爱玩客#美食#粤语卡通#国语卡通#沙雕动漫#兔小贝#儿童#儿歌#儿童早教#儿童歌曲#儿童音乐#儿童绘画#儿童动画#儿童启蒙故事#儿童英语启蒙#儿童安全教育#睡前故事#贝瓦儿歌#宝宝巴士#儿歌多多#学而思#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#寻找他乡的故事#远方的家#游牧民族#马来西亚#新加坡#老挝#越南#缅甸#泰国#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#记住乡愁#格斗比赛#泰拳比赛#WWE#粤语MV#国语MV#演唱会#MV#歌曲#粤剧#戏曲#音乐#4K#电影#电视剧#影视#娱乐#搞笑#动画#相声小品"
+            "quickSearch": 1,
+            "api": "csp_Gz360",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
             
-            },
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
-      
         },
 {
             "key": "低版儿童",
@@ -515,6 +508,93 @@
             },
              "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
             
+        },
+{
+            "key": "油管云",
+            "name": "油管云",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "playerType": 2,
+            "timeout": 60,
+            "changeable": 0,
+            "ext": {
+            "type": "@中国新闻直播#@新闻直播live#@phoenixtvhk live#@8worldsg live#@ntdaptv live#@Berita rtm live#@astroawani live#@Live Chinese news#@8tvmandarinnews live#@cartoon live#@mediacorpdrama playlist#@cartoon Cantonese playlist#@ultraman playlist#@Mr Bean playlist#@8-hkmovie#@netflix full episode#@8tvaddicts#@astrobdq#@外来媳妇本地郎全部#@七十二家房客全部#@无线电视剧在线看#@香港电视剧在线看#胖子视界#阿胖山#香港怪谈#象棋八妹#陈师傅开挖机#周星驰粤语电影#粤语电影#荒野求生#自然传奇#国家地理野生#探索频道求生纪录片#原始部落纪录片#CCTV9记录片#国家地理频道#纪录片#人与自然#盘点那些感人瞬间#监控下真实一幕#盘点那些#天网#一线#粤语长片#粤语记录片#tonton粤语频道#粤睇粤配粤精彩#温油辣辣U#密子君#李子柒#极地探险#广东卫视你会怎么样做#广东电视#非洲小五#美食星球#亚洲旅游台#动物星球#动物世界#我爱返寻味#舌尖上的中国#老廣的味道#美食大三通#食尚玩家#爱玩客#美食#粤语卡通#国语卡通#沙雕动漫#兔小贝#儿童#儿歌#儿童早教#儿童歌曲#儿童音乐#儿童绘画#儿童动画#儿童启蒙故事#儿童英语启蒙#儿童安全教育#睡前故事#贝瓦儿歌#宝宝巴士#儿歌多多#学而思#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#寻找他乡的故事#远方的家#游牧民族#马来西亚#新加坡#老挝#越南#缅甸#泰国#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#记住乡愁#格斗比赛#泰拳比赛#WWE#粤语MV#国语MV#演唱会#MV#歌曲#粤剧#戏曲#音乐#4K#电影#电视剧#影视#娱乐#搞笑#动画#相声小品"
+            
+            },
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
+      
+        },
+{
+            "key": "外来媳妇本地郎推送",
+            "name": "外来媳妇本地郎推送",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "playerType": 2,
+            "timeout": 60,
+            "changeable": 0,
+            "ext": {
+            "type": "@中国新闻直播#外来媳妇本地郎第一季高清推送#外来媳妇本地郎第二季高清推送#外来媳妇本地郎第三季高清推送#外来媳妇本地郎第四季高清推送#外来媳妇本地郎第五季高清推送#外来媳妇本地郎第六季高清推送#外来媳妇本地郎第七季高清推送#外来媳妇本地郎第八季高清推送#外来媳妇本地郎第九季高清推送#外来媳妇本地郎第十季高清推送#外来媳妇本地郎第十一季高清推送#外来媳妇本地郎第十二季高清推送#外来媳妇本地郎第十三季高清推送#外来媳妇本地郎第十四季高清推送#外来媳妇本地郎第十五季高清推送#外来媳妇本地郎第十六季高清推送#外来媳妇本地郎第十七季高清推送#外来媳妇本地郎第十八季高清推送"
+            
+            },
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
+      
+        },
+{
+            "key": "七十二家房客推送",
+            "name": "七十二家房客推送",
+            "type": 3,
+            "api": "csp_Youtube",
+            "searchable": 1,
+            "quickSearch": 0,
+            "playerType": 2,
+            "timeout": 60,
+            "changeable": 0,
+            "ext": {
+            "type": "@中国新闻直播#七十二家房客第一季高清推送#七十二家房客第二季高清推送#七十二家房客第三季高清推送#七十二家房客第四季高清推送#七十二家房客第五季高清推送#七十二家房客第六季高清推送#七十二家房客第七季高清推送#七十二家房客第八季高清推送#七十二家房客第九季高清推送#七十二家房客第十季高清推送#七十二家房客第十一季高清推送#七十二家房客第十二季高清推送#七十二家房客第十三季高清推送#七十二家房客第十四季高清推送#七十二家房客第十五季高清推送#七十二家房客第十六季高清推送#七十二家房客第十七季高清推送#七十二家房客第十八季高清推送"
+            
+            },
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
+      
+        },
+{
+            "key": "质优云",
+            "name": "质优云",
+            "type": 1,
+            "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "泰国剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动画片",
+                "纪录片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+            ]
         },
 {
             "key": "Guazipg",
@@ -683,22 +763,24 @@
             ]
         },
 {
-            "key": "质优云",
-            "name": "质优云",
+            "key": "wujin",
+            "name": "无尽云",
             "type": 1,
-            "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
+            "api": "http://api.wujinapi.me/api.php/provide/vod/?ac=list",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+            "changeable": 1,
             "categories": [
                 "香港剧",
                 "国产剧",
                 "台湾剧",
-                "泰国剧",
+                "泰剧",
                 "韩国剧",
                 "日本剧",
-                "欧美剧",
+                "美国剧",
                 "海外剧",
+                "邵氏电影",
                 "动作片",
                 "喜剧片",
                 "爱情片",
@@ -706,16 +788,20 @@
                 "恐怖片",
                 "剧情片",
                 "战争片",
-                "动画片",
                 "纪录片",
+                "动画片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
                 "港台综艺",
                 "大陆综艺",
                 "欧美综艺",
                 "日韩综艺",
-                "港台动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫"
+                "港台动画",
+                "国产动画",
+                "日韩动画",
+                "欧美动画",
+                "体育赛事"
             ]
         },
 {
@@ -780,16 +866,6 @@
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
             
         }, 
-{
-            "key": "GUAZI(wex)",
-            "name": "瓜子",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_Gz360",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
-            
-        },
 {
          "key":"Qile优视频",
          "name":"优视频",
@@ -2074,48 +2150,6 @@
             "quickSearch": 1,
             "filterable": 1
             
-        },
-{
-            "key": "wujin",
-            "name": "无尽云",
-            "type": 1,
-            "api": "http://api.wujinapi.me/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰剧",
-                "韩国剧",
-                "日本剧",
-                "美国剧",
-                "海外剧",
-                "邵氏电影",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动画片",
-                "悬疑片",
-                "犯罪片",
-                "奇幻片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动画",
-                "国产动画",
-                "日韩动画",
-                "欧美动画",
-                "体育赛事"
-            ]
         },
 {
             "key": "优质云",
