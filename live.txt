@@ -7895,7 +7895,7 @@ Z世代 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serve
 第29集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_xsgsar5c/v/1/pv/1/flavorId/0_bjcsjnl8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第30集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_yh71hkvz/v/1/pv/1/flavorId/0_r2fbxypq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 最火搭档 1-2,#genre#
-最火搭档 第1季 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_m288g86l/v/1/pv/1/flavorId/0_i5uoldpm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+最火搭档 第1季 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_m288g86l/v/1/pv/1/ev/1/flavorId/0_pigaqlu3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_4m3ws09p/v/2/pv/1/ev/11/flavorId/0_e0n27x4r/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_yekpei80/v/2/pv/1/ev/11/flavorId/0_84gaxzwp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_bk87d1n5/v/2/pv/1/ev/11/flavorId/0_gy4p7xr8/name/a.mp4/index.m3u8/index-v1-a1.m3u8

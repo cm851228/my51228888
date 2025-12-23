@@ -8366,6 +8366,48 @@
 第三十一集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_pk51kno1/v/2/pv/1/ev/11/flavorId/0_rz93boni/name/a.mp4/index.m3u8/index-v1-a1.m3u8/index-v1-a1.m3u8
 第三十二集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_vfc7eyh7/v/2/pv/1/ev/11/flavorId/0_lrx7f84c/name/a.mp4/index.m3u8/index-v1-a1.m3u8/index-v1-a1.m3u8
 
+新最火搭档,#genre#
+最火搭档 第1季 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_m288g86l/v/1/pv/1/ev/1/flavorId/0_pigaqlu3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_4m3ws09p/v/2/pv/1/ev/11/flavorId/0_e0n27x4r/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_yekpei80/v/2/pv/1/ev/11/flavorId/0_84gaxzwp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_bk87d1n5/v/2/pv/1/ev/11/flavorId/0_gy4p7xr8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_dkwvtfgb/v/2/pv/1/ev/11/flavorId/0_frzerqhg/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_wawhlvjs/v/2/pv/1/ev/11/flavorId/0_s37tzjzu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_pw80y0ee/v/2/pv/1/ev/11/flavorId/0_tv9287ci/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_sym1wqfg/v/2/pv/1/ev/11/flavorId/0_mftk97kx/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_2mryxwk4/v/2/pv/1/ev/11/flavorId/0_2jqyrm7o/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_7jadwrk2/v/2/pv/1/ev/11/flavorId/0_8hbwhp5e/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_6sun2a7k/v/2/pv/1/ev/11/flavorId/0_yyqawpi7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_shgfcyge/v/2/pv/1/ev/11/flavorId/0_qf0lgfx6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_f5uu9ec8/v/2/pv/1/ev/11/flavorId/0_8fjyvn74/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_rly9hop8/v/2/pv/1/ev/11/flavorId/0_wbzturti/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_ye2xmr4q/v/2/pv/1/ev/11/flavorId/0_aweg1ej3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_ns7sn8m1/v/2/pv/1/ev/11/flavorId/0_9nuqkmtv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_leaothle/v/2/pv/1/ev/11/flavorId/0_0httr83y/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_hw8lilrk/v/2/pv/1/ev/11/flavorId/0_zg24voro/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_eesyjc9z/v/2/pv/1/ev/11/flavorId/0_d29tno7q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_yvtxfg2t/v/2/pv/1/ev/11/flavorId/0_9bwi4041/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+最火搭档 第2季 第一集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_k707isvk/v/2/pv/1/ev/11/flavorId/0_dape34lh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第二集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_w30d5kvr/v/2/pv/1/ev/11/flavorId/0_ea3n45zc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第三集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_zxp1983j/v/2/pv/1/ev/11/flavorId/0_0mqaiosl/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第四集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_0vt9rtbr/v/2/pv/1/ev/12/flavorId/0_fox3t3z6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第五集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_yxbykmk8/v/2/pv/1/ev/11/flavorId/0_7wcf8be3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第六集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_frpv7pr1/v/2/pv/1/ev/11/flavorId/0_2rcl3fv2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第七集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_dshh8ntk/v/2/pv/1/ev/11/flavorId/0_xjdskf9k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第八集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_1fpmlif1/v/2/pv/1/ev/11/flavorId/0_t85c2f02/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第九集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_obw421y0/v/2/pv/1/ev/11/flavorId/0_nt726oeb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_ihqhzeoa/v/2/pv/1/ev/11/flavorId/0_px57u3zp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十一集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_ya2rsoob/v/2/pv/1/ev/11/flavorId/0_uwby1s2y/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十二集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_3k1n8nfq/v/2/pv/1/ev/11/flavorId/0_o1qbqdiu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十三集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_bo6p9utl/v/2/pv/1/ev/11/flavorId/0_15t66j32/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十四集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_e24gur3c/v/12/pv/1/ev/9/flavorId/0_j6ubrrgg/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十五集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_pi9379tc/v/2/pv/1/ev/11/flavorId/0_09cheqf8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十六集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_8op8w72z/v/2/pv/1/ev/11/flavorId/0_n99vi70u/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十七集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_sxws0y9e/v/2/pv/1/ev/11/flavorId/0_fsah5boo/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十八集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_tud89uv5/v/2/pv/1/ev/11/flavorId/0_pt6mfzs3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第十九集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_khxtyk2k/v/2/pv/1/ev/11/flavorId/0_zoh98c9d/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第二十集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_fj0qoqrt/v/2/pv/1/ev/11/flavorId/0_dv9p2bpd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
 新线人,#genre#
 线人 S1 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_yygwjojk/v/12/pv/1/flavorId/0_8fyvudf1/name/a.mp4/index.m3u8/index-v1-a1.m3u8/index-v1-a1.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_d33nqx5h/v/32/pv/1/flavorId/0_n5vr67v3/name/a.mp4/index.m3u8/index-v1-a1.m3u8/index-v1-a1.m3u8/index-v1-a1.m3u8
