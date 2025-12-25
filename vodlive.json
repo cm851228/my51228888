@@ -831,42 +831,6 @@
             
         },
 {
-            "name": "苹果库",
-            "key": "本地苹果",
-            "type": 3,
-            "api": "csp_XpgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
-        },
-{
-            "name": "金牌库",
-            "key": "本地金牌",
-            "type": 3,
-            "api": "csp_JinPaiAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
-        },
-{
-            "name": "爱瓜库",
-            "key": "本地爱瓜",
-            "type": 3,
-            "api": "csp_AiGuaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
-        }, 
-{
          "key":"Qile优视频",
          "name":"优视频",
          "type":3,
@@ -1227,115 +1191,6 @@
             }
         },
 {
-            "name": "🍉找短剧",
-            "key": "找短剧",
-            "type": 3,
-            "api": "csp_HgggAmns",
-            "indexs": 1,
-            "searchable": 0,
-            "filterable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🎦豪堪短剧",
-            "key": "豪堪短剧",
-            "type": 3,
-            "api": "csp_HHkkAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "📺盒马短剧",
-            "key": "盒马短剧",
-            "type": 3,
-            "api": "csp_HemaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🎞️拜拜短剧",
-            "key": "拜拜短剧",
-            "type": 3,
-            "api": "csp_BddjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🐠锦鲤短剧",
-            "key": "锦鲤短剧",
-            "type": 3,
-            "api": "csp_JLdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🍩甜圈短剧",
-            "key": "甜圈短剧",
-            "type": 3,
-            "api": "csp_TQdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🐱喵喵短剧",
-            "key": "喵喵短剧",
-            "type": 3,
-            "api": "csp_QmdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "⭐星星短剧",
-            "key": "星星短剧",
-            "type": 3,
-            "api": "csp_XydjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🎂岁岁短剧",
-            "key": "岁岁短剧",
-            "type": 3,
-            "api": "csp_SpdjAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        }, 
-{
             "key": "采集资源T4",
             "name": "采集资源(T4)",
             "type": 4,
@@ -1346,55 +1201,302 @@
             "changeable": 0
         },
 {
-      "key": "py_64832281816dd9a7b7c506233d457a5d",
-      "name": "官方采集(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/v2/spider?site=64832281816dd9a7b7c506233d457a5d",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
+            "key": "韩剧看看(ku)",
+            "name": "韩剧影视(ku)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "http://rihou.cc:88/xb/韩剧看看.json",
+            "jar": "http://rihou.cc:88/jar/xbpq.jar"
+        },
+{
+            "key": "瓜子影视(ku)",
+            "name": "瓜子影视(ku)",
+            "type": 3,
+            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
+            "api": "csp_GuaziGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "danmu": true
+            },
+            "timeout": 30
+        },
+{
+            "key": "bilimd(ku)",
+            "name": "哔哩影视(ku)",
+            "type": 3,
+            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
+            "api": "csp_BilimdGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "cookie": ""
+        },
+{
+            "key": "晚晚影视(ku)",
+            "name": "晚晚影视(ku)",
+            "type": 3,
+            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251223/HDAF/12231322.png;md5;981a663a441e22d9f735d02cba5520ed",
+            "api": "csp_Wwys",
+            "ext": "https://vip.wwgz.cn:5200"
+        },
+{
+            "key": "柠檬(ku)",
+            "name": "柠檬影视(ku)",
+            "type": 3,
+            "api": "csp_Nmvod",
+            "playerType": 2,
+            "jar": "https://gitee.com/senno/tvbox/raw/master/jar/巧技.jar",
+            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+        },
+{
+            "key": "泥泥视频(ku)",
+            "name": "泥视影视(ku)",
+            "type": 3,
+            "api": "http://rihou.cc:88/js/drpy2.min.js",
+            "ext": "http://rihou.cc:88/js/泥泥视频.js"
+        },
+{
+            "key": "py_两个BTPY(ku)",
+            "name": "2BT影视(ku)",
+            "api": "http://rihou.cc:88/py/两个BT.py",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+{
+            "key": "剧梦(ku)",
+            "name": "剧梦影视(ku)",
+            "type": 3,
+            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251223/HDAF/12231322.png;md5;981a663a441e22d9f735d02cba5520ed",
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.jumengwu.com",
+                "dataKey": "1f0a873caf2550a5",
+                "dataIv": "1f0a873caf2550a5"
+            }
+        },
+{
+            "key": "ETQM(ku)",
+            "name": "幼儿教育(ku)",
+            "type": 3,
+            "jar": "https://play.iptv365.org/肥猫/spider.jar",
+            "api": "https://play.iptv365.org/肥猫/api/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "playerType": 2,
+            "timeout": 30,
+            "ext": "https://play.iptv365.org/肥猫/js/兔小贝.js"
+        },
+{
+            "key": "少儿教育(ku)",
+            "name": "少儿教育(ku)",
+            "type": 3,
+            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
+            "api": "csp_BiliGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/32EF375_773_bilisejy_20251204150311837newMediaFile.bmp"
+            }
+        },
+{
+            "key": "小学课堂(ku)",
+            "name": "小学教育(ku)",
+            "type": 3,
+            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
+            "api": "csp_BiliGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "playerType": 2,
+            "timeout": 30,
+            "changeable": 0,
+            "ext": {
+                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3753221_773_bilixxkt_20251204150347660newMediaFile.bmp"
+            }
+        },
+{
+      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
+      "key": "獨播庫(T4)",
+      "name": "獨播庫(T4)",
+      "type": 4
     },
 {
-      "key": "py_9037cfae7c64405111e0e364401adb60",
-      "name": "小苹果(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/v2/spider?site=9037cfae7c64405111e0e364401adb60",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "py_OleVodt4",
-      "name": "欧乐影院(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=OleVod",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
+         "api":"https://newtv.ggff.net/guazi?token=P69Phb_y",
+         "key":"瓜子庫(T4)",
+         "name":"瓜子庫(T4)",
+         "type":4
+     },
+{
+      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
+      "key": ". 歐樂庫(T4)",
+      "name": "歐樂庫(T4)",
+      "type": 4
+    },     
+{
+         "api":"https://newtv.ggff.net/pingguo?token=P69Phb_y",
+         "key":"蘋果庫(T4)",
+         "name":"蘋果庫(T4)",
+         "type":4
+      },
+{
+      "api": "https://tvbot.dpdns.org/py_jinpai.py",
+      "key": "金牌庫(T4)",
+      "name": "金牌庫(T4)",
+      "type": 3
     },
 {
-      "key": "py_Dm84t4",
-      "name": "动漫巴士(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/spider?site=Dm84",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
+      "api":"https://newtv.ggff.net/jubaba?token=P69Phb_y",
+      "key":"劇霸庫(T4)",
+      "name":"劇霸庫(T4)",
+      "type":4
+       },
 {
-      "key": "py_粤漫之家",
-      "name": "粤漫之家(T4)",
-      "type": 4,
-      "api": "https://py.doube.eu.org/v2/spider?site=de0fbc805050ecc4d63971c109724d0e",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
+         "api":"https://newtv.ggff.net/yongle?token=P69Phb_y",
+         "key":"永樂庫(T4)",
+         "name":"永樂庫(T4)",
+         "type":4
+      },
+{
+         "api":"https://newtv.ggff.net/aigua?token=P69Phb_y",
+         "key":"愛瓜庫(T4)",
+         "name":"愛瓜庫(T4)",
+         "type":4
+      },
+{
+         "api":"https://newtv.ggff.net/uvod?token=P69Phb_y",
+         "key":"優視頻庫(T4)",
+         "name":"優視頻庫(T4)",
+         "type":4
+      }, 
+{
+      "api":"https://newtv.ggff.net/ikanbot?token=P69Phb_y",
+      "key": "爱看机器人庫(T4)",
+      "name": "爱看机器人庫(T4)",
+      "type": 4
+     },
+{
+            "key": "t1_dian_ying_tian_tang_02",
+            "name": "🍎 电影天堂 (T1)",
+            "type": 1,
+            "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at/json/?ac=list",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "playUrl": "json:https://py.doube.eu.org/parse_dytt?url=",
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "香港剧",
+                "韩国剧",
+                "欧美剧",
+                "记录片",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "港台动漫",
+                "伦理片",
+                "短剧",
+                "动画片"
+            ]
+        },
+        {
+            "key": "py_小苹果",
+            "name": "🍎 小苹果 (T4)",
+            "type": 4,
+            "api": ".https://py.doube.eu.org/static/v2/spider?site=9037cfae7c64405111e0e364401adb60",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_官方采集789",
+            "name": "🍎 官方采集789 (T4)",
+            "type": 4,
+            "api": ".https://py.doube.eu.org/static/v2/spider?site=006849a2c19a6be413be5017be468c63",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_动漫巴士",
+            "name": "🍎 动漫巴士 (T4)",
+            "type": 4,
+            "api": ".https://py.doube.eu.org/static/v2/spider?site=6b5899d243816bacb8712de7ab6ceb89",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_欧乐影院",
+            "name": "🍎 欧乐影院 (T4)",
+            "type": 4,
+            "api": ".https://py.doube.eu.org/static/v2/spider?site=8a0bbe9e97c4429a517cd2ece3f6772b",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_小红影视",
+            "name": "🍎 小红影视 (T4)",
+            "type": 4,
+            "api": ".https://py.doube.eu.org/static/v2/spider?site=01d44f1ecd9383f273c0c24989ad87c3",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_低端影视",
+            "name": "🍎 低端影视 (T4)",
+            "type": 4,
+            "api": ".https://py.doube.eu.org/static/v2/spider?site=a4108870c8bac363add59bf0101e2884",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+        {
+            "key": "py_新韩剧网",
+            "name": "🍎 新韩剧网 (T4)",
+            "type": 4,
+            "api": ".https://py.doube.eu.org/static/v2/spider?site=2a7cc0edf96108c9d57420ff57c654c6",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
 {
             "key": "高版哔哩",
             "name": "哔哩(FM)",
@@ -2122,24 +2224,6 @@
                 "json": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/MTV.json"
             }
         },
-{
-      "key": "采集集合1818",
-      "name": "采集1(zq)",
-      "type": 1,
-      "api": "http://zhangqun1818.serv00.net/cjjh.php",
-      "searchable": 1,
-      "changeable": 1
-      
-    },
-{
-      "key": "采集集合z66",
-      "name": "采集2(zq)",
-      "type": 1,
-      "api": "http://zhangqun66.xyz/cjjh.php",
-      "searchable": 1,
-      "changeable": 1
-      
-    },
 {
             "key": "modu",
             "name": "动漫云",
