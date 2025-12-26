@@ -175,6 +175,7 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 寵爱,http://c1.rrcdnbf5.com/video/chongai2024/HD中字/index.m3u8
 奇妙幽靈,http://v.fengbao8.com/video/qimiaoyouling/高清/index.m3u8
 白头山,http://s4.bfzycdn.com/video/baitoushan/HD中字/index.m3u8
+對決,http://s6.bfzycdn.com/video/duijue2016/HD中字/index.m3u8
 四等,http://s6.bfzycdn.com/video/4deng/HD%E4%B8%AD%E5%AD%97/index.m3u8
 玉子,http://vip1.lz-cdn1.com/20230816/21847_f9493b81/2000k/hls/mixed.m3u8
 奇蹟,http://s4.bfzycdn.com/video/qiji2021/HD中字/index.m3u8
@@ -329,6 +330,7 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 
 
 中国单片,#genre#
+忠爱无言,http://s1.bfzycdn.com/video/zhongaiwuyan/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 过年好,http://p.bvvvvvvvvv1f.com/video/guonianhao/HD国语/index.m3u8
 团圆饭,http://p.bvvvvvvvvv1f.com/video/tuanyuanfan/HD国语版/index.m3u8
 凤姐,http://c1.7bbffvip.com/video/fengjie/HD/index.m3u8
@@ -404,11 +406,12 @@ AI拼才会赢,http://p.b8bf.com/video/AIpincaihuiying/HD/index.m3u8
 巨齿鲨1,http://s1.bfzycdn.com/video/juchisha/HD中字/index.m3u8
 巨齿鲨2,http://s5.bfzycdn.com/video/juchisha2shenyuan/HD/index.m3u8
 珍珠港,http://c1.ddbbffcdn.com/video/zhenzhugang/HD%E4%B8%AD%E5%AD%97/index.m3u8
+人造怪物,http://s1.bfzycdn.com/video/renzaoguaiwu/HD国语版/index.m3u8
 夺魂,http://vip.lz-cdn3.com/20230817/21172_91780438/2000k/hls/mixed.m3u8
 因果报应,http://c1.ddbbffcdn.com/video/yinguobaoying/HD/index.m3u8
 致命弯道,http://vip.lz-cdn6.com/20220714/18623_c5a39573/1000k/hls/mixed.m3u8
-2012,http://vip1.lz-cdn1.com/20220520/6235_581c98de/1200k/hls/mixed.m3u8
 強盜保鑣,http://c1.ddbbffcdn.com/video/replacexxx0810/20240920OOkSQXZzindex.m3u8/index.m3u8
+2012,http://vip1.lz-cdn1.com/20220520/6235_581c98de/1200k/hls/mixed.m3u8
 摩托日记,http://s1.bfzycdn.com/video/motuoriji/HD/index.m3u8
 些房是我造的,http://s4.bfzycdn.com/video/cifangshiwozao/HD中字/index.m3u8
 待綻薔薇,http://s1.bfzycdn.com/video/daizhanqiangwei/HD中字/index.m3u8
@@ -668,6 +671,9 @@ Ai人工智慧,http://s1.bfzycdn.com/video/rengongzhineng/HD/index.m3u8
 
 
 香港单片,#genre#
+叔叔,http://s4.bfzycdn.com/video/shushu/HD%E5%9B%BD%E8%AF%AD/index.m3u8
+黑白潛行1,http://c1.rrcdnbf5.com/video/heibaiqianxing/%E7%B2%A4%E8%AF%AD/index.m3u8
+黑白潛行2,http://c1.7bbffvip.com/video/heibaiqianxing2/HD%E7%B2%A4%E8%AF%AD1080P/index.m3u8
 追虎擒龙,http://vip1.lz-cdn1.com/20220317/114_f78b5c24/1200k/hls/mixed.m3u8
 阿龙,http://v.lzcdn27.com/20250923/1553_ed536761/2000k/hls/mixed.m3u8
 非常突然,http://vip1.lz-cdn7.com/20230116/13520_491be61f/2000k/hls/mixed.m3u8

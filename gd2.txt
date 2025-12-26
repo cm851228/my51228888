@@ -19,6 +19,8 @@
 第18集,http://p.bvvvvvvv7f.com/video/benpaobayonggandenvrenmenyueyu/第18集/index.m3u8
 第19集,http://p.bvvvvvvv7f.com/video/benpaobayonggandenvrenmenyueyu/第19集/index.m3u8
 第20集,http://p.bvvvvvvv7f.com/video/benpaobayonggandenvrenmenyueyu/第20集/index.m3u8
+
+
 港新闻女王2,#genre#
 第01集,http://v.fengbao8.com/video/xinwennvwang2yueyu/第01集/index.m3u8
 第02集,http://v.fengbao8.com/video/xinwennvwang2yueyu/第02集/index.m3u8
@@ -15138,6 +15140,21 @@
 第10集,http://v.fengbao8.com/video/qinaideX/第10集/index.m3u8
 第11集,http://v.fengbao8.com/video/qinaideX/第11集/index.m3u8
 第12集,http://v.fengbao8.com/video/qinaideX/第12集/index.m3u8
+
+
+韩死亡医生玛丽,#genre#
+第01集,http://v.fengbao8.com/video/siwangyishengmali/第01集/index.m3u8
+第02集,http://v.fengbao8.com/video/siwangyishengmali/第02集/index.m3u8
+第03集,http://v.fengbao8.com/video/siwangyishengmali/第03集/index.m3u8
+第04集,http://v.fengbao8.com/video/siwangyishengmali/第04集/index.m3u8
+第05集,http://v.fengbao8.com/video/siwangyishengmali/第05集/index.m3u8
+第06集,http://v.fengbao8.com/video/siwangyishengmali/第06集/index.m3u8
+第07集,http://v.fengbao8.com/video/siwangyishengmali/第07集/index.m3u8
+第08集,http://v.fengbao8.com/video/siwangyishengmali/第08集/index.m3u8
+第09集,http://v.fengbao8.com/video/siwangyishengmali/第09集/index.m3u8
+第10集,http://v.fengbao8.com/video/siwangyishengmali/第10集/index.m3u8
+第11集,http://v.fengbao8.com/video/siwangyishengmali/第11集/index.m3u8
+第12集,http://v.fengbao8.com/video/siwangyishengmali/第12集/index.m3u8
 
 
 韩步步惊心,#genre#

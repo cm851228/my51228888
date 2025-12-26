@@ -390,56 +390,6 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 凤凰香港3台,http://r.jdshipin.com/yDoTN
 
 
-央視,#genre#
-c1,https://67886.sdmdbb.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8
-c2,https://67886.sdmdbb.com/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8
-c3,https://67886.sdmdbb.com/livetv/hlcc/cSGhRw7Hg/cSGhRw7Hg_live.m3u8
-c4,https://67886.sdmdbb.com/livetv/hlcc/8rd2RQ7Ng/8rd2RQ7Ng_live.m3u8
-c5,https://67886.sdmdbb.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8
-c6,https://67886.sdmdbb.com/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8
-c7,https://67886.sdmdbb.com/livetv/hlcc/h2VoRQ7HR/h2VoRQ7HR_live.m3u8
-c8,https://67886.sdmdbb.com/livetv/hlcc/VScTgwnHR/VScTgwnHR_live.m3u8
-c9,https://67886.sdmdbb.com/livetv/hlcc/NzboRw7Hg/NzboRw7Hg_live.m3u8
-c10,https://67886.sdmdbb.com/livetv/hlcc/yx8oRw7NR/yx8oRw7NR_live.m3u8
-c13,https://67886.sdmdbb.com/livetv/hlcc/oMBDMw7HR/oMBDMw7HR_live.m3u8
-c16,https://67886.sdmdbb.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8
-
-
-国外频道,#genre#
-HBO,http://148.113.160.49:14187/
-HBO +,http://148.113.160.49:14193/
-HBO FANILY,http://148.113.160.49:14190/
-HBO POP,http://148.113.160.49:14180/
-HBO XTREME,http://148.113.160.49:14175/
-HBO MUNDL,http://148.113.160.49:14183/
-智林体育台,http://211.23.125.95:50007/4gtv-4gtv101/index.m3u8?proxy=true
-AMC米高梅电影,http://148.113.160.49:14207/
-FILM arts,http://148.113.160.49:14210/
-索尼频道，http://148.113.160.49:14206/
-CINEMAX,http://148.113.160.49:14200/
-USA电视,http://148.113.160.49:14133/
-Megapix,http://148.113.160.49:14172/
-Modo Viagem,http://148.113.160.49:14214/
-华纳WBTV,http://148.113.160.49:14130/
-环球国际频道,http://148.113.160.49:14135/
-环球影视频道,http://148.113.160.49:14162/
-TNT剧集频道,http://148.113.160.49:14138/
-TNT电视,http://148.113.160.49:14141/
-TELE CINE FUN,http://148.113.160.49:14155/
-TELE CINE Action,http://148.113.160.49:14159/
-SPACE,http://148.113.160.49:14170/
-BBC NEW,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-ABC News Australia,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
-BBC Earth,https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
-Ayush TV,http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-Wion News,https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-ESPN-1,http://46.151.196.223:14432/
-ESPN-2,http://46.151.196.223:14438/
-ESPN-3,http://46.151.196.223:14444/
-ESPN-4,http://46.151.196.223:14450/
-NOW SPORTS PRIME,http://hls.168.us.kg/u/630/master.m3u8
-
-
 咪咕央视,#genre#
 大湾区卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
 CCTV-9 纪录,https://iptv.catvod.com/live.php?id=CCTV-9%20%E7%BA%AA%E5%BD%95
@@ -549,18 +499,6 @@ CHC影迷电影,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%
 1CHC影迷电影台,https://iptv.catvod.com/live.php?id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1%E5%8F%B0
 2CHC动作电影台,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E5%8F%B0
 3CHC家庭影院台,https://iptv.catvod.com/live.php?id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2%E5%8F%B0
-
-
-Astro,#genre#
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-Astro AOD,https://o11.163189.xyz/stream/live/test/
-华丽翡翠台,https://o11.163189.xyz/stream/live/hlt/
-Astro QJ,https://o11.163189.xyz/stream/live/qj/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-HBO,http://167.de5.net/bbb/115/master.m3u8
-翡翠台,http://50.7.158.194:8277/jade_twn/playlist.m3u8
-
 
 
 央视HDqtv,#genre#
