@@ -20,8 +20,18 @@
         
     },
 {
-        "name": "SmartPY",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_SMT.py"
+        "name": "SuperMyTV",
+        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mytv.txt"
+        
+    },
+{
+        "name": "4GTV",
+        "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u"
+        
+    },
+{
+        "name": "JackTV",
+        "url": "http://php.946985.filegear-sg.me/jackTV.m3u"
         
     },
 {
