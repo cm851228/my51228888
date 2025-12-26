@@ -120,16 +120,6 @@
       "playerType": 1
     },
 {
-            "name": "TVMU",
-            "type": 0,
-            "url": "http://bit.ly/tvmu",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-{
             "name": "线更萌吖",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt",
