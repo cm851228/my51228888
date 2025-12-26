@@ -1,0 +1,161 @@
+{
+    "lives": [
+{
+            "name": "PerfectTV",
+            "type": 0,
+            "url": "https://perfecttv.net/PerfecttvFree.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "SuperMytv",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mytv.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "Web118",
+            "type": 0,
+            "url": "http://anbox118.zya.me/anbox/webplaylist.m3u8.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        }, 
+{
+            "name": "冰茶TV",
+            "type": 0,
+            "url": "http://188766.xyz/itv",
+            "ua": "bingcha/1.1 (mianfeifenxiang) ",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "4GTV",
+            "type": 0,
+            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "JACKTV",
+            "type": 0,
+            "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "线更新剧",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/livesg.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "线更Astro",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "线更直播",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "线更剧场",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/gd2.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "线更長剧",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Long%20Drama.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "新加坡剧",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "SmartTV",
+            "url": "http://live.catvod.com/tv.m3u",
+            "ua": "catvod.com",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okHttp/Mod-1.2.0.1",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+      "name": "冰茶体育",
+      "type": 0,
+      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=mianfeibuhuaqian",
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+      "timeout": 30,
+      "playerType": 1
+    },
+{
+            "name": "TVMU",
+            "type": 0,
+            "url": "http://bit.ly/tvmu",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1,
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+            "name": "线更萌吖",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "线更MV",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "成人频道",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/JAV.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        }
+    
+
+
+  ]
+}
+    
