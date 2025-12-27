@@ -8024,8 +8024,13 @@
 新祖先保佑,#genre#
 祖先保佑 S1 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_4k61rg86/v/2/pv/1/ev/11/flavorId/0_3dlel0tp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_cnfty0il/v/2/pv/1/ev/11/flavorId/0_hcx4m3m8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_kp2nj7dk/v/1/pv/1/flavorId/0_hh8t7o91/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_kp2nj7dk/v/1/pv/1/ev/1/flavorId/0_dzbjgowo/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_xtr84qif/v/2/pv/1/ev/11/flavorId/0_qe6vgmdw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+EXO第5集,https://youtu.be/wSIgVBukGpc?si=XqMr6SUbCD-q7VEB
+EXO第6集,https://youtu.be/Ogow3DLLl_0?si=X9NqS_lR4gNhFwea
+EXO第7集,https://youtu.be/4oWLkNhXwtA?si=Obxhm0rKEUlp66Dv
+EXO第8集,https://youtu.be/fDE8tolAYX0?si=jkzkYLHB82RwyVZ4
+EXO第9集,https://youtu.be/Wnqy0s8aJZk?si=ku_pEPMArWFniy_D
 第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_onp3m1nv/v/1/pv/1/flavorId/0_qe0qsjr8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_ockx1j5g/v/2/pv/1/ev/11/flavorId/0_g9wa5b8w/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/0_4yik1tad/v/2/pv/1/ev/11/flavorId/0_rmcqg302/name/a.mp4/index.m3u8/index-v1-a1.m3u8
