@@ -21,6 +21,7 @@
     },
 {
         "name": "央视频",
+        "ua": "okhttp",
         "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ysp.txt"
         
     },
