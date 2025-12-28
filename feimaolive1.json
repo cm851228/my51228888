@@ -20,14 +20,14 @@
         
     },
 {
-        "name": "央视频",
+        "name": "咪咕央卫",
         "ua": "okhttp",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ysp.txt"
+        "url": "http://iptv.catvod.com/tv.m3u"
         
     },
 {
-        "name": "CatVod",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/catvod.txt"
+        "name": "CatVodSmart",
+        "url": "http://live.catvod.com/tv.m3u"
         
     },
 {
