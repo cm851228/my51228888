@@ -84,6 +84,15 @@
             "playerType": 2
         }, 
 {
+            "name": "EXO SmartPY",
+            "type": 3,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_SMT.py",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2,
+            "ext": {}
+        }, 
+{
             "name": "EXO Anbox118",
             "type": 0,
             "url": "https://firebase.anbox118.workers.dev/",
@@ -447,6 +456,7 @@
             "name": "直播转点播",
             "type": 3,
             "searchable": 0,
+            "playerType": 2,
             "timeout": 60,
             "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
@@ -510,6 +520,55 @@
             
         },
 {
+            "name": "独播库",
+            "key": "本地独播",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
+            
+        },
+{
+            "key": "质优云",
+            "name": "质优云",
+            "type": 1,
+            "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "泰国剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动画片",
+                "纪录片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+            ]
+        },
+{
             "key": "油管云",
             "name": "油管云",
             "type": 3,
@@ -559,42 +618,6 @@
             },
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
       
-        },
-{
-            "key": "质优云",
-            "name": "质优云",
-            "type": 1,
-            "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰国剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "动画片",
-                "纪录片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫"
-            ]
         },
 {
             "key": "Guazipg",
@@ -805,32 +828,6 @@
             ]
         },
 {
-            "name": "独播库",
-            "key": "本地独播",
-            "type": 3,
-            "api": "csp_DubkAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
-        },
-{
-            "name": "瓜子库",
-            "key": "本地瓜子",
-            "type": 3,
-            "api": "csp_GuaziAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/guazi.json",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
-        },
-{
          "key":"Qile优视频",
          "name":"优视频",
          "type":3,
@@ -935,6 +932,18 @@
             "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
             
         },
+{
+            "key": "泥视频",
+            "name": "泥视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ8.jar",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E6%B3%A5%E8%A7%86%E9%A2%91VIP.json"
+         
+        },
 {            
             "key": "4KVMYS",
             "name": "4KVMYS",
@@ -984,18 +993,6 @@
             
         },
 {
-            "key": "泥视频",
-            "name": "泥视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ8.jar",
-            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E6%B3%A5%E8%A7%86%E9%A2%91VIP.json"
-         
-        },
-{
             "name": "🎭杜北",
             "key": "杜北",
             "type": 3,
@@ -1018,6 +1015,42 @@
             "changeable": 1,
             "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
+        },
+{
+            "name": "🍕欧乐",
+            "key": "🍕欧乐",
+            "type": 3,
+            "api": "csp_OlyyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "⛵爱壹帆",
+            "key": "⛵爱壹帆",
+            "type": 3,
+            "api": "csp_AiyfAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📹YOU视",
+            "key": "YOU视",
+            "type": 3,
+            "api": "csp_YouSPAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
         },
 {
             "name": "🌱春天",
@@ -1072,18 +1105,6 @@
             "key": "爱瓜",
             "type": 3,
             "api": "csp_AiGuaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "📹YOU视",
-            "key": "YOU视",
-            "type": 3,
-            "api": "csp_YouSPAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,

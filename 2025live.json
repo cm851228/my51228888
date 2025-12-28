@@ -132,6 +132,15 @@
             "playerType": 2
         }, 
 {
+            "name": "EXO SmartPY",
+            "type": 3,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_SMT.py",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2,
+            "ext": {}
+        }, 
+{
             "name": "EXO Anbox118",
             "type": 0,
             "url": "https://firebase.anbox118.workers.dev/",
@@ -717,23 +726,24 @@
             ]
         },
 {
-            "key": "直播转点播",
-            "name": "直播转点播",
+            "key": "EXO转点播",
+            "name": "EXO转点播",
             "type": 3,
             "searchable": 0,
+            "playerType": 2,
             "timeout": 60,
             "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
             "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
         },
 {
-            "key": "GUAZI(wex)",
-            "name": "瓜子影视",
+            "key": "IJK转点播",
+            "name": "IJK转点播",
             "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_Gz360",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
-            
+            "searchable": 0,
+            "playerType": 1,
+            "timeout": 60,
+            "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
+            "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
         },
 {
             "key": "低版儿童",
@@ -781,6 +791,29 @@
        
             },
              "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fm2024.jar"
+            
+        },
+{
+            "key": "GUAZI(wex)",
+            "name": "瓜子影视",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_Gz360",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
+            
+        },
+{
+            "name": "独播库",
+            "key": "本地独播",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
             
         },
 {
@@ -1079,32 +1112,6 @@
             ]
         },
 {
-            "name": "独播库",
-            "key": "本地独播",
-            "type": 3,
-            "api": "csp_DubkAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
-        },
-{
-            "name": "瓜子库",
-            "key": "本地瓜子",
-            "type": 3,
-            "api": "csp_GuaziAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/guazi.json",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
-        },
-{
          "key":"Qile优视频",
          "name":"优视频",
          "type":3,
@@ -1209,6 +1216,18 @@
             "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
             
         },
+{
+            "key": "泥视频",
+            "name": "泥视频",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ8.jar",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E6%B3%A5%E8%A7%86%E9%A2%91VIP.json"
+         
+        },
 {            
             "key": "4KVMYS",
             "name": "4KVMYS",
@@ -1258,18 +1277,6 @@
             
         },
 {
-            "key": "泥视频",
-            "name": "泥视频",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/XBPQ8.jar",
-            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E6%B3%A5%E8%A7%86%E9%A2%91VIP.json"
-         
-        },
-{
             "name": "🎭杜北",
             "key": "杜北",
             "type": 3,
@@ -1292,6 +1299,42 @@
             "changeable": 1,
             "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
+        },
+{
+            "name": "🍕欧乐",
+            "key": "🍕欧乐",
+            "type": 3,
+            "api": "csp_OlyyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "⛵爱壹帆",
+            "key": "⛵爱壹帆",
+            "type": 3,
+            "api": "csp_AiyfAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📹YOU视",
+            "key": "YOU视",
+            "type": 3,
+            "api": "csp_YouSPAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
         },
 {
             "name": "🌱春天",
@@ -1346,18 +1389,6 @@
             "key": "爱瓜",
             "type": 3,
             "api": "csp_AiGuaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "📹YOU视",
-            "key": "YOU视",
-            "type": 3,
-            "api": "csp_YouSPAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -1424,18 +1455,6 @@
             "changeable": 1,
             "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
             
-        },
-{
-            "name": "🎯荐片",
-            "key": "荐片",
-            "type": 3,
-            "api": "csp_JPianAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
         },
 {
             "name": "🔥热播",
