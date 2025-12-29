@@ -238,25 +238,6 @@ CCTV13,http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
 
 
 
-Stream多音轨,#genre#
-Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
-翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
-华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
-Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
-Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
-翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
-TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
-HBO,http://167.de5.net/bbb/115/master.m3u8
-翡翠台,http://50.7.158.194:8277/jade_twn/playlist.m3u8
-
-
-
-
 MYsmt,#genre#
 8度空间,http://smt.1678520.xyz/smt3.2.1.php?id=TV8
 AEC,http://smt.1678520.xyz/smt3.2.1.php?id=AEC
@@ -304,20 +285,38 @@ SNAP,https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3
 
 
 
-广东,#genre#
-大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+
+大湾区卫视,#genre#
 南方卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
+大湾区(国际版),http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86%28%E5%9B%BD%E9%99%85%E7%89%88%29&auth=666858
+大湾区卫视1,http://yp.qqqtv.top/bc/bc.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=66615415
+大湾区卫视2,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=666858
 千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 八度空间,http://cdn6.163189.xyz/163189/8tv
 CH8,http://cdn6.163189.xyz/163189/ch8
 CH5,http://cdn6.163189.xyz/163189/ch5
 CHU,http://cdn6.163189.xyz/163189/chu
 Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
+Hi-Yah,https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 Mediacorp华语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 Mediacorp英语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 Mediacorp谈语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
+翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+HBO,http://167.de5.net/bbb/115/master.m3u8
+翡翠台1,http://50.7.158.194:8277/jade_twn/playlist.m3u8
+翡翠台2,http://php.jdshipin.com/smt.php
 翡翠台,http://php.jdshipin.com/smt.php
 HOY TV1,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV2,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
@@ -340,15 +339,8 @@ CCTV2,http://cdn6.163189.xyz/163189/cctv2
 CCTV9,http://cdn3.163189.xyz/163189/cctv9
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 天映经典,http://tl.061833.xyz/tl/null-1
-
-
-
-大湾区卫视,#genre#
-大湾区(国际版),http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86%28%E5%9B%BD%E9%99%85%E7%89%88%29&auth=666858
-南方卫视2,http://yp.qqqtv.top/bc/bc.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=66615415
-大湾catvod,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
-大湾区卫视2,http://migu.youdu.fan:8008/608917627
-大湾区卫视3,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=666858
+大湾区卫视9,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+广东珠江2,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 TVB星河1,https://cdn6.101.qzz.io/163189/tvbxh

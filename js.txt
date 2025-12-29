@@ -353,33 +353,23 @@ CGTN外语纪录,https://py.doube.eu.org/ysp/2024182301/600084781
 国学,https://py.doube.eu.org/ysp/2029360403/600213139
 
 
+
 大湾区卫视,#genre#
-大湾区(国际版),http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86%28%E5%9B%BD%E9%99%85%E7%89%88%29&auth=666858
-南方卫视2,http://yp.qqqtv.top/bc/bc.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=66615415
-大湾catvod,https://iptv.catvod.com/live.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86
-大湾区卫视2,http://migu.youdu.fan:8008/608917627
-大湾区卫视3,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=666858
 南方卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
+大湾区(国际版),http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86%28%E5%9B%BD%E9%99%85%E7%89%88%29&auth=666858
+大湾区卫视1,http://yp.qqqtv.top/bc/bc.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=66615415
+大湾区卫视2,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=666858
 千禧经典台,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
 八度空间,http://cdn6.163189.xyz/163189/8tv
 CH8,http://cdn6.163189.xyz/163189/ch8
 CH5,http://cdn6.163189.xyz/163189/ch5
 CHU,http://cdn6.163189.xyz/163189/chu
+Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
+Hi-Yah,https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
 Mediacorp华语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
 Mediacorp英语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 Mediacorp谈语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-TVB星河1,https://cdn6.101.qzz.io/163189/tvbxh
-TVB星河2,http://r.jdshipin.com/Voac4
-1TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
-2TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
-1TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
-2TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
-天映频道1,http://php.jdshipin.com/smt.php?id=Celestial
-天映频道2,http://php.jdshipin.com:8880/smt.php?id=Celestial
 Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
@@ -393,8 +383,8 @@ Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
 TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
 HBO,http://167.de5.net/bbb/115/master.m3u8
-大湾区卫视,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-广东珠江,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+翡翠台1,http://50.7.158.194:8277/jade_twn/playlist.m3u8
+翡翠台2,http://php.jdshipin.com/smt.php
 HOY TV1,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV2,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 HOY剧集台,http://cdn.163189.xyz/163189/hoyjj
@@ -414,10 +404,20 @@ CCTV1,http://cdn6.163189.xyz/163189/cctv1
 CCTV13,http://cdn3.163189.xyz/163189/cctv13
 CCTV2,http://cdn6.163189.xyz/163189/cctv2
 CCTV9,http://cdn3.163189.xyz/163189/cctv9
-翡翠台,http://php.jdshipin.com/smt.php
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 天映经典,http://tl.061833.xyz/tl/null-1
-翡翠台,http://50.7.158.194:8277/jade_twn/playlist.m3u8
+大湾区卫视9,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+广东珠江2,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+TVB星河1,https://cdn6.101.qzz.io/163189/tvbxh
+TVB星河2,http://r.jdshipin.com/Voac4
+1TVB1,https://6.cdn.loc.cc/163189.php?id=tvb1
+2TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+1TVBJ1,http://php.jdshipin.com/TVOD/iptv.php?id=j1
+2TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+天映频道1,http://php.jdshipin.com/smt.php?id=Celestial
+天映频道2,http://php.jdshipin.com:8880/smt.php?id=Celestial
 翡翠台1,http://hls.168.us.kg/u/81/master.m3u8
 翡翠台2,http://r.jdshipin.com/62WM7
 翡翠台3,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -447,6 +447,7 @@ RHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 凤凰香港1台,https://cdn6.101.qzz.io/163189/fhhk
 凤凰香港2台,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港3台,http://r.jdshipin.com/yDoTN
+
 
 
 
