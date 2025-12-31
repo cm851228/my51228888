@@ -9,6 +9,14 @@
             "playerType": 2
         },
 {
+            "name": "Astro",
+            "type": 0,
+            "url": "http://anbox118.hstn.me/anbox/webplaylist.m3u8.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        }, 
+{
             "name": "SuperMytv",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mytv.txt",
@@ -16,14 +24,6 @@
             "timeout": 30,
             "playerType": 2
         },
-{
-            "name": "Web118",
-            "type": 0,
-            "url": "http://anbox118.hstn.me/anbox/webplaylist.m3u8.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        }, 
 {
       "name": "冰茶体育TV",
       "type": 0,
@@ -33,33 +33,10 @@
       "playerType": 1
     },
 {
-            "name": "4GTV",
+            "name": "线更直播",
             "type": 0,
-            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u",
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt",
             "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "JACKTV",
-            "type": 0,
-            "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "SmartTV",
-            "url": "http://live.catvod.com/tv.m3u",
-            "ua": "catvod.com",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "咪咕直播",
-            "type": 0,
-            "url": "http://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.2.0.1",
             "timeout": 30,
             "playerType": 1
         },
