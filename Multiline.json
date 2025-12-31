@@ -17,7 +17,7 @@
             "playerType": 2
         },
 {
-            "name": "EXO Web118",
+            "name": "Web118",
             "type": 0,
             "url": "http://anbox118.hstn.me/anbox/webplaylist.m3u8.txt",
             "ua": "okhttp",
@@ -62,6 +62,14 @@
             "ua": "okHttp/Mod-1.2.0.1",
             "timeout": 30,
             "playerType": 1
+        },
+{
+            "name": "线更Astro",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
         },
 {
             "name": "成人频道",
