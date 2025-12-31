@@ -145,7 +145,7 @@
 {
             "name": "大陆频道",
             "type": 0,
-            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道.txt",
+            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道",
             "ua": "okhttp",
             "timeout": 30
       
