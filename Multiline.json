@@ -49,54 +49,6 @@
             "playerType": 1
         },
 {
-            "name": "线更新剧",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/livesg.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更Astro",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "线更直播",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更剧场",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/gd2.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更長剧",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Long%20Drama.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "新加坡剧",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
             "name": "SmartTV",
             "url": "http://live.catvod.com/tv.m3u",
             "ua": "catvod.com",
@@ -108,22 +60,6 @@
             "type": 0,
             "url": "http://iptv.catvod.com/tv.m3u",
             "ua": "okHttp/Mod-1.2.0.1",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更萌吖",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "线更MV",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt",
-            "ua": "okhttp",
             "timeout": 30,
             "playerType": 1
         },
