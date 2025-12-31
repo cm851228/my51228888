@@ -98,14 +98,30 @@ HBO Signature,p2p://142.54.189.229:2666/64df46220007117705701eb010a05e11.ts
 
 
 
-RTM探嗅,#genre#
+
+马国频道,#genre#
+Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
+DRAMA HOTPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 TV 1,video://https://rtmklik.rtm.gov.my/live/tv1
 TV 2,video://https://rtmklik.rtm.gov.my/live/tv2
-Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
 BERITA,video://https://rtmklik.rtm.gov.my/live/beritartm
 TV 6,video://https://rtmklik.rtm.gov.my/live/tv6
 SUKAN,video://https://rtmklik.rtm.gov.my/live/sukanrtm
 TV OKEY,video://https://rtmklik.rtm.gov.my/live/okey
+tV 1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+tV 2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+tV OKEY,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+tV 6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+bERITA,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+AWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+ASEAN,https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+TASTE,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_5/dash.mpd
+MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
+SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
+DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+MY CERIA,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
+
+
 
 
 四季探嗅,#genre#
@@ -124,81 +140,3 @@ ads=static-mozai.4gtv.tv
 原住民族电视台,video://https://m.4gtv.tv/channel/4gtv-live014?set=1&ch=273
 猪哥亮歌厅,video://https://m.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 滚动力,video://https://m.4gtv.tv/channel/4gtv-live012?set=1&ch=249
-
-
-
-外来媳妇本地郎2024,#genre#
-第1集,https://youtu.be/P-n7bhNe9Ho?si=ZwJZoZuev9mc1oFb
-第2集,https://youtu.be/rIKCTOWB2u0?si=gkf47ILrpIBQZOjs
-第3集,https://youtu.be/WWCKoi0cX34?si=DWWTAutweB0iltgG
-第4集,https://youtu.be/YRF6uvhhnMw?si=l-pMD9U_P5W1jJT0
-第5集,https://youtu.be/4DbO3rH_kD0?si=j-I0zWE9AygHH4M1
-第6集,https://youtu.be/7A0qveRL2nY?si=JxCTFQCNon-lxymh
-第7集,https://youtu.be/IdykNK5-hVE?si=P61MJEtY_s09s3TD
-第8集,https://youtu.be/3meKU6IN09c?si=gANBhS68Q7jx22XS
-第9集,https://youtu.be/tsduRJOk-GA?si=3XgECm2NGlytoXAQ
-第10集,https://youtu.be/FYoKsv7fsZM?si=XD7pBXh5eYSA4vjX
-第11集,https://youtu.be/DazUbCyhlUA?si=K2d51gMqQ4wzEIon
-第12集,https://youtu.be/ugpz68cDte4?si=94lFDmVyjElGHPrc
-第13集,https://youtu.be/cZgMZdymvsQ?si=5aRTshYe-yGxSRG7
-第14集,https://youtu.be/_44Y6xYlKoA?si=cng_byPF322wwTLr
-第15集,https://youtu.be/PEQ4bIktzeE?si=R6BhDvVMdR2i2Tig
-第16集,https://youtu.be/R1G02KXWODk?si=iDxn-sXsIzJI8pZh
-第17集,https://youtu.be/P6Gms4B27m4?si=_Q3a62ozh_8-d_tg
-第18集,https://youtu.be/80wJBflbta8?si=HdnLFGpjSj8TX28r
-第19集,https://youtu.be/dW1SjxEEegM?si=KdMFYtc7y3jKw0cP
-第20集,https://youtu.be/nNJILsIs9bo?si=OeYMy6K8eNeW97Jq
-第21集,https://youtu.be/HWYkndAd18M?si=sBN5r5I3AZ-2XfVF
-第22集,https://youtu.be/1HwAKNMd0LQ?si=4If-xtDTQ3v7VdCs
-第23集,https://youtu.be/Fy3xDw8oqk4?si=ZxJ3NAlI3t1Cj_c3
-第24集,https://youtu.be/CEPud9HYI-Q?si=upuc8ckRbJblSvp4
-第25集,https://youtu.be/Vj6JynF1JvU?si=MQodri63LdiZWxln
-第26集,https://youtu.be/CRlRt9JO15g?si=VTHobu2yhBh3LBlJ
-第27集,https://youtu.be/z6pKiiR8Rlk?si=MuxKfLA253L9inqt
-第28集,https://youtu.be/j1lUGIH8t7U?si=rZUtpv3q0TApM5qM
-第29集,https://youtu.be/nSQCP3XLtTg?si=dEEDtmgIoSwoPLCj
-第30集,https://youtu.be/LL_JTwObNcU?si=i9aoL1yEXR6DpZ0X
-第31集,https://youtu.be/trh3T5trktg?si=wDDYrhgN5h-ngoA_
-第32集,https://youtu.be/Uvc_HHH0Pyo?si=H2ilBWAuwDqmH1x1
-第33集,https://youtu.be/aEkgOFuvYGE?si=qLz1Ba7ZSGtYB3tf
-第34集,https://youtu.be/eVM3nQctaR8?si=u5oouzDJrfv-BYyJ
-第35集,https://youtu.be/Stmq7-R7fEA?si=-l659M2TWSSloMOM
-第36集,https://youtu.be/Yq7v6E-BGKY?si=faPTF4Dz4ZWBIDTd
-第37集,https://youtu.be/Db_U2TjP1Ck?si=0alVnbFta4yPZqSV
-第38集,https://youtu.be/YD6wO3IOpQY?si=_aqAaMdokVnFYLCS
-第39集,https://youtu.be/BiLhC2XObFI?si=Cw2y93muoavfBFPB
-第40集,https://youtu.be/MLIZU_LLIV0?si=MXaSPHex40gOHCn6
-第41集,https://youtu.be/PBPPSoJFvHM?si=n6FPrIt11STTisRM
-第42集,https://youtu.be/Dntp489mBmM?si=LUF5oI8uNHNEaFrx
-第43集,https://youtu.be/B4t2E8c_ftw?si=P_TzkP4aCxKHzEN2
-第44集,https://youtu.be/BwOaktttaDQ?si=hA8t0nY5AJXwhHHz
-第45集,https://youtu.be/O3S2HV_jOFY?si=71gUzWHyMzPX-CSH
-第46集,https://youtu.be/4Eb-eOO7gP0?si=LAo4P-4WMFiIEOEp
-第47集,https://youtu.be/AXEfDRVSal8?si=HRJ-wPLbLDhkkHaB
-第48集,https://youtu.be/3ZbaptLpc8I?si=YCe81Rxx2gyRP3uT
-第49集,https://youtu.be/lwB_5q3aBbg?si=ZANftgTEryhafiic
-第50集,https://youtu.be/QeyoubNbq2o?si=vPtwhNot_U1wkfBk
-第51集,https://youtu.be/I-3kaHvlMLQ?si=YKxavd5niKQ-Ww8U
-第52集,https://youtu.be/H8CKDotxswU?si=ST7xcnU5PBxFk6F8
-第53集,https://youtu.be/7KqDpr8ImPE?si=JclgbkXmIrQJJvZ1
-第54集,https://youtu.be/jmHaTvkBMR4?si=qP1b3UK4EzlJUNDA
-第55集,https://youtu.be/OH5I6aic-hw?si=vAQ8AJrvSecQVNDg
-第56集,https://youtu.be/882OkWDOnjM?si=-jyczSMCGGWKj8nu
-第57集,https://youtu.be/shbgV53NLfQ?si=aVp4SApxMB5ZBD6m
-第58集,https://youtu.be/2ZD_bUYjw2E?si=g5byekaM51q0KWzx
-第59集,https://youtu.be/9mOv9fLVlx8?si=fBO8K939ygWQOVWU
-第60集,https://youtu.be/4as2P2xEJOU?si=NlaE41CfNyZlKhHc
-第61集,https://youtu.be/tbqPtiwL6uo?si=nc2d4z2vsuonfUYO
-第62集,https://youtu.be/dawjtyrXH7Y?si=2ikao31J2CtAzV-A
-第63集,https://youtu.be/D1wAg7ULTPI?si=769wqB6ctsPcYCrt
-第64集,https://youtu.be/pbCilvuWDPs?si=Tag42NkJDXG0Z4-y
-第65集,https://youtu.be/J54MrFd8b6g?si=JRAl-lkXkbIbmaW0
-第66集,https://youtu.be/Ym2LzMiTVVU?si=8B1FWD8aoC_1Dx0n
-第67集,https://youtu.be/yqSeh7N-fdw?si=t_9kq8MRhQPCec1d
-第68集,https://youtu.be/U518FgXLOT8?si=PE4M0xo12JfXwgI5
-第69集,https://youtu.be/vQV8rGg-d3g?si=3MJRaYuRQB_0JCpB
-第70集,https://youtu.be/n_qYhvVMurA?si=WlPKyrfKVCqb6Q3R
-第71集,https://youtu.be/DOvshAAyFMk?si=8X1aEX8B4Cnswmy4
-第72集,https://youtu.be/TWwEnuNjqwY?si=hfP_zUnmqPPKkKII
-第73集,https://youtu.be/Nk8yeIbzDfU?si=yRtiFozqRQUKeVBE
-第74集,https://youtu.be/hF1SMBdCqGM?si=rmDqfDs1j-ZL_MbL

@@ -17,21 +17,21 @@
             "playerType": 2
         },
 {
-            "name": "Web118",
+            "name": "EXO Web118",
             "type": 0,
-            "url": "http://anbox118.zya.me/anbox/webplaylist.m3u8.txt",
+            "url": "http://anbox118.hstn.me/anbox/webplaylist.m3u8.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
         }, 
 {
-            "name": "冰茶TV",
-            "type": 0,
-            "url": "http://188766.xyz/itv",
-            "ua": "bingcha/1.1 (mianfeifenxiang) ",
-            "timeout": 30,
-            "playerType": 1
-        },
+      "name": "冰茶体育TV",
+      "type": 0,
+      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130",
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+      "timeout": 30,
+      "playerType": 1
+    },
 {
             "name": "4GTV",
             "type": 0,
@@ -111,14 +111,6 @@
             "timeout": 30,
             "playerType": 1
         },
-{
-      "name": "冰茶体育",
-      "type": 0,
-      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=mianfeibuhuaqian",
-      "ua": "bingcha/1.1 (mianfeifenxiang) ",
-      "timeout": 30,
-      "playerType": 1
-    },
 {
             "name": "线更萌吖",
             "type": 0,

@@ -285,6 +285,21 @@ SNAP,https://d1sq2slp9afh7o.cloudfront.net/smil:snap/chunklist_b2596000_slENG.m3
 
 
 
+Stream多音轨,#genre#
+Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
+翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+
+
 
 大湾区卫视,#genre#
 南方卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
@@ -302,18 +317,6 @@ Mediacorp华语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a
 Mediacorp英语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
 Mediacorp谈语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
-千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
-TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
-翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
-华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
-Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
-Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
-翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
-TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
 HBO,http://167.de5.net/bbb/115/master.m3u8
 翡翠台1,http://50.7.158.194:8277/jade_twn/playlist.m3u8
 翡翠台2,http://php.jdshipin.com/smt.php
@@ -339,8 +342,6 @@ CCTV2,http://cdn6.163189.xyz/163189/cctv2
 CCTV9,http://cdn3.163189.xyz/163189/cctv9
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 天映经典,http://tl.061833.xyz/tl/null-1
-大湾区卫视9,https://gx.484947.xyz/PLTV/77777777/224/3221225748/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
-广东珠江2,https://gx.484947.xyz/PLTV/77777777/224/3221225717/index.m3u8?servicetype=1&&IASHttpSessionId=RR778520250111113355399717&ispcode=1108
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 TVB星河1,https://cdn6.101.qzz.io/163189/tvbxh

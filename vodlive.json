@@ -84,31 +84,14 @@
             "playerType": 2
         }, 
 {
-            "name": "EXO SmartPY",
-            "type": 3,
-            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/py_SMT.py",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2,
-            "ext": {}
-        }, 
-{
             "name": "EXO Anbox118",
             "type": 0,
-            "url": "https://firebase.anbox118.workers.dev/",
+            "url": "https://ottplus.anbox118.workers.dev/",
+            "ua": "okhttp",
             "timeout": 30,
             "playerType": 2,
-            "ua": "okhttp",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-{
-            "name": "EXO TV123",
-            "type": 0,
-            "url": "http://tv123.vvvv.ee/tv.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
         },
 {
             "name": "EXO anbox直播1",
@@ -142,7 +125,17 @@
             "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
         },
 {
-            "name": "EXO IPTV2025",
+            "name": "EXO anbox直播4",
+            "type": 0,
+            "url": "https://firebase.anbox118.workers.dev/",
+            "timeout": 30,
+            "playerType": 2,
+            "ua": "okhttp",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+            "name": "EXO IPTV2026",
             "type": 0,
             "url": "https://iptv.vrsmarter.workers.dev",
             "timeout": 30,
@@ -155,94 +148,6 @@
             "name": "EXO PerfectTVPHP",
             "type": 0,
             "url": "http://a90120.serv00.net/anbox/perfecttv.php",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO SmartTV",
-            "url": "http://live.catvod.com/tv.m3u",
-            "ua": "catvod.com",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO 咪咕直播",
-            "type": 0,
-            "url": "http://iptv.catvod.com/tv.m3u",
-            "ua": "okHttp/Mod-1.2.0.1",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-      "name": "EXO 冰茶体育",
-      "type": 0,
-      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130",
-      "ua": "bingcha/1.1 (mianfeifenxiang) ",
-      "timeout": 30,
-      "playerType": 2
-    },
-{
-            "name": "EXO 冰茶TV",
-            "type": 0,
-            "url": "http://188766.xyz/itv",
-            "ua": "bingcha/1.1 (mianfeifenxiang) ",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO 青龙直播",
-            "type": 0,
-            "url": "http://rihou.cc:555/gggg.nzk",
-            "playerType": 2,
-            "ua": "okhttp/3.15",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-{
-            "name": "EXO 4GTV",
-            "type": 0,
-            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO JudySmart",
-            "type": 0,
-            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/smart.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO JACKTV",
-            "type": 0,
-            "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO BXTV",
-            "type": 0,
-            "url": "http://bxtv.3a.ink/live.m3u",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO 风云TV",
-            "type": 0,
-            "url": "http://iptv.4666888.xyz/FYTV.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO APTV",
-            "type": 0,
-            "url": "http://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
@@ -270,22 +175,6 @@
             "playerType": 2
         },
 {
-            "name": "EXO 易发频道",
-            "type": 0,
-            "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        }, 
-{
-            "name": "EXO Lvse频道",
-            "type": 0,
-            "url": "http://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
-        }, 
-{
             "name": "EXO TVMU",
             "type": 0,
             "url": "http://bit.ly/tvmu",
@@ -303,15 +192,6 @@
             "timeout": 30,
             "playerType": 2,
             "epg": "http://iptv.52sw.top:668/?ch={name}&date={date}"
-        },
-{
-            "name": "EXO 央卫直播",
-            "type": 0,
-            "timeout": 30,
-            "playerType": 2,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
-            "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
-            "timeout": 10
         },
 {
             "name": "EXO 全球直播",
@@ -360,34 +240,6 @@
             "name": "EXO 澳门",
             "type": 0,
             "url": "http://freetv.fun/test_channels_macau_new.m3u",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO 越南",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_vietnam_new.m3u",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO 泰国",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_thailand_new.m3u",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO 韓国",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_korea_new.m3u",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "EXO 日本",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_japan_new.m3u",
             "timeout": 30,
             "playerType": 2
         },
@@ -452,16 +304,6 @@
             ]
         },
 {
-            "key": "直播转点播",
-            "name": "直播转点播",
-            "type": 3,
-            "searchable": 0,
-            "playerType": 2,
-            "timeout": 60,
-            "api": "https://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
-            "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
-        },
-{
             "key": "GUAZI(wex)",
             "name": "瓜子影视",
             "type": 3,
@@ -470,6 +312,42 @@
             "api": "csp_Gz360",
             "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
             
+        },
+{
+            "key": "质优云",
+            "name": "质优云",
+            "type": 1,
+            "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "泰国剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "动画片",
+                "纪录片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫"
+            ]
         },
 {
             "key": "低版儿童",
@@ -520,57 +398,30 @@
             
         },
 {
-            "name": "独播库",
-            "key": "本地独播",
+            "key": "EXO转点播",
+            "name": "硬解🌀直播",
             "type": 3,
-            "api": "csp_DubkAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
+            "searchable": 0,
+            "playerType": 2,
+            "timeout": 30,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live1vod.js",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
             
         },
 {
-            "key": "质优云",
-            "name": "质优云",
-            "type": 1,
-            "api": "http://api.yzzy-api.com/inc/apijson.php?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰国剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "动画片",
-                "纪录片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫"
-            ]
+            "key": "IJK转点播",
+            "name": "软解🌀直播",
+            "type": 3,
+            "playerType": 1,
+            "searchable": 0,
+            "timeout": 30,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live1vod.js",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive1.json"
+            
         },
 {
             "key": "油管云",
-            "name": "油管云",
+            "name": "油管🎯",
             "type": 3,
             "api": "csp_Youtube",
             "searchable": 1,
@@ -584,6 +435,28 @@
             },
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
       
+        },
+{
+            "key": "硬解转点播",
+            "name": "硬解📺点播",
+            "type": 3,
+            "searchable": 0,
+            "playerType": 2,
+            "timeout": 30,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive6.json"
+            
+        },
+{
+            "key": "软解转点播",
+            "name": "软解📺点播",
+            "type": 3,
+            "searchable": 0,
+            "playerType": 1,
+            "timeout": 30,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live2vod.js",
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolive6.json"
+            
         },
 {
             "key": "外来媳妇本地郎推送",
@@ -618,6 +491,19 @@
             },
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
       
+        },
+{
+            "name": "独播库",
+            "key": "本地独播",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
+            
         },
 {
             "key": "Guazipg",
