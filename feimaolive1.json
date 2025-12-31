@@ -1,90 +1,163 @@
 [
 {
-        "name": "线更油管",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt"
-        
+            "name": "线更油管",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "马港直播",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mylive.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "线更直播",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+      "name": "冰茶体育TV",
+      "type": 0,
+      "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130",
+      "ua": "bingcha/1.1 (mianfeifenxiang) ",
+      "timeout": 30,
+      "playerType": 1
     },
 {
-        "name": "线更直播",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt"
+            "name": "JACKTV",
+            "type": 0,
+            "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
+            "ua": "okhttp",
+            "timeout": 30
         
-    },
+        },
 {
-        "name": "线更新剧",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/livesg.txt"
+            "name": "4GTV",
+            "type": 0,
+            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "CaTSmart",
+            "url": "http://live.catvod.com/tv.m3u",
+            "ua": "catvod.com",
+            "timeout": 30
         
-    },
+        },
 {
-        "name": "马港直播",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mylive.txt"
-        
-    },
+            "name": "CaT咪咕",
+            "type": 0,
+            "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okHttp/Mod-1.2.0.1",
+            "timeout": 30
+         
+        },
 {
-        "name": "咪咕央卫",
-        "ua": "okhttp",
-        "url": "http://iptv.catvod.com/tv.m3u"
-        
-    },
-{
-        "name": "CatVodSmart",
-        "url": "http://live.catvod.com/tv.m3u"
-        
-    },
-{
-        "name": "4GTV",
-        "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/4gtv.m3u"
-        
-    },
-{
-        "name": "JackTV",
-        "url": "http://php.946985.filegear-sg.me/jackTV.m3u"
-        
-    },
-{
-        "name": "全球直播",
-        "url": "http://freetv.fun/test_channels_new.txt"
+            "name": "Mytv",
+            "type": 0,
+            "url": "http://143.14.105.196:30000/mytv.m3u",
+            "ua": "okhttp",
+            "timeout": 30
      
-    },
+        },
 {
-        "name": "猫猫直播",
-        "url": "http://rihou.cc:555/gggg.nzk&&&https://api.btstu.cn/sjbz/api.php"
+            "name": "JudySmart",
+            "type": 0,
+            "url": "http://github.com/judy-gotv/iptv/raw/refs/heads/main/smart.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "TV123",
+            "type": 0,
+            "url": "http://tv123.vvvv.ee/tv.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
+            "name": "BXTV",
+            "type": 0,
+            "url": "http://bxtv.3a.ink/live.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "风云TV",
+            "type": 0,
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "全球直播",
+            "type": 0,
+            "url": "http://freetv.fun/test_channels_new.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
+            "name": "易发频道",
+            "type": 0,
+            "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
+            "ua": "okhttp",
+            "timeout": 30
         
-    },
+        },   
 {
-        "name": "线更剧场",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/gd2.txt"
-     
-    },
+            "name": "猫TV",
+            "type": 0,
+            "url": "http://rihou.cc:555/gggg.nzk",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.eu.org/logo/{name}.png"
+        },
 {
-        "name": "线更長剧",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Long%20Drama.txt"
-     
-    },
-{
-        "name": "新加坡剧",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt"
-     
-    },
-{
-        "name": "线更纪录",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt"
-     
-    },
-{
-        "name": "线更音乐",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt"
+            "name": "Lvse频道",
+            "type": 0,
+            "url": "http://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
+            "ua": "okhttp",
+            "timeout": 30
         
-    },
+        },
 {
-        "name": "线更MV",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt"
+            "name": "马国TV",
+            "type": 0,
+            "url": "http://freetv.fun/test_channels_malaysia_new.m3u",
+            "ua": "okhttp",
+            "timeout": 30
         
-    },
+        },
 {
-        "name": "抽风Smart",
-        "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ssmart.txt"
-     
-    }    
+            "name": "大陆频道",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "抽风爱米",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ssmart.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        }
 
    
 ]

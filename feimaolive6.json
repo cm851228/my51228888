@@ -1,0 +1,68 @@
+[
+{
+            "name": "线更新剧",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/livesg.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更新加坡剧",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/live.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
+            "name": "线更長剧",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Long%20Drama.txt",
+            "ua": "okhttp",
+            "timeout": 30
+        
+        },
+{
+            "name": "线更剧场",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/gd2.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更纪录",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/yiyi.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更MV",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ClassicMV.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "线更音乐",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mymusic.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "成人频道",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/JAV.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        }
+
+   
+]
