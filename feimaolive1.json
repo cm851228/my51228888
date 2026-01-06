@@ -151,6 +151,14 @@
       
         },
 {
+            "name": "不定时开放源",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/别人收费源",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
             "name": "抽风爱米",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ssmart.txt",
