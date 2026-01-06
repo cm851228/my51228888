@@ -20,6 +20,64 @@ TVBS新闻台,https://www.youtube.com/live/m_dhMSvUCIc?si=6yZnLm3dbG9oCoCL
 
 
 
+Stream多音轨,#genre#
+Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+翡翠台字幕,http://mytv.cdn.loc.cc/o12.php?id=fct
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
+翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+翡翠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct/
+TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/mzt/
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
+TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+天映频道1,https://o11.163189.xyz/stream/live/typd/
+天映经典1,https://o11.163189.xyz/stream/live/ccm/
+TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
+天映频道,http://cdn10.163189.xyz/163189/typd
+天映经典,http://cdn10.163189.xyz/163189/ccm
+翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+
+
+
+馬來西亞,#genre#
+AEC HD,http://143.14.105.196:20002/smt3.2.1.php?id=AEC
+8度空间 HD,http://143.14.105.196:20002/smt3.2.1.php?id=TV8
+千禧经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbclassic
+华丽台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Wlt
+翡翠台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=jade_twn
+Jade HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbjade
+欢喜台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Huahee
+QJ HD,http://143.14.105.196:20002/smt3.2.1.php?id=Quanjia
+爱奇艺 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Qiyi
+天映经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial2
+星河频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Xinhe
+TVB Entertainment,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbentertainment
+Viutv,http://143.14.105.196:20002/smt3.2.1.php?id=viu1_twn
+Viu6,http://143.14.105.196:20002/smt3.2.1.php?id=viusix_twn
+无线新聞台,http://143.14.105.196:20002/smt3.2.1.php?id=inews_twn
+珍珠台,http://143.14.105.196:20002/smt3.2.1.php?id=pearl_twn
+鳳凰衛視,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixtv_hd
+鳳凰資訊,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixinfo_hd
+鳳凰香港,http://143.14.105.196:20002/smt3.2.1.php?id=hkphoenix_twn
+天映频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial_mega
+AOD HD,http://143.14.105.196:20002/smt3.2.1.php?id=AodHD
+
+
+
 浙江频道,#genre#
 ﻿浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -75,27 +133,3 @@ MY CERIA,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediat
 原住民族电视台,video://https://m.4gtv.tv/channel/4gtv-live014?set=1&ch=273
 猪哥亮歌厅,video://https://m.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 滚动力,video://https://m.4gtv.tv/channel/4gtv-live012?set=1&ch=249
-
-
-馬來西亞,#genre#
-AEC HD,http://143.14.105.196:20002/smt3.2.1.php?id=AEC
-8度空间 HD,http://143.14.105.196:20002/smt3.2.1.php?id=TV8
-千禧经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbclassic
-华丽台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Wlt
-翡翠台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=jade_twn
-Jade HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbjade
-欢喜台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Huahee
-QJ HD,http://143.14.105.196:20002/smt3.2.1.php?id=Quanjia
-爱奇艺 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Qiyi
-天映经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial2
-星河频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Xinhe
-TVB Entertainment,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbentertainment
-Viutv,http://143.14.105.196:20002/smt3.2.1.php?id=viu1_twn
-Viu6,http://143.14.105.196:20002/smt3.2.1.php?id=viusix_twn
-无线新聞台,http://143.14.105.196:20002/smt3.2.1.php?id=inews_twn
-珍珠台,http://143.14.105.196:20002/smt3.2.1.php?id=pearl_twn
-鳳凰衛視,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixtv_hd
-鳳凰資訊,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixinfo_hd
-鳳凰香港,http://143.14.105.196:20002/smt3.2.1.php?id=hkphoenix_twn
-天映频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial_mega
-AOD HD,http://143.14.105.196:20002/smt3.2.1.php?id=AodHD
