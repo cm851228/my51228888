@@ -1,4 +1,7 @@
 纪录片解说,#genre#
+98,https://files.catbox.moe/ozgixt.mp4
+99,https://files.catbox.moe/qd6zwb.mp4
+100,https://files.catbox.moe/2w66r5.mp4
 101,https://files.catbox.moe/1mj83l.mp4
 102,https://files.catbox.moe/os45az.mp4
 103,https://files.catbox.moe/ccbbei.mp4
@@ -402,6 +405,11 @@
 
 
 增强知识,#genre#
+471,https://files.catbox.moe/en5vht.mp4
+472,https://files.catbox.moe/70bu1d.mp4
+473,https://files.catbox.moe/c6m4vd.mp4
+474,https://files.catbox.moe/mihl71.mp4
+475,https://files.catbox.moe/yqoyxy.mp4
 476,https://files.catbox.moe/99rwps.mp4
 477,https://files.catbox.moe/8zf5gs.mp4
 478,https://files.catbox.moe/kabu2l.mp4

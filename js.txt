@@ -301,6 +301,24 @@ Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
 明珠台字幕,http://mytv.cdn.loc.cc/o12.php?id=mzt
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
 TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+翡翠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct/
+TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
+明珠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/mzt/
+华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
+华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
+Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
+Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
+Astro QJ(多音轨字幕),https://o11.163189.xyz/stream/live/qj/
+TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
+爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
+千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
+天映频道1,https://o11.163189.xyz/stream/live/typd/
+天映经典1,https://o11.163189.xyz/stream/live/ccm/
+TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
+天映频道,http://cdn10.163189.xyz/163189/typd
+天映经典,http://cdn10.163189.xyz/163189/ccm
+翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+
 
 
 
