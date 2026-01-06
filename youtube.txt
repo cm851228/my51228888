@@ -75,3 +75,27 @@ MY CERIA,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediat
 原住民族电视台,video://https://m.4gtv.tv/channel/4gtv-live014?set=1&ch=273
 猪哥亮歌厅,video://https://m.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 滚动力,video://https://m.4gtv.tv/channel/4gtv-live012?set=1&ch=249
+
+
+馬來西亞,#genre#
+AEC HD,http://143.14.105.196:20002/smt3.2.1.php?id=AEC
+8度空间 HD,http://143.14.105.196:20002/smt3.2.1.php?id=TV8
+千禧经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbclassic
+华丽台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Wlt
+翡翠台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=jade_twn
+Jade HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbjade
+欢喜台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Huahee
+QJ HD,http://143.14.105.196:20002/smt3.2.1.php?id=Quanjia
+爱奇艺 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Qiyi
+天映经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial2
+星河频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Xinhe
+TVB Entertainment,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbentertainment
+Viutv,http://143.14.105.196:20002/smt3.2.1.php?id=viu1_twn
+Viu6,http://143.14.105.196:20002/smt3.2.1.php?id=viusix_twn
+无线新聞台,http://143.14.105.196:20002/smt3.2.1.php?id=inews_twn
+珍珠台,http://143.14.105.196:20002/smt3.2.1.php?id=pearl_twn
+鳳凰衛視,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixtv_hd
+鳳凰資訊,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixinfo_hd
+鳳凰香港,http://143.14.105.196:20002/smt3.2.1.php?id=hkphoenix_twn
+天映频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial_mega
+AOD HD,http://143.14.105.196:20002/smt3.2.1.php?id=AodHD
