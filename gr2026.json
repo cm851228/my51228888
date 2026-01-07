@@ -126,7 +126,7 @@
             "playerType": 2
         },
 {
-            "name": "PerfectTV",
+            "name": "EXO PerfectTV",
             "type": 0,
             "url": "https://perfecttv.net/PerfecttvFree.m3u",
             "ua": "okhttp",
@@ -150,6 +150,16 @@
             "playerType": 2,
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+            "name": "EXO WebTv",
+            "type": 0,
+            "url": "http://tv.anbox.ip-ddns.com/webtv",
+            "playerType": 2,
+            "ua": "okhttp",
+            "timeout": 30,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
+            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
         },
 {
             "name": "EXO anbox直播1",
@@ -201,14 +211,6 @@
             "ua": "okhttp",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
-{
-            "name": "EXO PerfectTVPHP",
-            "type": 0,
-            "url": "http://a90120.serv00.net/anbox/perfecttv.php",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2
         },
 {
             "name": "EXO RobYangrb",
@@ -361,20 +363,6 @@
             "name": "EXO 新国",
             "type": 0,
             "url": "http://freetv.fun/test_channels_singapore_new.m3u",
-            "timeout": 30,
-            "playerType": 2
-        },
-{
-            "name": "freetv澳门",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_macau_new.m3u",
-            "timeout": 30,
-            "playerType": 1
-        },
-{
-            "name": "EXO 澳门",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_macau_new.m3u",
             "timeout": 30,
             "playerType": 2
         },
@@ -855,6 +843,20 @@
                 "欧美动画",
                 "体育赛事"
             ]
+        },
+{
+            "key": "线上bilimd",
+            "name": "哔哩影视",
+            "type": 3,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/bibibi.jar",
+            "api": "csp_BilimdGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "cookie": ""
         },
 {
          "key":"Qile优视频",
@@ -1797,490 +1799,202 @@
             "timeout": 60
         },
 {
-      "key": "WexikanbotGuard",
-      "name": "爱看采集(wex)",
-      "type": 3,
-      "api": "csp_WexikanbotGuard",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar"
-      
-    },
-{
-      "key": "bilibiliys",
-      "name": "哔哩影视(wex)",
-      "type": 3,
-      "api": "csp_WexNewBiLiYSGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
-      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
-    },
-{
-      "key": "bilibili",
-      "name": "哔哩合集(wex)",
-      "type": 3,
-      "api": "csp_WexNewBiLiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
-      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkE9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--47a8ff0e68559a89a9a75b37d09a2b0854dc5a8a/bili001.txt"
-    },
-{
-      "key": "biliych",
-      "name": "哔哩歌曲(wex)",
-      "type": 3,
-      "api": "csp_WexNewBiLiGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/wex.jar",
-      "ext": "https://support-chat.rongcloud.cn/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYkU9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3083f43a14e6b59f4bfe248478a3a8765b34bfdd/bilisong.txt"
-    },
-{
-            "key": "bilimd弹幕版",
-            "name": "🅱哔哩┃影视",
-            "type": 3,
-            "api": "csp_BilimdGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1,
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "小苹果弹幕版",
-            "name": "🍎苹果┃弹幕",
-            "type": 3,
-            "api": "csp_XpgGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "瓜子弹幕版",
-            "name": "🍉瓜子┃弹幕",
-            "type": 3,
-            "api": "csp_GuaziGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "文才弹幕版",
-            "name": "🌺文才┃弹幕",
-            "type": 3,
-            "api": "csp_JpysGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "糯米弹幕版",
-            "name": "🍓糯米┃弹幕",
-            "type": 3,
-            "api": "csp_NmysGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "天天弹幕版",
-            "name": "⛅️天天┃弹幕",
-            "type": 3,
-            "api": "csp_TianTianGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true,
-                "site": 1
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "雄鹰弹幕版",
-            "name": "🦅雄鹰┃弹幕",
-            "type": 3,
-            "api": "csp_XiongYingGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "咖啡弹幕版",
-            "name": "🍫咖啡┃弹幕",
-            "type": 3,
-            "api": "csp_KaFeiGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "厂长弹幕版",
-            "name": "🌸厂长┃弹幕",
-            "type": 3,
-            "api": "csp_CzzyGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "荐片弹幕版",
-            "name": "⚔️荐片┃手机",
-            "type": 3,
-            "api": "csp_JianpianGuard",
-            "searchable": 1,
-            "changeable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "️爱看Bot弹幕版",
-            "name": "⛅️爱看┃弹幕",
-            "type": 3,
-            "api": "csp_IkanbotGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "ddys_js弹幕版",
-            "name": "🍄低端┃在线",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "api": "https://im.feelec.com.cn/res/file.html?id=2c9a91099696ce4301974da3916550ff&file=drpy2.min.js",
-            "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319885464/ddys.txt",
-            "timeout": 15,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "yhdm弹幕版",
-            "name": "🌸樱花┃动漫",
-            "type": 3,
-            "api": "csp_YHDMGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 15,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "动漫巴士弹幕版",
-            "name": "🚌巴士┃动漫",
-            "type": 3,
-            "api": "csp_Dm84Guard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
-            "key": "瓜子看球弹幕版",
-            "name": "⚽瓜子┃看球",
-            "type": 3,
-            "api": "csp_GzSportGuard",
-            "searchable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "list"
-            },
-            "timeout": 10,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ok.jar"
-            
-        },
-{
             "key": "苹果(fan)",
             "name": "苹果(fan)",
             "type": 3,
             "api": "csp_LiteAppleGuard",
-            "playerType": 2,
+            "timeout": 30,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
         },
 {
             "key": "文采(fan)",
             "name": "文采(fan)",
             "type": 3,
             "api": "csp_JpysGuard",
+            "timeout": 30,
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "剧圈(fan)",
+            "name": "剧圈(fan)",
+            "type": 3,
+            "api": "csp_JqqGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
         },
 {
             "key": "糯米(fan)",
             "name": "糯米(fan)",
             "type": 3,
             "api": "csp_NmyswvGuard",
+            "timeout": 30,
             "searchable": 1,
-            "playerType": 2,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "奥特(fan)",
+            "name": "奥特(fan)",
+            "type": 3,
+            "api": "csp_AueteGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
         },
 {
             "key": "原创(fan)",
             "name": "原创(fan)",
             "type": 3,
             "api": "csp_YCyzGuard",
-            "timeout": 15,
+            "timeout": 30,
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
         },
 {
-            "key": "木星(fan)",
-            "name": "木星(fan)",
+            "key": "比特(fan)",
+            "name": "比特(fan)",
             "type": 3,
-            "api": "csp_AppSxGuard",
+            "api": "csp_BttwooGuard",
+            "timeout": 30,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "ext": "FbjPcVZY48PN/RIZ5QqOrspjLMNAA5xaRiBa8vT6iB4RAYHOp3SFmQTE9v/hX3nlPzHB3X051Sp3XDoyUIN9aRARCZzZk1aDbikK",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
-        },
-{
-            "key": "Auete(fan)",
-            "name": "奥特(fan)",
-            "type": 3,
-            "api": "csp_AueteGuard",
-            "timeout": 15,
-            "searchable": 1,
-            "playerType": 2,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "https://auete.com/",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
-        },
-{
-            "key": "低端(fan)",
-            "name": "低端(fan)",
-            "type": 3,
-            "api": "csp_DdrkGuard",
-            "playerType": "2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
-        },
-{
-            "key": "可可(fan)",
-            "name": "可可(fan)",
-            "type": 3,
-            "api": "csp_KekysGuard",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
         },
 {
             "key": "Dm84(fan)",
             "name": "巴士动漫(fan)",
             "type": 3,
             "api": "csp_Dm84Guard",
-            "timeout": 10,
+            "timeout": 30,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
-        },
-{
-            "key": "Ysj(fan)",
-            "name": "异界动漫(fan)",
-            "type": 3,
-            "api": "csp_YsjGuard",
-            "timeout": 10,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
         },
 {
             "key": "Anime1(fan)",
             "name": "日本动漫(fan)",
             "type": 3,
             "api": "csp_Anime1Guard",
-            "timeout": 10,
+            "timeout": 30,
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar"
-            
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
         },
+{
+            "key": "88(fan)",
+            "name": "⚽88看球(fan)",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "timeout": 30,
+            "searchable": 0,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 0
+      
+        },
+{
+            "key": "MTV(fan)",
+            "name": "明星MV(fan)",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "ext": {
+                "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+            }
+        }, 
 {
             "key": "Bili(fan)",
             "name": "哔哔合集(fan)",
             "type": 3,
-            "api": "csp_BiliGuard",            
+            "api": "csp_BiliGuard",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194e5a5f7474"
+                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
             }
         },
 {
             "key": "Biliych(fan)",
             "name": "哔哔演唱会(fan)",
             "type": 3,
-            "api": "csp_BiliGuard",            
+            "api": "csp_BiliGuard",
             "searchable": 1,
             "quickSearch": 0,
             "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce40194194f4eb2747e"
+                "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
             }
+        },
+        {
+            "key": "dr_兔小贝(fan)",
+            "name": "兔小贝(fan)",
+            "type": 3,
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "changeable": 0
         },
 {
             "key": "少儿教育(fan)",
             "name": "少儿教育(fan)",
             "type": 3,
-            "api": "csp_BiliGuard",            
+            "api": "csp_BiliGuard",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
+                "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
             }
         },
 {
             "key": "小学课堂(fan)",
             "name": "小学课堂(fan)",
             "type": 3,
-            "api": "csp_BiliGuard",            
+            "api": "csp_BiliGuard",
             "searchable": 0,
             "quickSearch": 0,
             "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
             "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
-            }
-        },
-{
-            "key": "初中课堂(fan)",
-            "name": "初中课堂(fan)",
-            "type": 3,
-            "api": "csp_BiliGuard",            
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
-            "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
-            }
-        },
-{
-            "key": "高中教育(fan)",
-            "name": "高中课堂(fan)",
-            "type": 3,
-            "api": "csp_BiliGuard",            
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
-            "ext": {
-                "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
-            }
-        },
-{
-            "key": "MTV(fan)",
-            "name": "明星MV(fan)",
-            "type": 3,
-            "api": "csp_BiliGuard",            
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
-            "ext": {
-                "json": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/MTV.json"
+                "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
             }
         },
 {
