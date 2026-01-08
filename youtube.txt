@@ -1,6 +1,7 @@
 油管新闻,#genre#
 中文国际台,https://www.youtube.com/live/7j92Myu2wzg?si=u8XfOs_87U9j-vph
 凤凰卫视资讯台,https://www.youtube.com/live/fN9uYWCjQaw?si=C6BSbnxn3P2l656n
+8world,https://www.youtube.com/live/RvSOIM620bA?si=obbxhYNHc7Q98v3X
 Entertainment,https://www.youtube.com/live/ipqTkEH3mhE?si=0eg2o-dtmEdFAvSh
 CNA,https://www.youtube.com/watch?v=XWq5kBlakcQ
 新唐人亚太台,https://www.youtube.com/live/Bhp_V7H5QoY?si=oothkc5aTLhiRYpT
