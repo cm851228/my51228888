@@ -48,6 +48,14 @@
       
         },
 {
+            "name": "央视频道",
+            "type": 0,
+            "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
+            "ua": "okhttp",
+            "timeout": 30
+        
+        },
+{
             "name": "全球直播",
             "type": 0,
             "url": "http://freetv.fun/test_channels_new.txt",
@@ -70,14 +78,6 @@
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-{
-            "name": "Lvse频道",
-            "type": 0,
-            "url": "http://upld.zone.id/uploads/q9iq9e5iq/lvse.txt",
-            "ua": "okhttp",
-            "timeout": 30
-        
         },
 {
             "name": "港台大陆",
