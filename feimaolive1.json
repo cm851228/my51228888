@@ -16,6 +16,14 @@
       
         },
 {
+            "name": "咪咕直播",
+            "type": 0,
+            "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
       "name": "冰茶体育TV",
       "type": 0,
       "url": "http://bc.188766.xyz/?url=https://live.188766.xyz&mima=bingcha1130",
