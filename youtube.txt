@@ -53,31 +53,6 @@ TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
 
 
 
-馬來西亞,#genre#
-AEC HD,http://143.14.105.196:20002/smt3.2.1.php?id=AEC
-8度空间 HD,http://143.14.105.196:20002/smt3.2.1.php?id=TV8
-千禧经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbclassic
-华丽台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Wlt
-翡翠台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=jade_twn
-Jade HD,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbjade
-欢喜台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Huahee
-QJ HD,http://143.14.105.196:20002/smt3.2.1.php?id=Quanjia
-爱奇艺 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Qiyi
-天映经典台 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial2
-星河频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Xinhe
-TVB Entertainment,http://143.14.105.196:20002/smt3.2.1.php?id=Tvbentertainment
-Viutv,http://143.14.105.196:20002/smt3.2.1.php?id=viu1_twn
-Viu6,http://143.14.105.196:20002/smt3.2.1.php?id=viusix_twn
-无线新聞台,http://143.14.105.196:20002/smt3.2.1.php?id=inews_twn
-珍珠台,http://143.14.105.196:20002/smt3.2.1.php?id=pearl_twn
-鳳凰衛視,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixtv_hd
-鳳凰資訊,http://143.14.105.196:20002/smt3.2.1.php?id=phoenixinfo_hd
-鳳凰香港,http://143.14.105.196:20002/smt3.2.1.php?id=hkphoenix_twn
-天映频道 HD,http://143.14.105.196:20002/smt3.2.1.php?id=Celestial_mega
-AOD HD,http://143.14.105.196:20002/smt3.2.1.php?id=AodHD
-
-
-
 浙江频道,#genre#
 ﻿浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -96,6 +71,10 @@ AOD HD,http://143.14.105.196:20002/smt3.2.1.php?id=AodHD
 马国频道,#genre#
 Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
 DRAMA HOTPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
+Mediacorp华语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
+Mediacorp英语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
+Mediacorp谈语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
+CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 TV 1,video://https://rtmklik.rtm.gov.my/live/tv1
 TV 2,video://https://rtmklik.rtm.gov.my/live/tv2
 BERITA,video://https://rtmklik.rtm.gov.my/live/beritartm
