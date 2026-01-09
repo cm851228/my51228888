@@ -56,6 +56,11 @@
         
         },
 {
+        "name": "JackTV",
+        "url": "http://php.946985.filegear-sg.me/jackTV.m3u"
+        
+    },
+{
             "name": "全球直播",
             "type": 0,
             "url": "http://freetv.fun/test_channels_new.txt",
