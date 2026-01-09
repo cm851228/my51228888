@@ -89,7 +89,6 @@ SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediata
 DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 MY CERIA,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
 8度空间,http://103.209.159.198:8278/TV8/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=00b4c592927a6544f7a9d511add1d1df
-d060eda547944fafd441faa26d754b9d
 华丽台 HD,http://103.209.159.198:8278/Wlt/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=0c87ba9cb03456ef75e5eeba639a768a
 星河频道,http://103.209.159.198:8278/Xinhe/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=066a016f43873aee31dc1223b823f058
 Astro QJ,http://103.209.159.198:8278/Quanjia/playlist.m3u8?tid=mc609f36f8a214&ct=11617719300&tsum=e331f7972867a4f2435dcdf4ef6c5a30
