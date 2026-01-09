@@ -11,17 +11,16 @@ TVBS新闻台,https://www.youtube.com/live/m_dhMSvUCIc?si=6yZnLm3dbG9oCoCL
 中視新聞台,https://www.youtube.com/watch?v=TCnaIE_SAtM
 公視新聞台,https://www.youtube.com/watch?v=quwqlazU-c8
 台視新聞台,https://www.youtube.com/watch?v=xL0ch83RAK8
-三立新闻台,https://www.youtube.com/live/MV9mI0GChwo?si=495mX_8FvuMTRjcY
+三立新闻台,https://www.youtube.com/live/QsGswQvRmtU?si=08k6VlDURpFpJ66C
 寰宇台湾台,https://www.youtube.com/live/w87VGpgd90U?si=cJRQUNtLbz69Sq7Z
 寰宇新聞台,https://www.youtube.com/watch?v=6IquAgfvYmc
 鏡新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
 东森新闻台,https://www.youtube.com/live/E0zhe2gkXBs?si=hoofeYsZHkYhTobI
 东森财经台,https://www.youtube.com/live/AEBeWMM1atA?si=ga4zTNb5Uwsa5aiX
-豆豆先生,https://www.youtube.com/live/amzgpxDsJjQ?si=YTNIqWOKPJgS7fW3
 
 
 
-Stream多音轨,#genre#
+马港,#genre#
 Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
@@ -54,22 +53,17 @@ TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
 
 
 
-浙江频道,#genre#
-﻿浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-浙江钱江频道,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-浙江数码时代,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江影视娱乐,https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-浙江好易购,https://ali-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
+港台,#genre#
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+中天新闻,http://74.91.26.218:82/live/ztxw.m3u8
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
 
 
 
-马国频道,#genre#
+马来频道,#genre#
 Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
 DRAMA HOTPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 Mediacorp华语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
@@ -94,7 +88,6 @@ MANTAP,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatai
 SENTRAL,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
 DRAMA HEBAT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 MY CERIA,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_7/dash.mpd
-
 
 
 

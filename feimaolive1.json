@@ -32,14 +32,6 @@
       "playerType": 1
     },
 {
-            "name": "不定时开放源",
-            "type": 0,
-            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/别人收费源",
-            "ua": "okhttp",
-            "timeout": 30
-       
-        },
-{
             "name": "BXTV",
             "type": 0,
             "url": "http://bxtv.3a.ink/live.m3u",
