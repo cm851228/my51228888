@@ -18,7 +18,7 @@
 {
             "name": "不定时开放直播",
             "type": 0,
-            "url": "http://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/别人收费源",
+            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/别人收费源",
             "ua": "okhttp",
             "timeout": 30
      
