@@ -944,6 +944,18 @@
             
         },
 {
+            "name": "☕韩剧|秒播",
+            "key": "Hxq",
+            "type": 3,
+            "api": "csp_HxqAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
             "name": "📹YOU视",
             "key": "YOU视",
             "type": 3,
