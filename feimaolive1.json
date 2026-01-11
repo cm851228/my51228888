@@ -16,6 +16,14 @@
       
         },
 {
+            "name": "马来直播",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
             "name": "马新直播",
             "type": 0,
             "url": "http://hufa.zabc.net:8080/iptvpro.txt",
