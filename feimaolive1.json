@@ -77,6 +77,14 @@
         
     },
 {
+            "name": "越南频道",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Vietnam.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
             "name": "全球直播",
             "type": 0,
             "url": "http://freetv.fun/test_channels_new.txt",
