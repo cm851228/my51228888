@@ -16,14 +16,6 @@
       
         },
 {
-            "name": "SmartTV",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/smarttv2.txt",
-            "ua": "okhttp",
-            "timeout": 30
-     
-        },
-{
             "name": "马来直播",
             "type": 0,
             "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
