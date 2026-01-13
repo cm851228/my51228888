@@ -24,6 +24,14 @@
      
         },
 {
+            "name": "SmartPhP",
+            "type": 0,
+            "url": "http://96.44.160.246:9999/smt.php",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
             "name": "马新直播",
             "type": 0,
             "url": "http://hufa.zabc.net:8080/iptvpro.txt",
@@ -35,6 +43,14 @@
             "name": "咪咕直播",
             "type": 0,
             "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "CatLive直播",
+            "type": 0,
+            "url": "http://live.catvod.com/tv.m3u",
             "ua": "okhttp",
             "timeout": 30
      
