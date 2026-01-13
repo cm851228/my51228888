@@ -51,7 +51,7 @@
             "name": "CatLive直播",
             "type": 0,
             "url": "http://live.catvod.com/tv.m3u",
-            "ua": "okhttp",
+            "ua": "catvod.com",
             "timeout": 30
      
         },
