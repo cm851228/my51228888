@@ -24,9 +24,17 @@
      
         },
 {
-            "name": "SmartPhP",
+            "name": "Smart 1PhP",
             "type": 0,
             "url": "http://96.44.160.246:9999/smt.php",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
+            "name": "Smart 2PhP",
+            "type": 0,
+            "url": "http://159.69.45.173:9999/smt.php",
             "ua": "okhttp",
             "timeout": 30
      
