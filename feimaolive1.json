@@ -72,14 +72,6 @@
       "playerType": 1
     },
 {
-            "name": "BXTV",
-            "type": 0,
-            "url": "http://bxtv.3a.ink/live.m3u",
-            "ua": "okhttp",
-            "timeout": 30
-     
-        },
-{
             "name": "风云TV",
             "type": 0,
             "url": "http://iptv.4666888.xyz/FYTV.txt",

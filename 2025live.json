@@ -134,7 +134,7 @@
 {
             "name": "EXO Web118",
             "type": 0,
-            "url": "http://anbox118.hstn.me/anbox/webplaylist.m3u8.txt",
+            "url": "http://web.anbox118.dpdns.org/playlist.m3u8.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
@@ -209,6 +209,22 @@
             "ua": "okhttp",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
             "logo": "https://epg.112114.xyz/logo/{name}.png"
+        },
+{
+            "name": "JACKTV",
+            "type": 0,
+            "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 1
+        },
+{
+            "name": "EXO JACKTV",
+            "type": 0,
+            "url": "http://php.946985.filegear-sg.me/jackTV.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
         },
 {
             "name": "EXO RobYangrb",

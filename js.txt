@@ -1,6 +1,32 @@
 港澳频道,#genre#
-千禧经典 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 星河 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+千禧经典 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+TVB翡翠,http://iptv.4666888.xyz/iptv2A.php?id=34
+TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
+TVB1,http://iptv.4666888.xyz/iptv2A.php?id=25
+千禧经典,http://iptv.4666888.xyz/iptv2A.php?id=22
+八度空间,http://iptv.4666888.xyz/iptv2A.php?id=52
+TVB翡翠(馬來),http://iptv.4666888.xyz/iptv2A.php?id=28
+MYTV黃金翡翠,http://iptv.4666888.xyz/iptv2A.php?id=32
+TVB翡翠劇集,http://iptv.4666888.xyz/iptv2A.php?id=33
+翡翠台,http://74.91.26.218:82/live/jade.m3u8
+TVB星河,http://74.91.26.218:82/live/tvbxh.m3u8
+TVB千禧经典台,http://74.91.26.218:82/live/tvbjd.m3u8
+无线新闻台,http://74.91.26.218:82/live/inews.m3u8
+TVB Plus,http://74.91.26.218:82/live/j2.m3u8
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+NOW爆谷台,http://74.91.26.218:82/live/nowbg.m3u8
+美亚电影台,http://74.91.26.218:82/live/mydy.m3u8
+天映频道,http://74.91.26.218:82/live/typd.m3u8
+天映经典,http://74.91.26.218:82/live/tyjd.m3u8
+广东大湾区卫视1080p,http://rihou.cc:555/tv/[AtI]广东湾区
+TVB星河720p,http://cdn10.163189.xyz/163189/xinghe
+TVB星河720p,https://cdn6.101.qzz.io/163189/tvbxh
+TVB星河720p,http://rihou.cc:555/tv/[Pd]无线星河
+TVB星河720p,http://rihou.cc:555/tv/[PL]无线星河
+TVB星河720p,http://r.jdshipin.com/Voac4
+TVB无线千禧1080p,http://rihou.cc:555/tv/[Bx]无线千禧
+TVB千禧经典1080p,https://o11.163189.xyz/stream/live/tvbc/
 翡翠 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 黄金翡翠 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 J2 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
@@ -125,22 +151,6 @@ Smt星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 Smt翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 Smt华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 Smt Viu,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
-
-
-
-BXTV,#genre#
-千禧經典台,http://bxtv.3a.ink/api.php?id=qxjd
-翡翠台,http://bxtv.3a.ink/api.php?id=fct
-TVB Plus,http://bxtv.3a.ink/api.php?id=tvbp
-POPC,http://bxtv.3a.ink/api.php?id=popc
-明珠台,http://bxtv.3a.ink/api.php?id=mz
-無線新聞台,http://bxtv.3a.ink/api.php?id=wxxw
-美亞電影台,http://bxtv.3a.ink/api.php?id=meiya
-鳳凰衛視中文台,http://bxtv.3a.ink/api.php?id=fhzw
-鳳凰衛視資訊台,http://bxtv.3a.ink/api.php?id=fhzx
-鳳凰衛視香港台,http://bxtv.3a.ink/api.php?id=fhhk
-中天新聞台,http://bxtv.3a.ink/api.php?id=ztxw
-SUPER 18台,http://bxtv.3a.ink/api.php?id=18
 
 
 
