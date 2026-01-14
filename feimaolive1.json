@@ -24,22 +24,6 @@
      
         },
 {
-            "name": "Smart 1PhP",
-            "type": 0,
-            "url": "http://96.44.160.246:9999/smt.php",
-            "ua": "okhttp",
-            "timeout": 30
-     
-        },
-{
-            "name": "Smart 2PhP",
-            "type": 0,
-            "url": "http://159.69.45.173:9999/smt.php",
-            "ua": "okhttp",
-            "timeout": 30
-     
-        },
-{
             "name": "马新直播",
             "type": 0,
             "url": "http://hufa.zabc.net:8080/iptvpro.txt",
@@ -48,18 +32,18 @@
      
         },
 {
-            "name": "咪咕直播",
+            "name": "CatSmartTV",
             "type": 0,
-            "url": "http://iptv.catvod.com/tv.m3u",
-            "ua": "okhttp",
+            "url": "http://live.catvod.com/tv.m3u",
+            "ua": "catvod.com",
             "timeout": 30
      
         },
 {
-            "name": "CatLive直播",
+            "name": "咪咕直播",
             "type": 0,
-            "url": "http://live.catvod.com/tv.m3u",
-            "ua": "catvod.com",
+            "url": "http://iptv.catvod.com/tv.m3u",
+            "ua": "okhttp",
             "timeout": 30
      
         },
