@@ -7433,7 +7433,6 @@ SCTV2,https://freem3u.xyz/api/live/play.m3u8?vid=201
 
 
 RTM探嗅,#genre#
-Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
 TV 1,video://https://rtmklik.rtm.gov.my/live/tv1
 TV 2,video://https://rtmklik.rtm.gov.my/live/tv2
 BERITA,video://https://rtmklik.rtm.gov.my/live/beritartm

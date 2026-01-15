@@ -1,0 +1,1035 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5c133979efad5_VpBu.png" group-title="马来西亚", TV1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMV9iYWNrdXAvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6432c5ba2b936_0iGE.png" group-title="马来西亚", TV1 backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMV9iYWNrdXAvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5960dd05bc748_nI07.png" group-title="马来西亚", TV2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5be4fcde28d82_pYZ8.png" group-title="马来西亚", TV3
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWMy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWM19tZWdhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d5161f97fa0_JTX7.png" group-title="马来西亚", TV3 SD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWM19tZWdhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWM19iYWNrdXAvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68ce7c1426b78_75qr.png" group-title="马来西亚", TV3 backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWM19iYWNrdXAvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWM18xL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68ce7d59388de_PZdK.png" group-title="马来西亚", TV3 backup2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWM18xL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWNS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282880bb73e_g2j2.jpeg" group-title="马来西亚", TV5
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWNS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05UVjcvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5960dd41c9120_MyD6.png" group-title="马来西亚", NTV7
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05UVjcvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWOC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687347e5883d7_sDFu.jpg" group-title="马来西亚", 8TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWOC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWOS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5960dd91afc0d_GwBt.png" group-title="马来西亚", TV9
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWOS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FsaGlqcmFoL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fd8679ed60_ECrF.png" group-title="马来西亚", Al-Hijrah
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FsaGlqcmFoL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzovQWxoaWpyYWhfYmFja3VwL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e5a0781287d_xqmI.png" group-title="马来西亚", Al-Hijrah (Back up 1)
+http://127.0.0.1:18081/aHR0cDovLzovQWxoaWpyYWhfYmFja3VwL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3F1cmFuX21pZG8vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68329391af969_0O50.jpeg" group-title="马来西亚", Quran
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3F1cmFuX21pZG8vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N1bm5haF9taWRvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/683293a92886c_VLYc.jpeg" group-title="马来西亚", Sunnah
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N1bm5haF9taWRvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jlcm5hbWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971ff8752f79_777W.png" group-title="马来西亚", Bernama
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jlcm5hbWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0F3YW5pL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971ff717d4fd_2diW.png" group-title="马来西亚", Awani
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0F3YW5pL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlcmlhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/638aac7d62c9d_H6H5.jpg" group-title="马来西亚", Ceria
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlcmlhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L09hc2lzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b0511221c87d_EbX5.png" group-title="马来西亚", Oasis
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L09hc2lzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jvby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fc1c84d88fe2_SWyt.jpg" group-title="马来西亚", Boo
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jvby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBY2l0cmExL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64d7ad1693676_j0VJ.png" group-title="马来西亚", Citra
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBY2l0cmExL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBY2l0cmExL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d04e2df144f_9z8h.png" group-title="马来西亚", Citra backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBY2l0cmExL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1ByaW1hL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b051150ecc8f_99zC.png" group-title="马来西亚", Prima
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1ByaW1hL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBcHJpbWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca3c5391e02_2TTQ.png" group-title="马来西亚", Prima backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBcHJpbWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JpYS0wL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63301c51381ae_hOoY.png" group-title="马来西亚", Ria
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JpYS0wL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JpYV9iYWNrdXAvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65ffd20d8ad4b_Ne3n.png" group-title="马来西亚", Ria-3
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JpYV9iYWNrdXAvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RzYW5nYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62690de5ae919_5d33.jpg" group-title="马来西亚", Awesome TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RzYW5nYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0F1cmEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/652fcefc9854f_YcQe.png" group-title="马来西亚", Aura
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0F1cmEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NlbnNhc2kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/658fd2b4c7dd0_ll19.png" group-title="马来西亚", Sensasi
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NlbnNhc2kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NpYXIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/667b78d3712a9_fFF9.jpeg" group-title="马来西亚", Siar
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NpYXIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JhbmlhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63db11bc22f4f_G447.png" group-title="马来西亚", Rania
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JhbmlhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="L1J1c2kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6720a850dd537_P9oK.png" group-title="马来西亚", Astro Rusi
+http://127.0.0.1:18081/L1J1c2kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dpb24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6720a86924f8a_9b76.jpeg" group-title="马来西亚", WION
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dpb24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvTVRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6615dd60b5fba_mDFL.png" group-title="马来西亚", Astro MTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvTVRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FyZW5hL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbdc7d39e_Vd9U.png" group-title="马来西亚", Arena
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FyZW5hL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FyZW5hMi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dbe7b03f2_4JBX.png" group-title="马来西亚", Arena 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FyZW5hMi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JvbGFhcmVuYTEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc0869b0a_z66A.png" group-title="马来西亚", Arena Bola 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JvbGFhcmVuYTEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JvbGFhcmVuYTIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dc1dca270_C70Y.png" group-title="马来西亚", Arena Bola 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JvbGFhcmVuYTIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05hdGdlb3dpbGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f64207d24_Z7IR.png" group-title="马来西亚", NatGeo_Wild HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05hdGdlb3dpbGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J0bXNwb3J0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ca85501a4694_01x0.jpg" group-title="马来西亚", RTM Sports HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J0bXNwb3J0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FuaW1hbFBsYW5ldC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png" group-title="马来西亚", Animal_Planet
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FuaW1hbFBsYW5ldC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hib2ZhbWlseS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/645e165a87fea_Llf4.png" group-title="马来西亚", HBO Family
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hib2ZhbWlseS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Nob3djYXNlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/688dc1e138652_KC5L.png" group-title="马来西亚", Showcase
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Nob3djYXNlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J0bWFzZWFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6720a88500229_XU3K.jpeg" group-title="马来西亚", RTM Asean
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J0bWFzZWFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hHVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" group-title="马来西亚", HGTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hHVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2JhZG1pbnRvbjEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873536f40b50_nnOO.png" group-title="马来西亚", Astro Badminton
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2JhZG1pbnRvbjEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2JhZG1pbnRvbjIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873537eda97e_44L1.webp" group-title="马来西亚", Astro Badminton 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2JhZG1pbnRvbjIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RsYy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png" group-title="马来西亚", TLC
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RsYy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Zvb2RuZXR3b3JrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6319a9164e71e_3i8V.png" group-title="马来西亚", Foodnetwork Hd
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Zvb2RuZXR3b3JrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0F4bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png" group-title="马来西亚", Axn HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0F4bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hiby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" group-title="马来西亚", HBO HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hiby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hib3NpZ25hdHVyZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e03ea042dbb_AX33.png" group-title="马来西亚", HBO Signature
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hib3NpZ25hdHVyZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hib2hpdHNoZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6624d76b20337_4k7x.png" group-title="马来西亚", HBO Hits
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hib2hpdHNoZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RyZWFtd29ya3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6678f8fdc31dc_1E9W.png" group-title="马来西亚", Dreamworks
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RyZWFtd29ya3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05pY2tlbG9kZW9uL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773729d75f1_9N5b.png" group-title="马来西亚", Nickelodeon
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05pY2tlbG9kZW9uL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05pY2tqci9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e773774ec65b_g2p5.png" group-title="马来西亚", Nick Jr
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05pY2tqci9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2158e819c10_pwud.png" group-title="马来西亚", Cartoon Network
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FmYy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="马来西亚", Asia Food Network
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FmYy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FuaW1hbFBsYW5ldC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="马来西亚", Animal Planet (Eng)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FuaW1hbFBsYW5ldC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05hdGdlb3dpbGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png" group-title="马来西亚", NatGeo Wild HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05hdGdlb3dpbGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWTi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f7ef947e366c_28ky.png" group-title="马来西亚", TvN
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWTi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0tCUy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/636e0d6d65552_6VnU.png" group-title="马来西亚", KBS World
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0tCUy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NldE9uZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6040d4726400b_l42l.png" group-title="马来西亚", Sony HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NldE9uZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2bm1vdmllL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" group-title="马来西亚", tvN Movie
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2bm1vdmllL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0twbHVzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/640080a3bebdf_2Zm2.png" group-title="马来西亚", Astrol Kplus
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0twbHVzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L09uZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" group-title="马来西亚", One
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L09uZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FFQy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597200ac0df0a_0S0G.png" group-title="马来西亚", AEC
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FFQy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FvZGhkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63e5c4febde6b_bXAg.jpg" group-title="马来西亚", AOD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FvZGhkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dsdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a70855bd40f6_rUNh.png" group-title="马来西亚", 华丽台 HD (Wah Lai Toi)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dsdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0h1YWhlZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7084dfb3b50_naze.png" group-title="马来西亚", 欢喜台 HD(Hua Hee Tai)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0h1YWhlZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1F1YW5qaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5bb2163ab554f_7JHJ.jpg" group-title="马来西亚", Astro QJ
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1F1YW5qaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmphZGUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a1db489cf_8hfF.png" group-title="马来西亚", TVB Jade
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmphZGUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1FpeWkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d74be1faa9d7_oGUh.jpg" group-title="马来西亚", 爱奇艺 iQiyi
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1FpeWkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1hpbmhlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cb640029fe5_Yxzv.png" group-title="马来西亚", TVB 星河台  Xing He
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1hpbmhlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Rpc2NvdmVyeWFzaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccddd541a_zfGf.png" group-title="马来西亚", Discovery Asia
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Rpc2NvdmVyeWFzaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RtYXgvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcd907aad2_kPeK.jpeg" group-title="马来西亚", Dmax
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RtYXgvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmFzaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a253ecc4d_FMIE.png" group-title="马来西亚", TVB Asia
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmFzaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmVudGVydGFpbm1lbnQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a27fd0404_11Xu.png" group-title="马来西亚", TVB Entertainment
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmVudGVydGFpbm1lbnQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmNsYXNzaWMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64f8a29a58ef6_Cow5.png" group-title="马来西亚", TVB Classic
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2YmNsYXNzaWMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlbGVzdGlhbDIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3df32c37b0b_2c1C.jpg" group-title="马来西亚", Celestial Classic
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlbGVzdGlhbDIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlbGVzdGlhbC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5decd54011473_yII5.png" group-title="马来西亚", Celestial Movies HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlbGVzdGlhbC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JvY2thY3Rpb24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" group-title="马来西亚", Rock Actions
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JvY2thY3Rpb24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JvY2tlbnRlcnRhaW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" group-title="马来西亚", Rock Entertainment
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JvY2tlbnRlcnRhaW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JvbGx5b25lL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007ddb953e7_gcyW.png" group-title="马来西亚", Bollyone
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JvbGx5b25lL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bm11c2ljL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007f816651c_PI50.png" group-title="马来西亚", Astro Sunmusic
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bm11c2ljL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RoYW5nYXRoaXJhaS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282f8f72628_xa5b.jpeg" group-title="马来西亚", Thangathirai
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RoYW5nYXRoaXJhaS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Zpbm1lZW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68282fb923acd_QsnE.jpeg" group-title="马来西亚", Vinmeen
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Zpbm1lZW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1ZlbGxpdGhpcmFpL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66c8e2afe9fa7_NNg5.png" group-title="马来西亚", Vellithirai
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1ZlbGxpdGhpcmFpL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvX2xvbC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6720a82c628f8_iNkO.png" group-title="马来西亚", Astro LOL
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvX2xvbC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FsamF6ZWVyYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcf0e86fdd_I4D4.png" group-title="马来西亚", Al_Jazeera
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FsamF6ZWVyYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JiY25ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f69e925d7c6c_0tcF.png" group-title="马来西亚", BBC World News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JiY25ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NuYmMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe18c9cc7e_769j.png" group-title="马来西亚", CNBC
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NuYmMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jsb29tYmVyZy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcbc5460bb_wkzS.png" group-title="马来西亚", Bloomberg TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jsb29tYmVyZy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0R3L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcc5bf2af2_QS8q.png" group-title="马来西亚", DW
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0R3L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0ZyYW5jZTI0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccbf74ff6_GXzb.png" group-title="马来西亚", France 24
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0ZyYW5jZTI0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0V1cm9zcG9ydC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcdd832b40_4793.png" group-title="马来西亚", Eurosport
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0V1cm9zcG9ydC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NreW5ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbce29bcfe9_RNF6.png" group-title="马来西亚", Skynews
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NreW5ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05IS3ByZW1pdW0vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbceda857b0_rPg7.png" group-title="马来西亚", NHK Premium
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05IS3ByZW1pdW0vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2phZGVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873554e13c40_ly4d.webp" group-title="香港", 翡翠台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2phZGVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2phZGVfeHVlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687355759f7c6_zuuz.webp" group-title="香港", 翡翠台 (Back up 1)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2phZGVfeHVlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2luZXdzX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f4998635d_x402.png" group-title="香港", iNews 互動新聞台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2luZXdzX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2oyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f0118662a_Y9Fw.jpg" group-title="香港", J 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2oyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3BlYXJsX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b83f06aa2a69_LRfF.png" group-title="香港", 珍珠台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3BlYXJsX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hrcGhvZW5peF90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5adfe1fc7982b_u0t8.png" group-title="香港", 凤凰香港
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hrcGhvZW5peF90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hveWNhaWppbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d0362d914c11_xxl4.jpg" group-title="香港", 无线财经资讯台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hveWNhaWppbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3JoazMxX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d03644fd07f5_kwZc.png" group-title="香港", RHK 31
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3JoazMxX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpdTFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d0364d443b49_7r8B.jpg" group-title="香港", VIUTV1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpdTFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3JoazMyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9ac2413b04b_4Hux.jpg" group-title="香港", RHK 32
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3JoazMyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpdXNpeF90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ac007da9b3_0p6I.png" group-title="香港", Viu6
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpdXNpeF90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb99b9aff5_ZbUY.png" group-title="中国", CCTV-1 綜合
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb9b73797b_7vO3.png" group-title="中国", CCTV-2 財經
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb9d235349_uiZ3.png" group-title="中国", CCTV-3 綜藝
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NjdHY0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6354f44c76785_7mux.png" group-title="中国", CCTV-4 中文國際
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NjdHY0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b1271a528652_NDoB.png" group-title="中国", CCTV-4 中文國際 (備:1)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png" group-title="中国", CCTV-6 電影
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY3L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbb8e839a2_V374.png" group-title="中国", CCTV-7 軍事農業
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY3L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY4aGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbba9a3137_kOKc.png" group-title="中国", CCTV-8 電視劇
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY4aGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY5aGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbbcb4a553_0q2H.png" group-title="中国", CCTV-9 紀錄
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY5aGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMGhkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbbea04618_zBOm.png" group-title="中国", CCTV-10 科教
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMGhkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc0f86134_rO88.png" group-title="中国", CCTV-11 戲曲
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc2b8b19e_dYsa.png" group-title="中国", CCTV-12 社會與法
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxNC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5edf747068391_e0gR.png" group-title="中国", CCTV-14 少兒
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxNC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxNS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68864f7965688_80ux.png" group-title="中国", CCTV-15 音樂
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxNS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2h1bmFuX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1e747a19c6f_a8Xj.png" group-title="中国", 湖南卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2h1bmFuX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3poZWppYW5nX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb6874b836_9q9M.png" group-title="中国", 浙江卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3poZWppYW5nX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ppYW5nc3VfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1e74a487b89_HlXT.png" group-title="中国", 江苏卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ppYW5nc3VfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc460918d_68QZ.png" group-title="中国", CCTV-13 新聞與頻道
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHYxMy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NoZW56aGVuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d22ffdf55547_1u9U.png" group-title="中国", 深圳卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NoZW56aGVuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z1amlhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb74f1583c_5t42.png" group-title="中国", 福建东南卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z1amlhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hbmZhbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5edf81edc187c_hGG8.jpg" group-title="中国", 广东南方卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hbmZhbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2d1YW5nZG9uZ3dlaXNoaV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef9a1d2489b7_0J67.png" group-title="中国", 广东卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2d1YW5nZG9uZ3dlaXNoaV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JlaWppbmcvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a100738576f4_2rrh.png" group-title="中国", 北京卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JlaWppbmcvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3podWppYW5nL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a10083848a45_uvfB.png" group-title="中国", 珠江台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3podWppYW5nL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2d1YW5neGkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a100775e28cf_vd2Y.png" group-title="中国", 广西卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2d1YW5neGkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NHVE4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/625f9b1cc90c7_jyH8.png" group-title="中国", CGTN
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NHVE4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2h1YmVpL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1007f84d901_aDRq.png" group-title="中国", 湖北卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2h1YmVpL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NpY2h1YW5fdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb7ddc6b1e_6ShO.png" group-title="中国", 四川卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NpY2h1YW5fdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY1L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ba76f63a5e4f_bnN4.png" group-title="中国", CCTV-5 體育
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY1L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY1cGx1cy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21137727b90_Ay7G.png" group-title="中国", CCTV-5+ 體育
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NjdHY1cGx1cy9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2RvbmdmYW5nd2Vpc2hpX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68864e9323548_6NhQ.png" group-title="中国", 东方卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2RvbmdmYW5nd2Vpc2hpX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Bob2VuaXh0dl9oZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2d94b6b3_XfGx.png" group-title="中国", 凤凰卫视
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Bob2VuaXh0dl9oZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Bob2VuaXhpbmZvX2hkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2f949ff8_FotD.png" group-title="中国", 鳳凰資訊
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Bob2VuaXhpbmZvX2hkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NoYW5uZWw1SEQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1586ec269_o2Me.svg" group-title="新加坡", Channel 5
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NoYW5uZWw1SEQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY2g1L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b157aa4baf_l0Ja.svg" group-title="新加坡", Channel 5 backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY2g1L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NoYW5uZWw4SEQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1590c0b47_NFzf.png" group-title="新加坡", Channel 8
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NoYW5uZWw4SEQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY2g4L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15a592231_P9T3.png" group-title="新加坡", Channel 8 backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY2g4L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NoYW5uZWxVL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15d38c8ab_5d38.svg" group-title="新加坡", Channel U
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NoYW5uZWxVL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY2hVL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15e094c01_FpLQ.svg" group-title="新加坡", Channel U backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY2hVL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1cmlhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15b0c13d9_0Cf7.png" group-title="新加坡", Suria
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1cmlhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfU3VyaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15b7ccc43_707s.png" group-title="新加坡", Suria backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfU3VyaWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Zhc2FudGhhbS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1607166a7_gV7i.jpg" group-title="新加坡", Vasantham
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Zhc2FudGhhbS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfVmFzYW50aGFtL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6690ff4482a5c_mmEk.jpeg" group-title="新加坡", Vasantham backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfVmFzYW50aGFtL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY25hL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b156c4f2d5_wdd0.svg" group-title="新加坡", CNA backup1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ld2F0Y2hfY25hL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NuYV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b1560ce063_SBS2.svg" group-title="新加坡", CNA backup2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NuYV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Nubi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6472347d7a4c2_DyJ8.png" group-title="新加坡", CNN
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Nubi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nubl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0583a98287b_hwW9.png" group-title="新加坡", CNN backup
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nubl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NuYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" group-title="新加坡", CNA
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NuYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnNodWFubGVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5dbcf02b02fa1_KmYg.png" group-title="台湾", TVBS 歡樂台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnNodWFubGVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f29e89470_TOZ4.png" group-title="台湾", TVBS HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aWVudC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a7ad3ce62_zGkW.png" group-title="台湾", 中天娱乐 CTI Entertaiment
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aWVudC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aXpob25naGUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f3e9b6dc0_q9wh.png" group-title="台湾", 中天综合 CTI Metro
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aXpob25naGUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aWFzaWFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef34b78abae9_lcUh.png" group-title="台湾", 中天亚洲台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aWFzaWFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R0dl90YWl3YW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f49783758_lqgU.png" group-title="台湾", 台视 TTV HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R0dl90YWl3YW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R0dnpob25naGUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ae0be7ecef_8Xkk.png" group-title="台湾", 台视综合台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R0dnpob25naGUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3pob25nc2hpaGRfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e19933ef1_0gtF.png" group-title="台湾", 中视 HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3pob25nc2hpaGRfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z0dmhkX3RhaXdhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/61ab10a4ef588_0nFM.png" group-title="台湾", 民视 HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z0dmhkX3RhaXdhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z0dnRhaXdhbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4863347815_LS6r.png" group-title="台湾", 民视台湾台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z0dnRhaXdhbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0c2hkX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4850f9c41f_77SB.png" group-title="台湾", 华视 CTS HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0c2hkX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0djE4X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07a90142345_bUxd.jpg" group-title="台湾", 公视 CTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0djE4X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGFmaXJzdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f6ca5a321_y77x.png" group-title="台湾", 八大第一 GTV First
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGFmaXJzdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGF6aG9uZ2hlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f74f4f446_3vV7.png" group-title="台湾", 八大综合 GTV Metro
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGF6aG9uZ2hlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGFkcmFtYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f714e7982_tpnp.png" group-title="台湾", 八大戏剧 GTV Drama
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGFkcmFtYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGFlbnRlcnRhaW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971fac8acd85_1fyo.png" group-title="台湾", 八大娱乐 GTV Entertainment
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhZGFlbnRlcnRhaW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hib2hkX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="台湾", HBO_HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hib2hkX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hib2hpdHNfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="台湾", HBO_HITS
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hib2hpdHNfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hib3NpZ25hdHVyZV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="台湾", HBO Signature Taiwan
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hib3NpZ25hdHVyZV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hvbGx5d29vZG1vdmllc190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="台湾", Hollywood Movies
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hvbGx5d29vZG1vdmllc190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpdGFpd2FuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa484fdb8_ZP60.png" group-title="台湾", 三立台湾 Sanli Taiwan
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpdGFpd2FuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpeGlqdV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3dd3d83ead_l7lR.jpg" group-title="台湾", 三立戏剧台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpeGlqdV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpemhvbmdoZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f8d13edd1_SZPZ.png" group-title="台湾", 三立综合 Sanli Metro
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpemhvbmdoZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpZG91aHVpX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef478076b65f_ZOy7.png" group-title="台湾", 三立都会台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NhbmxpZG91aHVpX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZ6aG9uZ2hlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/597214f33c2f3_Iir8.jpg" group-title="台湾", 东森综合 ETTV Metro
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZ6aG9uZ2hlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZkcmFtYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa9f60889_OvMr.png" group-title="台湾", 东森戏剧 ETTV Drama
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZkcmFtYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0djJfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66e2bf9c477d9_w9D1.jpg" group-title="台湾", 公视2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0djJfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2RhYWlfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07ab5e806e7_7gGt.png" group-title="台湾", 大爱1台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2RhYWlfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWF4aWp1X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2104d7173d8_laLA.png" group-title="台湾", 龙华戏剧 Lunghua Drama
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWF4aWp1X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWFqaW5nZGlhbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f006937ee_hbZ8.jpg" group-title="台湾", 龙华经典台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWFqaW5nZGlhbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWFpZG9sX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21052c811cb_AFAb.jpg" group-title="台湾", 龙华偶像
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWFpZG9sX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2F4bl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="台湾", AXN Taiwan
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2F4bl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ppbmd0aWFuaW50bF90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ee5e27819ade_882I.jpg" group-title="台湾", 靖天国际台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ppbmd0aWFuaW50bF90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NpbmVtYXhfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="台湾", CINEMAX
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NpbmVtYXhfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25pYW5kYWluZXdzX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21080065d41_0hFz.png" group-title="台湾", 年代新闻
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25pYW5kYWluZXdzX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZGphcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d1e7bf942_NJa3.jpg" group-title="台湾", 纬来日本台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZGphcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZG1vdmllL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg" group-title="台湾", 纬来电影台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZG1vdmllL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZHNwb3J0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png" group-title="台湾", 纬来体育台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZHNwb3J0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZHpvbmdoZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2b942bef_ZYqs.jpg" group-title="台湾", 纬来综合台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZHpvbmdoZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZG1heC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ac6efe44e3_XA3K.png" group-title="台湾", 纬来育乐
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZG1heC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZHR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ad8a8d99f4_J33A.png" group-title="台湾", 纬来精彩
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpZGVvbGFuZHR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2R3X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e5b30d607_CZ93.png" group-title="台湾", DW (Deutsch)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2R3X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvb2QyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef472ef7cd46_vnVW.png" group-title="台湾", 好消息 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvb2QyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2RhYWkyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" group-title="台湾", 大爱2台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2RhYWkyX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FmY190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" group-title="台湾", 亚洲美食
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FmY190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RsY190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" group-title="台湾", 亚洲旅游 TLC Asia
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RsY190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZtb3ZpZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="台湾", 东森电影 ETTV Movie
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZtb3ZpZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FyaXJhbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f06e3f614_wOfo.png" group-title="台湾", 阿里郎 Arirang
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FyaXJhbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2lzcG9ydDFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f28101ccd_21Yl.png" group-title="台湾", 博斯运动 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2lzcG9ydDFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2lzcG9ydDJfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f2d170aaf_zKOw.png" group-title="台湾", 博斯运动 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2lzcG9ydDJfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2lnb2xmMl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f32607f4a_wZ5H.png" group-title="台湾", 博斯高球2 HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2lnb2xmMl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2l0ZW5uaXNfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f37b7740e_E2eC.png" group-title="台湾", 博斯网球 HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2l0ZW5uaXNfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZ3ZXN0ZXJuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="台湾", 东森洋片 ETTV Western
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZ3ZXN0ZXJuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWF3ZXN0ZXJuX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" group-title="台湾", 龙华洋片 Lunghua Western
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmdodWF3ZXN0ZXJuX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2l1bmxpbWl0ZWRfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16f3c25dba2_Xkc0.png" group-title="台湾", 博斯无限
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jvc2l1bmxpbWl0ZWRfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L210dmhkX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="台湾", MTV Live
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L210dmhkX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmd4aWFuZ3RpbWVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="台湾", 龙详时代
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2x1bmd4aWFuZ3RpbWVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V5ZXR2dHJhdmVsX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edfc5cb545_07F2.jpg" group-title="台湾", EYETV 旅游
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V5ZXR2dHJhdmVsX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ppbmd0aWFuY2FydG9vbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3a24b319689_3vD8.png" group-title="台湾", 靖天卡通台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ppbmd0aWFuY2FydG9vbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V5ZXR2eGlqdV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2ee0166877e_21kv.jpg" group-title="台湾", EYETV 戏剧
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V5ZXR2eGlqdV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3dlaXNoaWNoaW5lc2VfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" group-title="台湾", 卫视中文台 Star Movies Chinese
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3dlaXNoaWNoaW5lc2VfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3lveW9fdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a215c530b17b_qqz4.png" group-title="台湾", 东森幼幼 Yoyo TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3lveW9fdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21laXlhbW92aWVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" group-title="台湾", 美亚电影
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21laXlhbW92aWVfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFkcmFtYV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b47f2c36f_f7lG.jpeg" group-title="台湾", 爱尔达戏剧台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFkcmFtYV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnNfbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f35d6bc9f_jpuU.png" group-title="台湾", TVBS News 新聞台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R2YnNfbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZuZXdzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa66e2bfd_0a3a.jpg" group-title="台湾", 東森新聞 ETTV News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZuZXdzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZjYWlqaW5nX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20fa57a4f36_U0S8.png" group-title="台湾", 東森財經新聞 ETTV Business
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V0dHZjYWlqaW5nX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZlaWZhbm5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b5cf79950_l89e.png" group-title="台湾", 非凡新聞台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZlaWZhbm5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aW5ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d864efce07b1_Cob7.jpg" group-title="台湾", 中天新聞 CTI News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2N0aW5ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R0dm5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d2af93f01_C8ET.jpg" group-title="台湾", 台視新聞台 TTV News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3R0dm5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFzcG9ydDFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937c66da8e5_u3ny.png" group-title="台湾", Elta体育1台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFzcG9ydDFfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFzcG9ydDJfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cf42c66b7_iSKc.png" group-title="台湾", Elta體育2台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFzcG9ydDJfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFzcG9ydDNfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/628f3a3f9692d_U55i.png" group-title="台湾", Elta體育3台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2VsdGFzcG9ydDNfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z0dm5ld190YWl3YW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a20f508d3945_OF2b.png" group-title="台湾", 民視新聞台 FTV News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Z0dm5ld190YWl3YW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2h1YW55dXhpbndlbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6207d1e2785ef_Z1HU.png" group-title="台湾", 寰宇新聞台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2h1YW55dXhpbndlbl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3pob25nc2hpbmV3c190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e79e1c173ffc_Ffv5.png" group-title="台湾", 中視新聞台
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3pob25nc2hpbmV3c190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rhem4xX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a3c30070_7uCt.png" group-title="台湾", DAZN 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rhem4xX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rhem4yX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a5570df2_vtEZ.png" group-title="台湾", DAZN 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rhem4yX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rpc2NvdmVyeWNoX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="台湾", 探索频道
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rpc2NvdmVyeWNoX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3AxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3db81b45be_Hh0H.png" group-title="体育频道", Astro PL 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3AxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352fad593a_NYzy.png" group-title="体育频道", Astro PL 1 (Back Up 1)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AxeC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873530f773d3_901z.png" group-title="体育频道", Astro PL 1 (Back Up 2)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AxeC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3A1L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6717d4ed62014_CLKW.jpeg" group-title="体育频道", Astro W-Sports
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3A1L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352e3bc356_Ze61.png" group-title="体育频道", Astro PL 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1d3ZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7e268145b2a_8D8s.png" group-title="体育频道", WWE
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1d3ZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05iYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5c2e37740d88a_LHbt.png" group-title="体育频道", NBA TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05iYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fnb2xmL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6313d0823d489_cuuc.png" group-title="体育频道", Astro Golf
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fnb2xmL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3A0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687352f02420a_U9RC.png" group-title="体育频道", Astro Football
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3A0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3A0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3daee1904e_K0Yv.png" group-title="体育频道", Astro Football (Back Up 1)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3A0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX3Nwb3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/644eaba65a543_A0u6.png" group-title="体育频道", SPOTV 1 HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX3Nwb3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX3Nwb3R2Mi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/636ce992c5fb3_4XFa.png" group-title="体育频道", SPO TV 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX3Nwb3R2Mi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3AyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cdd7d464cc88_2Ong.jpg" group-title="体育频道", Supersports 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3AyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873520deb744_WA4y.png" group-title="体育频道", Astro Grandstand
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX2Fzc3AzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fjcmlja2V0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63b0f03b82a7a_ca4k.png" group-title="体育频道", Astro Cricket
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fjcmlja2V0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0MS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fec4a8044_bwpD.png" group-title="体育频道", Tnt Sports 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0MS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3AzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68b3dab338837_y8bs.png" group-title="体育频道", Astro Grandstand (Back Up 1)
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fzc3AzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0Mi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fed5dbbd6_2ez5.png" group-title="体育频道", TNT Sports 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0Mi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0My9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fee405567_7p3b.png" group-title="体育频道", TNT Sports 3
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0My9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0NC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6951fef17a1b7_THvq.png" group-title="体育频道", TNT Sports 4
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RudHNwb3J0NC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX3Nwb3J0c3BsdXMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6873535cc3304_c1LG.png" group-title="体育频道", Astro Sports Plus
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dvX3Nwb3J0c3BsdXMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J1Z2J5cGFzc3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64007fee62c4f_Sk2S.png" group-title="体育频道", Rugby Pass TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J1Z2J5cGFzc3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvYmVpbjEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c6028713_cGsV.jpeg" group-title="体育频道", Astro Beinsports 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvYmVpbjEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvYmVpbjIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49c8fe4e81_wV3l.jpeg" group-title="体育频道", Astro Beinsports 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvYmVpbjIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvYmVpbjMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/66d49ca8b4d0f_h999.jpeg" group-title="体育频道", Astro Beinsports 3
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJvYmVpbjMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nY3JpY2tldC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b83271dcd_Bwme.png" group-title="体育频道", Skysports Cricket
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nY3JpY2tldC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nZXBsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b85b83d1f_l6Dz.png" group-title="体育频道", Skysports EPL
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nZXBsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nZjEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b87c2d727_E7CU.png" group-title="体育频道", Skysports F1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nZjEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nZ29sZi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8a043a6f_1ZT6.png" group-title="体育频道", Skysports Golf
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nZ29sZi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nbWFpbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8c44cc6f_ILRn.png" group-title="体育频道", Skysports Main Event
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nbWFpbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nbWl4L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b8daa4763_e00V.png" group-title="体育频道", Skysports Mix
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25nbWl4L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25ncmFjaW5nL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b9cd53a9b_MMsH.png" group-title="体育频道", Skysports Racing
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RpYW5rb25ncmFjaW5nL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vdmllc25vd19yYWovcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2f91b795d2_KROR.png" group-title="电影频道", Movies Now HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vdmllc25vd19yYWovcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N0YXJtb3ZpZXNfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2fd101059d_XUc4.png" group-title="电影频道", Star Movies HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N0YXJtb3ZpZXNfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NpX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f24ab1e1e_lcJU.png" group-title="纪录频道", CI
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NpX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzaWF0cmF2ZWxfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e202a1f2a_rv0X.png" group-title="纪录频道", Asia Travel
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzaWF0cmF2ZWxfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05hdGdlby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3ba3874dd6_052Z.png" group-title="纪录频道", NatGeo HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05hdGdlby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Zhc2hpb250dl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f6b2d6f239ec_Oob3.jpg" group-title="纪录频道", Fashion TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Zhc2hpb250dl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hpc3RvcnkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e090ed797_tvMv.png" group-title="纪录频道", History
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hpc3RvcnkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiY2VhcnRoX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" group-title="纪录频道", BBC Earth HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiY2VhcnRoX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiY2xpZmVzdHlsZV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" group-title="纪录频道", BBC Earth Lifestyle
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiY2xpZmVzdHlsZV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FiY25ld3NfZ2xvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8817d7cecf_EBE0.jpg" group-title="新闻频道", ABC News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FiY25ld3NfZ2xvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nic2hkX2dsby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb8822242313_f6rG.png" group-title="新闻频道", CBS HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nic2hkX2dsby9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nic25fZ2xvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5cb882d8dc647_oT2y.jpg" group-title="新闻频道", CBSN HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nic25fZ2xvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZveG5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/623d9e56cce2f_NDGe.png" group-title="新闻频道", Fox News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZveG5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa3dvcmxkX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6071521dd57ca_NLaz.png" group-title="新闻频道", NHK World
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa3dvcmxkX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FsamF6ZWVyYV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fb7da12fc3_kWXh.png" group-title="新闻频道", Al-Jazeera
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FsamF6ZWVyYV90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jsb29tYmVyZ190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe1c7e1e0e_lTle.png" group-title="新闻频道", Bloomberg News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Jsb29tYmVyZ190d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JiY25ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/647234ed62f99_Z1I1.png" group-title="新闻频道", BBC World News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0JiY25ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZyYW5jZTI0X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e59a634e5_h4rA.png" group-title="新闻频道", France 24
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZyYW5jZTI0X3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NreW5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181c124463_omAE.jpg" group-title="新闻频道", Skynews
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NreW5ld3NfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0luZF9iYWJ5dHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2f540b4e38_uBBV.jpg" group-title="儿童频道", Baby TV Eng
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0luZF9iYWJ5dHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NiZWViaWVzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e18119f1_p4EF.png" group-title="儿童频道", CBeebies
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NiZWViaWVzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0tpZHNUVi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e438e0b2_0Zl3.png" group-title="儿童频道", Kids TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0tpZHNUVi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vbW8xX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fdc625e9ea_YD9m.png" group-title="儿童频道", Momo TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vbW8xX3R3bi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhYnl0dl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f01c5df39001_XL62.jpg" group-title="儿童频道", Baby TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JhYnl0dl90d24vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01pYW9NaS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="儿童频道", MiaoMi
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01pYW9NaS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoM19wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e70c40dd4_T8h6.png" group-title="泰国", Channel 3 Thailand
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoM19wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoNV9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e71f9cee0_XB5x.png" group-title="泰国", Channel 5 Thailand
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoNV9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoN19wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e732f3348_Ffio.png" group-title="泰国", Channel 7 Thailand
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoN19wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21jb3RfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2161a61b037_yk0Y.png" group-title="泰国", MCOT HD Thailand-1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21jb3RfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3BwdHZfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2161cd2228a_YN8B.png" group-title="泰国", PPTV Thailand1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3BwdHZfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RoYWl0aGFpX3BhdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ce2b42784930_uGGp.png" group-title="泰国", Thai Thai
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RoYWl0aGFpX3BhdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FtYXJpbl9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6bff61073_5wWR.jpg" group-title="泰国", Amarin
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FtYXJpbl9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoOF9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c2cc80d8_WEQW.jpg" group-title="泰国", Ch 8
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoOF9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dtbW9uZV9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c58f1bd5_vTOq.jpg" group-title="泰国", GmmOne
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dtbW9uZV9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vbm9fcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6c7bb98e0_HaF9.jpg" group-title="泰国", Mono
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vbm9fcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RoYWlyYXRoX3BhdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6ca5ef161_zub7.jpg" group-title="泰国", Thairath
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RoYWlyYXRoX3BhdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RwYnNfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6cd48b4f1_G59B.jpg" group-title="泰国", tpbs
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RwYnNfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3dvcmtwb2ludF9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6cfb7ab51_1Iot.jpg" group-title="泰国", Workpoint
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3dvcmtwb2ludF9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dtbWNoYW5uZWxfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d2f39072_6OC4.jpg" group-title="泰国", Gmm Channel
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2dtbWNoYW5uZWxfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hdGlvbl9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d5c60ab4_q47M.png" group-title="泰国", Nation
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hdGlvbl9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RubjI0X3BhdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6d8843603_4UjT.jpg" group-title="泰国", Tnn24
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RubjI0X3BhdC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25idF9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6dae4e33a_R8Nn.jpg" group-title="泰国", Nbt
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25idF9wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25ld19wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6dcc71d25_Z59H.jpg" group-title="泰国", New
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25ld19wYXQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RwdHZfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5faa6df1cfb05_Cdhn.jpg" group-title="泰国", TPTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3RwdHZfcGF0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="泰国", Test 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="泰国", Test 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTIvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="泰国", Test 3
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="泰国", Test 4
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="泰国", Test 5
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FBQTUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FyaXJhbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5f370fd2_Gyr3.png" group-title="韩国", Arirang HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FyaXJhbmdfdHduL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3lvbmhhcG5ld3Nfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4686a2e5_QQCz.png" group-title="韩国", Yonhap News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3lvbmhhcG5ld3Nfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nic19rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb08904e62_zFph.png" group-title="韩国", CBS
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Nic19rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ViczFfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac56a260e8_Lx0W.png" group-title="韩国", EBS 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ViczFfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ViczJfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb0d927d1d_6EaA.png" group-title="韩国", EBS2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ViczJfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Vic3BsdXMyX2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb11e57dea_06bi.jpg" group-title="韩国", EBS Plus2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Vic3BsdXMyX2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Nic3BsdXNfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5e5bb17e8d5b5_zt6T.png" group-title="韩国", SBS Plus
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Nic3BsdXNfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bl9rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac1f0e6107_TlZT.png" group-title="韩国", YTN
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bl9rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2tic3dvcmxkMjRfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac24c2c8dd_99xd.jpg" group-title="韩国", KBS World 24
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2tic3dvcmxkMjRfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bnNjaWVuY2Vfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac35893c14_9fd9.png" group-title="韩国", YTN Science
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bnNjaWVuY2Vfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bmtvcmVhbl9rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac39701e9b_TM4a.png" group-title="韩国", YTN Korean
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bmtvcmVhbl9rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bmRtYl9rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac3cd1cf33_s57d.png" group-title="韩国", YTN DMB
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3l0bmRtYl9rb3JlYS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FwcG9uZ29vZ2xlX2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="韩国", Apps TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FwcG9uZ29vZ2xlX2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FsbHRoZWtwb3Bfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac4bbaa0df_8s7B.png" group-title="韩国", All the Kpop
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FsbHRoZWtwb3Bfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2p0aGVrcG9wX2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="韩国", J the Kpop
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2p0aGVrcG9wX2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Vic2tpZHNfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac5a3a4ec0_lBY2.png" group-title="韩国", EBS Kids
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Vic2tpZHNfa29yZWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NnbnR2X2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607ac62748808_59Yv.png" group-title="韩国", CGNTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NnbnR2X2tvcmVhL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa2dfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aeded5e1a572_L8od.png" group-title="日本", NHK-総合-2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa2dfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa2VfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aededab2e3c3_8NNR.png" group-title="日本", NHK-E
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa2VfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzYWhpdHZfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedee79e389c_d18e.jpg" group-title="日本", テレビ朝日 Asahi TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzYWhpdHZfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2pldHR2X2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedec68ee3ce_25ZB.png" group-title="日本", JET 綜合
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2pldHR2X2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Rva3lvdHZfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedeefd3fbb2_bR8K.jpg" group-title="日本", テレビ東京 Tokyo TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Rva3lvdHZfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Rva3lvbXhfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedef71785ca_JKjZ.jpg" group-title="日本", TOKYOMX
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Rva3lvbXhfamFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa2JzMV9qYXBhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf21de25da_HS3R.jpg" group-title="日本", NHKBS1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa2JzMV9qYXBhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa3ByZW1pdW1famFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf2639f151_F5H6.jpg" group-title="日本", NHKBSプレミア Premium
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa3ByZW1pdW1famFwYW4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JzMTgxX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf35aae288_A34G.png" group-title="日本", BSジャパン 181
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JzMTgxX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JzZnVqaV9qYXBhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf39725ca1_hD8X.jpg" group-title="日本", BSフジ BS Fuji
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JzZnVqaV9qYXBhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NuYV9qYXBhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5aedf9959bae8_0j0Y.png" group-title="日本", CNA Japan
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NuYV9qYXBhbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JzdGJzX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d79d296d5c_wYKk.png" group-title="日本", BS-TBS
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JzdGJzX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa29zYWthX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0d7b0a69215_N6az.jpg" group-title="日本", NHK Oaska
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25oa29zYWthX2phcGFuL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2Fic2Nibl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a701c71cc5c9_VRp5.jpg" group-title="菲律宾", ABS-CBN
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2Fic2Nibl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2Fic2NibnNwb3J0c19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a701ec123a80_D0xG.jpg" group-title="菲律宾", ABS-CBN Sports
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2Fic2NibnNwb3J0c19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2dtYTdfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b3e43f0cd1_bD29.jpg" group-title="菲律宾", GMA 7
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2dtYTdfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2dtYW5ld3NfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b3edce5375_1dpn.jpg" group-title="菲律宾", GMA News
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2dtYW5ld3NfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L29uZW1lZGlhX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3f6030da1_gegO.png" group-title="菲律宾", One Media
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L29uZW1lZGlhX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L29uZW5ld3NfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3f94be2f6_7nat.png" group-title="菲律宾", One News
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L29uZW5ld3NfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L29uZXNwb3J0c19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3fd26db45_PBl6.png" group-title="菲律宾", One Sports
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L29uZXNwb3J0c19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NubnBpbm95X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3b2b93d9d_XHaf.png" group-title="菲律宾", CNN Philippines
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NubnBpbm95X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2R6bW1fcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7031a29622e_2dKp.jpeg" group-title="菲律宾", DZMM
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2R6bW1fcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2R6cmhfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7032af9ec4b_PbpB.jpg" group-title="菲律宾", DZRH
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2R6cmhfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2VzcG41X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3cb5caa03_Q4q9.png" group-title="菲律宾", ESPN 5
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2VzcG41X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2VzcG41cGx1c19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3d016d29e_iA1C.png" group-title="菲律宾", ESPN 5 Plus
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2VzcG41cGx1c19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L210dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a70209018184_WwX9.PNG" group-title="菲律宾", MTV
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L210dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NpbmVtYW9uZV9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7022218b16c_ucVr.jpg" group-title="菲律宾", Cinema One
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NpbmVtYW9uZV9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2ZveF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a70335c83b85_Llt4.png" group-title="菲律宾", Fox Filipino
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2ZveF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NsYXNzaWNhX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3c247512e_GuTN.png" group-title="菲律宾", Classica
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NsYXNzaWNhX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L21vdmllc2NlbnRyYWxfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3eed085f4_1Htw.jpg" group-title="菲律宾", Movies Central
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L21vdmllc2NlbnRyYWxfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L21vdmllc3Bpbm95X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3f28a45d6_3s3A.jpg" group-title="菲律宾", Movies Pinoy
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L21vdmllc3Bpbm95X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2dwY19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7024cbb930d_AtbT.jpg" group-title="菲律宾", GPC
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2dwY19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2liY19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b4011d5296_360F.png" group-title="菲律宾", IBC
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2liY19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2luY3R2X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7b40f481466_7u5g.png" group-title="菲律宾", INC TV
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2luY3R2X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2phY2t0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7c94b1d0999_FG2I.jpg" group-title="菲律宾", Jack TV
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2phY2t0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2plZXBuZXl0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7c9629f402d_b1PP.jpg" group-title="菲律宾", Jeepney TV
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2plZXBuZXl0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L215eF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fcedfee145_kVMW.png" group-title="菲律宾", MYx
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L215eF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L25ldDI1X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fcfa524d36_Jxh3.jpg" group-title="菲律宾", Net25
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L25ldDI1X3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3Bib19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd064726b5_885w.jpg" group-title="菲律宾", PBO
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3Bib19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3Bpbm95ZXh0cmVtZV9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd13ceed1f_cM13.jpg" group-title="菲律宾", Pinoy Extreme
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3Bpbm95ZXh0cmVtZV9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3B0dm5ld3NfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ddbaff1c6586_c81R.jpg" group-title="菲律宾", PTV News
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3B0dm5ld3NfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3NhcmlzYXJpX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd27fdaa3a_hkZ9.png" group-title="菲律宾", Sari Sari
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3NhcmlzYXJpX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3ZpdmF0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a7fd3e5be04d_6bC9.jpg" group-title="菲律宾", Viva TV
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3ZpdmF0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2FuY19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ae17394a375b_r4Yr.png" group-title="菲律宾", ANC
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2FuY19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2tub3dsZWRnZV9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ae1744e735d6_iNy7.jpg" group-title="菲律宾", Knowledge
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2tub3dsZWRnZV9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2xpZ2FoZF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ae17497626d9_glbG.jpg" group-title="菲律宾", Liga HD
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2xpZ2FoZF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2FzaWFub3ZlbGFfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3a688735b_vii0.jpg" group-title="菲律宾", Asia Novela
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2FzaWFub3ZlbGFfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NoYW5uZWxWX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3ba7bc58d_5Z0J.png" group-title="菲律宾", Channel V
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NoYW5uZWxWX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NpdHkzNl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3be836d6b_zu7e.png" group-title="菲律宾", City 36
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NpdHkzNl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NvbG91cnNfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3c71cdbda_LW4h.png" group-title="菲律宾", Colours
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2NvbG91cnNfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2V0Y19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3d434ee49_znng.png" group-title="菲律宾", ETC
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2V0Y19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2V1cm9zcG9ydHNfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3dd261d3f_2mQI.png" group-title="菲律宾", Eurosports
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2V1cm9zcG9ydHNfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L21ldHJvX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3e824cb9e_967t.jpg" group-title="菲律宾", Metro
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L21ldHJvX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2twbHVzX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3eb538138_D9A9.jpg" group-title="菲律宾", K+
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2twbHVzX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3JlZGhib19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a402a827bc_GQwW.png" group-title="菲律宾", Red HBO
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3JlZGhib19waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3Nob3B0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a40c9cfdfc_fdF8.jpg" group-title="菲律宾", Shop TV
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3Nob3B0dl9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3NvbGFyc3BvcnRzX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a41063d66d_4zbw.png" group-title="菲律宾", Solar Sports
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3NvbGFyc3BvcnRzX3Bpbm95L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3R2c2hvcF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a414362999_sn8f.jpg" group-title="菲律宾", TV Shop
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3R2c2hvcF9waW5veS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3RlbGVub3ZlbGFfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a41804afbe_8ME2.jpg" group-title="菲律宾", TeleNovela
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3RlbGVub3ZlbGFfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3VudHZfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a41c6bb49f_W48g.png" group-title="菲律宾", UNTV
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3VudHZfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3plZXNpbmVfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a4202b006e_ySHO.jpg" group-title="菲律宾", Zee Sine
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L3plZXNpbmVfcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2V3dG5fcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d7a3d8ee188c_wpYz.png" group-title="菲律宾", EWTN
+http://127.0.0.1:18081/aHR0cDovLzE4NS4xMzIuMTc2LjE3Mjo4Mjc4L2V3dG5fcGlub3kvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9hbnR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919d7fb6b1d_23g3.jpeg" group-title="越南", ANTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9hbnR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHYxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919dffee49d_PX1x.png" group-title="越南", VTV 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHYxL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHYzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383832f484_cZjE.png" group-title="越南", VTV 3
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHYzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHY0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893839e3ccf3_JYI5.png" group-title="越南", VTV 4
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHY0L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHY2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/689383b6b9644_9077.png" group-title="越南", VTV 6
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl92dHY2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9odHY3L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919e86b58c6_Z5Ei.png" group-title="越南", HTV 7
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9odHY3L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9odHY5L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65919eba63ed7_mxc0.png" group-title="越南", HTV 9
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9odHY5L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl90aHZsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6893863848ab4_G363.jpeg" group-title="越南", THVL HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl90aHZsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl90Ymt0di9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="越南", TBKTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl90Ymt0di9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9idHZoZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938686dba8c_rV34.png" group-title="越南", BTV HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9idHZoZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9jdHZoZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938699e928b_666x.png" group-title="越南", CTV HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Z0bl9jdHZoZC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiYzFfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181361dee5_MDjl.jpg" group-title="英国", BBC 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiYzFfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiYzJfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f91814fb3817_6fDV.jpg" group-title="英国", BBC 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiYzJfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NiYmNfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f918166c532d_110a.jpg" group-title="英国", CBBC
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NiYmNfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vcmU0X2FudGlrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181811cd7e_4j9Z.jpg" group-title="英国", More4
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21vcmU0X2FudGlrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZyZWVzcG9ydHNfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181a34f4e3_zN3L.jpg" group-title="英国", Freesports
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2ZyZWVzcG9ydHNfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3BpY2t0dl9hbnRpay9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181e4b38f9_jR8W.jpg" group-title="英国", Pick TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3BpY2t0dl9hbnRpay9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2l0djFfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182016df26_zzZM.jpg" group-title="英国", itv 1
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2l0djFfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2l0djJfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f918215f26bb_VGZv.jpg" group-title="英国", itv 2
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2l0djJfYW50aWsvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V1cm9uZXdzX2FudGlrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182b681697_201z.jpg" group-title="英国", Euronews
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2V1cm9uZXdzX2FudGlrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoYW5uZWw0X2FudGlrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182d04d794_7Rsu.jpg" group-title="英国", Channel 4
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2NoYW5uZWw0X2FudGlrL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiY3dvcmxkbmV3c19hbnRpay9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9182381dfb6_atk9.jpg" group-title="英国", BBC World News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2JiY3dvcmxkbmV3c19hbnRpay9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWUkkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b868548cd8db_6uIi.jpg" group-title="印度尼西亚", TVRi National
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWUkkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JjdGkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720e1c86fdf_RNTK.png" group-title="印度尼西亚", RCTI
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1JjdGkvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0tvbXBhc3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720dbfc7a1f_61p1.png" group-title="印度尼西亚", Kompass TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0tvbXBhc3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jlcml0YVNhdHVfZWtvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f00764563909_bMva.png" group-title="印度尼西亚", Berita Satu
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Jlcml0YVNhdHVfZWtvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0luZG9zaWFyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5caf378249963_FkKU.png" group-title="印度尼西亚", Indosiar HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0luZG9zaWFyL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21ldHJvdHZfZWtvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216573903bf_s163.jpg" group-title="印度尼西亚", Metro TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L21ldHJvdHZfZWtvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NDVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720dd61dfe1_76P7.png" group-title="印度尼西亚", SCTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1NDVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FudHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0075b5b7925_d3YY.png" group-title="印度尼西亚", AnTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FudHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01uY3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d721d4389da4_G1ZL.png" group-title="印度尼西亚", MNC TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01uY3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RyYW5zN19la28vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0076089b349_kPFK.png" group-title="印度尼西亚", Trans 7
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RyYW5zN19la28vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RyYW5zdHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ebe907d0f9fb_rxyZ.png" group-title="印度尼西亚", Transtv
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RyYW5zdHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0pUVl9la28vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0077280b78a_tAHQ.png" group-title="印度尼西亚", JTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0pUVl9la28vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NpbmVtYXgvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" group-title="印度尼西亚", Cinemax
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NpbmVtYXgvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2b25lL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ebe906a86d36_gP9r.png" group-title="印度尼西亚", Tvone
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1R2b25lL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWTVVfZWtvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f0074cf550bf_Y0yL.png" group-title="印度尼西亚", TVMU
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RWTVVfZWtvL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0d0di9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/60463af7167fc_95Ol.png" group-title="印度尼西亚", GTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0d0di9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J0di9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62f38e53d15bd_TDbd.jpg" group-title="印度尼西亚", RTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1J0di9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0pha1RWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b1d1df8d_Pp10.png" group-title="印度尼西亚", Jak TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0pha1RWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0luZXdzdHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b424fc79_hSEN.png" group-title="印度尼西亚", iNews TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0luZXdzdHYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RhYWlUVi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b5fc58d2_R114.png" group-title="印度尼西亚", Daai TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0RhYWlUVi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05ldFRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5b75a7203_1GdF.png" group-title="印度尼西亚", Net TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05ldFRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FuaW1heC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="印度尼西亚", Animax
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FuaW1heC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0V3dG4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/images/default/Default_channel_logo.png" group-title="印度尼西亚", EWTN
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0V3dG4vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fsa2FyZWVtL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bb2666d3_MUwh.png" group-title="印度尼西亚", AlQuran AlKareem
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0Fsa2FyZWVtL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Rhd2FmVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bc805240_fvfz.png" group-title="印度尼西亚", Tawaf TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Rhd2FmVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Zpc2lvblByaW1lL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bdb2da92_ZJ2K.png" group-title="印度尼西亚", Vision Prime
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1Zpc2lvblByaW1lL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L011c2xpbVRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5bfceac3d_ERMT.png" group-title="印度尼西亚", Muslim TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L011c2xpbVRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L011c2ljVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5c59b9f86_i9Ef.png" group-title="印度尼西亚", Music TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L011c2ljVFYvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0xpZmVzdHlsZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5cb41c0ac_0XLC.png" group-title="印度尼西亚", Lifestyle&Fashion
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0xpZmVzdHlsZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0VudGVydGFpbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5cd2f0f20_QB2k.png" group-title="印度尼西亚", Entertain
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0VudGVydGFpbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hpdHMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png" group-title="印度尼西亚", Hits
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hpdHMvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dhcm5lclRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="印度尼西亚", Warner TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dhcm5lclRWL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0ZzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/60463abf255c8_GoT9.png" group-title="印度尼西亚", Fight Sports
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0ZzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dlaXNoaW1vdmllL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png" group-title="印度尼西亚", SCM
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1dlaXNoaW1vdmllL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RocmlsbC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" group-title="印度尼西亚", Thrill
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1RocmlsbC9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hpdHNtb3ZpZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" group-title="印度尼西亚", Hits Movie
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0hpdHNtb3ZpZS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlbGVzdGlhbGluZG8vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" group-title="印度尼西亚", 天映頻道Celestial Movies
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NlbGVzdGlhbGluZG8vcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bnR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720bd5ad276_2fLh.png" group-title="印度", Sun TV HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bnR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N0YXJ2aWpheS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5bde79b44b581_zctk.png" group-title="印度", Star Vijay
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N0YXJ2aWpheS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NvbG9yc3RhbS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca447a45615_y5dY.png" group-title="印度", Colors Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NvbG9yc3RhbS9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bm11c2ljL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f86d564060e7_TLJ5.jpg" group-title="印度", Sun Music
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bm11c2ljL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bmxpZmUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/659febc9aa201_I6zi.jpeg" group-title="印度", Astro Sunlife
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N1bmxpZmUvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1ZhYW5hdmlsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65828b9c056e9_ep50.jpg" group-title="印度", Astro Vaanavil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1ZhYW5hdmlsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZXRhbWlsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720c21be323_jTbt.png" group-title="印度", Zee Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZXRhbWlsL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZWJ1c2luZXNzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b459391b44df_6sLy.jpg" group-title="印度", Zee Business
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZWJ1c2luZXNzL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25ld3MxOHRhbWlsX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5df78e8a30d1f_FhMw.png" group-title="印度", News 18 Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25ld3MxOHRhbWlsX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FkaXRoeWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/63ca446205444_H53Z.jpg" group-title="印度", Adithya
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FkaXRoeWEvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ha2thbHR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a8fb0f567099_cWsS.jpg" group-title="印度", Makkal TV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L01ha2thbHR2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZWFjdGlvbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/59720c3ad6398_MzK8.png" group-title="印度", Zee Action
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZWFjdGlvbi9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJva3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65e2c2b71c8aa_vHS1.jpeg" group-title="印度", Astro KTV
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0FzdHJva3R2L3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZXR2aGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b89e4c687_YSn7.png" group-title="印度", Zee TV HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZXR2aGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZWNpbmVtYWhkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07b8b7e0ea9_n1Sp.png" group-title="印度", Zee Cinema HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZWNpbmVtYWhkL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NvbG9yaGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1c2b1312_1OC1.png" group-title="印度", Color HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L0NvbG9yaGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N0YXJwbHVzaGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65f802455089e_lY3a.png" group-title="印度", Starplus HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1N0YXJwbHVzaGQvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05waWN0dXJlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1e1133e2_aNSE.png" group-title="印度", Picture HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L05waWN0dXJlL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZW5ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07d1f5e3bdd_9US4.png" group-title="印度", Zee News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L1plZW5ld3MvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzaWFuZXRfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b051cd3be76c_NCN2.jpg" group-title="印度", Asianet
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzaWFuZXRfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzaWFuZXRuZXdzX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d89a68425e4f_5YMH.png" group-title="印度", Asianet News
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2FzaWFuZXRuZXdzX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rpc2NvdmVyeXdvcmxkdGFtX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2ae6bc37c57_4are.jpg" group-title="印度", Discovery World Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rpc2NvdmVyeXdvcmxkdGFtX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hpc3Rvcnl0YW1fcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2ae78b2bc27_e9E9.png" group-title="印度", History Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2hpc3Rvcnl0YW1fcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hdGdlb3RhbWlsX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af69bb9249_fbAn.png" group-title="印度", NatGeo Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hdGdlb3RhbWlsX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hdGdlb3dpbGR0YW1pbF9yYWovcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af6e3dec12_1y8U.jpg" group-title="印度", Natgeo Wild Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L25hdGdlb3dpbGR0YW1pbF9yYWovcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rpc2NvdmVyeWtpZHRhbWlsX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d2af7807ed93_9kNf.png" group-title="印度", Discovery Kids Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L2Rpc2NvdmVyeWtpZHRhbWlsX3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Nvbnl5YXl0YW1fcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d8c31234c5c2_bSx0.jpg" group-title="印度", Sony Yay Tamil
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3Nvbnl5YXl0YW1fcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N1bnR2X3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/609a5e91c61d3_92Qa.png" group-title="印度", Sun TV India
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N1bnR2X3Jhai9wbGF5bGlzdC5tM3U4P3RpZD17VElEfSZ0c3VtPXtUU1VNfQ==/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N0YXJtYWFfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/611323e2ed95e_22zj.jpeg" group-title="印度", Starmaa HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N0YXJtYWFfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N0YXJtYWFtb3ZpZXNfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/611324084bb32_6dsS.jpeg" group-title="印度", Starmaa Movies HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3N0YXJtYWFtb3ZpZXNfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpamF5c3VwZXJfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65f802bbaaf57_eL3y.jpg" group-title="印度", Vijay Super
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3ZpamF5c3VwZXJfcmFqL3BsYXlsaXN0Lm0zdTg/dGlkPXtUSUR9JnRzdW09e1RTVU19/index.m3u8
+#EXTINF:-1 tvg-id="aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NvbnlwaXgvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6883b5671debb_ss5R.png" group-title="印度", Sony Pictures HD
+http://127.0.0.1:18081/aHR0cDovLzY2LjkwLjk5LjE1NDo4Mjc4L3NvbnlwaXgvcGxheWxpc3QubTN1OD90aWQ9e1RJRH0mdHN1bT17VFNVTX0=/index.m3u8
+
+
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Live Cams" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru MILF" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Big Dick" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Big Tits" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Fetish" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Pornstar" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Big Ass" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Interracial" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Latina" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru POV" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Blowjob" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Teen" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Hardcore" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Cuckold" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Threesome" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Russian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Lesbian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Rough" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Gangbang" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Anal" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Compilation" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Brunette" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Blonde" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Gay" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Gay
+http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HomTV.ru Asian" tvg-language="English" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg" group-title="XXX",HomTV.ru Asian
+http://cdn.adultiptv.net/asian.m3u8
