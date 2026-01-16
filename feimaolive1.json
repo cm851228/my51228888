@@ -16,6 +16,14 @@
       
         },
 {
+            "name": "SMT马来",
+            "type": 0,
+            "url": "http://58.152.30.33:21015/xsmt/smt.php",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
             "name": "马来直播",
             "type": 0,
             "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
