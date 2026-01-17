@@ -117,6 +117,14 @@
       
         },
 {
+            "name": "YouTubeLive每6小时自动抓取",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt",
+            "ua": "okhttp/3.0",
+            "timeout": 30
+      
+        },
+{
             "name": "抽风爱米",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ssmart.txt",
