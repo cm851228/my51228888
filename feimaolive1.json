@@ -16,23 +16,23 @@
       
         },
 {
-            "name": "SMT马来",
+            "name": "线更最新",
             "type": 0,
-            "url": "http://58.152.30.33:21015/xsmt/smt.php",
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/update.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "Smart Server",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/SmartTV2026.txt",
             "ua": "okhttp",
             "timeout": 30
      
         },
 {
-            "name": "马来直播",
-            "type": 0,
-            "url": "http://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/iptvpro",
-            "ua": "okhttp",
-            "timeout": 30
-     
-        },
-{
-            "name": "马新直播",
+            "name": "马新iptv",
             "type": 0,
             "url": "http://hufa.zabc.net:8080/iptvpro.txt",
             "ua": "okhttp",
@@ -115,14 +115,6 @@
             "ua": "okhttp/3.15",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.eu.org/logo/{name}.png"
-        },
-{
-            "name": "港台大陆",
-            "type": 0,
-            "url": "http://ghfast.top/https://raw.githubusercontent.com/FGBLH/FG/refs/heads/main/港台大陆频道无18内容",
-            "ua": "okhttp",
-            "timeout": 30
-      
         },
 {
             "name": "抽风爱米",
