@@ -151,6 +151,8 @@ Smt星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 Smt翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 Smt华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 Smt Viu,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
+8度空间,http://cdn6.163189.xyz/163189/8tv
 
 
 
@@ -243,26 +245,6 @@ ROCKAction,http://tl.061833.xyz/tl/rockaction
 ROCK綜藝娛樂,http://tl.061833.xyz/tl/rock
 SUPERKidsChannel,http://tl.061833.xyz/tl/superkidschannel
 ZooMoo,http://tl.061833.xyz/tl/zoomoo
-
-
-
-
-大湾区卫视,#genre#
-南方卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-大湾区(国际版),http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86%28%E5%9B%BD%E9%99%85%E7%89%88%29&auth=666858
-大湾区卫视1,http://yp.qqqtv.top/bc/bc.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=66615415
-大湾区卫视2,http://yp.qqqtv.top/1/api.php?id=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%8D%AB%E8%A7%86&auth=666858
-八度空间,http://cdn6.163189.xyz/163189/8tv
-CH8,http://cdn6.163189.xyz/163189/ch8
-CH5,http://cdn6.163189.xyz/163189/ch5
-CHU,http://cdn6.163189.xyz/163189/chu
-Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5
-Hi-Yah,https://a28dc5e3f24c4a8da3a67c68be729c2c.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-59-HIYAH-PLEX/mt/plex/59/hls/master/playlist.m3u8
-Mediacorp华语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-chinese/manifest.m3u8
-Mediacorp英语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-english/manifest.m3u8
-Mediacorp谈语,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mediacorp-entertainment-tamil/manifest.m3u8
-CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-
 
 
 
