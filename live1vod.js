@@ -1,7 +1,7 @@
 var globalHeaders = [];
 var classes = [];
 var categories = {}; // 修复：正确使用categories存储分类数据
-var picUrl = 'http://github.com/cm851228/my51228888/raw/refs/heads/main/8888.jpeg';
+var picUrl = 'http://github.com/cm851228/my51228888/raw/refs/heads/main/51228888.jpeg';
 var webPaths = {};
 var sourceHeaders = {};
 var sourceConfigs = {}; // 修复：统一使用sourceConfigs变量名
