@@ -470,6 +470,74 @@
             
         },
 {
+            "key": "中国直播",
+            "name": "中国📺直播",
+            "type": 3,
+            "jar": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/chitue/dongliTV/refs/heads/main/jar/dongli-spider.jar;md5;76630164b5442be73bc3277927729996",
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "playerType": 1,
+            "timeout": 30,
+            "ext": {
+                "site": "http://110.81.153.7:1963/get.txt",
+                "dataKey": "k7L9mQ2xR4pW8n88",
+                "dataIv": "k7L9mQ2xR4pW8n88",
+                "version": "2"
+            }
+        },        
+{
+            "key": "曾美食聚合",
+            "name": "美食聚合(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php?id=美食"
+            
+        },
+{
+            "key": "曾PY聚合",
+            "name": "PY聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/py.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1
+       
+        },        
+{
+            "key": "曾采集聚合",
+            "name": "采集聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1
+            
+        },
+{
+            "key": "曾JS聚合",
+            "name": "JS聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/js.php",
+            "playerType": 2,
+            "searchable": 1,
+            "changeable": 1
+            
+        },
+{
+            "key": "曾PHP聚合",
+            "name": "PHP聚合(T4)",
+            "type": 4,
+            "api": "http://zhangqun1818.serv00.net/php.php",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "filterable": 1
+        },
+{
             "key": "外来媳妇本地郎推送",
             "name": "外来媳妇本地郎推送",
             "type": 3,
@@ -2896,25 +2964,6 @@
                 "海外动画",
                 "体育赛事"
             ]
-        },
-{
-			"key":"Youtube",
-			"name":"Youtube",
-			"type":3,
-			"api": "csp_Youtube",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"playerType": 2,
-			"timeout": 60,
-			"ext":{
-			"json":"./yjson/youtube.json",
-            "type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
-	        "keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐"
-			
-		},
-		"jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
-      
         },
 {
             "key": "JAV转点播",
