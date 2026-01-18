@@ -84,3 +84,92 @@ Smt华丽台,http://php.jdshipin.com:8880/smt.php?id=Wlt
 Smt Viu,http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 8度空间,http://cdn6.163189.xyz/163189/8tv
+
+
+
+TVOD频道,#genre#
+千禧经典 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
+星河 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
+翡翠 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=huali
+黄金翡翠 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+J2 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+广东珠江 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+美亚电影粤 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+凤凰卫视 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰资讯 TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+香港卫视 TVOD,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+重温经典 TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+prima TVOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
+翡翠台4K TVOD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+千禧经典台 smt,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+星河频道 smt,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+华丽台 smt,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
+无线翡翠台 smt,http://php.jdshipin.com/smt.php?id=jade_twn
+无线新闻 smt,http://php.jdshipin.com/smt.php?id=inews_twn
+千禧经典台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
+华丽台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
+翡翠台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
+无线新闻台 xyz,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+星河频道,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+澳門Macau,https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+澳視澳門,https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+澳門葡文,https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+澳門資訊,https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+澳門體育,https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+澳門綜藝,https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+tvod翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
+tvod翡翠台2,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
+tvod翡翠台3,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
+tvod翡翠台4,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+tvod翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+tvodTVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
+tvodTVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+tvodTVB Plus2,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+tvodVIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+tvodVIUTV2,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+tvodHOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+tvodHOY TV2,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+tvod凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+tvod凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
+tvod凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+tvod凤凰资讯2,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
+tvod凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+tvod凤凰香港2,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+tvod美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+tvod重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+tvod广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+tvod广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+tvod澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
+tvod澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
+粤语专场,https://live.metshop.top/huya/11352894
+粤语专场,http://live.chinacert.cftest5.cn/huya/11352894
+粤语专场,http://cz.crossec.com:35455/huya/11352894
+NOW星影台,http://74.91.26.218:82/live/nowxy.m3u8
+
+
+
+央视,#genre#
+CCTV1综合,http://74.91.26.218:82/live/cctv1hd.m3u8
+CCTV2财经,http://74.91.26.218:82/live/cctv2hd.m3u8
+CCTV3综艺,http://74.91.26.218:82/live/cctv3hd.m3u8
+CCTV4中文国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV6电影,http://74.91.26.218:82/live/cctv6hd.m3u8
+CCTV7国防军事,http://74.91.26.218:82/live/cctv7hd.m3u8
+CCTV8电视剧,http://74.91.26.218:82/live/cctv8hd.m3u8
+CCTV9纪录,http://74.91.26.218:82/live/cctv9hd.m3u8
+CCTV10科教,http://74.91.26.218:82/live/cctv10hd.m3u8
+CCTV11戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
+CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV14少儿,http://74.91.26.218:82/live/cctv14hd.m3u8
+CCTV15音乐,http://74.91.26.218:82/live/cctv15hd.m3u8
+CCTV16奥利匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV5体育,http://74.91.26.218:82/live/cctv5hd.m3u8
+CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+广东体育,http://74.91.26.218:82/live/cctv5p.m3u8
