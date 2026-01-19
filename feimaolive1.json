@@ -80,6 +80,14 @@
         
     },
 {
+            "name": "4gTV",
+            "type": 0,
+            "url": "http://4gtv.iill.top/4gtv.m3u",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
             "name": "TV123",
             "type": 0,
             "url": "http://tv123.vvvv.ee/tv.m3u",
