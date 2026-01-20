@@ -1638,54 +1638,6 @@ TVPlay Наше XXX,http://bde.online24.pm/play/1769/65F8DEA9B8759ED/video.m3u8
 
 
 
-
-歐美色情,#genre#
-parse=1
-ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-Brazzers eu,http://hochu.tv/brazzers-tv-europe.html
-O LaLa,http://hochu.tv/o-la-la.html
-Dorcel,http://hochu.tv/dorcel-tv.html
-Hustler HD,http://hochu.tv/hustler-hd.html
-French,http://hochu.tv/french-lover-tv.html
-Blue Hustler,http://hochu.tv/blue-hustler.html
-FAP anal,http://hochu.tv/fap-tv-anal.html
-Private HD,http://hochu.tv/private-tv.html
-FAP parody,http://hochu.tv/fap-tv-parody.html
-ox-ax HD,http://hochu.tv/oh-ah-hd.html
-XXL,http://hochu.tv/xxl.html
-Redlight HD,http://hochu.tv/redlight-hd.html
-Penthouse,http://hochu.tv/penthouse-2.html
-XY MIX,http://hochu.tv/xy-mix.html
-FAP tenns,http://hochu.tv/fap-tv-teens.html
-FAP lesbian,http://hochu.tv/fap-tv-lesbian.html
-Playboy TV,http://hochu.tv/playboy-tv.html
-Kinoxxx,http://hochu.tv/kinoxxx.html
-XY MAX,http://hochu.tv/xy-max.html
-Babes TV,http://hochu.tv/babes-tv.html
-Vivid red,http://hochu.tv/vivid-red.html
-FAP 2,http://hochu.tv/fap-tv-2.html
-FAP 3,http://hochu.tv/fap-tv-3.html
-FAP 4,http://hochu.tv/fap-tv-4.html
-FAP bbw,http://hochu.tv/fap-tv-bbw.html
-FAP comp,http://hochu.tv/fap-tv-compilation.html
-Barely legal,http://hochu.tv/barely-legal-tv.html
-noch,http://hochu.tv/russkaya-noch.html
-Extasy HD,http://hochu.tv/extasy-hd.html
-Red lips,http://hochu.tv/red-lips.html
-Waayh,http://hochu.tv/shalun-tv.html
-XY plus,http://hochu.tv/xy-plus.html
-exotia-tv,http://hochu.tv/exotica-tv.html
-xxx,http://hochu.tv/cineman-xxx.html
-erox-hd,http://hochu.tv/erox-hd.html
-cineman1,http://oxax.tv/sl-hot1.html
-cineman2,http://oxax.tv/sl-hot2.html
-nuart,https://moonlight.wideiptv.top/NuartTV/index.fmp4.m3u8?token=3138ccf78227f48ba01a6f3437b5b07119ddbb6b-64cf112f965b443d655460bd0ff6b5b3-1754106255-1754095455
-desire,https://freeshot.live/live-tv/desire-tv.html
-
-
-
-
-
 HDV,#genre#
 Japan HDV,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6225/index.m3u8
 21 Sextury,http://chencai80088.ottclub.xyz/iptv/BPZAZHWVQK3DBLBDSRGFZZ6K/6164/index.m3u8
@@ -2634,3 +2586,45 @@ Adult TV online Latina,http://sinalprivado.info:80/632035/GqGcFV4ntu/40013
 Adult TV Online Interracial,http://sinalprivado.info:80/632035/GqGcFV4ntu/40014
 Live Adult TV Hardcore,http://sinalprivado.info:80/632035/GqGcFV4ntu/40015
 Adult IPTV Brunette,http://sinalprivado.info:80/632035/GqGcFV4ntu/40016
+
+
+
+探嗅歐美,#genre#
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Brazzers eu,video://http://hochu.tv/brazzers-tv-europe.html
+O LaLa,video://http://hochu.tv/o-la-la.html
+Dorcel,video://http://hochu.tv/dorcel-tv.html
+Hustler HD,video://http://hochu.tv/hustler-hd.html
+French,video://http://hochu.tv/french-lover-tv.html
+Blue Hustler,video://http://hochu.tv/blue-hustler.html
+FAP anal,video://http://hochu.tv/fap-tv-anal.html
+Private HD,video://http://hochu.tv/private-tv.html
+FAP parody,video://http://hochu.tv/fap-tv-parody.html
+ox-ax HD,video://http://hochu.tv/oh-ah-hd.html
+XXL,video://http://hochu.tv/xxl.html
+Redlight HD,video://http://hochu.tv/redlight-hd.html
+Penthouse,video://http://hochu.tv/penthouse-2.html
+XY MIX,video://http://hochu.tv/xy-mix.html
+FAP tenns,video://http://hochu.tv/fap-tv-teens.html
+FAP lesbian,video://http://hochu.tv/fap-tv-lesbian.html
+Playboy TV,video://http://hochu.tv/playboy-tv.html
+Kinoxxx,video://http://hochu.tv/kinoxxx.html
+XY MAX,video://http://hochu.tv/xy-max.html
+Babes TV,video://http://hochu.tv/babes-tv.html
+Vivid red,video://http://hochu.tv/vivid-red.html
+FAP 2,video://http://hochu.tv/fap-tv-2.html
+FAP 3,video://http://hochu.tv/fap-tv-3.html
+FAP 4,video://http://hochu.tv/fap-tv-4.html
+FAP bbw,video://http://hochu.tv/fap-tv-bbw.html
+FAP comp,video://http://hochu.tv/fap-tv-compilation.html
+Barely legal,video://http://hochu.tv/barely-legal-tv.html
+noch,video://http://hochu.tv/russkaya-noch.html
+Extasy HD,video://http://hochu.tv/extasy-hd.html
+Red lips,video://http://hochu.tv/red-lips.html
+Waayh,video://http://hochu.tv/shalun-tv.html
+XY plus,video://http://hochu.tv/xy-plus.html
+exotia-tv,video://http://hochu.tv/exotica-tv.html
+xxx,video://http://hochu.tv/cineman-xxx.html
+erox-hd,video://http://hochu.tv/erox-hd.html
+cineman1,video://http://oxax.tv/sl-hot1.html
+cineman2,video://http://oxax.tv/sl-hot2.html
