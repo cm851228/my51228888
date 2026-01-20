@@ -1567,8 +1567,6 @@ Njavtv,#genre#
 
 
 
-
-
 松視频道,#genre#
 惊艳,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
 潘朵啦,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
@@ -1592,6 +1590,97 @@ Japan HDV,http://a0bn5xro.rostelekom.xyz/iptv/7XBZV8CQEYWT3U/6225/index.m3u8
 松視1,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
 松視2,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
 松視3,http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+
+
+
+Hustler,#genre#
+Blue Hustler TV,http://bde.online24.pm/play/107/65F8DEA9B8759ED/video.m3u8
+Hustler TV,http://bde.online24.pm/play/592/65F8DEA9B8759ED/video.m3u8 
+Playboy,http://bde.online24.pm/play/242/65F8DEA9B8759ED/video.m3u8 
+Eroxxx HD,http://bde.online24.pm/play/596/65F8DEA9B8759ED/video.m3u8 
+Evil Angel HD,http://bde.online24.pm/play/6891/65F8DEA9B8759ED/video.m3u8 
+Brazzers TV Europe,http://bde.online24.pm/play/76/65F8DEA9B8759ED/video.m3u8 
+Barely Legal,http://bde.online24.pm/play/4012/65F8DEA9B8759ED/video.m3u8 
+Babes TV HD,http://bde.online24.pm/play/990/65F8DEA9B8759ED/video.m3u8 
+PassionXXX,http://bde.online24.pm/play/6869/65F8DEA9B8759ED/video.m3u8 
+PassionXXX 2,http://bde.online24.pm/play/6883/65F8DEA9B8759ED/video.m3u8 
+PassionXXX Milf,http://bde.online24.pm/play/6884/65F8DEA9B8759ED/video.m3u8 
+Pinko Club,http://bde.online24.pm/play/6867/65F8DEA9B8759ED/video.m3u8 
+CentoXCento,http://bde.online24.pm/play/6868/65F8DEA9B8759ED/video.m3u8 
+Olala,http://bde.online24.pm/play/103/65F8DEA9B8759ED/video.m3u8 
+Vivid Red HD,http://bde.online24.pm/play/1766/65F8DEA9B8759ED/video.m3u8 
+XYPlus HD,http://bde.online24.pm/play/6870/65F8DEA9B8759ED/video.m3u8 
+XYMax HD,http://bde.online24.pm/play/6871/65F8DEA9B8759ED/video.m3u8 
+XYMix HD,http://bde.online24.pm/play/6872/65F8DEA9B8759ED/video.m3u8 
+Dorcel HD,http://bde.online24.pm/play/6879/65F8DEA9B8759ED/video.m3u8 
+Red Lips,http://bde.online24.pm/play/290/65F8DEA9B8759ED/video.m3u8 
+Private TV,http://bde.online24.pm/play/793/65F8DEA9B8759ED/video.m3u8 
+Exxxotica HD,http://bde.online24.pm/play/611/65F8DEA9B8759ED/video.m3u8 
+Русская Ночь,http://bde.online24.pm/play/132/65F8DEA9B8759ED/video.m3u8 
+Redlight HD,http://bde.online24.pm/play/594/65F8DEA9B8759ED/video.m3u8 
+Penthouse Quickies HD,http://bde.online24.pm/play/6881/65F8DEA9B8759ED/video.m3u8 
+ОХ-АХ HD,http://bde.online24.pm/play/1767/65F8DEA9B8759ED/video.m3u8 
+Penthouse HD,http://bde.online24.pm/play/1497/65F8DEA9B8759ED/video.m3u8 
+Penthouse Reality TV,http://bde.online24.pm/play/8074/65F8DEA9B8759ED/video.m3u8 
+Penthouse Gold HD,http://bde.online24.pm/play/6880/65F8DEA9B8759ED/video.m3u8 
+OLERO Babes,http://bde.online24.pm/play/1768/65F8DEA9B8759ED/video.m3u8 
+Eromania 4K,http://bde.online24.pm/play/1703/65F8DEA9B8759ED/video.m3u8 
+Liberty Эротика HD,http://bde.online24.pm/play/7080/65F8DEA9B8759ED/video.m3u8 
+BCU Charm HD,http://bde.online24.pm/play/7141/65F8DEA9B8759ED/video.m3u8 
+YOSSO TV SEXY,http://bde.online24.pm/play/8774/65F8DEA9B8759ED/video.m3u8 
+KBC+100500 (18+),http://bde.online24.pm/play/8829/65F8DEA9B8759ED/video.m3u8 
+CineManExExEx,http://bde.online24.pm/play/13020/65F8DEA9B8759ED/video.m3u8 
+CineManExExEx TWO,http://bde.online24.pm/play/13021/65F8DEA9B8759ED/video.m3u8 
+Clarity4K Angel XXX,http://bde.online24.pm/play/4607/65F8DEA9B8759ED/video.m3u8 
+Beate Uhse,http://bde.online24.pm/play/685/65F8DEA9B8759ED/video.m3u8 
+TVPlay Наше XXX,http://bde.online24.pm/play/1769/65F8DEA9B8759ED/video.m3u8
+
+
+
+
+歐美色情,#genre#
+parse=1
+ua=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+Brazzers eu,http://hochu.tv/brazzers-tv-europe.html
+O LaLa,http://hochu.tv/o-la-la.html
+Dorcel,http://hochu.tv/dorcel-tv.html
+Hustler HD,http://hochu.tv/hustler-hd.html
+French,http://hochu.tv/french-lover-tv.html
+Blue Hustler,http://hochu.tv/blue-hustler.html
+FAP anal,http://hochu.tv/fap-tv-anal.html
+Private HD,http://hochu.tv/private-tv.html
+FAP parody,http://hochu.tv/fap-tv-parody.html
+ox-ax HD,http://hochu.tv/oh-ah-hd.html
+XXL,http://hochu.tv/xxl.html
+Redlight HD,http://hochu.tv/redlight-hd.html
+Penthouse,http://hochu.tv/penthouse-2.html
+XY MIX,http://hochu.tv/xy-mix.html
+FAP tenns,http://hochu.tv/fap-tv-teens.html
+FAP lesbian,http://hochu.tv/fap-tv-lesbian.html
+Playboy TV,http://hochu.tv/playboy-tv.html
+Kinoxxx,http://hochu.tv/kinoxxx.html
+XY MAX,http://hochu.tv/xy-max.html
+Babes TV,http://hochu.tv/babes-tv.html
+Vivid red,http://hochu.tv/vivid-red.html
+FAP 2,http://hochu.tv/fap-tv-2.html
+FAP 3,http://hochu.tv/fap-tv-3.html
+FAP 4,http://hochu.tv/fap-tv-4.html
+FAP bbw,http://hochu.tv/fap-tv-bbw.html
+FAP comp,http://hochu.tv/fap-tv-compilation.html
+Barely legal,http://hochu.tv/barely-legal-tv.html
+noch,http://hochu.tv/russkaya-noch.html
+Extasy HD,http://hochu.tv/extasy-hd.html
+Red lips,http://hochu.tv/red-lips.html
+Waayh,http://hochu.tv/shalun-tv.html
+XY plus,http://hochu.tv/xy-plus.html
+exotia-tv,http://hochu.tv/exotica-tv.html
+xxx,http://hochu.tv/cineman-xxx.html
+erox-hd,http://hochu.tv/erox-hd.html
+cineman1,http://oxax.tv/sl-hot1.html
+cineman2,http://oxax.tv/sl-hot2.html
+nuart,https://moonlight.wideiptv.top/NuartTV/index.fmp4.m3u8?token=3138ccf78227f48ba01a6f3437b5b07119ddbb6b-64cf112f965b443d655460bd0ff6b5b3-1754106255-1754095455
+desire,https://freeshot.live/live-tv/desire-tv.html
 
 
 
