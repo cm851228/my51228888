@@ -631,6 +631,42 @@
             }
         },        
 {
+            "name": "独播库",
+            "key": "本地独播",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "json": "./yjson/dubk.json",
+            "jar": "./jars/AWOO18.jar"
+            
+        },
+{
+            "key": "免扫网盘",
+            "name": "免扫网盘",
+            "type": 3,
+            "api": "csp_PantaGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "playerType": 2,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ku.jar",
+            "timeout": 30
+        },
+{
+            "key": "韩剧看看",
+            "name": "韩剧看看",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E9%9F%A9%E5%89%A7%E7%9C%8B%E7%9C%8B.json",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/xbpq2026.jar"
+            
+        },
+{
             "key": "曾美食聚合",
             "name": "美食聚合(T4)",
             "type": 4,
@@ -712,19 +748,6 @@
             },
             "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg2025.jar"
       
-        },
-{
-            "name": "独播库",
-            "key": "本地独播",
-            "type": 3,
-            "api": "csp_DubkAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
         },
 {
             "key": "Guazipg",
