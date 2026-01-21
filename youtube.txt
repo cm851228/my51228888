@@ -1,5 +1,6 @@
 油管新闻,#genre#
-中文国际台,https://www.youtube.com/live/7j92Myu2wzg?si=u8XfOs_87U9j-vph
+CCTV中文(亚洲),https://www.youtube.com/live/7j92Myu2wzg?si=vg14KqagkVucCi3o
+CCTV中文(美洲),https://www.youtube.com/live/f6Kq93wnaZ8?si=5DQPPEo1eraRHGuD
 凤凰卫视资讯台,https://www.youtube.com/live/fN9uYWCjQaw?si=C6BSbnxn3P2l656n
 8world,https://www.youtube.com/live/RvSOIM620bA?si=obbxhYNHc7Q98v3X
 Entertainment,https://www.youtube.com/live/ipqTkEH3mhE?si=0eg2o-dtmEdFAvSh
@@ -17,12 +18,20 @@ TVBS新闻台,https://www.youtube.com/live/m_dhMSvUCIc?si=6yZnLm3dbG9oCoCL
 鏡新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
 东森新闻台,https://www.youtube.com/live/E0zhe2gkXBs?si=hoofeYsZHkYhTobI
 东森财经台,https://www.youtube.com/live/AEBeWMM1atA?si=ga4zTNb5Uwsa5aiX
+Wild,https://www.youtube.com/live/THooYCltViI?si=RPKxzvwQo6L5glww
+野生台,https://www.youtube.com/live/daqB3i9WYIY?si=3yKhLSzd76C5l71n
+57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=Ku_wFpO4AGPv58v9
+Eight无限线上收听,https://www.youtube.com/live/T3LXcjcR3bk?si=9sYjCrewu9VBhbez
+
+
+
 
 少兒频道,#genre#
-貝樂虎-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=YDtNnMzKuVc
+迪士尼Kids,https://www.youtube.com/watch?v=1mLPTfLwm-M
+Tom&Jerry,https://www.youtube.com/live/rEKifG2XUZg?feature=shared
 瑪莎與熊 Masha and The Bear CH,https://www.youtube.com/watch?v=E_E80UC2gek
+貝樂虎-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=YDtNnMzKuVc
 寶貝多米-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=ATiJ3ihQuP8
-Disney Kids,https://www.youtube.com/watch?v=1mLPTfLwm-M
 Hasbro,https://www.youtube.com/watch?v=TZ3mxF4U__k
 Emma And Joey - Nursery Rhymes,https://www.youtube.com/watch?v=-VBxijFm50Y
 The Amazing World of Gumball,https://www.youtube.com/watch?v=nIyaCRNwxhU
