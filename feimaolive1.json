@@ -1,17 +1,17 @@
 [
 {
-            "name": "线更油管",
+            "name": "线更最新",
             "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt",
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/update.txt",
             "ua": "okhttp",
             "timeout": 30
       
         },
 {
-            "name": "线更最新",
+            "name": "YouTube新闻",
             "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/update.txt",
-            "ua": "okhttp",
+            "url": "http://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt",
+            "ua": "okhttp/3.0",
             "timeout": 30
       
         },
@@ -120,14 +120,6 @@
 
         },
 {
-            "name": "YouTube自动抓取",
-            "type": 0,
-            "url": "http://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt",
-            "ua": "okhttp/3.0",
-            "timeout": 30
-      
-        },
-{
             "name": "全球直播",
             "type": 0,
             "url": "http://freetv.fun/test_channels_new.txt",
@@ -143,20 +135,28 @@
             "timeout": 30
         },
 {
-            "name": "线更直播",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt",
-            "ua": "okhttp",
-            "timeout": 30
-      
-        },
-{
             "name": "越南频道",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Vietnam.txt",
             "ua": "okhttp",
             "timeout": 30
        
+        },
+{
+            "name": "线更油管",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "线更直播",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
         },
 {
             "name": "抽风爱米",
