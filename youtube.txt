@@ -18,7 +18,11 @@ TVBS新闻台,https://www.youtube.com/live/m_dhMSvUCIc?si=6yZnLm3dbG9oCoCL
 东森新闻台,https://www.youtube.com/live/E0zhe2gkXBs?si=hoofeYsZHkYhTobI
 东森财经台,https://www.youtube.com/live/AEBeWMM1atA?si=ga4zTNb5Uwsa5aiX
 
-少兒,#genre#
+少兒频道,#genre#
+貝樂虎-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=YDtNnMzKuVc
+瑪莎與熊 Masha and The Bear CH,https://www.youtube.com/watch?v=E_E80UC2gek
+寶貝多米-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=ATiJ3ihQuP8
+Disney Kids,https://www.youtube.com/watch?v=1mLPTfLwm-M
 Hasbro,https://www.youtube.com/watch?v=TZ3mxF4U__k
 Emma And Joey - Nursery Rhymes,https://www.youtube.com/watch?v=-VBxijFm50Y
 The Amazing World of Gumball,https://www.youtube.com/watch?v=nIyaCRNwxhU
@@ -35,15 +39,11 @@ Marvel HQ,https://www.youtube.com/watch?v=2PzfL3zrE-o
 Boomerang UK,https://www.youtube.com/watch?v=_XeGYNTiuSM
 Talking Tom \u0026 Friends TV,https://www.youtube.com/watch?v=oV5gVoZQ7xU
 ChuChu TV Nursery Rhymes \u0026 Kids Songs,https://www.youtube.com/watch?v=YY8yc2ctN0g
-貝樂虎-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=YDtNnMzKuVc
-瑪莎與熊 Masha and The Bear CH,https://www.youtube.com/watch?v=E_E80UC2gek
-寶貝多米-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=ATiJ3ihQuP8
-Disney Kids,https://www.youtube.com/watch?v=1mLPTfLwm-M
 Miraculous Ladybug,https://www.youtube.com/watch?v=1X5KJbu_o7k
 Cartoon Network Africa,https://www.youtube.com/watch?v=lzw57NsNpsM
 Bluey - Official Channel,https://www.youtube.com/watch?v=NeH-ENJt2n8
 
-新聞,#genre#
+新聞频道,#genre#
 CCTV国际台,https://www.youtube.com/watch?v=f6Kq93wnaZ8
 台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
@@ -83,36 +83,36 @@ USTV 非凡電視,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業台,https://www.youtube.com/watch?v=xLqt2p6Dowo
 三立LIVE新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 
-正在直播,#genre#
-Lofi Girl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-Kaela Kovalskia Ch. hololive-ID,https://www.youtube.com/watch?v=Bbd9ZotOWok
+直播频道,#genre#
 台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
-Thai Relax,https://www.youtube.com/watch?v=GCXbKdVCwlg
-PokerGO,https://www.youtube.com/watch?v=xRvDxesFEac
 民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
 民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=bn7glmBPmIQ
 中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
 民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=298QROP4xe0
 中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
-飢餓遊戲Hunger Games,https://www.youtube.com/watch?v=3xe-R00ijC4
-The Good Life Radio x Sensual Musique,https://www.youtube.com/watch?v=36YnV9STBqc
-大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
-57東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
 民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=1kzVPwTeKds
-Tim Janis,https://www.youtube.com/watch?v=dXIyMS61B68
 華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 57東森財經新聞,https://www.youtube.com/watch?v=LbS-xQ67fos
 鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
 公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
 中視經典綜藝,https://www.youtube.com/watch?v=r_wsMgFLKys
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
+57東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
+飢餓遊戲Hunger Games,https://www.youtube.com/watch?v=3xe-R00ijC4
+大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
 ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
 Lofi Girl,https://www.youtube.com/watch?v=4xDzrJKXOOY
 Cafe Music BGM channel,https://www.youtube.com/watch?v=Dx5qFachd3A
 Soothing Relaxation,https://www.youtube.com/watch?v=-5ajVJ1Yxlg
 Cafe Music BGM channel,https://www.youtube.com/watch?v=6uddGul0oAc
 Soothing Relaxation,https://www.youtube.com/watch?v=2OM7adQl-YQ
+Lofi Girl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+Kaela Kovalskia Ch. hololive-ID,https://www.youtube.com/watch?v=Bbd9ZotOWok
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+Thai Relax,https://www.youtube.com/watch?v=GCXbKdVCwlg
+PokerGO,https://www.youtube.com/watch?v=xRvDxesFEac
+Tim Janis,https://www.youtube.com/watch?v=dXIyMS61B68
+The Good Life Radio x Sensual Musique,https://www.youtube.com/watch?v=36YnV9STBqc
 
 邻時直播,#genre#
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
