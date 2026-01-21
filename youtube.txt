@@ -18,11 +18,23 @@ TVBS新闻台,https://www.youtube.com/live/m_dhMSvUCIc?si=6yZnLm3dbG9oCoCL
 鏡新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
 东森新闻台,https://www.youtube.com/live/E0zhe2gkXBs?si=hoofeYsZHkYhTobI
 东森财经台,https://www.youtube.com/live/AEBeWMM1atA?si=ga4zTNb5Uwsa5aiX
+MrBean live,https://www.youtube.com/live/dmSxr1TD8GQ?si=PbMgggpUMhwSm--9
+MrBean ALL,https://www.youtube.com/live/lldsi8ItNaI?si=NeeVssmp0vtYFxT1
+MrBean Deutschland,https://www.youtube.com/live/CwsGobXOYnM?si=JxOAdqXoSrW9kaDG
 Wild,https://www.youtube.com/live/THooYCltViI?si=RPKxzvwQo6L5glww
 野生台,https://www.youtube.com/live/daqB3i9WYIY?si=3yKhLSzd76C5l71n
 57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=Ku_wFpO4AGPv58v9
 Eight无限线上收听,https://www.youtube.com/live/T3LXcjcR3bk?si=9sYjCrewu9VBhbez
-
+Wildlife&nature,https://www.youtube.com/live/daqB3i9WYIY?si=R-ecqEE_0ONOsyxd
+Geographic,https://www.youtube.com/live/MiQe9ob9aDc?si=vIdSN85RV4U-vMok
+Lovenature,https://www.youtube.com/live/1_AE8pTtSOk?si=UjSSq4zrolCKUe6D
+Disney+,https://www.youtube.com/live/1mLPTfLwm-M?feature=shared
+DuckTales,https://www.youtube.com/live/XD50huu0M24?feature=shared
+Thomas,https://www.youtube.com/live/rJU6YjyUbbE?feature=shared
+Marvel's Avengers,https://www.youtube.com/live/13GZtHqYrLY?feature=shared
+Spider-Man,https://www.youtube.com/live/2PzfL3zrE-o?feature=shared
+Woody,https://www.youtube.com/live/jEdJ14wW6Kk?feature=shared
+Animal time,https://www.youtube.com/live/dwbgawuNhCU?feature=shared
 
 
 
