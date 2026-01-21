@@ -1,6 +1,6 @@
 油管新闻,#genre#
-CCTV中文(亚洲),https://www.youtube.com/live/7j92Myu2wzg?si=vg14KqagkVucCi3o
-CCTV中文(美洲),https://www.youtube.com/live/f6Kq93wnaZ8?si=5DQPPEo1eraRHGuD
+国际中文(亚洲),https://www.youtube.com/live/7j92Myu2wzg?si=vg14KqagkVucCi3o
+国际中文(美洲),https://www.youtube.com/live/f6Kq93wnaZ8?si=5DQPPEo1eraRHGuD
 凤凰卫视资讯台,https://www.youtube.com/live/fN9uYWCjQaw?si=C6BSbnxn3P2l656n
 8world,https://www.youtube.com/live/RvSOIM620bA?si=obbxhYNHc7Q98v3X
 Entertainment,https://www.youtube.com/live/ipqTkEH3mhE?si=0eg2o-dtmEdFAvSh
@@ -18,23 +18,20 @@ TVBS新闻台,https://www.youtube.com/live/m_dhMSvUCIc?si=6yZnLm3dbG9oCoCL
 鏡新聞台,https://www.youtube.com/watch?v=5n0y6b0Q25o
 东森新闻台,https://www.youtube.com/live/E0zhe2gkXBs?si=hoofeYsZHkYhTobI
 东森财经台,https://www.youtube.com/live/AEBeWMM1atA?si=ga4zTNb5Uwsa5aiX
+57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=Ku_wFpO4AGPv58v9
+Eight无限线上收听,https://www.youtube.com/live/T3LXcjcR3bk?si=9sYjCrewu9VBhbez
+
+
+
+Bean&Wild,#genre#
 MrBean live,https://www.youtube.com/live/dmSxr1TD8GQ?si=PbMgggpUMhwSm--9
 MrBean ALL,https://www.youtube.com/live/lldsi8ItNaI?si=NeeVssmp0vtYFxT1
 MrBean Deutschland,https://www.youtube.com/live/CwsGobXOYnM?si=JxOAdqXoSrW9kaDG
-Wild,https://www.youtube.com/live/THooYCltViI?si=RPKxzvwQo6L5glww
-野生台,https://www.youtube.com/live/daqB3i9WYIY?si=3yKhLSzd76C5l71n
-57怪奇物語,https://www.youtube.com/live/k0uJVhYX12Y?si=Ku_wFpO4AGPv58v9
-Eight无限线上收听,https://www.youtube.com/live/T3LXcjcR3bk?si=9sYjCrewu9VBhbez
-Wildlife&nature,https://www.youtube.com/live/daqB3i9WYIY?si=R-ecqEE_0ONOsyxd
 Geographic,https://www.youtube.com/live/MiQe9ob9aDc?si=vIdSN85RV4U-vMok
+Wild,https://www.youtube.com/live/THooYCltViI?si=RPKxzvwQo6L5glww
+Wildlife&nature,https://www.youtube.com/live/daqB3i9WYIY?si=R-ecqEE_0ONOsyxd
 Lovenature,https://www.youtube.com/live/1_AE8pTtSOk?si=UjSSq4zrolCKUe6D
-Disney+,https://www.youtube.com/live/1mLPTfLwm-M?feature=shared
-DuckTales,https://www.youtube.com/live/XD50huu0M24?feature=shared
-Thomas,https://www.youtube.com/live/rJU6YjyUbbE?feature=shared
-Marvel's Avengers,https://www.youtube.com/live/13GZtHqYrLY?feature=shared
-Spider-Man,https://www.youtube.com/live/2PzfL3zrE-o?feature=shared
-Woody,https://www.youtube.com/live/jEdJ14wW6Kk?feature=shared
-Animal time,https://www.youtube.com/live/dwbgawuNhCU?feature=shared
+
 
 
 
@@ -44,6 +41,13 @@ Tom&Jerry,https://www.youtube.com/live/rEKifG2XUZg?feature=shared
 瑪莎與熊 Masha and The Bear CH,https://www.youtube.com/watch?v=E_E80UC2gek
 貝樂虎-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=YDtNnMzKuVc
 寶貝多米-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=ATiJ3ihQuP8
+Disney+,https://www.youtube.com/live/1mLPTfLwm-M?feature=shared
+DuckTales,https://www.youtube.com/live/XD50huu0M24?feature=shared
+Thomas,https://www.youtube.com/live/rJU6YjyUbbE?feature=shared
+Marvel's Avengers,https://www.youtube.com/live/13GZtHqYrLY?feature=shared
+Spider-Man,https://www.youtube.com/live/2PzfL3zrE-o?feature=shared
+Woody,https://www.youtube.com/live/jEdJ14wW6Kk?feature=shared
+Animal time,https://www.youtube.com/live/dwbgawuNhCU?feature=shared
 Hasbro,https://www.youtube.com/watch?v=TZ3mxF4U__k
 Emma And Joey - Nursery Rhymes,https://www.youtube.com/watch?v=-VBxijFm50Y
 The Amazing World of Gumball,https://www.youtube.com/watch?v=nIyaCRNwxhU
@@ -64,8 +68,39 @@ Miraculous Ladybug,https://www.youtube.com/watch?v=1X5KJbu_o7k
 Cartoon Network Africa,https://www.youtube.com/watch?v=lzw57NsNpsM
 Bluey - Official Channel,https://www.youtube.com/watch?v=NeH-ENJt2n8
 
-新聞频道,#genre#
+
+
+直播频道,#genre#
 CCTV国际台,https://www.youtube.com/watch?v=f6Kq93wnaZ8
+台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
+民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
+民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=bn7glmBPmIQ
+中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
+民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=298QROP4xe0
+中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
+民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=1kzVPwTeKds
+華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E
+57東森財經新聞,https://www.youtube.com/watch?v=LbS-xQ67fos
+鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
+公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
+中視經典綜藝,https://www.youtube.com/watch?v=r_wsMgFLKys
+中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
+57東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
+飢餓遊戲Hunger Games,https://www.youtube.com/watch?v=3xe-R00ijC4
+大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
+ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
+Lofi Girl,https://www.youtube.com/watch?v=4xDzrJKXOOY
+Cafe Music BGM channel,https://www.youtube.com/watch?v=Dx5qFachd3A
+Soothing Relaxation,https://www.youtube.com/watch?v=-5ajVJ1Yxlg
+Cafe Music BGM channel,https://www.youtube.com/watch?v=6uddGul0oAc
+Soothing Relaxation,https://www.youtube.com/watch?v=2OM7adQl-YQ
+Lofi Girl,https://www.youtube.com/watch?v=jfKfPfyJRdk
+Kaela Kovalskia Ch. hololive-ID,https://www.youtube.com/watch?v=Bbd9ZotOWok
+TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
+Thai Relax,https://www.youtube.com/watch?v=GCXbKdVCwlg
+PokerGO,https://www.youtube.com/watch?v=xRvDxesFEac
+Tim Janis,https://www.youtube.com/watch?v=dXIyMS61B68
+The Good Life Radio x Sensual Musique,https://www.youtube.com/watch?v=36YnV9STBqc
 台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
 大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=DTNkEm6jaqQ
 中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
@@ -104,36 +139,6 @@ USTV 非凡電視,https://www.youtube.com/watch?v=eA6Aczd3FZM
 非凡商業台,https://www.youtube.com/watch?v=xLqt2p6Dowo
 三立LIVE新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 
-直播频道,#genre#
-台視新聞 TTV NEWS,https://www.youtube.com/watch?v=xL0ch83RAK8
-民視新聞網 Formosa TV News network,https://www.youtube.com/watch?v=ylYJSBUgaMA
-民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=bn7glmBPmIQ
-中天深喉嚨,https://www.youtube.com/watch?v=WPfPjbOLNfE
-民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=298QROP4xe0
-中視新聞 HD直播頻道｜Taiwan CTV news HD Live,https://www.youtube.com/watch?v=TCnaIE_SAtM
-民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=1kzVPwTeKds
-華視新聞 CH52,https://www.youtube.com/watch?v=wM0g8EoUZ_E
-57東森財經新聞,https://www.youtube.com/watch?v=LbS-xQ67fos
-鏡新聞,https://www.youtube.com/watch?v=5n0y6b0Q25o
-公視新聞網,https://www.youtube.com/watch?v=quwqlazU-c8
-中視經典綜藝,https://www.youtube.com/watch?v=r_wsMgFLKys
-中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
-57東森財經新聞,https://www.youtube.com/watch?v=WHEPzbFA3hw
-飢餓遊戲Hunger Games,https://www.youtube.com/watch?v=3xe-R00ijC4
-大愛電視 Tzu Chi DaAiVideo,https://www.youtube.com/watch?v=MIqUplvSRWA
-ABC News,https://www.youtube.com/watch?v=w_Ma8oQLmSM
-Lofi Girl,https://www.youtube.com/watch?v=4xDzrJKXOOY
-Cafe Music BGM channel,https://www.youtube.com/watch?v=Dx5qFachd3A
-Soothing Relaxation,https://www.youtube.com/watch?v=-5ajVJ1Yxlg
-Cafe Music BGM channel,https://www.youtube.com/watch?v=6uddGul0oAc
-Soothing Relaxation,https://www.youtube.com/watch?v=2OM7adQl-YQ
-Lofi Girl,https://www.youtube.com/watch?v=jfKfPfyJRdk
-Kaela Kovalskia Ch. hololive-ID,https://www.youtube.com/watch?v=Bbd9ZotOWok
-TVBS NEWS,https://www.youtube.com/watch?v=m_dhMSvUCIc
-Thai Relax,https://www.youtube.com/watch?v=GCXbKdVCwlg
-PokerGO,https://www.youtube.com/watch?v=xRvDxesFEac
-Tim Janis,https://www.youtube.com/watch?v=dXIyMS61B68
-The Good Life Radio x Sensual Musique,https://www.youtube.com/watch?v=36YnV9STBqc
 
 邻時直播,#genre#
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
