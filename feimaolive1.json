@@ -10,8 +10,8 @@
 {
             "name": "YouTube新闻",
             "type": 0,
-            "url": "http://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubelive.txt",
-            "ua": "okhttp/3.0",
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt",
+            "ua": "okhttp",
             "timeout": 30
       
         },
@@ -141,14 +141,6 @@
             "ua": "okhttp",
             "timeout": 30
        
-        },
-{
-            "name": "线更油管",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt",
-            "ua": "okhttp",
-            "timeout": 30
-      
         },
 {
             "name": "线更直播",
