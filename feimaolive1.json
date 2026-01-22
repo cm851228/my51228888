@@ -8,7 +8,7 @@
       
         },
 {
-            "name": "YouTube新闻",
+            "name": "线更油管",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/youtube.txt",
             "ua": "okhttp",
@@ -133,6 +133,14 @@
             "url": "http://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "ua": "okhttp",
             "timeout": 30
+        },
+{
+            "name": "YouTube新闻",
+            "type": 0,
+            "url": "http://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubeworld.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+      
         },
 {
             "name": "越南频道",

@@ -41,7 +41,6 @@ Tom&Jerry,https://www.youtube.com/live/rEKifG2XUZg?feature=shared
 瑪莎與熊 Masha and The Bear CH,https://www.youtube.com/watch?v=E_E80UC2gek
 貝樂虎-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=YDtNnMzKuVc
 寶貝多米-兒歌童謠-卡通動畫-經典故事,https://www.youtube.com/watch?v=ATiJ3ihQuP8
-Disney+,https://www.youtube.com/live/1mLPTfLwm-M?feature=shared
 DuckTales,https://www.youtube.com/live/XD50huu0M24?feature=shared
 Thomas,https://www.youtube.com/live/rJU6YjyUbbE?feature=shared
 Marvel's Avengers,https://www.youtube.com/live/13GZtHqYrLY?feature=shared
