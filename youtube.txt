@@ -34,7 +34,6 @@ Lovenature,https://www.youtube.com/live/1_AE8pTtSOk?si=UjSSq4zrolCKUe6D
 
 
 
-
 少兒频道,#genre#
 迪士尼Kids,https://www.youtube.com/watch?v=1mLPTfLwm-M
 Tom&Jerry,https://www.youtube.com/live/rEKifG2XUZg?feature=shared
@@ -139,6 +138,7 @@ USTV 非凡電視,https://www.youtube.com/watch?v=eA6Aczd3FZM
 三立LIVE新聞,https://www.youtube.com/watch?v=QsGswQvRmtU
 
 
+
 邻時直播,#genre#
 中視經典綜藝,https://www.youtube.com/watch?v=ADDSmXoPDY8
 民視戲劇館 Formosa TV Dramas,https://www.youtube.com/watch?v=6CQZxYpW9q4
@@ -182,6 +182,8 @@ Nat Geo Animals,https://www.youtube.com/watch?v=MiQe9ob9aDc
 華視戲劇頻道,https://www.youtube.com/watch?v=7PrYe8ykEjY
 華視戲劇頻道,https://www.youtube.com/watch?v=_AKIOe2Sh_g
 GC影視《GCtv》,https://www.youtube.com/watch?v=xnxJYL4hxhk
+
+
 
 國外新聞,#genre#
 AlJazeera Arabic  قناة الجزيرة,https://www.youtube.com/watch?v=bNyUyrR0PHo
@@ -290,8 +292,6 @@ Bloomberg Originals,https://www.youtube.com/watch?v=OlUMDZchivQ
 
 
 
-
-
 RTM频道,#genre#
 TV 1,video://https://rtmklik.rtm.gov.my/live/tv1
 TV 2,video://https://rtmklik.rtm.gov.my/live/tv2
@@ -317,28 +317,6 @@ TV OKEY,video://https://rtmklik.rtm.gov.my/live/okey
 原住民族电视台,video://https://m.4gtv.tv/channel/4gtv-live014?set=1&ch=273
 猪哥亮歌厅,video://https://m.4gtv.tv/channel/4gtv-4gtv006?set=1&ch=113
 滚动力,video://https://m.4gtv.tv/channel/4gtv-live012?set=1&ch=249
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

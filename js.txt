@@ -145,6 +145,15 @@ TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
 
 
 
+大湾区卫视,#genre#
+大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
+大灣區fun,https://t.freetv.fun/live/da-wan-qu-wei-shi-2.m3u8
+南方衛視fun,https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8
+大湾区mg,http://1.94.31.214/php/mg.php?id=608917627
+8度空间,http://cdn6.163189.xyz/163189/8tv
+
+
+
 Smt频道,#genre#
 Smt八度空间,http://php.jdshipin.com:8880/smt.php?id=TV8
 Smt星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
@@ -214,6 +223,7 @@ TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
+
 
 
 Smart321,#genre#
