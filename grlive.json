@@ -583,18 +583,6 @@
             "filterable": 1
         },
 {
-            "key": "Guazipg",
-            "name": "瓜子云",
-            "type": 3,
-            "api": "csp_Guazi",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
-      
-        },
-{
             "key": "电影天堂",
             "name": "天堂云",
             "type": 1,
@@ -704,47 +692,6 @@
                 "日韩动漫",
                 "欧美动漫",
                 "动漫电影",
-                "体育赛事"
-            ]
-        },
-{
-            "key": "非凡",
-            "name": "️非凡云",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰国剧",
-                "韩剧",
-                "日本剧",
-                "美国剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动画片",
-                "悬疑片",
-                "犯罪片",
-                "奇幻片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动画",
-                "国产动画",
-                "日韩动画",
-                "欧美动画",
-                "海外动画",
                 "体育赛事"
             ]
         },
@@ -874,18 +821,57 @@
       
         },
 {
-            "key": "线上bilimd",
-            "name": "哔哩影视",
-            "type": 3,
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/bibibi.jar",
-            "api": "csp_BilimdGuard",
+            "key": "非凡",
+            "name": "️非凡云",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
             "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
+            "quickSearch": 1,
             "filterable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "cookie": ""
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "泰国剧",
+                "韩剧",
+                "日本剧",
+                "美国剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动画片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动画",
+                "国产动画",
+                "日韩动画",
+                "欧美动画",
+                "海外动画",
+                "体育赛事"
+            ]
+        },
+{
+            "key": "Guazipg",
+            "name": "瓜子云",
+            "type": 3,
+            "api": "csp_Guazi",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 60,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg666.jar"
+      
         },
 {
          "key":"Qile优视频",
@@ -1020,14 +1006,6 @@
             "type": 4
             
         },
-{
-            "key": "欧乐影",
-            "name": "欧乐影",
-            "timeout": 60,
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=OleVod"
-            
-        },
 {                 
             "key": "xpgyshi",
             "name": "苹果",
@@ -1036,25 +1014,9 @@
             "type": 4
             
         },
-{            
-            "key": "yunyun",
-            "name": "园园",
-            "api": "https://learnpython.ggff.net/yunyun",
-            "timeout": 60,
-            "type": 4
-            
-        },
 {
-            "key": "土豆",
-            "name": "土豆视频",
-            "api": "https://learnpython.ggff.net/py_tudou",
-            "timeout": 60,
-            "type": 4
-            
-        },
-{
-            "name": "🎭杜北",
-            "key": "杜北",
+            "name": "🪁杜北|秒播",
+            "key": "Dubk",
             "type": 3,
             "api": "csp_DubkAmns",
             "searchable": 1,
@@ -1063,10 +1025,10 @@
             "changeable": 1,
             "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
             "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/dubk.json"
-        },        
+        },
 {
-            "name": "🎬瓜子",
-            "key": "瓜子",
+            "name": "🥔瓜子|秒播",
+            "key": "Guazi",
             "type": 3,
             "api": "csp_GuaziAmns",
             "searchable": 1,
@@ -1077,8 +1039,44 @@
             "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/guazi.json"
         },
 {
-            "name": "🍕欧乐",
-            "key": "🍕欧乐",
+            "name": "🍑糖心|秒播",
+            "key": "TnewGr",
+            "type": 3,
+            "api": "csp_TnewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🥇金牌|秒播",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍎苹果|秒播",
+            "key": "Xpg",
+            "type": 3,
+            "api": "csp_XpgAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍕欧乐|墙外",
+            "key": "Olyy",
             "type": 3,
             "api": "csp_OlyyAmns",
             "searchable": 1,
@@ -1089,10 +1087,131 @@
             
         },
 {
-            "name": "⛵爱壹帆",
-            "key": "⛵爱壹帆",
+            "name": "⛵壹帆|墙外",
+            "key": "Aiyf",
             "type": 3,
             "api": "csp_AiyfAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍈爱瓜|墙外",
+            "key": "AiGua",
+            "type": 3,
+            "api": "csp_AiGuaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📹U视|墙外",
+            "key": "YouSP",
+            "type": 3,
+            "api": "csp_YouSPAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🌱春天|秒播",
+            "key": "NewGr",
+            "type": 3,
+            "api": "csp_NewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
+            "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
+        },
+{
+            "name": "🎪伊外|秒播",
+            "key": "YIys",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+        
+            "name": "🔥热播|秒播",
+            "key": "Rbys",
+            "type": 3,
+            "api": "csp_RbysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
+            "ext": "http://v.rbotv.cn"
+        },
+{
+            "name": "🏆高端|2K",
+            "key": "Ddys",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🍿哔嘀|2K",
+            "key": "Bidys",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "🏭厂长|2K",
+            "key": "Czzy",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📽️LBV|2K",
+            "key": "Libvio",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
+        },
+{
+            "name": "📀俩BT|2K",
+            "key": "Bttwo",
+            "type": 3,
+            "api": "csp_BttwoAmns",
             "searchable": 1,
             "filterable": 1,
             "quickSearch": 1,
@@ -1113,140 +1232,8 @@
             
         },
 {
-            "name": "📹YOU视",
-            "key": "YOU视",
-            "type": 3,
-            "api": "csp_YouSPAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🌱春天",
-            "key": "春天",
-            "type": 3,
-            "api": "csp_NewGrAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "ext": "PnUH1ANGAUTUF9HVgAAHARACF0cRFwdCx0TGwlcBggZSlhIVlFtBFZDAQ0dC1VMR1BUV1ZEVEofVktQCRFQPSQKQjwgBjMpJz4MOyBQCxdmfAs0KhU+Ow48CzMgKjULMlQBKl1VNSlAIEpUS1JHDgJKTkhWUnQZSnscNj0oRkcVIA8EBzIxH0djY08OE15EUAgTQxQGF0VOSFYJEgFGBwJQMQsqEjM/MgIkITYeQwFMQHYaQ1hBByEXBVRLUkcGBBgrARARCFIRVRMMEwwZExBQSUdWCxwJGl1XHmxSHQAXR01WRRYCOAcYRFlWHxJQV1QEDREAKB8DUF9HVlFHW01XBkFSCRdTE1JORgRQSUdWGBULH1JVF2xfEwkXR01WRREKCloNGAkaVhwDWlAcBxcLEAIGXAkPFw1WRFQRQQtAbgIIExERGRUfR11USkZKWBMQAUpCAAEeABYFAlBfR1ZZRUpYExAEVkMBDR0LVUxHUFFXRFhESgk="
-        },
-{
-            "name": "🎪伊外",
-            "key": "伊外",
-            "type": 3,
-            "api": "csp_YIysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🥇金牌",
-            "key": "金牌",
-            "type": 3,
-            "api": "csp_JinPaiAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🍏小苹果",
-            "key": "小苹果",
-            "type": 3,
-            "api": "csp_XpgAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🍈爱瓜",
-            "key": "爱瓜",
-            "type": 3,
-            "api": "csp_AiGuaAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🏆高端",
-            "key": "高端",
-            "type": 3,
-            "api": "csp_DdysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🍿哔嘀",
-            "key": "哔嘀",
-            "type": 3,
-            "api": "csp_BidysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🏭厂长",
-            "key": "厂长",
-            "type": 3,
-            "api": "csp_CzzyAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "📽️LIBVIO",
-            "key": "LIBVIO",
-            "type": 3,
-            "api": "csp_LibvioAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "📀俩BT",
-            "key": "俩BT",
-            "type": 3,
-            "api": "csp_BttwoAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-            
-        },
-{
-            "name": "🎯荐片",
-            "key": "荐片",
+            "name": "🎯荐片|秒播",
+            "key": "JPian",
             "type": 3,
             "api": "csp_JPianAmns",
             "searchable": 1,
@@ -1257,19 +1244,7 @@
             "ext": "https://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/json/jpian.json"
         },
 {
-            "name": "🔥热播",
-            "key": "热播",
-            "type": 3,
-            "api": "csp_RbysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png",
-            "ext": "http://v.rbotv.cn"
-        },
-{
-            "name": "🎉Bili",
+            "name": "🎉Bili|合集",
             "key": "Bili",
             "type": 3,
             "api": "csp_BiliAmns",
@@ -1284,202 +1259,17 @@
             }
         },
 {
-            "key": "采集资源T4",
-            "name": "采集资源(T4)",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net:6628",
+            "name": "🎸酷狗|音乐",
+            "key": "KuGou",
+            "type": 3,
+            "api": "csp_KuGouAmns",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-{
-            "key": "韩剧看看(ku)",
-            "name": "韩剧影视(ku)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "http://rihou.cc:88/xb/韩剧看看.json",
-            "jar": "http://rihou.cc:88/jar/xbpq.jar"
-        },
-{
-            "key": "瓜子影视(ku)",
-            "name": "瓜子影视(ku)",
-            "type": 3,
-            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
-            "api": "csp_GuaziGuard",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "timeout": 30
-        },
-{
-            "key": "bilimd(ku)",
-            "name": "哔哩影视(ku)",
-            "type": 3,
-            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
-            "api": "csp_BilimdGuard",
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "filterable": 1,
-            "playerType": 2,
-            "timeout": 30,
-            "cookie": ""
-        },
-{
-            "key": "晚晚影视(ku)",
-            "name": "晚晚影视(ku)",
-            "type": 3,
-            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251223/HDAF/12231322.png;md5;981a663a441e22d9f735d02cba5520ed",
-            "api": "csp_Wwys",
-            "ext": "https://vip.wwgz.cn:5200"
-        },
-{
-            "key": "柠檬(ku)",
-            "name": "柠檬影视(ku)",
-            "type": 3,
-            "api": "csp_Nmvod",
-            "playerType": 2,
-            "jar": "https://gitee.com/senno/tvbox/raw/master/jar/巧技.jar",
-            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
-        },
-{
-            "key": "泥泥视频(ku)",
-            "name": "泥视影视(ku)",
-            "type": 3,
-            "api": "http://rihou.cc:88/js/drpy2.min.js",
-            "ext": "http://rihou.cc:88/js/泥泥视频.js"
-        },
-{
-            "key": "py_两个BTPY(ku)",
-            "name": "2BT影视(ku)",
-            "api": "http://rihou.cc:88/py/两个BT.py",
             "filterable": 1,
             "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-        },
-{
-            "key": "剧梦(ku)",
-            "name": "剧梦影视(ku)",
-            "type": 3,
-            "jar": "https://pic7.fukit.cn/autoupload/gE6Y0Af2tjXBCNig6CtNDI12_FRYNb81z6UPhMWD8iI/20251223/HDAF/12231322.png;md5;981a663a441e22d9f735d02cba5520ed",
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://www.jumengwu.com",
-                "dataKey": "1f0a873caf2550a5",
-                "dataIv": "1f0a873caf2550a5"
-            }
-        },
-{
-            "key": "ETQM(ku)",
-            "name": "幼儿教育(ku)",
-            "type": 3,
-            "jar": "https://play.iptv365.org/肥猫/spider.jar",
-            "api": "https://play.iptv365.org/肥猫/api/drpy2.min.js",
-            "searchable": 0,
-            "quickSearch": 0,
             "changeable": 0,
-            "playerType": 2,
-            "timeout": 30,
-            "ext": "https://play.iptv365.org/肥猫/js/兔小贝.js"
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+            
         },
-{
-            "key": "少儿教育(ku)",
-            "name": "少儿教育(ku)",
-            "type": 3,
-            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
-            "api": "csp_BiliGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0,
-            "ext": {
-                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/32EF375_773_bilisejy_20251204150311837newMediaFile.bmp"
-            }
-        },
-{
-            "key": "小学课堂(ku)",
-            "name": "小学教育(ku)",
-            "type": 3,
-            "jar": "http://oss4liview.moji.com/thd_file/2025/12/18/824279901a5b5dac85e113e9dd930d4c.jpg;md5;2c813218abd7613d4147c0ab11c08fdf",
-            "api": "csp_BiliGuard",
-            "searchable": 0,
-            "quickSearch": 0,
-            "playerType": 2,
-            "timeout": 30,
-            "changeable": 0,
-            "ext": {
-                "json": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3753221_773_bilixxkt_20251204150347660newMediaFile.bmp"
-            }
-        },
-{
-      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
-      "key": "獨播庫(T4)",
-      "name": "獨播庫(T4)",
-      "type": 4
-    },
-{
-         "api":"https://newtv.ggff.net/guazi?token=P69Phb_y",
-         "key":"瓜子庫(T4)",
-         "name":"瓜子庫(T4)",
-         "type":4
-     },
-{
-      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
-      "key": ". 歐樂庫(T4)",
-      "name": "歐樂庫(T4)",
-      "type": 4
-    },     
-{
-         "api":"https://newtv.ggff.net/pingguo?token=P69Phb_y",
-         "key":"蘋果庫(T4)",
-         "name":"蘋果庫(T4)",
-         "type":4
-      },
-{
-      "api": "https://tvbot.dpdns.org/py_jinpai.py",
-      "key": "金牌庫(T4)",
-      "name": "金牌庫(T4)",
-      "type": 3
-    },
-{
-      "api":"https://newtv.ggff.net/jubaba?token=P69Phb_y",
-      "key":"劇霸庫(T4)",
-      "name":"劇霸庫(T4)",
-      "type":4
-       },
-{
-         "api":"https://newtv.ggff.net/yongle?token=P69Phb_y",
-         "key":"永樂庫(T4)",
-         "name":"永樂庫(T4)",
-         "type":4
-      },
-{
-         "api":"https://newtv.ggff.net/aigua?token=P69Phb_y",
-         "key":"愛瓜庫(T4)",
-         "name":"愛瓜庫(T4)",
-         "type":4
-      },
-{
-         "api":"https://newtv.ggff.net/uvod?token=P69Phb_y",
-         "key":"優視頻庫(T4)",
-         "name":"優視頻庫(T4)",
-         "type":4
-      }, 
-{
-      "api":"https://newtv.ggff.net/ikanbot?token=P69Phb_y",
-      "key": "爱看机器人庫(T4)",
-      "name": "爱看机器人庫(T4)",
-      "type": 4
-     },
 {
   "key": "界影视(js)",
   "name": "界影视(js)",
@@ -1502,31 +1292,12 @@
   "changeable": 0
   },
 {
-      "key": "瓜子js",
-      "name": "瓜子(js)",
-      "type": 3,
-      "changeable": 0,
-      "api": "https://raw.githubusercontent.com/su147456888444/tvbox/refs/heads/main/drpy_libs/drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/su147456888444/tvbox/refs/heads/main/drpy_js/瓜子.js"
-    },
-{
             "key": "ikanbotjs",
             "name": "ikanbot(js)",
             "type": 3,
             "playerType": "2",
             "api": "https://tvbox.catvod.com/js/drpy2.min.js",
             "ext": "https://tvbox.catvod.com/js/ik.js"
-        },
-{
-            "key": "dr_兔小贝",
-            "name": "儿童启蒙(js)",
-            "type": 3,
-            "api": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
-            "ext": "https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
-            "searchable": 0,
-            "quickSearch": 0,
-            "changeable": 0
-            
         },
 {
             "key": "采集js",
@@ -1571,16 +1342,6 @@
       
      },
 {
-            "key": "py_OleVod",
-            "name": "欧乐影院(py)",
-            "type": 4,
-            "api": "http://py.doube.eu.org/spider?site=OleVod",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0
-        },
-{
             "key": "py_live4KAV",
             "name": "4K影视(py)",
             "type": 3,
@@ -1591,18 +1352,6 @@
             "filterable": 1,
             "timeout": 60
         },
-{
-      "key": "py_live骚火电影",
-      "name": "骚火电影(py)",
-      "type": 3,
-      "api": "http://github.com/cm851228/5122/raw/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout": 60
-      
-    },
 {
       "key": "py_live_livelive影视界",
       "name": "影视界(py)",
@@ -3035,6 +2784,19 @@
             "searchable": 0,
             "quickSearch": 0
             
+        },
+{
+            "key": "csp_XYQHiker_xnxx",
+            "name": "🔞XNXX(XYQHiker)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/xyq.jar",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "http://github.com/cm851228/my51228888/raw/refs/heads/main/xnxx.txt"
+          
+     
         },
 {
             "key": "csp_Aid",
