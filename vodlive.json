@@ -1637,6 +1637,87 @@
             }
         },
 {
+            "key": "T4-caiji",
+            "name": "影视-采集(T4)",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/caiji.php"
+        },
+{
+            "key": "T4-hg",
+            "name": "影视-HG(T4)",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/hg.php"
+        },
+{
+            "key": "T4-lianyu",
+            "name": "影视-恋鱼(T4)",
+            "type": 4,
+            "api": "https://catbox.n13.club/t9/lianyu.php"
+        },
+{
+            "key": "T4-cctv",
+            "name": "其他-央视(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/cctv.php"
+        },
+{
+            "key": "T4-cntv",
+            "name": "其他-央视2(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/cntv.php"
+        },
+{
+            "key": "T4-bili",
+            "name": "B站-哔哩(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php"
+        },
+{
+            "key": "T4-美食",
+            "name": "B站-美食(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php?id=美食"
+        },
+{
+            "key": "T4-blh",
+            "name": "儿童-贝乐虎(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/beilehu.php"
+        },
+{
+            "key": "T4-bili1",
+            "name": "B站-幼儿(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php?id=少儿教育"
+        },
+{
+            "key": "T4-Blixq",
+            "name": "B站-戏曲(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php?id=Blixq"
+        },
+{
+            "key": "T4-bmtv",
+            "name": "B站-MTV(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php?id=bMTV"
+        },
+{
+            "key": "T4-Bliych",
+            "name": "B站-演唱会(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "https://catbox.n13.club/t9/bili.php?id=Bliych"
+        },
+{
             "key": "modu",
             "name": "动漫云",
             "type": 1,
