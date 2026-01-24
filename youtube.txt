@@ -289,6 +289,11 @@ Bloomberg Originals,https://www.youtube.com/watch?v=OlUMDZchivQ
 
 
 
+TVB港台,#genre#
+TVB翡翠劇集台,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB1,https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
+TVB無綫新聞台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+
 
 
 

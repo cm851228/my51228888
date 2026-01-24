@@ -50,6 +50,14 @@ Animal time,https://www.youtube.com/live/dwbgawuNhCU?feature=shared
 
 
 
+TVB港台,#genre#
+TVB翡翠劇集台,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB1,https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
+TVB無綫新聞台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+
+
+
+
 马新频道,#genre#
 DRAMA HOTPOT,https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_4/dash.mpd
 Enjoy TV5,https://get.perfecttv.net/mytv.m3u8?channel=tv5

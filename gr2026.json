@@ -134,21 +134,11 @@
 {
             "name": "EXO Web118",
             "type": 0,
-            "url": "http://web.anbox118.dpdns.org/playlist.m3u8.txt",
+            "url": "https://livetv.anbox.dpdns.org/playlist.m3u8.txt",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
         }, 
-{
-            "name": "EXO Anbox118",
-            "type": 0,
-            "url": "https://ottplus.anbox118.workers.dev/",
-            "ua": "okhttp",
-            "timeout": 30,
-            "playerType": 2,
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        },
 {
             "name": "EXO WebTv",
             "type": 0,
@@ -160,7 +150,7 @@
             "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
         },
 {
-            "name": "EXO anbox直播1",
+            "name": "EXO Anbox直播",
             "type": 0,
             "url": "https://tv.anboxtv.online/live5",
             "playerType": 2,
@@ -169,36 +159,6 @@
             "logo": "https://gongdian.top/tv/taibiao/{name}.png",
             "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
 
-        },
-{
-            "name": "EXO anbox直播2",
-            "type": 0,
-            "url": "https://tv.anboxtv.online/live4",
-            "playerType": 2,
-            "ua": "okhttp",
-            "timeout": 30,
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
-        },
-{
-            "name": "EXO anbox直播3",
-            "type": 0,
-            "url": "https://tv.anboxtv.online/live3",
-            "playerType": 2,
-            "ua": "okhttp",
-            "timeout": 30,
-            "logo": "https://gongdian.top/tv/taibiao/{name}.png",
-            "epg": "http://diyp3.112114.xyz/?ch={name}&date={date}"
-        },
-{
-            "name": "EXO anbox直播4",
-            "type": 0,
-            "url": "https://firebase.anbox118.workers.dev/",
-            "timeout": 30,
-            "playerType": 2,
-            "ua": "okhttp",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}&serverTimeZone=Asia%2FHong_Kong",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
         },
 {
             "name": "EXO IPTV2026",
@@ -668,11 +628,13 @@
             
         },
 {
-            "key": "曾美食聚合",
-            "name": "美食聚合(T4)",
+            "key": "曾采集聚合",
+            "name": "采集聚合(T4)",
             "type": 4,
+            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
             "playerType": 2,
-            "api": "https://catbox.n13.club/t9/bili.php?id=美食"
+            "searchable": 1,
+            "changeable": 1
             
         },
 {
@@ -686,16 +648,6 @@
             "filterable": 1
        
         },        
-{
-            "key": "曾采集聚合",
-            "name": "采集聚合(T4)",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
-            
-        },
 {
             "key": "曾JS聚合",
             "name": "JS聚合(T4)",
@@ -715,6 +667,33 @@
             "quickSearch": 1,
             "playerType": 2,
             "filterable": 1
+        },
+{
+            "key": "T4-caiji",
+            "name": "影视-采集(T4)",
+            "type": 4,
+            "api": "http://catbox.n13.club/t9/caiji.php"
+        },
+{
+            "key": "T4-blh",
+            "name": "贝乐虎-儿歌(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "http://catbox.n13.club/t9/beilehu.php"
+        },
+{
+            "key": "T4-cctv",
+            "name": "其他-央视cctv(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "http://catbox.n13.club/t9/cctv.php"
+        },
+{
+            "key": "T4-cntv",
+            "name": "其他-央视cntv(T4)",
+            "type": 4,
+            "playerType": 2,
+            "api": "http://catbox.n13.club/t9/cntv.php"
         },
 {
             "key": "电影天堂",
@@ -1774,87 +1753,6 @@
             "ext": {
                 "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
             }
-        },
-{
-            "key": "T4-caiji",
-            "name": "影视-采集(T4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/caiji.php"
-        },
-{
-            "key": "T4-hg",
-            "name": "影视-HG(T4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/hg.php"
-        },
-{
-            "key": "T4-lianyu",
-            "name": "影视-恋鱼(T4)",
-            "type": 4,
-            "api": "https://catbox.n13.club/t9/lianyu.php"
-        },
-{
-            "key": "T4-cctv",
-            "name": "其他-央视(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/cctv.php"
-        },
-{
-            "key": "T4-cntv",
-            "name": "其他-央视2(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/cntv.php"
-        },
-{
-            "key": "T4-bili",
-            "name": "B站-哔哩(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/bili.php"
-        },
-{
-            "key": "T4-美食",
-            "name": "B站-美食(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/bili.php?id=美食"
-        },
-{
-            "key": "T4-blh",
-            "name": "儿童-贝乐虎(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/beilehu.php"
-        },
-{
-            "key": "T4-bili1",
-            "name": "B站-幼儿(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/bili.php?id=少儿教育"
-        },
-{
-            "key": "T4-Blixq",
-            "name": "B站-戏曲(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/bili.php?id=Blixq"
-        },
-{
-            "key": "T4-bmtv",
-            "name": "B站-MTV(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/bili.php?id=bMTV"
-        },
-{
-            "key": "T4-Bliych",
-            "name": "B站-演唱会(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "https://catbox.n13.club/t9/bili.php?id=Bliych"
         },
 {
             "key": "modu",
