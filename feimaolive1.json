@@ -24,6 +24,22 @@
      
         },
 {
+            "name": "SMARTtv",
+            "type": 0,
+            "url": "http://ox.html-5.me//i/9290970.txt",
+            "ua": "okhttp/5.3.2",
+            "timeout": 30
+     
+        },
+{
+            "name": "酷马港台",
+            "type": 0,
+            "url": "http://ox.html-5.me//i/9289864.txt",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
             "name": "马新iptv",
             "type": 0,
             "url": "http://hufa.zabc.net:8080/iptvpro.txt",
@@ -135,22 +151,6 @@
             "timeout": 30
         },
 {
-            "name": "YouTube新闻",
-            "type": 0,
-            "url": "http://raw.githubusercontent.com/zzq1234567890/epg/refs/heads/main/youtubeworld.m3u",
-            "ua": "okhttp",
-            "timeout": 30
-      
-        },
-{
-            "name": "越南频道",
-            "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Vietnam.txt",
-            "ua": "okhttp",
-            "timeout": 30
-       
-        },
-{
             "name": "线更直播",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/js.txt",
@@ -162,7 +162,6 @@
             "name": "抽风爱米",
             "type": 0,
             "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/ssmart.txt",
-            "ua": "okhttp",
             "timeout": 30
       
         }
