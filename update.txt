@@ -40,6 +40,33 @@ TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
 
 
 
+TVB港台,#genre#
+TVB翡翠劇集台,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
+TVB1,https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
+TVB無綫新聞台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
+TVB越南台,https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
+
+
+
+
+MY(rtm),#genre#
+八度空间,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV1,https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+TV2,https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+TV3,https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+Okey Tv,https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+TV6,https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+DidikTv KPM,https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+8TV,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV9,https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+BERITA RTM,https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+SUKAN RTM,https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+TV Ikim,https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+Astro Awani,https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+
+
+
+
 SmartPHP,#genre#
 八度空间台,http://php.jdshipin.com/smt.php?id=TV8
 AEC,http://php.jdshipin.com/smt.php?id=AEC

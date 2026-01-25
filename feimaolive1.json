@@ -24,20 +24,12 @@
      
         },
 {
-            "name": "SMARTtv",
+            "name": "SmartTV123",
             "type": 0,
-            "url": "http://ox.html-5.me//i/9290970.txt",
+            "url": "http://tv123.vvvv.ee/tv.m3u",
             "ua": "okhttp/5.3.2",
             "timeout": 30
-     
-        },
-{
-            "name": "酷马港台",
-            "type": 0,
-            "url": "http://ox.html-5.me//i/9289864.txt",
-            "ua": "okhttp",
-            "timeout": 30
-     
+    
         },
 {
             "name": "马新iptv",
@@ -102,14 +94,6 @@
             "ua": "okhttp",
             "timeout": 30
    
-        },
-{
-            "name": "TV123",
-            "type": 0,
-            "url": "http://tv123.vvvv.ee/tv.m3u",
-            "ua": "okhttp/5.3.2",
-            "timeout": 30
-    
         },
 {
             "name": "BXTV",

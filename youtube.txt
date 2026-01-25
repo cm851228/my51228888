@@ -289,21 +289,62 @@ Bloomberg Originals,https://www.youtube.com/watch?v=OlUMDZchivQ
 
 
 
-TVB港台,#genre#
-TVB翡翠劇集台,https://amg01868-amg01868c5-tvbanywhere-us-4493.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbdrama-tvbanywhereus/playlist.m3u8
-TVB1,https://amg01868-amg01868c4-tvbanywhere-us-4492.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvb1-tvbanywhereus/playlist.m3u8
-TVB無綫新聞台,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 
-
-
-
-RTM频道,#genre#
+MY(RTM),#genre#
+八度空间,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV1,https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+TV2,https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+TV3,https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+Okey Tv,https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+TV6,https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+DidikTv KPM,https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+8TV,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV9,https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+BERITA RTM,https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+SUKAN RTM,https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+TV Ikim,https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+Astro Awani,https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+TV1,https://mifntechnology.github.io/siaranMy/channels/Tv1/index.m3u8
+TV2,https://mifntechnology.github.io/siaranMy/channels/Tv2/index.m3u8
+TV3,https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+Okey Tv,https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
+TV6,https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+DidikTv KPM,https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
+8TV,https://mifntechnology.github.io/siaranMy/channels/8tv/index.m3u8
+TV9,https://mifntechnology.github.io/siaranMy/channels/Tv9/index.m3u8
+BERITA RTM,https://mifntechnology.github.io/siaranMy/channels/BeritaRTM/index.m3u8
+SUKAN RTM,https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
+TV Ikim,https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
+Astro Awani,https://mifntechnology.github.io/siaranMy/channels/AstroAwani/index.m3u8
+RTM TV1 ,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+RTM TV2 ,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd
+RTM Okey ,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+Sukan RTM ,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+Berita RTM ,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd
+RTM TV6 ,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/manifest.mpd
+RTM 1,https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/index.m3u8?id=1
+RTM 2,https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/index.m3u8?id=2
+RTM Okey,https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
+Sukan RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/index.m3u8?id=4
+Berita RTM,https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
+RTM 6,https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8?id=6
+RTM Parlimen Dewan Rakyat,https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
+RTM Parlimen Dewan Negara,https://d25tgymtnqzu8s.cloudfront.net/smil:negara/index.m3u8?id=8
+Dewan Rakyat,https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+DewanNegara,https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+Dewan Rakyat,https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+DewanNegara,https://mifntechnology.github.io/siaranMy/channels/DewanNegara/index.m3u8
+Bernama Tv,https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+TVS,https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
+Bernama Tv,https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
+TVS,https://mifntechnology.github.io/siaranMy/channels/Tvs/index.m3u8
 TV 1,video://https://rtmklik.rtm.gov.my/live/tv1
 TV 2,video://https://rtmklik.rtm.gov.my/live/tv2
 BERITA,video://https://rtmklik.rtm.gov.my/live/beritartm
 TV 6,video://https://rtmklik.rtm.gov.my/live/tv6
 SUKAN,video://https://rtmklik.rtm.gov.my/live/sukanrtm
 TV OKEY,video://https://rtmklik.rtm.gov.my/live/okey
+
 
 
 
