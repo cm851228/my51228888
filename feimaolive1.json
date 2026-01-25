@@ -24,6 +24,14 @@
      
         },
 {
+            "name": "AnboxTV",
+            "type": 0,
+            "url": "https://tv.anboxtv.online/tv",
+            "ua": "okhttp",
+            "timeout": 30
+     
+        },
+{
             "name": "SmartTV123",
             "type": 0,
             "url": "http://tv123.vvvv.ee/tv.m3u",
