@@ -24,6 +24,13 @@
      
         },
 {
+            "name": "SmtTV",
+            "url": "http://ox.html-5.me//i/9514537.txt",
+            "ua": "catvod.com",
+            "timeout": 30
+       
+        },
+{
             "name": "AnboxTV",
             "type": 0,
             "url": "https://tv.anboxtv.online/tv",
@@ -72,14 +79,6 @@
    
     },
 {
-            "name": "风云TV",
-            "type": 0,
-            "url": "http://iptv.4666888.xyz/FYTV.txt",
-            "ua": "okhttp",
-            "timeout": 30
-      
-        },
-{
             "name": "央湾频道",
             "type": 0,
             "url": "http://iptv.ruyitv.cc/m3u/tv.txt",
@@ -104,14 +103,6 @@
    
         },
 {
-            "name": "BXTV",
-            "type": 0,
-            "url": "http://bxtv.3a.ink/live.m3u",
-            "ua": "okhttp",
-            "timeout": 30
-       
-        },
-{
             "name": "易发频道",
             "type": 0,
             "url": "http://tvv.tw/github.com/fafa002/yf2025/blob/main/yiyifafa.txt",
@@ -128,19 +119,19 @@
 
         },
 {
-            "name": "全球直播",
-            "type": 0,
-            "url": "http://freetv.fun/test_channels_new.txt",
-            "ua": "okhttp",
-            "timeout": 30
-       
-        },
-{
             "name": "AI直播",
             "type": 0,
             "url": "http://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
             "ua": "okhttp",
             "timeout": 30
+        },
+{
+            "name": "越南频道",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Vietnam.txt",
+            "ua": "okhttp",
+            "timeout": 30
+       
         },
 {
             "name": "线更直播",
@@ -151,9 +142,25 @@
       
         },
 {
-            "name": "越南频道",
+            "name": "风云TV",
             "type": 0,
-            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/Vietnam.txt",
+            "url": "http://iptv.4666888.xyz/FYTV.txt",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "BXTV",
+            "type": 0,
+            "url": "http://bxtv.3a.ink/live.m3u",
+            "ua": "okhttp",
+            "timeout": 30
+       
+        },
+{
+            "name": "全球直播",
+            "type": 0,
+            "url": "http://freetv.fun/test_channels_new.txt",
             "ua": "okhttp",
             "timeout": 30
        
