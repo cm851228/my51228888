@@ -37,6 +37,9 @@ TVB星河国语,http://cdn10.163189.xyz/163189/xinghe
 南方衛視fun,https://t.freetv.fun/live/da-wan-qu-wei-shi-4.m3u8
 大湾区mg,http://1.94.31.214/php/mg.php?id=608917627
 8度空间,http://cdn6.163189.xyz/163189/8tv
+南方卫视1,http://74.91.26.218:82/live/nfws.m3u8
+广东珠江1,http://74.91.26.218:82/live/gdzj.m3u8
+广东新闻1,http://74.91.26.218:82/live/gdxw.m3u8
 
 
 

@@ -1,4 +1,4 @@
-越南,#genre#
+越南频道,#genre#
 VTV1,https://freem3u.xyz/api/live/play.m3u8?vid=2
 QOVN,https://freem3u.xyz/api/live/play.m3u8?vid=19
 ANTV,https://freem3u.xyz/api/live/play.m3u8?vid=20
