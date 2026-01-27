@@ -21675,7 +21675,7 @@
 
 
 
-天舌尖上的中国,#genre#
+味舌尖上的中国,#genre#
 第01集,http://vip.dytt-film.com/20250530/15513_70c96c4e/index.m3u8
 第02集,http://vip.dytt-film.com/20250530/15514_3284b792/index.m3u8
 第03集,http://vip.dytt-film.com/20250530/15515_b68fa653/index.m3u8
@@ -21708,7 +21708,7 @@
 
 
 
-天风味人间,#genre#
+味风味人间,#genre#
 第01集,http://v2.yzzy5-play.com/20220512/13530_ba6ff2d8/index.m3u8
 第02集,http://v2.yzzy5-play.com/20220512/13529_4605dc3d/index.m3u8
 第03集,http://v2.yzzy5-play.com/20220512/13528_dc700b2a/index.m3u8
@@ -21748,7 +21748,7 @@
 第d07集,http://svip.high25-playback.com/20241225/15227_1bb426c4/index.m3u8
 
 
-天人生一串,#genre#
+味人生一串,#genre#
 第01期,http://c1.rrcdnbf2.com/video/renshengyichuandiyiji/第01期/index.m3u8
 第02期,http://c1.rrcdnbf2.com/video/renshengyichuandiyiji/第02期/index.m3u8
 第03期,http://c1.rrcdnbf2.com/video/renshengyichuandiyiji/第03期/index.m3u8
