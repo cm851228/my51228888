@@ -24,21 +24,6 @@
      
         },
 {
-            "name": "SmtTV",
-            "url": "http://ox.html-5.me//i/9514537.txt",
-            "ua": "catvod.com",
-            "timeout": 30
-       
-        },
-{
-            "name": "AnboxTV",
-            "type": 0,
-            "url": "https://tv.anboxtv.online/tv",
-            "ua": "okhttp",
-            "timeout": 30
-     
-        },
-{
             "name": "SmartTV123",
             "type": 0,
             "url": "http://tv123.vvvv.ee/tv.m3u",
@@ -140,22 +125,6 @@
             "ua": "okhttp",
             "timeout": 30
       
-        },
-{
-            "name": "风云TV",
-            "type": 0,
-            "url": "http://iptv.4666888.xyz/FYTV.txt",
-            "ua": "okhttp",
-            "timeout": 30
-      
-        },
-{
-            "name": "BXTV",
-            "type": 0,
-            "url": "http://bxtv.3a.ink/live.m3u",
-            "ua": "okhttp",
-            "timeout": 30
-       
         },
 {
             "name": "全球直播",
