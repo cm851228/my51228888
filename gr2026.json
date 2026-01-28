@@ -938,6 +938,16 @@
       
         },
 {
+            "key": "py_界影视",
+            "name": "界影视",
+            "type": 3,
+            "api": "http://github.com/cm851228/my51228888/raw/refs/heads/main/%E7%95%8C%E5%BD%B1%E8%A7%86.py",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "changeable": 0
+        },
+{
             "key": "非凡",
             "name": "️非凡云",
             "type": 1,
