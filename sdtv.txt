@@ -1,7 +1,0 @@
-[
-
-{"name":"猫TV直播","url":"http://rihou.cc:555/gggg.nzk&&&https://api.btstu.cn/sjbz/api.php"}
-
-
-
-]
