@@ -669,6 +669,116 @@
       
         },
 {
+      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
+      "key": "獨播庫",
+      "name": "獨播庫(T4)",
+      "type": 4
+      
+    },
+{
+       "key":"瓜子",
+       "name":"瓜子(T4)",
+       "type":4,
+       "api":"https://newtv.ggff.net/guazi?token=P69Phb_y"
+       
+      },
+{
+      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
+      "key": "歐樂影院",
+      "name": "歐樂影院(T4)",
+      "type": 4
+      
+      },
+{
+    "key":"愛瓜",
+    "name":"愛瓜(T4)",
+    "type":4,
+    "api":"https://newtv.ggff.net/aigua?token=P69Phb_y"
+    
+      },
+{
+      "key": "金牌影院",
+      "name": "金牌影院(T4)",
+      "type": 3,   
+      "api": "https://tvbot.dpdns.org/py_jinpai.py"
+      
+      },
+{
+      "key":"小蘋果",
+      "name":"小蘋果(T4)",
+      "type":4,
+      "api":"https://newtv.ggff.net/pingguo?token=P69Phb_y"
+      
+      },
+{
+      "key":"劇霸",
+      "name":"劇霸(T4)",
+      "type":4,
+      "api":"https://newtv.ggff.net/jubaba?token=P69Phb_y"
+      
+    },
+{
+       "key":"永樂",
+       "name":"永樂(T4)",
+       "type":4,
+       "api":"https://newtv.ggff.net/yongle?token=P69Phb_y"
+       
+      },
+{
+       "key":"優視頻",
+       "name":"優視頻(T4)",
+       "type":4,
+       "api":"https://newtv.ggff.net/uvod?token=P69Phb_y"
+       
+      }, 
+{
+      "api": "https://newtv.ggff.net/jianpian?token=P69Phb_y",
+      "key": "荐片",
+      "name": "荐片(T4)",
+      "type": 4
+      
+      },
+{
+      "key": "无水印采集",
+      "name": "水印云",
+      "type": 1,
+      "api": "http://api.wsyzy.net/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "categories": [
+                "港剧",
+                "国产剧",
+                "台剧",
+                "泰剧",
+                "韩剧",
+                "日剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动画片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "邵氏电影",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "海外动漫"
+        
+      ]
+    },
+{
          "key":"Qile优视频",
          "name":"优视频",
          "type":3,
