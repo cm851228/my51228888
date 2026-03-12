@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="ORF Kids" group-title="Kids", ORF Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab89153b2de5951ab98c7fe1f2a84c5:9862271662efa59fba2364e1a4354db7
+https://web12.mdn.ors.at/orf/web12/drmqxa/manifest.mpd
+
+#EXTINF:-1 tvg-name="3sat HD" group-title="Germany", 3sat HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=757d0445178c3c37ac955c1d86a17fa8:e8e38ed9660be5aa703dd484ae6d86f2
+https://simplitv-live.mdn.ors.at/live/eds/3sat_hd/dash/3sat_hd.mpd
+
+#EXTINF:-1 tvg-name="Al Jazeera English HD" group-title="News", Al Jazeera English HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e007345c8aaa390bb44fbc225dcc0faa:50e3e038e2e644077b2dfbc62837af6b
+https://simplitv-live.mdn.ors.at/live/eds/al_jazeera_english_hd/dash/al_jazeera_english_hd.mpd
+
+#EXTINF:-1 tvg-name="ARD Alpha HD" group-title="Germany", ARD Alpha HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bc677956b4d93145a273baf1ac083d34:5a40d36b8f99b98c70c7fe1dea7085fb
+https://simplitv-live.mdn.ors.at/live/eds/ard_alpha_hd-1/dash/ard_alpha_hd-1.mpd
+
+#EXTINF:-1 tvg-name="ARTE HD" group-title="Germany/France", ARTE HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=71c387f8d3a638e6950c81643a25c7ab:070ea260a67326c516f667a7008118ff
+https://simplitv-live.mdn.ors.at/live/eds/arte_hd/dash/arte_hd.mpd
