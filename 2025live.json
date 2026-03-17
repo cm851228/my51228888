@@ -4,6 +4,29 @@
 
 "lives": [
 {
+            "name": "线更Astro",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/astro.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "Astro GO",
+            "url": "http://raw.githubusercontent.com/sni2007/sni2007/refs/heads/main/Freeview",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "SuperMytv",
+            "type": 0,
+            "url": "http://github.com/cm851228/my51228888/raw/refs/heads/main/mytv.txt",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
             "name": "PerfectTV",
             "type": 0,
             "url": "https://perfecttv.net/PerfecttvFree.m3u",
@@ -132,52 +155,6 @@
 
 "sites": [
 {
-            "key": "暴风",
-            "name": "暴风云",
-            "type": 1,
-            "api": "http://bfzyapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰国剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动漫",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "海外动漫"
-            ]
-        },
-{
-            "key": "GUAZI(wex)",
-            "name": "瓜子影视",
-            "type": 3,
-            "searchable": 1,
-            "quickSearch": 1,
-            "api": "csp_Gz360",
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
-            
-        },
-{
             "key": "质优云",
             "name": "质优云",
             "type": 1,
@@ -213,6 +190,50 @@
                 "欧美动漫"
             ]
         },
+{
+            "key": "GUAZI(wex)",
+            "name": "瓜子影视",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "api": "csp_Gz360",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/Melon%20seeds.jar"
+            
+        },
+{
+            "name": "独播库",
+            "key": "本地独播",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
+            
+        },
+{
+      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
+      "key": "歐樂影院",
+      "name": "歐樂影院(T4)",
+      "type": 4
+      
+      },
+{
+      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
+      "key": "獨播庫",
+      "name": "獨播庫(T4)",
+      "type": 4
+      
+    },
+{
+       "key":"瓜子",
+       "name":"瓜子(T4)",
+       "type":4,
+       "api":"https://newtv.ggff.net/guazi?token=P69Phb_y"
+       
+      },
 {
             "key": "低版哔哩",
             "name": "低清哔哩(MY)",
@@ -284,17 +305,40 @@
             }
         },        
 {
-            "name": "独播库",
-            "key": "本地独播",
-            "type": 3,
-            "api": "csp_DubkAmns",
+            "key": "暴风",
+            "name": "暴风云",
+            "type": 1,
+            "api": "http://bfzyapi.com/api.php/provide/vod/?ac=list",
             "searchable": 1,
-            "filterable": 1,
             "quickSearch": 1,
-            "changeable": 1,
-            "json": "http://github.com/cm851228/my51228888/raw/refs/heads/main/dubk.json",
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/AWOO18.jar"
-            
+            "filterable": 1,
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "泰国剧",
+                "韩国剧",
+                "日本剧",
+                "欧美剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动漫",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "海外动漫"
+            ]
         },
 {
             "key": "曾采集聚合",
@@ -612,60 +656,210 @@
             
         },
 {
-            "key": "外来媳妇本地郎推送",
-            "name": "外来媳妇本地郎推送",
+            "key": "油管直连",
+            "name": "油管🤡新闻",
             "type": 3,
-            "api": "csp_Youtube",
+            "api": "csp_ProxySpider",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "playerType": 2,
-            "timeout": 60,
-            "changeable": 0,
-            "ext": {
-            "type": "@中国新闻直播#外来媳妇本地郎第一季高清推送#外来媳妇本地郎第二季高清推送#外来媳妇本地郎第三季高清推送#外来媳妇本地郎第四季高清推送#外来媳妇本地郎第五季高清推送#外来媳妇本地郎第六季高清推送#外来媳妇本地郎第七季高清推送#外来媳妇本地郎第八季高清推送#外来媳妇本地郎第九季高清推送#外来媳妇本地郎第十季高清推送#外来媳妇本地郎第十一季高清推送#外来媳妇本地郎第十二季高清推送#外来媳妇本地郎第十三季高清推送#外来媳妇本地郎第十四季高清推送#外来媳妇本地郎第十五季高清推送#外来媳妇本地郎第十六季高清推送#外来媳妇本地郎第十七季高清推送#外来媳妇本地郎第十八季高清推送"
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#国际中文(美洲)#8world#八度空间华语新闻live#凤凰卫视资讯live#新唐人亚太台live#TVBS新闻台live#民視新聞台live#中天新聞台live#中視新聞台live#公視新聞台live#台視新聞台live#三立新闻台live#寰宇台湾台live#寰宇新聞台live#鏡新聞台live#东森新闻台live#东森财经台live#中国新闻直播#新闻直播live#Berita rtm live#astroawani live#astrobdq"
             
-            },
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg2025.jar"
-      
+            
         },
 {
-            "key": "七十二家房客推送",
-            "name": "七十二家房客推送",
+            "key": "油管综合",
+            "name": "油管🤡综合",
             "type": 3,
-            "api": "csp_Youtube",
+            "api": "csp_ProxySpider",
             "searchable": 1,
-            "quickSearch": 0,
+            "quickSearch": 1,
             "playerType": 2,
-            "timeout": 60,
-            "changeable": 0,
-            "ext": {
-            "type": "@中国新闻直播#七十二家房客第一季高清推送#七十二家房客第二季高清推送#七十二家房客第三季高清推送#七十二家房客第四季高清推送#七十二家房客第五季高清推送#七十二家房客第六季高清推送#七十二家房客第七季高清推送#七十二家房客第八季高清推送#七十二家房客第九季高清推送#七十二家房客第十季高清推送#七十二家房客第十一季高清推送#七十二家房客第十二季高清推送#七十二家房客第十三季高清推送#七十二家房客第十四季高清推送#七十二家房客第十五季高清推送#七十二家房客第十六季高清推送#七十二家房客第十七季高清推送#七十二家房客第十八季高清推送"
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#自然传奇#国家地理野生#原始部落纪录片#CCTV9记录片#荒野求生#老广一起睇#Touch电视剧#无线电视剧在线看#香港电视剧在线看#李子柒#胖子视界#香港怪谈#象棋八妹#周星驰粤语电影#粤语电影#国家地理频道#纪录片#MrBean#classic Mrbean#cartoon live#mediacorp drama#ultraman#8-hkmovie#netflix full episode#人与自然#盘点那些感人瞬间#监控下真实一幕#盘点那些#天网#一线#粤语长片#粤语记录片#tonton粤语频道#粤睇粤配粤精彩#电影#电视剧#直播#影视#演唱会#歌曲#粤剧#戏曲#音乐#8号电影院 HK MOVIE#极地探险#广东卫视你会怎么样做#广东电视#亚洲旅游台#动物星球#动物世界#粤语卡通#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#寻找他乡的故事#远方的家#游牧民族#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#记住乡愁#格斗比赛#泰拳比赛#WWE#PL科幻片#PD沙雕穿越#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#PD短剧#PL谍战剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧#课堂#舞蹈#运动"
             
-            },
-            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/pg2025.jar"
-      
+            
         },
 {
-      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
-      "key": "獨播庫",
-      "name": "獨播庫(T4)",
-      "type": 4
-      
-    },
+            "key": "油管动画",
+            "name": "油管🤡动画",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#MR BEAN#兔小贝#迪士尼经典动画#奥特曼#超级宝贝JOJO#米奇老鼠#唐老鸭#老夫子#多啦A梦#猫和老鼠#蜡笔小新#沙雕动漫#粤语卡通#米老鼠和唐老鸭#猫和老鼠#大力水手#迪士尼#米奇妙妙屋#狮子王#阿拉丁#小美人鱼#兔八哥#熊大熊二#玩具总动员#赛车总动员#史瑞克#功夫熊猫#驯龙高手#马达加斯加#神偷奶爸#宝宝巴士#萌鸡小队#七龙珠#小猪佩奇#汪汪队立大功#布鲁伊#喜羊羊与灰太狼#葫芦兄弟#秦时明月#寻梦环游记#海底总动员#变形金刚#辛普森一家#海绵宝宝#名侦探柯南#龙珠#千与千寻#美少女战士#大闹天宫#葫芦兄弟#黑猫警长#哪吒闹海#汪汪队立大功#熊出没#史酷比#瑞克和莫蒂#降世神通#樱桃小丸子#灌篮高手#天空之城#魔女宅急便#龙猫#火影忍者#海贼王#宇宙的巨人#特种部队#复仇者联盟#X战警97#蜘蛛侠#少年泰坦#超人#正义联盟#蝙蝠侠#探险活宝#怪诞小镇#格里芬一家#南方公园#超级飞侠#大头儿子小头爸爸#开心超人联盟#动画#儿童#儿歌"
+            
+            
+        },
 {
-       "key":"瓜子",
-       "name":"瓜子(T4)",
-       "type":4,
-       "api":"https://newtv.ggff.net/guazi?token=P69Phb_y"
-       
-      },
+            "key": "油管美食",
+            "name": "油管🤡美食",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#美食纪录片#寻味#舌尖上的中国#老广的味道#新疆味道#味道云南#舌尖上的广东#风味人间#寻味顺德#人生一串#早餐中国#台湾1001故事#风味原产地#CCTV纪录#民以食为天 food.adventure#china zone纪录片#腾讯视频纪录片#美食中国TastyChina#W纪录片小角落#密子君#阿胖山#温油辣辣U#中国美食纪录片#美食中国#中国美食街#美食尋味#小食光光#美食星球#我爱返寻味#美食大三通#食尚玩家#爱玩客#美食#粤菜#东北菜#火锅#烧烤#烤鱼#海鲜#津菜#川菜#湘菜#鲁菜#苏菜#闽菜#冀菜#豫菜#鄂菜#本帮菜#客家菜#赣菜#京菜#浙菜#徽菜#湘菜#凉菜#蒸菜#日料#蒸菜#点心#面食#汉堡#小吃#韩国菜#泰国菜#穆斯林菜#土耳其菜#法国菜#意大利菜#希腊菜#德国菜#西班牙菜#阿拉伯菜#伊朗菜#中亚菜#素食#糖尿病菜"
+            
+            
+        },
 {
-      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
-      "key": "歐樂影院",
-      "name": "歐樂影院(T4)",
-      "type": 4
-      
-      },
+            "key": "油管音乐",
+            "name": "油管🤡音乐",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#魏佳艺 高清mv#苏谭谭 高清mv#恋特特 高清mv#亦伊 高清mv#程响 高清mv#阿悠悠 高清mv#王一佳 高清mv#窝窝 高清mv#小璐 高清mv#曾诗涵 高清mv#彤大王 高清mv#任夏 高清mv#于冬然 高清mv#吕口口 高清mv#高跷妹 高清mv#彤大王 高清mv#曹艺馨 高清mv#莫叫姐姐 高清mv#黄静美 高清mv#蒋蕙林 高清mv#陈舒岩 高清mv#恰恰恰恰恰 高清mv#安儿陈 高清mv#思思 高清mv#媛小小 高清mv#谈柒柒 高清mv#原来是夏夏 高清mv#就是南方凯 高清mv#花姐 高清mv#李发发 高清mv#许飞 高清mv#洋澜一 高清mv#石大侠 高清mv#乔艳艳 高清mv#张茜 高清mv#雨中百合 高清mv#黑大婶 高清mv#怪阿姨 高清mv#周小双 高清mv#大璐 高清mv#影子 高清mv#大美 高清mv#林小璐 高清mv#姜雨涵 高清mv#大麦 高清mv#黄文文 高清mv#孙火火 高清mv#糖糖 高清mv#席慕阳 高清mv#金钰儿 高清mv#钰迪 高清mv#郑五米 高清mv#高丽霞 高清mv#雷佳 高清mv#田园 高清mv#孙毅然 高清mv#乔艳艳 高清mv#鱼精 高清mv#王贰浪 高清mv#马健涛 高清mv#海来阿木 高清mv#候泽润 高清mv#草原兄弟 高清mv#王超然 高清mv#文夫 高清mv#王超然 高清mv#刘阳阳 高清mv#韩小欠 高清mv#广东雨神 高清mv#大头针 高清mv#光头华夏 高清mv常超凡 高清mv#未子夫 高清mv#苏星婕 高清mv#米灵 高清mv#徐怀钰 高清mv#半根萝卜 高清mv#田娥 高清mv#王爱华 高清mv#赵梓婷 高清mv#久阳 高清mv#为善最乐 高清mv#人生 高清mv#七叔叶泽浩 高清mv#齐乐 高清mv#张冬玲 高清mv#李发 高清mv#张萨 高清mv#风语 高清mv#袁大脑袋爱嘟嘟 高清mv#王羽泽 高清mv#肖同学 高清mv#艺凌 高清mv#拾柒兄弟 高清mv#野哥 高清mv#不凌 高清mv#老范儿 高清mv#郝琪力 高清mv#要秧桓 高清mv#胡洋洋 高清mv#燕宝儿 高清mv#马良孫茜茹 高清mv#叶筱萱 高清mv#杨小仁 高清mv#大麦 高清mv#方辰 高清mv#陈雅森 高清mv#李英 高清mv#涓子 高清mv#宛清 高清mv#张崇赞 高清mv#音乐磁场 高清mv#钟瑜 高清mv#白沐兮 高清mv#龙梅子 高清mv#肖雨蒙 高清mv#小阿枫 高清mv#郝琪力 高清mv#澜瑾 高清mv#小筆鋒 高清mv#朴惠子 高清mv#凌丰 高清mv#罗丽珊 高清mv#大欢 高清mv#阿斌斌 高清mv#温奕心 高清mv#张鑫雨 高清mv#水儿 高清mv#杜天宇 高清mv#潘美辰 高清mv#张艺迈 高清mv#萌叔 高清mv#橘子妹 高清mv#刘艺雯 高清mv#李悟小礼物 高清mv#高高在这呢 高清mv#黄昭懿 高清mv#苍狼 高清mv#王琪 高清mv#伍佰 高清mv#露西卡 高清mv#柯较瘦 高清mv#烟桑船长 高清mv#金光赫 高清mv#邓紫棋 高清mv#秦好汉 高清mv#赵传 高清mv#王菲 高清mv#周华健 高清mv#王小乱 高清mv#李雨婷 高清mv#诺爷plus 高清mv#王睿卓 高清mv#王一一 高清mv#李樂樂 高清mv#孫露 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐#演唱会#DJ#MTV#MV#网红翻唱#经典老歌#抖音神曲"
+            
+            
+        },
+{
+            "key": "油管幼儿",
+            "name": "油管🤡幼儿",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#唐诗三百首#三字经#悟空识字#贝瓦儿歌#睡前故事#儿歌多多#儿童安全教育#学而思#儿歌#儿童"
+            
+            
+        },
+{
+            "key": "油管戏曲",
+            "name": "油管🤡戏曲",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#粤剧#京剧#越剧#黄梅戏#评剧#豫剧#晋剧#蒲剧#藏剧#傣剧#滇剧#黔剧#川剧#壮剧#桂剧#潮剧#祁剧#湘剧#汉剧#赣剧#闽剧#徽剧#绍剧#雁剧#吉剧#龙江剧#河南曲剧#淮剧#沪剧#婺剧#彩调#越调#武安平调#皮影戏#滑稽戏#莆仙戏#梨园戏#高甲戏#采茶戏#湖南花鼓戏#昆曲#秦腔#高腔#梆子腔#河北梆子#上党梆子#二人台#山东梆子"
+            
+            
+        },
+{
+            "key": "油管web",
+            "name": "油管🤡网页",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/web.jar",
+            "ext": "YoutubeSpider$$$PL动作片#国际中文(美洲)#8world#8tv新闻live#凤凰卫视资讯live#新唐人亚太台live#TVBS新闻台live#民視新聞台live#中天新聞台live#中視新聞台live#公視新聞台live#台視新聞台live#三立新闻台live#寰宇台湾台live#寰宇新聞台live#鏡新聞台live#东森新闻台live#东森财经台live#中国新闻直播#新闻直播live#Berita rtm live#astroawani live#astrobdq#自然传奇#国家地理野生#原始部落纪录片#CCTV9记录片#荒野求生#老广一起睇#Touch电视剧#无线电视剧在线看#香港电视剧在线看#李子柒#胖子视界#香港怪谈#象棋八妹#周星驰粤语电影#粤语电影#国家地理频道#纪录片#MrBean#classic Mrbean#cartoon live#mediacorp drama#ultraman#8-hkmovie#netflix full episode#人与自然#盘点那些感人瞬间#监控下真实一幕#盘点那些#天网#一线#粤语长片#粤语记录片#tonton粤语频道#粤睇粤配粤精彩#电影#电视剧#直播#影视#演唱会#歌曲#粤剧#戏曲#音乐#8号电影院 HK MOVIE#极地探险#广东卫视你会怎么样做#广东电视#亚洲旅游台#动物星球#动物世界#粤语卡通#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#寻找他乡的故事#远方的家#游牧民族#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#记住乡愁#格斗比赛#泰拳比赛#WWE#PL科幻片#PD沙雕穿越#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#PD短剧#PL谍战剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧#课堂#舞蹈#运动"
+
+            
+        },
+{
+            "key": "服务器油管",
+            "name": "油管🤡(T4)",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/yt/yt0021.php",
+            "playerType": 2,
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "国际中文(美洲)#8world#8tv新闻live#凤凰卫视资讯live#新唐人亚太台live#TVBS新闻台live#民視新聞台live#中天新聞台live#中視新聞台live#公視新聞台live#台視新聞台live#三立新闻台live#寰宇台湾台live#寰宇新聞台live#鏡新聞台live#东森新闻台live#东森财经台live#PL谍战剧#ZB重播"
+            
+        },
+{
+            "key": "油管外来媳妇本地郎",
+            "name": "油管🤡外来媳妇本地郎",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#外来媳妇本地郎第一季高清推送#外来媳妇本地郎第二季高清推送#外来媳妇本地郎第三季高清推送#外来媳妇本地郎第四季高清推送#外来媳妇本地郎第五季高清推送#外来媳妇本地郎第六季高清推送#外来媳妇本地郎第七季高清推送#外来媳妇本地郎第八季高清推送#外来媳妇本地郎第九季高清推送#外来媳妇本地郎第十季高清推送#外来媳妇本地郎第十一季高清推送#外来媳妇本地郎第十二季高清推送#外来媳妇本地郎第十三季高清推送#外来媳妇本地郎第十四季高清推送#外来媳妇本地郎第十五季高清推送#外来媳妇本地郎第十六季高清推送#外来媳妇本地郎第十七季高清推送#外来媳妇本地郎第十八季高清推送"
+            
+            
+        },
+{
+            "key": "油管七十二家房客",
+            "name": "油管🤡七十二家房客",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "filterable": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "YoutubeSpider$$$PL动作片#七十二家房客第一季高清推送#七十二家房客第二季高清推送#七十二家房客第三季高清推送#七十二家房客第四季高清推送#七十二家房客第五季高清推送#七十二家房客第六季高清推送#七十二家房客第七季高清推送#七十二家房客第八季高清推送#七十二家房客第九季高清推送#七十二家房客第十季高清推送#七十二家房客第十一季高清推送#七十二家房客第十二季高清推送#七十二家房客第十三季高清推送#七十二家房客第十四季高清推送#七十二家房客第十五季高清推送#七十二家房客第十六季高清推送#七十二家房客第十七季高清推送#七十二家房客第十八季高清推送"
+            
+            
+        },
+{
+            "key": "哔哩lz",
+            "name": "哔哩🅱️lz",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "playerType": 2,
+            "timeout": 30,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "Bilibili",
+            "changeable": 1
+        },
+{
+            "key": "音乐实验",
+            "name": "音乐🎤实验",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "AiTingSpider",
+            "changeable": 1
+        },
+{
+            "key": "捡的音乐",
+            "name": "捡的🎤音乐",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "Music",
+            "filterable": 1
+        },
+{
+            "key": "捡的音乐新",
+            "name": "捡的🎤新乐",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/pro.jar",
+            "ext": "Music1",
+            "filterable": 1
+            
+        }, 
 {
     "key":"愛瓜",
     "name":"愛瓜(T4)",
@@ -679,27 +873,6 @@
       "type": 3,   
       "api": "https://tvbot.dpdns.org/py_jinpai.py"
       
-      },
-{
-      "key":"小蘋果",
-      "name":"小蘋果(T4)",
-      "type":4,
-      "api":"https://newtv.ggff.net/pingguo?token=P69Phb_y"
-      
-      },
-{
-      "key":"劇霸",
-      "name":"劇霸(T4)",
-      "type":4,
-      "api":"https://newtv.ggff.net/jubaba?token=P69Phb_y"
-      
-    },
-{
-       "key":"永樂",
-       "name":"永樂(T4)",
-       "type":4,
-       "api":"https://newtv.ggff.net/yongle?token=P69Phb_y"
-       
       },
 {
        "key":"優視頻",
