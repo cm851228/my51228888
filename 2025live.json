@@ -340,17 +340,6 @@
             
         },
 {
-            "key": "哔哩lz",
-            "name": "哔哩🅱️哔哩",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "playerType": 2,
-            "timeout": 30,
-            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/googlepro.jar",
-            "ext": "Bilibili",
-            "changeable": 1
-        },
-{
             "key": "油管新闻",
             "name": "油管🤡jar",
             "type": 3,
@@ -552,6 +541,17 @@
             "ext": "Music1",
             "filterable": 1
             
+        },
+{
+            "key": "哔哩lz",
+            "name": "哔哩🅱️哔哩",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "playerType": 2,
+            "timeout": 30,
+            "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/googlepro.jar",
+            "ext": "Bilibili",
+            "changeable": 1
         },
 {
             "key": "暴风",
