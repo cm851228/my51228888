@@ -456,6 +456,18 @@
             
         },
 {
+            "key": "服务器油管",
+            "name": "油管🤡(T4)",
+            "type": 4,
+            "api": "http://zhangqun66.xyz/yt/yt0021.php",
+            "playerType": 2,
+            "timeout": 30,
+            "searchable": 1,
+            "changeable": 1,
+            "ext": "国际中文(美洲)#8world#8tv新闻live#凤凰卫视资讯live#新唐人亚太台live#TVBS新闻台live#民視新聞台live#中天新聞台live#中視新聞台live#公視新聞台live#台視新聞台live#三立新闻台live#寰宇台湾台live#寰宇新聞台live#鏡新聞台live#东森新闻台live#东森财经台live#PL谍战剧#ZB重播"
+            
+        },
+{
             "key": "服务器油管go",
             "name": "油管go🤡按油管jar激活翻译",
             "type": 4,
@@ -478,18 +490,6 @@
             "ext": {
                 "class": "DL"
             }
-        },
-{
-            "key": "服务器油管",
-            "name": "油管🤡(T4)",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/yt/yt0021.php",
-            "playerType": 2,
-            "timeout": 30,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "国际中文(美洲)#8world#8tv新闻live#凤凰卫视资讯live#新唐人亚太台live#TVBS新闻台live#民視新聞台live#中天新聞台live#中視新聞台live#公視新聞台live#台視新聞台live#三立新闻台live#寰宇台湾台live#寰宇新聞台live#鏡新聞台live#东森新闻台live#东森财经台live#PL谍战剧#ZB重播"
-            
         },
 {
             "key": "油管外来媳妇本地郎",
