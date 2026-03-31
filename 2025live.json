@@ -214,29 +214,8 @@
             
         },
 {
-      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
-      "key": "歐樂影院",
-      "name": "歐樂影院(T4)",
-      "type": 4
-      
-      },
-{
-      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
-      "key": "獨播庫",
-      "name": "獨播庫(T4)",
-      "type": 4
-      
-    },
-{
-       "key":"瓜子",
-       "name":"瓜子(T4)",
-       "type":4,
-       "api":"https://newtv.ggff.net/guazi?token=P69Phb_y"
-       
-      },
-{
             "key": "低版哔哩",
-            "name": "低清哔哩(MY)",
+            "name": "哔🅱️哩(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -253,7 +232,7 @@
         },
 {
             "key": "低版美食",
-            "name": "低清美食(MY)",
+            "name": "美🅱️食(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -271,7 +250,7 @@
         },
 {
             "key": "低版音乐",
-            "name": "低清音乐(MY)",
+            "name": "音🅱️乐(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -288,7 +267,7 @@
         },
 {
             "key": "低版儿童",
-            "name": "低清儿童(MY)",
+            "name": "儿🅱️童(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -305,7 +284,7 @@
         },
 {
             "key": "低版戏曲",
-            "name": "低清戏曲(MY)",
+            "name": "戏🅱️曲(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -323,14 +302,14 @@
         },
 {
             "key": "低版幼儿",
-            "name": "低清幼儿(MY)",
+            "name": "幼🅱️儿(MY)",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
             "playerType": 2,
             "changeable": 0,
             "ext": {
-            "type": "儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#唐诗三百首#三字经#悟空识字#贝瓦儿歌#睡前故事#儿歌多多#儿童安全教育#学而思#儿歌#儿童",
+            "type": "儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#DK图解数学动画#唐诗三百首#三字经#悟空识字#贝瓦儿歌#睡前故事#儿歌多多#儿童安全教育#学而思#儿歌#儿童",
             
             "cookie": ""
          
@@ -425,7 +404,7 @@
             "timeout": 30,
             "filterable": 1,
             "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/googlepro.jar",
-            "ext": "YoutubeSpider$$$PL动作片#儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#唐诗三百首#三字经#悟空识字#贝瓦儿歌#睡前故事#儿歌多多#儿童安全教育#学而思#儿歌#儿童"
+            "ext": "YoutubeSpider$$$PL动作片#儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#DK图解数学动画#唐诗三百首#三字经#悟空识字#贝瓦儿歌#睡前故事#儿歌多多#儿童安全教育#学而思#儿歌#儿童"
             
             
         },
@@ -544,7 +523,7 @@
         },
 {
             "key": "哔哩lz",
-            "name": "哔哩🅱️哔哩",
+            "name": "哔哩♓️哔哩",
             "type": 3,
             "api": "csp_ProxySpider",
             "playerType": 2,
@@ -552,6 +531,594 @@
             "jar": "https://github.com/cm851228/my51228888/raw/refs/heads/main/googlepro.jar",
             "ext": "Bilibili",
             "changeable": 1
+        },
+{
+            "name": "🪁杜北|秒播",
+            "key": "Dubk",
+            "type": 3,
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": "https://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/json/dubk.json"
+        },
+{
+            "name": "🥔瓜子|秒播",
+            "key": "Guazi",
+            "type": 3,
+            "api": "csp_GuaziAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": {
+                "sites": "",
+                "filters": "https://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/json/guazi.json"
+            }
+        },
+{
+            "name": "🍕欧乐|墙外",
+            "key": "Olyy",
+            "type": 3,
+            "api": "csp_OlyyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "⛵壹帆|墙外",
+            "key": "Aiyf",
+            "type": 3,
+            "api": "csp_AiyfAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🥇金牌|秒播",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🍈爱瓜|墙外",
+            "key": "AiGua",
+            "type": 3,
+            "api": "csp_AiGuaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "📹U视|墙外",
+            "key": "YouSP",
+            "type": 3,
+            "api": "csp_YouSPAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "☕韩剧|秒播",
+            "key": "Hxq",
+            "type": 3,
+            "api": "csp_HxqAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🌱春天|秒播",
+            "key": "NewGr",
+            "type": 3,
+            "api": "csp_NewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": "BG6DUQMDRsRW0hbHAYRFwFNSUoESx4PHgAPBksaHRRWXkcFLQEDFwIMCBhEXkBZVVteWx8XHEVIVT8zHlAtMRIyLDszASEtF0sAMj8ONj0BLCofKAo2PCc4ET8TQT0JFjArVzRYRVpEDRRKX1sTPx8LLwkgOCtUQBc1HAUXOC0SSiIoSU9HS1AWFhUuDANUXEYRAAQXFhAVHBYPGwcPC1NJRRUOBQwGABUtGhsWAEVIVRUBAhU4BRZUU0pJWwIYFxkEABcoCAQcAEVMRAcNBUsAEQ4YGh9JCw4VFVNJRQUfFz0YCRgGHxsACEVIVVRHXUcUDxUWBwQAGAEcVkhHVkNVSkcHABUFDwsMSl9bRktEQlVFDw=="
+        },
+{
+            "name": "🍑糖心|秒播",
+            "key": "TnewGr",
+            "type": 3,
+            "api": "csp_TnewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🎪伊外|秒播",
+            "key": "YIys",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🏆高端|2K",
+            "key": "Ddys",
+            "type": 3,
+            "api": "csp_DdysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🍿哔嘀|2K",
+            "key": "Bidys",
+            "type": 3,
+            "api": "csp_BidysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🏭厂长|2K",
+            "key": "Czzy",
+            "type": 3,
+            "api": "csp_CzzyAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "📽️LBV|2K",
+            "key": "Libvio",
+            "type": 3,
+            "api": "csp_LibvioAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "📀俩BT|2K",
+            "key": "Bttwo",
+            "type": 3,
+            "api": "csp_BttwoAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "changeable": 1
+        },
+{
+            "name": "🔥热播|秒播",
+            "key": "Rbys",
+            "type": 3,
+            "api": "csp_RbysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": "http://v.rbotv.cn"
+        },
+{
+            "name": "🎯荐片|秒播",
+            "key": "JPian",
+            "type": 3,
+            "api": "csp_JPianAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": "https://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/json/jpian.json"
+        },
+{
+            "name": "🎉Bili|合集",
+            "key": "Bili",
+            "type": 3,
+            "api": "csp_BiliAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "playerType": 2,
+            "timeout": 30,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": {
+                "json": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/json/bili.json",
+                "cookie": ""
+            }
+        },
+{
+            "name": "🎸酷狗|音乐",
+            "key": "KuGou",
+            "type": 3,
+            "api": "csp_KuGouAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "music"
+        },
+{
+            "name": "🐲嗷嗚|漫剧",
+            "key": "MjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": "comic_series"
+        },
+{
+            "name": "😈嗷嗚|短剧",
+            "key": "DjHggg",
+            "type": 3,
+            "api": "csp_HgggAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "ext": "short_play"
+        },
+{
+            "name": "🍭豪堪|短剧",
+            "key": "HHkk",
+            "type": 3,
+            "api": "csp_HHkkAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "🛸盒马|短剧",
+            "key": "Hema",
+            "type": 3,
+            "api": "csp_HemaAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "🧸拜拜|短剧",
+            "key": "Bddj",
+            "type": 3,
+            "api": "csp_BddjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "🎀围观|短剧",
+            "key": "Wgdj",
+            "type": 3,
+            "api": "csp_WgdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "🐠锦鲤|短剧",
+            "key": "JLdj",
+            "type": 3,
+            "api": "csp_JLdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "🍩甜圈|短剧",
+            "key": "TQdj",
+            "type": 3,
+            "api": "csp_TQdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "🐱喵喵|短剧",
+            "key": "Qmdj",
+            "type": 3,
+            "api": "csp_QmdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "⭐星星|短剧",
+            "key": "Xydj",
+            "type": 3,
+            "api": "csp_XydjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "name": "🎂岁岁|短剧",
+            "key": "Spdj",
+            "type": 3,
+            "api": "csp_SpdjAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://github.com/JJBJJ/FreeSpider/raw/refs/heads/master/bfdb--cvdvds.png",
+            "genre": "shortdrama"
+        },
+{
+            "key": "🐇剧王|短剧",
+            "name": "🐇剧王|短剧",
+            "type": 3,
+            "api": "http://git.yylx.win/raw.githubusercontent.com/PizazzGY/NewTVBox/main/movie/py/JWDJ.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
+            "key": "短剧云",
+            "name": "🍁短剧云",
+            "api": "http://api.wwzy.tv/api.php/provide/vod/?ac=list",
+            "type": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "短剧"
+      
+            ]
+        },
+{
+            "key": "苹果(fan)",
+            "name": "苹果(fan)",
+            "type": 3,
+            "api": "csp_LiteAppleGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "文采(fan)",
+            "name": "文采(fan)",
+            "type": 3,
+            "api": "csp_JpysGuard",
+            "timeout": 30,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "剧圈(fan)",
+            "name": "剧圈(fan)",
+            "type": 3,
+            "api": "csp_JqqGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "糯米(fan)",
+            "name": "糯米(fan)",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "奥特(fan)",
+            "name": "奥特(fan)",
+            "type": 3,
+            "api": "csp_AueteGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "原创(fan)",
+            "name": "原创(fan)",
+            "type": 3,
+            "api": "csp_YCyzGuard",
+            "timeout": 30,
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "比特(fan)",
+            "name": "比特(fan)",
+            "type": 3,
+            "api": "csp_BttwooGuard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "Dm84(fan)",
+            "name": "巴士动漫(fan)",
+            "type": 3,
+            "api": "csp_Dm84Guard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "Anime1(fan)",
+            "name": "日本动漫(fan)",
+            "type": 3,
+            "api": "csp_Anime1Guard",
+            "timeout": 30,
+            "searchable": 1,
+            "quickSearch": 1,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 1
+        },
+{
+            "key": "88(fan)",
+            "name": "⚽88看球(fan)",
+            "type": 3,
+            "api": "csp_Sir88Guard",
+            "timeout": 30,
+            "searchable": 0,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "changeable": 0
+      
+        },
+{
+            "key": "MTV(fan)",
+            "name": "明星MV(fan)",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "ext": {
+                "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
+            }
+        }, 
+{
+            "key": "Bili(fan)",
+            "name": "哔哔合集(fan)",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "ext": {
+                "json": "https://nos.netease.com/ysf/0075389dca9afadd4614e9713765ff17.txt"
+            }
+        },
+{
+            "key": "Biliych(fan)",
+            "name": "哔哔演唱会(fan)",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 1,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "ext": {
+                "json": "https://nos.netease.com/ysf/6496356286589c68f52c2f99c0c674c7.txt"
+            }
+        },
+        {
+            "key": "dr_兔小贝(fan)",
+            "name": "兔小贝(fan)",
+            "type": 3,
+            "api": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "ext": "https://git.yylx.win/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "changeable": 0
+        },
+{
+            "key": "少儿教育(fan)",
+            "name": "少儿教育(fan)",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "ext": {
+                "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
+            }
+        },
+{
+            "key": "小学课堂(fan)",
+            "name": "小学课堂(fan)",
+            "type": 3,
+            "api": "csp_BiliGuard",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "timeout": 30,
+            "playerType": 2,
+            "jar": "http://github.com/cm851228/my51228888/raw/refs/heads/main/fan.jar",
+            "ext": {
+                "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
+            }
         },
 {
             "key": "暴风",
@@ -854,85 +1421,6 @@
             ]
         },
 {
-            "key": "高版哔哩",
-            "name": "高清哔哩(FM)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "playerType": 2,
-            "changeable": 0,
-            "ext": {
-            "type": "自然传奇#美食#国家地理野生#原始部落纪录片#荒野求生#粤语记录片#CCTV9记录片#纪录片#游牧民族#天网#一线#粤剧#舌尖上的中国#老廣的味道#风味人间#人生一串#早餐中国#风味原产地#美食尋味#小食光光#李子柒#阿胖山#温油辣辣U#密子君#美食星球#亚洲旅游台#动物星球#动物世界#我爱返寻味#美食大三通#食尚玩家#爱玩客#国家地理频道#探索频道求生纪录片#人与自然#香港怪谈#粤语长片#粤睇粤配粤精彩#粤语配音#搞笑#盘点那些感人瞬间#监控下真实一幕#盘点那些#生活#动物圈#极地探险#广东卫视你会怎么样做#广东电视#远方的家#我的鄉村生活#鄉村生活家#记住乡愁#寻找他乡的故事#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#真实事件改编#外来媳妇本地郎#七十二家房客#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#戏曲#音乐#4K#娱乐#知识#科技#鬼畜#影视#电影#电视剧#直播#课堂#舞蹈#运动#时尚#相声小品",
-            
-            "cookie": ""
-            
-            },
-            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-            
-        },
-{
-            "key": "高版儿童",
-            "name": "高清儿童(FM)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "playerType": 2,
-            "changeable": 0,
-            "ext": {
-            "type": "MR BEAN#兔小贝#迪士尼经典动画#奥特曼#超级宝贝JOJO#米奇老鼠#唐老鸭#老夫子#多啦A梦#猫和老鼠#蜡笔小新#沙雕动漫#粤语卡通#米老鼠和唐老鸭#猫和老鼠#大力水手#迪士尼#米奇妙妙屋#狮子王#阿拉丁#小美人鱼#兔八哥#熊大熊二#动画#儿歌#儿童#唐诗三百首#三字经#悟空识字#学而思#玩具总动员#赛车总动员#史瑞克#功夫熊猫#驯龙高手#马达加斯加#神偷奶爸#宝宝巴士#萌鸡小队#七龙珠#小猪佩奇#汪汪队立大功#布鲁伊#喜羊羊与灰太狼#葫芦兄弟#秦时明月#寻梦环游记#海底总动员#变形金刚#辛普森一家#海绵宝宝#名侦探柯南#龙珠#千与千寻#美少女战士#大闹天宫#葫芦兄弟#黑猫警长#哪吒闹海#汪汪队立大功#熊出没#史酷比#瑞克和莫蒂#降世神通#樱桃小丸子#灌篮高手#天空之城#魔女宅急便#龙猫#火影忍者#海贼王#宇宙的巨人#特种部队#复仇者联盟#X战警97#蜘蛛侠#少年泰坦#超人#正义联盟#蝙蝠侠#探险活宝#怪诞小镇#格里芬一家#南方公园#超级飞侠#大头儿子小头爸爸#开心超人联盟",
-        
-                "cookie": ""
-                  
-            },
-            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-            
-        },
-{
-            "key": "高版音乐",
-            "name": "高清音乐(FM)",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 1,
-            "changeable": 0,
-            "playerType": 2,
-            "ext": {
-            "type": "魏佳艺 高清mv#苏谭谭 高清mv#恋特特 高清mv#亦伊 高清mv#程响 高清mv#阿悠悠 高清mv#王一佳 高清mv#窝窝 高清mv#小璐 高清mv#曾诗涵 高清mv#彤大王 高清mv#任夏 高清mv#于冬然 高清mv#吕口口 高清mv#高跷妹 高清mv#彤大王 高清mv#曹艺馨 高清mv#莫叫姐姐 高清mv#黄静美 高清mv#蒋蕙林 高清mv#陈舒岩 高清mv#恰恰恰恰恰 高清mv#安儿陈 高清mv#思思 高清mv#媛小小 高清mv#谈柒柒 高清mv#原来是夏夏 高清mv#就是南方凯 高清mv#花姐 高清mv#李发发 高清mv#许飞 高清mv#洋澜一 高清mv#石大侠 高清mv#乔艳艳 高清mv#张茜 高清mv#雨中百合 高清mv#黑大婶 高清mv#怪阿姨 高清mv#周小双 高清mv#大璐 高清mv#影子 高清mv#大美 高清mv#林小璐 高清mv#姜雨涵 高清mv#大麦 高清mv#黄文文 高清mv#孙火火 高清mv#糖糖 高清mv#席慕阳 高清mv#金钰儿 高清mv#钰迪 高清mv#郑五米 高清mv#高丽霞 高清mv#雷佳 高清mv#田园 高清mv#孙毅然 高清mv#乔艳艳 高清mv#鱼精 高清mv#王贰浪 高清mv#马健涛 高清mv#海来阿木 高清mv#候泽润 高清mv#草原兄弟 高清mv#王超然 高清mv#文夫 高清mv#王超然 高清mv#刘阳阳 高清mv#韩小欠 高清mv#广东雨神 高清mv#大头针 高清mv#光头华夏 高清mv常超凡 高清mv#未子夫 高清mv#苏星婕 高清mv#米灵 高清mv#徐怀钰 高清mv#半根萝卜 高清mv#田娥 高清mv#王爱华 高清mv#赵梓婷 高清mv#久阳 高清mv#为善最乐 高清mv#人生 高清mv#七叔叶泽浩 高清mv#齐乐 高清mv#张冬玲 高清mv#李发 高清mv#张萨 高清mv#风语 高清mv#袁大脑袋爱嘟嘟 高清mv#王羽泽 高清mv#肖同学 高清mv#艺凌 高清mv#拾柒兄弟 高清mv#野哥 高清mv#不凌 高清mv#老范儿 高清mv#郝琪力 高清mv#要秧桓 高清mv#胡洋洋 高清mv#燕宝儿 高清mv#马良孫茜茹 高清mv#叶筱萱 高清mv#杨小仁 高清mv#大麦 高清mv#方辰 高清mv#陈雅森 高清mv#李英 高清mv#涓子 高清mv#宛清 高清mv#张崇赞 高清mv#音乐磁场 高清mv#钟瑜 高清mv#白沐兮 高清mv#龙梅子 高清mv#肖雨蒙 高清mv#小阿枫 高清mv#郝琪力 高清mv#澜瑾 高清mv#小筆鋒 高清mv#朴惠子 高清mv#凌丰 高清mv#罗丽珊 高清mv#大欢 高清mv#阿斌斌 高清mv#温奕心 高清mv#张鑫雨 高清mv#水儿 高清mv#杜天宇 高清mv#潘美辰 高清mv#张艺迈 高清mv#萌叔 高清mv#橘子妹 高清mv#刘艺雯 高清mv#李悟小礼物 高清mv#高高在这呢 高清mv#黄昭懿 高清mv#苍狼 高清mv#王琪 高清mv#伍佰 高清mv#露西卡 高清mv#柯较瘦 高清mv#烟桑船长 高清mv#金光赫 高清mv#邓紫棋 高清mv#秦好汉 高清mv#赵传 高清mv#王菲 高清mv#周华健 高清mv#王小乱 高清mv#李雨婷 高清mv#诺爷plus 高清mv#王睿卓 高清mv#王一一 高清mv#李樂樂 高清mv#孫露 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐",
-            
-            "cookie": ""
-         
-            },
-            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
-            
-        },
-{
-    "key":"愛瓜",
-    "name":"愛瓜(T4)",
-    "type":4,
-    "api":"https://newtv.ggff.net/aigua?token=P69Phb_y"
-    
-      },
-{
-      "key": "金牌影院",
-      "name": "金牌影院(T4)",
-      "type": 3,   
-      "api": "https://tvbot.dpdns.org/py_jinpai.py"
-      
-      },
-{
-       "key":"優視頻",
-       "name":"優視頻(T4)",
-       "type":4,
-       "api":"https://newtv.ggff.net/uvod?token=P69Phb_y"
-       
-      }, 
-{
-      "api": "https://newtv.ggff.net/jianpian?token=P69Phb_y",
-      "key": "荐片",
-      "name": "荐片(T4)",
-      "type": 4
-      
-      },
-{
       "key": "无水印采集",
       "name": "水印云",
       "type": 1,
@@ -1157,6 +1645,113 @@
             "changeable": 1,
             "quickSearch": 1,
             "filterable": 1
+            
+        },
+{
+            "key": "高版哔哩",
+            "name": "哔哩🅱️(FM)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "playerType": 2,
+            "changeable": 0,
+            "ext": {
+            "type": "自然传奇#国家地理野生#原始部落纪录片#荒野求生#粤语记录片#CCTV9记录片#纪录片#人与自然#游牧民族#天网#一线#外来媳妇本地郎#七十二家房客#亚洲旅游台#动物星球#国家地理频道#探索频道求生纪录片#动物世界#香港怪谈#粤语长片#粤睇粤配粤精彩#粤语配音#搞笑#盘点那些感人瞬间#监控下真实一幕#盘点那些#生活#动物圈#极地探险#广东卫视你会怎么样做#广东电视#远方的家#我的鄉村生活#鄉村生活家#记住乡愁#寻找他乡的故事#奇聞#未解之謎#奇闻异事#古墓鉴史#奇闻逸事#神秘事件#真实事件改编#广东广播电视台#广东珠江频道#广东大湾区卫视#央视#卫视#娱乐#知识#科技#鬼畜#影视#电影#电视剧#直播#课堂#舞蹈#运动#时尚",
+            
+            "cookie": ""
+            
+            },
+            
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
+        },
+{
+            "key": "高版美食",
+            "name": "美食🅱️(FM)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "playerType": 2,
+            "changeable": 0,
+            "ext": {
+            "type": "美食纪录片#寻味#舌尖上的中国#老广的味道#新疆味道#味道云南#舌尖上的广东#风味人间#寻味顺德#人生一串#早餐中国#台湾1001故事#风味原产地#密子君#阿胖山#温油辣辣U#中国美食纪录片#美食中国#中国美食街#美食尋味#小食光光#美食星球#我爱返寻味#美食大三通#食尚玩家#爱玩客#美食#粤菜#东北菜#火锅#烧烤#烤鱼#海鲜#津菜#川菜#湘菜#鲁菜#苏菜#闽菜#冀菜#豫菜#鄂菜#本帮菜#客家菜#赣菜#京菜#浙菜#徽菜#湘菜#凉菜#蒸菜#日料#蒸菜#点心#面食#汉堡#小吃#韩国菜#泰国菜#穆斯林菜#土耳其菜#法国菜#意大利菜#希腊菜#德国菜#西班牙菜#阿拉伯菜#伊朗菜#中亚菜#素食#糖尿病菜",
+         
+            "cookie": ""
+            
+            },
+            
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
+        },
+{
+            "key": "高版音乐",
+            "name": "音乐🅱️(FM)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "changeable": 0,
+            "playerType": 2,
+            "ext": {
+            "type": "魏佳艺 高清mv#苏谭谭 高清mv#恋特特 高清mv#亦伊 高清mv#程响 高清mv#阿悠悠 高清mv#王一佳 高清mv#窝窝 高清mv#小璐 高清mv#曾诗涵 高清mv#彤大王 高清mv#任夏 高清mv#于冬然 高清mv#吕口口 高清mv#高跷妹 高清mv#彤大王 高清mv#曹艺馨 高清mv#莫叫姐姐 高清mv#黄静美 高清mv#蒋蕙林 高清mv#陈舒岩 高清mv#恰恰恰恰恰 高清mv#安儿陈 高清mv#思思 高清mv#媛小小 高清mv#谈柒柒 高清mv#原来是夏夏 高清mv#就是南方凯 高清mv#花姐 高清mv#李发发 高清mv#许飞 高清mv#洋澜一 高清mv#石大侠 高清mv#乔艳艳 高清mv#张茜 高清mv#雨中百合 高清mv#黑大婶 高清mv#怪阿姨 高清mv#周小双 高清mv#大璐 高清mv#影子 高清mv#大美 高清mv#林小璐 高清mv#姜雨涵 高清mv#大麦 高清mv#黄文文 高清mv#孙火火 高清mv#糖糖 高清mv#席慕阳 高清mv#金钰儿 高清mv#钰迪 高清mv#郑五米 高清mv#高丽霞 高清mv#雷佳 高清mv#田园 高清mv#孙毅然 高清mv#乔艳艳 高清mv#鱼精 高清mv#王贰浪 高清mv#马健涛 高清mv#海来阿木 高清mv#候泽润 高清mv#草原兄弟 高清mv#王超然 高清mv#文夫 高清mv#王超然 高清mv#刘阳阳 高清mv#韩小欠 高清mv#广东雨神 高清mv#大头针 高清mv#光头华夏 高清mv常超凡 高清mv#未子夫 高清mv#苏星婕 高清mv#米灵 高清mv#徐怀钰 高清mv#半根萝卜 高清mv#田娥 高清mv#王爱华 高清mv#赵梓婷 高清mv#久阳 高清mv#为善最乐 高清mv#人生 高清mv#七叔叶泽浩 高清mv#齐乐 高清mv#张冬玲 高清mv#李发 高清mv#张萨 高清mv#风语 高清mv#袁大脑袋爱嘟嘟 高清mv#王羽泽 高清mv#肖同学 高清mv#艺凌 高清mv#拾柒兄弟 高清mv#野哥 高清mv#不凌 高清mv#老范儿 高清mv#郝琪力 高清mv#要秧桓 高清mv#胡洋洋 高清mv#燕宝儿 高清mv#马良孫茜茹 高清mv#叶筱萱 高清mv#杨小仁 高清mv#大麦 高清mv#方辰 高清mv#陈雅森 高清mv#李英 高清mv#涓子 高清mv#宛清 高清mv#张崇赞 高清mv#音乐磁场 高清mv#钟瑜 高清mv#白沐兮 高清mv#龙梅子 高清mv#肖雨蒙 高清mv#小阿枫 高清mv#郝琪力 高清mv#澜瑾 高清mv#小筆鋒 高清mv#朴惠子 高清mv#凌丰 高清mv#罗丽珊 高清mv#大欢 高清mv#阿斌斌 高清mv#温奕心 高清mv#张鑫雨 高清mv#水儿 高清mv#杜天宇 高清mv#潘美辰 高清mv#张艺迈 高清mv#萌叔 高清mv#橘子妹 高清mv#刘艺雯 高清mv#李悟小礼物 高清mv#高高在这呢 高清mv#黄昭懿 高清mv#苍狼 高清mv#王琪 高清mv#伍佰 高清mv#露西卡 高清mv#柯较瘦 高清mv#烟桑船长 高清mv#金光赫 高清mv#邓紫棋 高清mv#秦好汉 高清mv#赵传 高清mv#王菲 高清mv#周华健 高清mv#王小乱 高清mv#李雨婷 高清mv#诺爷plus 高清mv#王睿卓 高清mv#王一一 高清mv#李樂樂 高清mv#孫露 高清mv#孫燕姿 高清mv#许美静 高清mv#凤凰传奇 高清mv#刀郎 高清mv#谭咏麟 高清mv#王菲 高清mv#周华健 高清mv#Beyond 高清mv#周杰伦 高清mv#Michael Jacsonk 高清mv#儿歌 高清mv#新歌上线#酷尚音乐#音乐私藏馆#音乐 高清mv#音乐#演唱会#DJ#MTV#MV#网红翻唱#经典老歌#抖音神曲",
+           
+            "cookie": ""
+         
+            },
+            
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
+        },
+{
+            "key": "高版动画",
+            "name": "动画🅱️(FM)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "playerType": 2,
+            "changeable": 0,
+            "ext": {
+            "type": "MR BEAN#兔小贝#迪士尼经典动画#奥特曼#超级宝贝JOJO#米奇老鼠#唐老鸭#老夫子#多啦A梦#猫和老鼠#蜡笔小新#沙雕动漫#粤语卡通#米老鼠和唐老鸭#猫和老鼠#大力水手#迪士尼#米奇妙妙屋#狮子王#阿拉丁#小美人鱼#兔八哥#熊大熊二#玩具总动员#赛车总动员#史瑞克#功夫熊猫#驯龙高手#马达加斯加#神偷奶爸#宝宝巴士#萌鸡小队#七龙珠#小猪佩奇#汪汪队立大功#布鲁伊#喜羊羊与灰太狼#葫芦兄弟#秦时明月#寻梦环游记#海底总动员#变形金刚#辛普森一家#海绵宝宝#名侦探柯南#龙珠#千与千寻#美少女战士#大闹天宫#葫芦兄弟#黑猫警长#哪吒闹海#汪汪队立大功#熊出没#史酷比#瑞克和莫蒂#降世神通#樱桃小丸子#灌篮高手#天空之城#魔女宅急便#龙猫#火影忍者#海贼王#宇宙的巨人#特种部队#复仇者联盟#X战警97#蜘蛛侠#少年泰坦#超人#正义联盟#蝙蝠侠#探险活宝#怪诞小镇#格里芬一家#南方公园#超级飞侠#大头儿子小头爸爸#开心超人联盟#动画#儿童#儿歌",
+            
+                "cookie": ""
+                  
+            },
+            
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
+        },
+{
+            "key": "高版戏曲",
+            "name": "戏曲🅱️(FM)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "playerType": 2,
+            "changeable": 0,
+            "ext": {
+            "type": "粤剧#京剧#越剧#黄梅戏#评剧#豫剧#晋剧#蒲剧#藏剧#傣剧#滇剧#黔剧#川剧#壮剧#桂剧#潮剧#祁剧#湘剧#汉剧#赣剧#闽剧#徽剧#绍剧#雁剧#吉剧#龙江剧#河南曲剧#淮剧#沪剧#婺剧#彩调#越调#武安平调#皮影戏#滑稽戏#莆仙戏#梨园戏#高甲戏#采茶戏#湖南花鼓戏#昆曲#秦腔#高腔#梆子腔#河北梆子#上党梆子#二人台#山东梆子",
+            
+            "cookie": ""
+            
+            },
+            
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
+        },
+{
+            "key": "高版幼儿",
+            "name": "幼儿🅱️(FM)",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "playerType": 2,
+            "changeable": 0,
+            "ext": {
+            "type": "儿童故事#儿童双语启蒙教学#儿童英语启蒙动画片#儿童早教#儿童数学#儿童动画#儿童电影#儿童歌曲#儿童益智动画片#儿童数字思维启蒙#儿童科普记录片#儿童益智早教#儿童益智记录片#儿童启蒙故事#儿童玩具#儿童绘画#儿童音乐#儿童安全教育#儿童益智工程车#DK图解数学动画#唐诗三百首#三字经#悟空识字#贝瓦儿歌#睡前故事#儿歌多多#儿童安全教育#学而思#儿歌#儿童",
+            
+            "cookie": ""
+            
+            },
+            "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
             
         },
 {
