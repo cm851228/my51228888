@@ -319,6 +319,48 @@
             
         },
 {
+      "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
+      "key": "獨播庫",
+      "name": "獨播庫(T4)",
+      "type": 4
+      
+    },
+{
+       "key":"瓜子",
+       "name":"瓜子(T4)",
+       "type":4,
+       "api":"https://newtv.ggff.net/guazi?token=P69Phb_y"
+       
+      },
+{
+      "api": "https://newtv.ggff.net/oule?token=P69Phb_y",
+      "key": "歐樂影院",
+      "name": "歐樂影院(T4)",
+      "type": 4
+      
+      },
+{
+    "key":"愛瓜",
+    "name":"愛瓜(T4)",
+    "type":4,
+    "api":"https://newtv.ggff.net/aigua?token=P69Phb_y"
+    
+      },
+{
+       "key":"優視頻",
+       "name":"優視頻(T4)",
+       "type":4,
+       "api":"https://newtv.ggff.net/uvod?token=P69Phb_y"
+       
+      }, 
+{
+      "api": "https://newtv.ggff.net/jianpian?token=P69Phb_y",
+      "key": "荐片",
+      "name": "荐片(T4)",
+      "type": 4
+      
+      },
+{
             "key": "油管新闻",
             "name": "油管🤡jar",
             "type": 3,
@@ -424,18 +466,6 @@
             
         },
 {
-            "key": "服务器油管",
-            "name": "油管🤡(T4)",
-            "type": 4,
-            "api": "http://zhangqun66.xyz/yt/yt0021.php",
-            "playerType": 2,
-            "timeout": 30,
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "国际中文(美洲)#8world#8tv新闻live#凤凰卫视资讯live#新唐人亚太台live#TVBS新闻台live#民視新聞台live#中天新聞台live#中視新聞台live#公視新聞台live#台視新聞台live#三立新闻台live#寰宇台湾台live#寰宇新聞台live#鏡新聞台live#东森新闻台live#东森财经台live#PL谍战剧#ZB重播"
-            
-        },
-{
             "key": "服务器油管go",
             "name": "油管go🤡按油管jar激活翻译",
             "type": 4,
@@ -445,19 +475,6 @@
             "jar": "https://f004.backblazeb2.com/file/2023228/googlepro.jar",
             "searchable": 1,
             "changeable": 1
-        },
-{
-            "key": "油管代理",
-            "name": "按油管jar激活🤡翻译手机",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "playerType": 2,
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023228/googlepro.jar",
-            "changeable": 1,
-            "ext": {
-                "class": "DL"
-            }
         },
 {
             "key": "油管外来媳妇本地郎",
@@ -1157,74 +1174,6 @@
             ]
         },
 {
-            "key": "曾采集聚合",
-            "name": "采集聚合(T4)",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/cj/cjjh.php",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
-            
-        },
-{
-            "key": "曾PY聚合",
-            "name": "PY聚合(T4)",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/py.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1
-       
-        },        
-{
-            "key": "曾JS聚合",
-            "name": "JS聚合(T4)",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/js.php",
-            "playerType": 2,
-            "searchable": 1,
-            "changeable": 1
-            
-        },
-{
-            "key": "曾PHP聚合",
-            "name": "PHP聚合(T4)",
-            "type": 4,
-            "api": "http://zhangqun1818.serv00.net/php.php",
-            "searchable": 1,
-            "quickSearch": 1,
-            "playerType": 2,
-            "filterable": 1
-        },
-{
-            "key": "T4-caiji",
-            "name": "影视-采集(T4)",
-            "type": 4,
-            "api": "http://catbox.n13.club/t9/caiji.php"
-        },
-{
-            "key": "T4-blh",
-            "name": "贝乐虎-儿歌(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "http://catbox.n13.club/t9/beilehu.php"
-        },
-{
-            "key": "T4-cctv",
-            "name": "其他-央视cctv(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "http://catbox.n13.club/t9/cctv.php"
-        },
-{
-            "key": "T4-cntv",
-            "name": "其他-央视cntv(T4)",
-            "type": 4,
-            "playerType": 2,
-            "api": "http://catbox.n13.club/t9/cntv.php"
-        },
-{
             "key": "电影天堂",
             "name": "天堂云",
             "type": 1,
@@ -1376,47 +1325,6 @@
                 "国产动画",
                 "日韩动画",
                 "欧美动画",
-                "体育赛事"
-            ]
-        },
-{
-            "key": "非凡",
-            "name": "️非凡云",
-            "type": 1,
-            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "香港剧",
-                "国产剧",
-                "台湾剧",
-                "泰国剧",
-                "韩剧",
-                "日本剧",
-                "美国剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "纪录片",
-                "动画片",
-                "悬疑片",
-                "犯罪片",
-                "奇幻片",
-                "港台综艺",
-                "大陆综艺",
-                "欧美综艺",
-                "日韩综艺",
-                "港台动画",
-                "国产动画",
-                "日韩动画",
-                "欧美动画",
-                "海外动画",
                 "体育赛事"
             ]
         },
@@ -1637,17 +1545,6 @@
             "timeout": 60
         },
 {
-            "key": "modu",
-            "name": "动漫云",
-            "type": 1,
-            "api": "http://www.moduzy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            
-        },
-{
             "key": "高版哔哩",
             "name": "哔哩🅱️(FM)",
             "type": 3,
@@ -1752,6 +1649,58 @@
             
             },
             "jar": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"
+            
+        },
+{
+            "key": "非凡",
+            "name": "️非凡云",
+            "type": 1,
+            "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "香港剧",
+                "国产剧",
+                "台湾剧",
+                "泰国剧",
+                "韩剧",
+                "日本剧",
+                "美国剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "纪录片",
+                "动画片",
+                "悬疑片",
+                "犯罪片",
+                "奇幻片",
+                "港台综艺",
+                "大陆综艺",
+                "欧美综艺",
+                "日韩综艺",
+                "港台动画",
+                "国产动画",
+                "日韩动画",
+                "欧美动画",
+                "海外动画",
+                "体育赛事"
+            ]
+        },
+{
+            "key": "modu",
+            "name": "动漫云",
+            "type": 1,
+            "api": "http://www.moduzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
             
         },
 {
