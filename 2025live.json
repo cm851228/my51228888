@@ -112,6 +112,15 @@
             "playerType": 2
         },
 {
+            "name": "aptv直播",
+            "type": 0,
+            "ua": "AptvPlayer/1.0",
+            "timeout": 30,
+            "playerType": 1,
+            "url": "http://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
+            
+        },
+{
             "name": "TVMU",
             "type": 0,
             "url": "http://bit.ly/tvmu",
