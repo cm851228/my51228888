@@ -19,14 +19,6 @@
             "playerType": 2
         },
 {
-            "name": "SmartTV直播",
-            "type": 0,
-            "url": "https://f004.backblazeb2.com/file/2023228/SmartTV.txt",
-            "ua": "okhttp",
-            "timeout": 30
-        
-        },
-{
             "name": "CAT直播",
             "type": 0,
             "ua": "okhttp",
