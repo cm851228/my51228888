@@ -27,7 +27,15 @@
             "playerType": 2
         },
 {
-            "name": "smartTV",
+            "name": "SMARTtv",
+            "type": 0,
+            "url": "http://xclasvgas.sylu.net:8080/smt.php",
+            "ua": "okhttp",
+            "timeout": 30
+      
+        },
+{
+            "name": "123TV",
             "url": "http://tv.anbox.ip-ddns.com/live7",
             "ua": "okhttp",
             "timeout": 30,
