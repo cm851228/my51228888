@@ -374,6 +374,39 @@
             
         },
 {
+            "key": "EXO转点播",
+            "name": "硬解☣️直播",
+            "type": 3,
+            "searchable": 0,
+            "playerType": 2,
+            "timeout": 30,
+            "api": "https://f004.backblazeb2.com/file/2023228/live1vod.js",
+            "ext": "https://f004.backblazeb2.com/file/2023228/feimaolive1.json"
+            
+        },
+{
+            "key": "IJK转点播",
+            "name": "软解☣️直播",
+            "type": 3,
+            "playerType": 1,
+            "searchable": 0,
+            "timeout": 30,
+            "api": "https://f004.backblazeb2.com/file/2023228/live1vod.js",
+            "ext": "https://f004.backblazeb2.com/file/2023228/feimaolive1.json"
+            
+        },
+{
+            "key": "哔哩lz",
+            "name": "哔哩♓️哔哩",
+            "type": 3,
+            "api": "csp_ProxySpider",
+            "playerType": 2,
+            "timeout": 30,
+            "jar": "https://f004.backblazeb2.com/file/2023228/googlepro.jar",
+            "ext": "Bilibili",
+            "changeable": 1
+        },
+{
       "api": "https://newtv.ggff.net/duboku?token=P69Phb_y",
       "key": "獨播庫",
       "name": "獨播庫(T4)",
@@ -592,17 +625,6 @@
             "ext": "Music1",
             "filterable": 1
             
-        },
-{
-            "key": "哔哩lz",
-            "name": "哔哩♓️哔哩",
-            "type": 3,
-            "api": "csp_ProxySpider",
-            "playerType": 2,
-            "timeout": 30,
-            "jar": "https://f004.backblazeb2.com/file/2023228/googlepro.jar",
-            "ext": "Bilibili",
-            "changeable": 1
         },
 {
             "name": "🪁杜北|秒播",
@@ -1500,6 +1522,17 @@
             
         },
 {
+            "key": "modu",
+            "name": "动漫云",
+            "type": 1,
+            "api": "http://www.moduzy.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+            
+        },
+{
             "key": "ikanbotjs",
             "name": "ikanbot(js)",
             "type": 3,
@@ -1759,17 +1792,6 @@
                 "海外动画",
                 "体育赛事"
             ]
-        },
-{
-            "key": "modu",
-            "name": "动漫云",
-            "type": 1,
-            "api": "http://www.moduzy.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "changeable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-            
         },
 {
             "key": "优质云",
