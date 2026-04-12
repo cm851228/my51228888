@@ -27,14 +27,6 @@
             "playerType": 2
         },
 {
-            "name": "SMARTtv",
-            "type": 0,
-            "url": "http://xclasvgas.sylu.net:8080/smt.php",
-            "ua": "okhttp",
-            "timeout": 30
-      
-        },
-{
             "name": "123TV",
             "url": "http://tv.anbox.ip-ddns.com/live7",
             "ua": "okhttp",
@@ -51,8 +43,17 @@
       
         },
 {
-            "name": "华哥TV",
-            "url": "http://tv.anbox.ip-ddns.com/live12",
+            "name": "SMARTtv",
+            "type": 0,
+            "url": "http://xclasvgas.sylu.net:8080/smt.php",
+            "ua": "okhttp",
+            "playerType": 2,
+            "timeout": 30
+      
+        },
+{
+            "name": "斯马特",
+            "url": "http://tv.anbox.ip-ddns.com/live14",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
@@ -60,6 +61,13 @@
 {
             "name": "港澳TV",
             "url": "http://tv.anbox.ip-ddns.com/live19",
+            "ua": "okhttp",
+            "timeout": 30,
+            "playerType": 2
+        },
+{
+            "name": "华哥TV",
+            "url": "http://tv.anbox.ip-ddns.com/live12",
             "ua": "okhttp",
             "timeout": 30,
             "playerType": 2
