@@ -375,7 +375,7 @@
         },
 {
             "key": "EXO转点播",
-            "name": "硬解☣️直播",
+            "name": "线更☣️直播",
             "type": 3,
             "searchable": 0,
             "playerType": 2,
@@ -385,14 +385,14 @@
             
         },
 {
-            "key": "IJK转点播",
-            "name": "软解☣️直播",
+            "key": "软解转点播",
+            "name": "线更📺新剧",
             "type": 3,
-            "playerType": 1,
             "searchable": 0,
+            "playerType": 1,
             "timeout": 30,
-            "api": "https://f004.backblazeb2.com/file/2023228/live1vod.js",
-            "ext": "https://f004.backblazeb2.com/file/2023228/feimaolive1.json"
+            "api": "https://f004.backblazeb2.com/file/2023228/live2vod.js",
+            "ext": "https://github.com/cm851228/my51228888/raw/refs/heads/main/feimaolivegh.json"
             
         },
 {
