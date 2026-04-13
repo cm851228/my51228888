@@ -1,30 +1,158 @@
-职不值得,#genre#
-职不值得 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5r9eugyq/v/11/pv/1/ev/16/flavorId/1_rpvwqvbh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9nbgvyug/v/11/pv/1/ev/16/flavorId/1_skgq5t7i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9nbgvyug/v/11/pv/1/ev/16/flavorId/1_skgq5t7i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_99dxwgos/v/11/pv/1/ev/16/flavorId/1_a2ic598a/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_99dxwgos/v/11/pv/1/ev/16/flavorId/1_a2ic598a/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_o1id27n7/v/11/pv/1/ev/16/flavorId/1_2304bgr6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_epdtvsd5/v/11/pv/1/ev/16/flavorId/1_0ntedb1x/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lq2bhre5/v/11/pv/1/ev/16/flavorId/1_rp19pufn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5fjeypk2/v/11/pv/1/ev/16/flavorId/1_qf0w40rl/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_mfz17i7q/v/11/pv/1/ev/16/flavorId/1_kjej635v/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nayf5z94/v/11/pv/1/ev/16/flavorId/1_tqh98gbe/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_huv7ttar/v/11/pv/1/ev/16/flavorId/1_yswli3ob/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_s29zjji8/v/11/pv/1/ev/16/flavorId/1_3bu217ml/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5ivylu2b/v/11/pv/1/ev/16/flavorId/1_7e8vxj38/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_q07dh048/v/11/pv/1/ev/16/flavorId/1_1wc5hveh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_34jj5smb/v/11/pv/1/ev/16/flavorId/1_hr7z87ex/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+业落夕阳,#genre#
+业落夕阳 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4b46trnd/v/11/pv/1/ev/16/flavorId/1_tpg1oed4/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_606qje80/v/11/pv/1/ev/16/flavorId/1_iycsl8fu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vl4mluit/v/11/pv/1/ev/16/flavorId/1_vrxznfhn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9f2qmvtp/v/21/pv/1/ev/23/flavorId/1_ppz5ub68/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_6s37xy6w/v/11/pv/1/ev/16/flavorId/1_2lahfjp0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_42k80fhm/v/11/pv/1/ev/16/flavorId/1_anrk4xt9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5cpqe0wh/v/11/pv/1/ev/16/flavorId/1_dlflcyp5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m4wduosb/v/11/pv/1/ev/16/flavorId/1_7zvumz35/name/a.mp4/index.m3u8/index-v1-a1.m3u8
 
 
-列车人生,#genre#
-列车人生 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8kmve6jn/v/1/pv/1/ev/9/flavorId/1_sz19uap3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qqcvoc93/v/1/pv/1/ev/9/flavorId/1_60virnjh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_iqxkhjz9/v/1/pv/1/ev/9/flavorId/1_vnvfvcs6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ssc19amy/v/1/pv/1/ev/8/flavorId/1_2iw1okpq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ivumloco/v/1/pv/1/ev/9/flavorId/1_apvk8ucz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rwqpsb0q/v/1/pv/1/ev/9/flavorId/1_83urkav9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
-第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dt67joya/v/11/pv/1/ev/16/flavorId/1_hwqa8ooc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+LOVE 972 皇上的最爱,#genre#
+LOVE 972 皇上的最爱 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_r9yxuow3/v/1/pv/1/ev/9/flavorId/1_ys86keyp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_di2w0k7u/v/1/pv/1/ev/9/flavorId/1_xf668172/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_0rn0jq5h/v/1/pv/1/ev/9/flavorId/1_txfrvanz/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jadynhw6/v/1/pv/1/ev/9/flavorId/1_3c75smj1/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+DNA,#genre#
+DNA 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8ab8u0s8/v/1/pv/1/ev/9/flavorId/1_zar8peuv/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m5t10iiv/v/1/pv/1/ev/9/flavorId/1_smktqkli/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7mya6iie/v/1/pv/1/ev/9/flavorId/1_94ubz2r8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fviurk7i/v/1/pv/1/ev/9/flavorId/1_v4lq2u5n/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+Aunty lee's,#genre#
+Aunty lee's 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fyovt4cx/v/11/pv/1/ev/16/flavorId/1_fx5i8048/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dfpl3j3p/v/11/pv/1/ev/16/flavorId/1_dp7bocfh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_dn5zbv6i/v/11/pv/1/ev/16/flavorId/1_enfdg5np/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_p9qaj411/v/11/pv/1/ev/16/flavorId/1_ye25ljfh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8xszobsw/v/11/pv/1/ev/16/flavorId/1_8y0sz3cb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3mcvolv3/v/11/pv/1/ev/16/flavorId/1_2xrybj9k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_t4e5aeja/v/11/pv/1/ev/16/flavorId/1_7sjhnq8a/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_t4e5aeja/v/11/pv/1/ev/16/flavorId/1_7sjhnq8a/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qzhw5xwq/v/11/pv/1/ev/16/flavorId/1_92gw1rva/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ci0ca0iy/v/11/pv/1/ev/16/flavorId/1_uxgezrwu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7hvzplmk/v/11/pv/1/ev/16/flavorId/1_g7lfuh2c/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_s0shqy31/v/11/pv/1/ev/16/flavorId/1_hizf4v2t/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wgkk1ecv/v/11/pv/1/ev/15/flavorId/1_mb8wo534/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7mprhftm/v/11/pv/1/ev/16/flavorId/1_a3r24gn9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7mprhftm/v/11/pv/1/ev/16/flavorId/1_a3r24gn9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bjo0n241/v/11/pv/1/ev/16/flavorId/1_dv7rz8mq/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ynof3edm/v/11/pv/1/ev/16/flavorId/1_e551pom3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_w7wqj7cp/v/11/pv/1/ev/16/flavorId/1_vwi172xb/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_okfx7veu/v/11/pv/1/ev/16/flavorId/1_tclqkan0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_l91ymtvw/v/11/pv/1/ev/16/flavorId/1_000a9dye/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第21集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vc9jb8or/v/11/pv/1/ev/16/flavorId/1_9a6trmsc/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第22集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_utoobd5o/v/11/pv/1/ev/16/flavorId/1_ynnw973i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第23集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vc4dahbp/v/11/pv/1/ev/16/flavorId/1_njhq6po0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第24集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_v2ak4wh5/v/1/pv/1/ev/16/flavorId/1_pf5t5w0o/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第25集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_50ldoi37/v/11/pv/1/ev/16/flavorId/1_eav1mlk6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第26集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7a7z9gny/v/11/pv/1/ev/16/flavorId/1_iwh0ufno/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第27集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_s770yzao/v/11/pv/1/ev/16/flavorId/1_jmj5oxy3/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第28集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_yv23fp9e/v/11/pv/1/ev/16/flavorId/1_fz2t3plg/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第29集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ezdxji4i/v/11/pv/1/ev/16/flavorId/1_x1u7hic6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第30集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8woirktc/v/11/pv/1/ev/16/flavorId/1_4hmhxzgx/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第31集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_g4djcvhi/v/11/pv/1/ev/16/flavorId/1_j8fmfhwg/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第32集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_e8lx2k8r/v/11/pv/1/ev/16/flavorId/1_4j5j9np8/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第33集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_g3l4fhyj/v/11/pv/1/ev/16/flavorId/1_r94qkffl/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第34集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nlu33qwu/v/11/pv/1/ev/16/flavorId/1_vxsvixk9/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第35集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_head1r9q/v/11/pv/1/ev/16/flavorId/1_5jponwrl/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第36集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_b7og78l3/v/11/pv/1/ev/16/flavorId/1_6ipmo7ff/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第37集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_osy8mjtq/v/11/pv/1/ev/16/flavorId/1_uqw7rivi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第38集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kludyckw/v/11/pv/1/ev/16/flavorId/1_46p870pe/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第39集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_p8qn2o8c/v/11/pv/1/ev/16/flavorId/1_90i87bwy/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第40集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_y63cv8c8/v/11/pv/1/ev/15/flavorId/1_yqvmxr29/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第41集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_lga0v4jm/v/11/pv/1/ev/16/flavorId/1_vochkt0i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第42集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ywh95tvt/v/11/pv/1/ev/16/flavorId/1_j69j2tt7/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第43集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_o3157naf/v/11/pv/1/ev/16/flavorId/1_9kpvm3mm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第44集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_7htqz5mi/v/11/pv/1/ev/16/flavorId/1_f3rbqj8k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第45集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_50i8zzqw/v/11/pv/1/ev/16/flavorId/1_s27dtomn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第46集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kake11mr/v/11/pv/1/ev/16/flavorId/1_rsirxn3b/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第47集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_z5cxaghn/v/11/pv/1/ev/16/flavorId/1_5nzsanvd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第48集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m7n0nnz2/v/11/pv/1/ev/16/flavorId/1_osx95b7c/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第49集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_vkyrtbgi/v/11/pv/1/ev/16/flavorId/1_58vo0416/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+一路惊魂,#genre#
+一路惊魂 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_u2g0ojvu/v/21/pv/1/ev/23/flavorId/1_f5vh4zan/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_kzvy2ht1/v/11/pv/1/ev/16/flavorId/1_uoomjdz2/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ki0jspe7/v/21/pv/1/ev/23/flavorId/1_cfd9i5a6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9h6s0p69/v/11/pv/1/ev/16/flavorId/1_mghsmxli/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_9kk7vg4u/v/11/pv/1/ev/16/flavorId/1_tr481skn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1h1nuujx/v/11/pv/1/ev/16/flavorId/1_yyyssvwa/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ad4cvbdk/v/11/pv/1/ev/16/flavorId/1_ou4ttbvd/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_c0tzwz0u/v/11/pv/1/ev/16/flavorId/1_qw15viwp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_07qrzotr/v/11/pv/1/ev/16/flavorId/1_2z3juuxr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_v50x6e3s/v/11/pv/1/ev/16/flavorId/1_q59pn7ly/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ajr120n8/v/11/pv/1/ev/16/flavorId/1_96l3qk92/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5fvcc9jv/v/11/pv/1/ev/16/flavorId/1_wqf6c3g0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_41slhyu9/v/11/pv/1/ev/16/flavorId/1_1owna8lg/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_4zo9xzi0/v/11/pv/1/ev/16/flavorId/1_a2foi1vj/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_gya5xo09/v/11/pv/1/ev/16/flavorId/1_dp1vmj53/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ttrpju0s/v/11/pv/1/ev/16/flavorId/1_rixmob3s/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_cr3ws6m0/v/11/pv/1/ev/16/flavorId/1_67g1syer/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_faynyy25/v/11/pv/1/ev/15/flavorId/1_yp6ne7fk/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_j8aldjio/v/11/pv/1/ev/16/flavorId/1_dqqgnfbf/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_3rdt06m8/v/11/pv/1/ev/16/flavorId/1_1v6h6q1n/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+巅峰之战,#genre#
+巅峰之战 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_gkld58e6/v/1/pv/1/ev/9/flavorId/1_3ghfkosn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5jysj094/v/11/pv/1/ev/16/flavorId/1_4s352z7u/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_squogk8q/v/1/pv/1/ev/9/flavorId/1_q1403kvn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_yoyret5e/v/1/pv/1/ev/9/flavorId/1_pleppzn6/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8my7mb2h/v/1/pv/1/ev/9/flavorId/1_iay4098b/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_hvouww9h/v/1/pv/1/ev/9/flavorId/1_f8qw1u7u/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_rg47i6c2/v/1/pv/1/ev/9/flavorId/1_h0fnd769/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_jzfnyazj/v/1/pv/1/ev/9/flavorId/1_c797cxfo/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+
+异生活忆时光,#genre#
+异生活忆时光 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_k8gr3jju/v/1/pv/1/ev/9/flavorId/1_94kxlm03/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_chmi715m/v/1/pv/1/ev/9/flavorId/1_onm45s4k/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_m1mm9s8x/v/1/pv/1/ev/9/flavorId/1_0j029hif/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_xtax23tc/v/1/pv/1/ev/9/flavorId/1_tbc4rk95/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_nzm8qva7/v/1/pv/1/ev/8/flavorId/1_n075t3sn/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_uw75enl7/v/1/pv/1/ev/9/flavorId/1_5frko7lp/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_g5trj611/v/1/pv/1/ev/9/flavorId/1_tkkq98jr/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_sp5i6s1m/v/1/pv/1/ev/9/flavorId/1_wwb4ee70/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_tqe6jfy2/v/1/pv/1/ev/9/flavorId/1_q6jj9zb0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_p3c5gh7c/v/1/pv/1/ev/9/flavorId/1_mj0dt7hw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_p3c5gh7c/v/1/pv/1/ev/9/flavorId/1_mj0dt7hw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+
+迷茫又无惧的我们,#genre#
+迷茫又无惧的我们 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_iujqb28h/v/11/pv/1/ev/16/flavorId/1_0wzq7en0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_fwr0g9ty/v/11/pv/1/ev/16/flavorId/1_v5avc2k0/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_oymv9g5u/v/21/pv/1/ev/23/flavorId/1_nfkv7jeg/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qtq5vldl/v/11/pv/1/ev/16/flavorId/1_3y3z4z91/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_qtq5vldl/v/11/pv/1/ev/16/flavorId/1_3y3z4z91/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_87a76wtb/v/11/pv/1/ev/16/flavorId/1_g38rrkqo/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第7集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2s8cmeub/v/11/pv/1/ev/16/flavorId/1_03s32hgh/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第8集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ub4ruj7q/v/11/pv/1/ev/16/flavorId/1_pfic1fsi/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第9集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_5nw4krli/v/11/pv/1/ev/16/flavorId/1_p2eiw6zo/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第10集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ni4270ut/v/11/pv/1/ev/16/flavorId/1_tairbyug/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第11集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bjz5c6rl/v/11/pv/1/ev/16/flavorId/1_9262qqpu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第12集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_udohjlf4/v/11/pv/1/ev/16/flavorId/1_wzg5fb06/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第13集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_wqqw6vvs/v/11/pv/1/ev/16/flavorId/1_eq5ay7yj/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第14集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_e8z39mxc/v/11/pv/1/ev/16/flavorId/1_s231y92i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第15集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_e8z39mxc/v/11/pv/1/ev/16/flavorId/1_s231y92i/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第16集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1qqz8ngl/v/11/pv/1/ev/16/flavorId/1_ei8t5l4g/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第17集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_1qqz8ngl/v/11/pv/1/ev/16/flavorId/1_ei8t5l4g/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第18集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_bxispot1/v/11/pv/1/ev/16/flavorId/1_zo7fbqua/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第19集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_2s82pur1/v/11/pv/1/ev/16/flavorId/1_ywy0p1xu/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第20集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_obmp6g8q/v/11/pv/1/ev/16/flavorId/1_qupmynm5/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
+Double Yummy,#genre#
+Double Yummy 第1集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8gt5xrz5/v/1/pv/1/ev/9/flavorId/1_eug0c44e/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第2集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_id9rlqur/v/1/pv/1/ev/9/flavorId/1_qm13i4ca/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第3集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_u2wa8mow/v/1/pv/1/ev/9/flavorId/1_tibabupm/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第4集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ane5sih3/v/1/pv/1/ev/9/flavorId/1_wvou24sw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第5集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_ane5sih3/v/1/pv/1/ev/9/flavorId/1_wvou24sw/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+第6集,https://k-toggle.akamaized.net/fhls/p/2082311/sp/208231100/serveFlavor/entryId/1_8yxgh7ne/v/1/pv/1/ev/9/flavorId/1_x2ak3e6q/name/a.mp4/index.m3u8/index-v1-a1.m3u8
+
 
 
 
