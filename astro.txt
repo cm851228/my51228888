@@ -5,12 +5,19 @@ refresh="3600"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="148.astro" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=400" group-title="MYASTRO",八度空间
+#EXTINF:-1 tvg-id="148.astro" tvg-logo="https://headend-api.tonton.com.my/v400/imageHelper.php?id=6420325:378:CHANNEL:IMAGE:png&w=400" group-title="MYASTRO",八度空间 SD
 #KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
 https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_primary.mpd
 
 
-#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MYASTRO"  tvg-logo="https://get.perfecttv.net/logo/8tv.png",8度空间
+
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="" group-title="MYASTRO" group-logo="tvg-logo="https://get.perfecttv.net/logo/8tv.png",八度空间 LD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=da1cb24f55db4ae1b32319c365920539:721af66b9c3e8c4166b8b4586d1fbefd
+http://iptv.4666888.xyz/iptv2A.php?id=52
+
+
+#EXTINF:-1 tvg-id="8TV" tvg-name="8TV" group-title="MYASTRO"  tvg-logo="https://get.perfecttv.net/logo/8tv.png",八度空间 HD
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
