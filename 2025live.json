@@ -27,6 +27,15 @@
             "playerType": 2
         },
 {
+            "name": "马来直播",
+            "type": 0,
+            "url": "https://live.catvod.com/?tk=691aed6eddc2e361474044878e71f344",
+            "ua": "okhttp",
+            "playerType": 2,
+            "timeout": 30
+        
+        },
+{
             "name": "123TV",
             "url": "http://tv.anbox.ip-ddns.com/live7",
             "ua": "okhttp",
